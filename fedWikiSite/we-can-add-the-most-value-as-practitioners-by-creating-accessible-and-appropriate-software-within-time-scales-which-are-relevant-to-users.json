@@ -1,0 +1,55 @@
+{
+  "title": "We can add the most value as practitioners by creating accessible and appropriate software within time scales which are relevant to users",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fa4003e96eb3ee46",
+      "text": "The software we produce should always take accessibility into account."
+    },
+    {
+      "type": "paragraph",
+      "id": "8591699040523d17",
+      "text": "We should strive to produce software which is at least minimally usable on a reasonable time scale. It should not take decades, like Hurd. Technology moves quickly and if it takes too long to create a first release then what you're releasing may no longer be relevant."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We can add the most value as practitioners by creating accessible and appropriate software within time scales which are relevant to users",
+        "story": []
+      },
+      "date": 1527499215994
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa4003e96eb3ee46"
+      },
+      "id": "fa4003e96eb3ee46",
+      "type": "add",
+      "date": 1527499217910
+    },
+    {
+      "type": "edit",
+      "id": "fa4003e96eb3ee46",
+      "item": {
+        "type": "paragraph",
+        "id": "fa4003e96eb3ee46",
+        "text": "The software we produce should always take accessibility into account."
+      },
+      "date": 1527499254582
+    },
+    {
+      "type": "add",
+      "id": "8591699040523d17",
+      "item": {
+        "type": "paragraph",
+        "id": "8591699040523d17",
+        "text": "We should strive to produce software which is at least minimally usable on a reasonable time scale. It should not take decades, like Hurd. Technology moves quickly and if it takes too long to create a first release then what you're releasing may no longer be relevant."
+      },
+      "after": "fa4003e96eb3ee46",
+      "date": 1527499384485
+    }
+  ]
+}
