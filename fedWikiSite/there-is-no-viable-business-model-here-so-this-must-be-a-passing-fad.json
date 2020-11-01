@@ -1,0 +1,168 @@
+{
+  "title": "There is no viable business model here, so this must be a passing fad",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "03f49b15a9ba0067",
+      "text": "In the world of gigantic centralized systems business models and their viability are a prime concern, but in the fediverse business models don't matter."
+    },
+    {
+      "type": "paragraph",
+      "id": "09a47e2e795ddcd8",
+      "text": "This profound absence of capitalism can be jarring for people who have only dwelled within capitalistic online systems, where everything must produce profit."
+    },
+    {
+      "type": "paragraph",
+      "id": "07725bb13c68299f",
+      "text": "The only thing which matters is that instance servers keep running, and the cost of running an instance is usually not high. You can even self-host your own single user instance."
+    },
+    {
+      "type": "paragraph",
+      "id": "657ed2a30da4d74d",
+      "text": "So it's nearly always possible for instance admins to fund a server from their usual income, without needing advertizing or any other kind of business model."
+    },
+    {
+      "type": "paragraph",
+      "id": "404e0de46eee855f",
+      "text": "Some admins fund their server costs via crowdfunding systems, such as Patreon."
+    },
+    {
+      "type": "paragraph",
+      "id": "a4adcefbba929a16",
+      "text": "The fediverse is actually old. It has existed in one form or another for the last ten years, although has only started to gain popularity after 2016. So it's probably not going away any time soon."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "There is no viable business model here, so this must be a passing fad",
+        "story": []
+      },
+      "date": 1516998269651
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03f49b15a9ba0067"
+      },
+      "id": "03f49b15a9ba0067",
+      "type": "add",
+      "date": 1516998271832
+    },
+    {
+      "type": "edit",
+      "id": "03f49b15a9ba0067",
+      "item": {
+        "type": "paragraph",
+        "id": "03f49b15a9ba0067",
+        "text": "In the world of gigantic centralized systems business models and their viability are a prime concern, but in the fediverse business models don't matter."
+      },
+      "date": 1516998318730
+    },
+    {
+      "type": "add",
+      "id": "09a47e2e795ddcd8",
+      "item": {
+        "type": "paragraph",
+        "id": "09a47e2e795ddcd8",
+        "text": "This profound lack of capitalism can be jarring for people who have only dwelled within capitalistic online systems."
+      },
+      "after": "03f49b15a9ba0067",
+      "date": 1516998368693
+    },
+    {
+      "type": "add",
+      "id": "07725bb13c68299f",
+      "item": {
+        "type": "paragraph",
+        "id": "07725bb13c68299f",
+        "text": "The only thing which matters is that instance servers keep running, and the cost of running an instance is usually not high. You can even self-host your own single user instance."
+      },
+      "after": "09a47e2e795ddcd8",
+      "date": 1516998439797
+    },
+    {
+      "type": "add",
+      "id": "657ed2a30da4d74d",
+      "item": {
+        "type": "paragraph",
+        "id": "657ed2a30da4d74d",
+        "text": "So it's nearly always possible for instance admins to fund a server from their usual income, without needing advertizing or any other kind of business model."
+      },
+      "after": "07725bb13c68299f",
+      "date": 1516998518463
+    },
+    {
+      "type": "add",
+      "id": "404e0de46eee855f",
+      "item": {
+        "type": "paragraph",
+        "id": "404e0de46eee855f",
+        "text": "Some admins fund their server costs via crowdfunding systems, such as Patreon."
+      },
+      "after": "657ed2a30da4d74d",
+      "date": 1516998550063
+    },
+    {
+      "type": "edit",
+      "id": "09a47e2e795ddcd8",
+      "item": {
+        "type": "paragraph",
+        "id": "09a47e2e795ddcd8",
+        "text": "This profound absence of capitalism can be jarring for people who have only dwelled within capitalistic online systems."
+      },
+      "date": 1516998580910
+    },
+    {
+      "type": "edit",
+      "id": "09a47e2e795ddcd8",
+      "item": {
+        "type": "paragraph",
+        "id": "09a47e2e795ddcd8",
+        "text": "This profound absence of capitalism can be jarring for people who have only dwelled within capitalistic online systems, where everything must produce profit."
+      },
+      "date": 1516998630112
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4adcefbba929a16"
+      },
+      "id": "a4adcefbba929a16",
+      "type": "add",
+      "after": "404e0de46eee855f",
+      "date": 1517002046958
+    },
+    {
+      "type": "edit",
+      "id": "a4adcefbba929a16",
+      "item": {
+        "type": "paragraph",
+        "id": "a4adcefbba929a16",
+        "text": "The fediverse is actually old. It has existed in one form or another for the last ten years, although has only started to gain popularity within the previous couple of years."
+      },
+      "date": 1517002098886
+    },
+    {
+      "type": "edit",
+      "id": "a4adcefbba929a16",
+      "item": {
+        "type": "paragraph",
+        "id": "a4adcefbba929a16",
+        "text": "The fediverse is actually old. It has existed in one form or another for the last ten years, although has only started to gain popularity within the previous couple of years. So it's probably not going away any time soon."
+      },
+      "date": 1517002137630
+    },
+    {
+      "type": "edit",
+      "id": "a4adcefbba929a16",
+      "item": {
+        "type": "paragraph",
+        "id": "a4adcefbba929a16",
+        "text": "The fediverse is actually old. It has existed in one form or another for the last ten years, although has only started to gain popularity after 2016. So it's probably not going away any time soon."
+      },
+      "date": 1528367080184
+    }
+  ]
+}
