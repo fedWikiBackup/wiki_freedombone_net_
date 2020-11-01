@@ -1,0 +1,90 @@
+{
+  "title": "Why are there no adverts?",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dedf0a9dffaf6dc3",
+      "text": "In principle there's nothing stopping anyone from advertising in the fediverse, but ads tend not to be favored and because this is not a centralized system the potential viewership of any advert is likely to be quite limited."
+    },
+    {
+      "type": "paragraph",
+      "id": "d6a64cb4a1822735",
+      "text": "It may also be hard for advertisers to target people in the same way that they do via the centralized systems."
+    },
+    {
+      "type": "paragraph",
+      "id": "8887abab2152233c",
+      "text": "You might see people calling for support for campaigns or crowdfunding, but so far any formal or generic advertising is exceptionally rare."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Why are there no adverts?",
+        "story": []
+      },
+      "date": 1517001595404
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dedf0a9dffaf6dc3"
+      },
+      "id": "dedf0a9dffaf6dc3",
+      "type": "add",
+      "date": 1517001596965
+    },
+    {
+      "type": "edit",
+      "id": "dedf0a9dffaf6dc3",
+      "item": {
+        "type": "paragraph",
+        "id": "dedf0a9dffaf6dc3",
+        "text": "In principle there's nothing stopping anyone from advertising in the fediverse, but ads tend not to be favored and because this is not a centralized system the potential viewership of any advert is likely to be quite limited."
+      },
+      "date": 1517001708067
+    },
+    {
+      "type": "add",
+      "id": "8887abab2152233c",
+      "item": {
+        "type": "paragraph",
+        "id": "8887abab2152233c",
+        "text": "You might see people calling for support for campaigns or crowdfunding, but so far any formal or generic advertising is exceptionally rare."
+      },
+      "after": "dedf0a9dffaf6dc3",
+      "date": 1517001775378
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6a64cb4a1822735"
+      },
+      "id": "d6a64cb4a1822735",
+      "type": "add",
+      "after": "8887abab2152233c",
+      "date": 1517001818132
+    },
+    {
+      "type": "edit",
+      "id": "d6a64cb4a1822735",
+      "item": {
+        "type": "paragraph",
+        "id": "d6a64cb4a1822735",
+        "text": "It may also be hard for advertisers to target people in the same way that they do via the centralized systems."
+      },
+      "date": 1517001852600
+    },
+    {
+      "type": "move",
+      "order": [
+        "dedf0a9dffaf6dc3",
+        "d6a64cb4a1822735",
+        "8887abab2152233c"
+      ],
+      "id": "d6a64cb4a1822735",
+      "date": 1517001855811
+    }
+  ]
+}
