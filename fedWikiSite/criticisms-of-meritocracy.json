@@ -1,0 +1,289 @@
+{
+  "title": "Criticisms of Meritocracy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6a85403911ddcfc9",
+      "text": "The CEOs of tech companies always give a speech to employees in which they announce some version of \"This company is a meritocracy!\". It's a predictable trope, but what actually is merit? Can you count it as lines of code, or \"impact\"?"
+    },
+    {
+      "type": "paragraph",
+      "id": "04cc55629748d3f9",
+      "text": "Often in the corporate scenario the term \"merit\" is used to mean whoever the boss personally favors. Who they go golfing or drinking or hiking with. Who tells them what they want to hear, or who attended the same private school or university."
+    },
+    {
+      "type": "paragraph",
+      "id": "6cce9c79d459e883",
+      "text": "The meritorious company employee is typically not a good coder and does absolutely nothing for the FOSS community but is good at sucking up to the boss and flattering their ego. They're also good at appearing to be busy."
+    },
+    {
+      "type": "paragraph",
+      "id": "226979325c901488",
+      "text": "Is there any merit in software creation?"
+    },
+    {
+      "type": "paragraph",
+      "id": "1b85372dd771b480",
+      "text": "Judging the merit of anyone is really hard and many judgements can only be made retrospecively years after the events. It's like the price calculation problem in economics. It is possible to say that some software was influenced by some developer and that the software had some positive impact on a user community, but these are usually qualitative and very subjective judgements. Not the sort of thing that a CEO can plot on a graph."
+    },
+    {
+      "type": "paragraph",
+      "id": "ebc8617e9a6376eb",
+      "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later. What is valuable to one community may not be to another. Accurately knowing what other people find valuable is also hard to judge. Often they don't even know themselves."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Criticisms of Meritocracy",
+        "story": []
+      },
+      "date": 1527503941281
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a85403911ddcfc9"
+      },
+      "id": "6a85403911ddcfc9",
+      "type": "add",
+      "date": 1527503948316
+    },
+    {
+      "type": "edit",
+      "id": "6a85403911ddcfc9",
+      "item": {
+        "type": "paragraph",
+        "id": "6a85403911ddcfc9",
+        "text": "The CEOs of companies always give a speech to employees in which they announce some version of \"This company is a meritocracy!\". It's a predictable trope, but what actually is merit? Can you count it as lines of code, or \"impact\"?"
+      },
+      "date": 1527504057206
+    },
+    {
+      "type": "add",
+      "id": "04cc55629748d3f9",
+      "item": {
+        "type": "paragraph",
+        "id": "04cc55629748d3f9",
+        "text": "Often in the corporate scenario merit is used to mean whoever the boss personally favors. Who they go golfing or drinking with."
+      },
+      "after": "6a85403911ddcfc9",
+      "date": 1527504093369
+    },
+    {
+      "type": "edit",
+      "id": "04cc55629748d3f9",
+      "item": {
+        "type": "paragraph",
+        "id": "04cc55629748d3f9",
+        "text": "Often in the corporate scenario merit is used to mean whoever the boss personally favors. Who they go golfing or drinking with. Who tells them what they want to hear, or attended the same private school."
+      },
+      "date": 1527504122330
+    },
+    {
+      "type": "edit",
+      "id": "04cc55629748d3f9",
+      "item": {
+        "type": "paragraph",
+        "id": "04cc55629748d3f9",
+        "text": "Often in the corporate scenario merit is used to mean whoever the boss personally favors. Who they go golfing or drinking with. Who tells them what they want to hear, or attended the same private school or university."
+      },
+      "date": 1527504128642
+    },
+    {
+      "type": "add",
+      "id": "6cce9c79d459e883",
+      "item": {
+        "type": "paragraph",
+        "id": "6cce9c79d459e883",
+        "text": "The meritorious company employee is typically not a good coder and does nothing for the FOSS community but is good at sucking up to the boss."
+      },
+      "after": "04cc55629748d3f9",
+      "date": 1527504196979
+    },
+    {
+      "type": "edit",
+      "id": "6cce9c79d459e883",
+      "item": {
+        "type": "paragraph",
+        "id": "6cce9c79d459e883",
+        "text": "The meritorious company employee is typically not a good coder and does nothing for the FOSS community but is good at sucking up to the boss and flattering their ego."
+      },
+      "date": 1527504217822
+    },
+    {
+      "type": "edit",
+      "id": "6cce9c79d459e883",
+      "item": {
+        "type": "paragraph",
+        "id": "6cce9c79d459e883",
+        "text": "The meritorious company employee is typically not a good coder and does absolutely nothing for the FOSS community but is good at sucking up to the boss and flattering their ego."
+      },
+      "date": 1527504244859
+    },
+    {
+      "type": "edit",
+      "id": "6a85403911ddcfc9",
+      "item": {
+        "type": "paragraph",
+        "id": "6a85403911ddcfc9",
+        "text": "The CEOs of tech companies always give a speech to employees in which they announce some version of \"This company is a meritocracy!\". It's a predictable trope, but what actually is merit? Can you count it as lines of code, or \"impact\"?"
+      },
+      "date": 1527504268027
+    },
+    {
+      "type": "edit",
+      "id": "04cc55629748d3f9",
+      "item": {
+        "type": "paragraph",
+        "id": "04cc55629748d3f9",
+        "text": "Often in the corporate scenario the term \"merit\" is used to mean whoever the boss personally favors. Who they go golfing or drinking with. Who tells them what they want to hear, or attended the same private school or university."
+      },
+      "date": 1527504298626
+    },
+    {
+      "type": "edit",
+      "id": "04cc55629748d3f9",
+      "item": {
+        "type": "paragraph",
+        "id": "04cc55629748d3f9",
+        "text": "Often in the corporate scenario the term \"merit\" is used to mean whoever the boss personally favors. Who they go golfing or drinking or hiking with. Who tells them what they want to hear, or attended the same private school or university."
+      },
+      "date": 1527504323005
+    },
+    {
+      "type": "edit",
+      "id": "04cc55629748d3f9",
+      "item": {
+        "type": "paragraph",
+        "id": "04cc55629748d3f9",
+        "text": "Often in the corporate scenario the term \"merit\" is used to mean whoever the boss personally favors. Who they go golfing or drinking or hiking with. Who tells them what they want to hear, or who attended the same private school or university."
+      },
+      "date": 1527504341952
+    },
+    {
+      "type": "edit",
+      "id": "6cce9c79d459e883",
+      "item": {
+        "type": "paragraph",
+        "id": "6cce9c79d459e883",
+        "text": "The meritorious company employee is typically not a good coder and does absolutely nothing for the FOSS community but is good at sucking up to the boss and flattering their ego. They're also good at appearing to be busy."
+      },
+      "date": 1527504526486
+    },
+    {
+      "type": "add",
+      "id": "226979325c901488",
+      "item": {
+        "type": "paragraph",
+        "id": "226979325c901488",
+        "text": "Is there any merit in software creation?"
+      },
+      "after": "6cce9c79d459e883",
+      "date": 1527505627245
+    },
+    {
+      "type": "add",
+      "id": "1b85372dd771b480",
+      "item": {
+        "type": "paragraph",
+        "id": "1b85372dd771b480",
+        "text": "Judging the merit of anyone is really hard and many judgements can only be made retrospecively years after the events. It is possible to say that some software was influenced by some developer and that the software had some positive impact on a user community, but these are usually qualitative and very subjective judgements. Not the sort of thing that a CEO can plot on a graph."
+      },
+      "after": "226979325c901488",
+      "date": 1527505840935
+    },
+    {
+      "type": "add",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial. What is considered valuable is very context dependent."
+      },
+      "after": "1b85372dd771b480",
+      "date": 1527505935413
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial. What is considered valuable is very context dependent. Sometimes what appears valuable now is worthless later."
+      },
+      "date": 1527505982357
+    },
+    {
+      "type": "edit",
+      "id": "1b85372dd771b480",
+      "item": {
+        "type": "paragraph",
+        "id": "1b85372dd771b480",
+        "text": "Judging the merit of anyone is really hard and many judgements can only be made retrospecively years after the events. It's like the price calculation problem in economics. It is possible to say that some software was influenced by some developer and that the software had some positive impact on a user community, but these are usually qualitative and very subjective judgements. Not the sort of thing that a CEO can plot on a graph."
+      },
+      "date": 1527506019388
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later."
+      },
+      "date": 1527506254601
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later. What is valuable to one community may not be to another. Accuratly knowling what other people find valuable is also hard to judge."
+      },
+      "date": 1527506295090
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later. What is valuable to one community may not be to another. Accurately knowling what other people find valuable is also hard to judge."
+      },
+      "date": 1527506306489
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later. What is valuable to one community may not be to another. Accurately know"
+      },
+      "date": 1527506311935
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later. What is valuable to one community may not be to another. Accurately knowing what other people find valuable is also hard to judge."
+      },
+      "date": 1527506322242
+    },
+    {
+      "type": "edit",
+      "id": "ebc8617e9a6376eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc8617e9a6376eb",
+        "text": "Merit is really about the creation of value, but value itself is etherial and constantly shifting. Sometimes what appears valuable now is worthless later. What is valuable to one community may not be to another. Accurately knowing what other people find valuable is also hard to judge. Often they don't even know themselves."
+      },
+      "date": 1527518707192
+    }
+  ]
+}
