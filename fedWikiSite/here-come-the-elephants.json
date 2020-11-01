@@ -1,0 +1,1346 @@
+{
+  "title": "here-come-the-elephants",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "439bd8b87e7bc948",
+      "text": "Mastodon started gaining popularity towards the end of 2016. At that time it was based around a single instance called mastodon.social."
+    },
+    {
+      "type": "html",
+      "id": "c77e683ef10ecd5e",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/d63aa30b4bcd151c0c73621ac1f64cbc.png\" width=\"400\"/>"
+    },
+    {
+      "type": "paragraph",
+      "id": "53c3dc408c53d4f4",
+      "text": "It was initially viewed skeptically by the users of GNU Social instances, as being a cult based around the personality of its young developer, Eugen Rochko."
+    },
+    {
+      "type": "paragraph",
+      "id": "b1bcfc44ecbcc499",
+      "text": "This system was promoted as being like Twitter, but with a zero tolerance policy towards far right or alt-right agitators. The \"lack of nazis\" was enough of a motivator to get some users to move over from Twitter."
+    },
+    {
+      "type": "paragraph",
+      "id": "6a662cc5d0472549",
+      "text": "Mastodon introduced a new concept to the fediverse - the content warning. Content warnings could also be considered as ultra brief content summaries, allowing the user to rapidly skip over posts which were probably not of interest."
+    },
+    {
+      "type": "paragraph",
+      "id": "6a3d194c96d05297",
+      "text": "What content warnings (or one line summaries) allowed users to do was to follow numbers of other users above the Dunbar limit and without necessarily having a high degree of affinity with them, while also avoiding the cognitive overload which would otherwise result. In effect, content warnings were an alternative to the algorithmic timeline, producing the same compressing effect without the down sides of censorship and shadowbans."
+    },
+    {
+      "type": "paragraph",
+      "id": "4a1fe9510275c8de",
+      "text": "People on Twitter had been requesting user interface changes to improve usability and getting nowhere for years, but were happily surprised that the Mastodon developer was much more responsive to suggestions."
+    },
+    {
+      "type": "paragraph",
+      "id": "c241c4039c56b823",
+      "text": "Mastodon initially set its character limit to 500 - much higher than Twitter's 140 at the time, but typically lower than many GNU Social instances which defaulted to 2000."
+    },
+    {
+      "type": "html",
+      "id": "2852e6b7e7142bed",
+      "text": "<H3>Appearance"
+    },
+    {
+      "type": "paragraph",
+      "id": "c928e1ca6993702a",
+      "text": "A variety of factors contributed to the early popularity of Mastodon, and one of those factors was its similarity to an already familiar Twitter user interface, called Tweetdeck."
+    },
+    {
+      "type": "html",
+      "id": "1fb3d7d63b65ef29",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/8589428791a9c7cf0a6e4c01d9751100.jpg\" width=\"400\"/>"
+    },
+    {
+      "type": "paragraph",
+      "id": "aa3163584b3feff2",
+      "text": "From early on Mastodon seems to have attracted many artists, and as a consequence it tended to have better quality artwork for its logos than other fediverse projects - and Free Software projects in general."
+    },
+    {
+      "type": "html",
+      "id": "d779fe36ae86281e",
+      "text": "<H3>Changing demographics"
+    },
+    {
+      "type": "paragraph",
+      "id": "e7aba358d6d79c5b",
+      "text": "With the rise of Mastodon in 2017 the gender composition of the fediverse noticeably changed from being mostly masculine (maybe 80% at a guess) towards being much more even. Mastodon had broad appeal and brought in new demographics which were not confined to people interested in technology."
+    },
+    {
+      "type": "html",
+      "id": "e370b772c34f68f0",
+      "text": "<H3>The First Million"
+    },
+    {
+      "type": "paragraph",
+      "id": "84a1c7fade6f3990",
+      "text": "At the end of 2017 Mastodon had a million user accounts. However, taking into account that many of those would be dormant, or bots, a more realistic estimate of active users would between 100 and 200 thousand."
+    },
+    {
+      "type": "html",
+      "id": "9f1d0c5c5523a403",
+      "text": "<H3>New Design Features"
+    },
+    {
+      "type": "paragraph",
+      "id": "d60c32171186a744",
+      "text": "Mastodon also introduced new design features which were intended to reduce the potential for harassment. On Mastodon systems you could search on hashtags, but not do arbitrary searches of an instance for arbitrary text."
+    },
+    {
+      "type": "paragraph",
+      "id": "f5f40e74e5a5fa60",
+      "text": "This was an attempt to mitigate lowbrow adversaries who would otherwise search through the system looking for keywords (like maybe \"feminist\") and then dogpile those users with insulting posts."
+    },
+    {
+      "type": "paragraph",
+      "id": "7bfddb62c4efa8c7",
+      "text": "Lowbrow dogpiling attacks of this kind had been common on Twitter for a number of years, so anything which frustrated the most dim-witted adversaries was still useful."
+    },
+    {
+      "type": "paragraph",
+      "id": "710aa3fae3cbd6d0",
+      "text": "Mastodon was the first web application in production to adopt ActivityPub for server-to-server communication, and it was available at the beginning of 2018."
+    },
+    {
+      "type": "html",
+      "id": "1216c3ec8759ffc6",
+      "text": "<H3>ActivityPub Adoption</H3>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f0bb7229940c4bb",
+      "text": "Mastodon adopted the ActivityPub protocol at the beginning of 2018. It only used the server-to-server part of the protocol, and not the server-to-client. The implementation of ActivityPub within Mastodon then became primary reference for other instance software, such as Pleroma. The earlier OStatus protocol continued to be supported."
+    },
+    {
+      "type": "html",
+      "id": "9ed3e0b515f86811",
+      "text": "<H3>The end of Ostatus</H3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "142904185c3f82be",
+      "text": "In May 2019 the Mastodon project maintainer announced plans to deprecate the OStatus protocol, which had been superceded by ActivityPub."
+    },
+    {
+      "type": "html",
+      "id": "2e93dc01d8f11e85",
+      "text": "<blockquote>In 3.0, it is time to remove OStatus from Mastodon. Mastodon has not been designed as a multi-platform system and supporting a legacy platform creates messy and confusing code. Furthermore, the OStatus code has not been receiving the same performance and security improvements, in many parts because the OStatus protocol is inherently less secure in some aspects.</blockquote>"
+    },
+    {
+      "type": "html",
+      "id": "3bc5f4bfbae60df9",
+      "text": "<H3>An invasion of Nazis</H3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "7803c3718efa9a60",
+      "text": "In July 2019 the white supremacist social network gab.com switched from its formerly proprietary codebase over to using a fork of Mastodon. This caused a lot of concern among the existing userbase, who up to that point had been mostly left wing or anarchist. The Mastodon project blog issued a statement."
+    },
+    {
+      "type": "html",
+      "id": "c7baa784ce55c52a",
+      "text": "<blockquote>Mastodon is completely opposed to Gab’s project and philosophy, which seeks to monetize and platform racist content while hiding behind the banner of free speech.</blockquote>"
+    },
+    {
+      "type": "paragraph",
+      "id": "00ebe4e11cefc3c6",
+      "text": "Upon launch gab.com claimed to have added another million users to the fediverse, but upon closer scrutiny these figures had been deliberately inflated via the inclusion of dormant legacy accounts carried over from their previous database. The site also removed the active users count which would otherwise reveal the small size of their actual usebase."
+    },
+    {
+      "type": "paragraph",
+      "id": "18cf3f6e687ca57f",
+      "text": "The appearance of an openly neo-nazi instance accelerated interest in improving the security and moderation capabilities of Mastodon, and the discussion of Object Capabilities or \"authorized fetch\". Many Mastodon instances preemptively blocked gab.com and its affiliated sites even before they had officially launched, such was the revulsion."
+    },
+    {
+      "type": "paragraph",
+      "id": "fdf58e8a91dbb4d6",
+      "text": "There was also the irony of people espousing extreme hatred of minority groups adopting a software system largely created by and for those very same groups. Effectively they were admitting that the proprietary approach had failed and that software built by people they viewed as enemies was technically superior to anything that \"the master race\" could construct themselves."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "here-come-the-elephants",
+        "story": []
+      },
+      "date": 1517067071543
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "439bd8b87e7bc948"
+      },
+      "id": "439bd8b87e7bc948",
+      "type": "add",
+      "date": 1517067076101
+    },
+    {
+      "type": "edit",
+      "id": "439bd8b87e7bc948",
+      "item": {
+        "type": "paragraph",
+        "id": "439bd8b87e7bc948",
+        "text": "Mastodon started gaining popularity towards the end of 2016. At that time it was based around a single instance called mastodon.social."
+      },
+      "date": 1517067170300
+    },
+    {
+      "type": "add",
+      "id": "53c3dc408c53d4f4",
+      "item": {
+        "type": "paragraph",
+        "id": "53c3dc408c53d4f4",
+        "text": "It was initially viewed skeptically by the users of GNU Social instances, as being a cult based around the personality of its young developer."
+      },
+      "after": "439bd8b87e7bc948",
+      "date": 1517067213963
+    },
+    {
+      "type": "add",
+      "id": "b1bcfc44ecbcc499",
+      "item": {
+        "type": "paragraph",
+        "id": "b1bcfc44ecbcc499",
+        "text": "Mastodon was promoted as being a system like Twitter, but with a zero tolerance policy towards far right or alt-right agitators."
+      },
+      "after": "53c3dc408c53d4f4",
+      "date": 1517067335850
+    },
+    {
+      "type": "edit",
+      "id": "b1bcfc44ecbcc499",
+      "item": {
+        "type": "paragraph",
+        "id": "b1bcfc44ecbcc499",
+        "text": "Mastodon was promoted as being a system like Twitter, but with a zero tolerance policy towards far right or alt-right agitators. The \"lack of nazis\" was enough of a motivator to get some users to move over from Twitter."
+      },
+      "date": 1517067474065
+    },
+    {
+      "type": "add",
+      "id": "6a662cc5d0472549",
+      "item": {
+        "type": "paragraph",
+        "id": "6a662cc5d0472549",
+        "text": "Mastodon introduced a new concept to the fediverse - the content warning. Content warnings could also be considered as ultra brief content summaries, allowing the user to skip over posts which were probably not of interest."
+      },
+      "after": "b1bcfc44ecbcc499",
+      "date": 1517067566564
+    },
+    {
+      "type": "edit",
+      "id": "6a662cc5d0472549",
+      "item": {
+        "type": "paragraph",
+        "id": "6a662cc5d0472549",
+        "text": "Mastodon introduced a new concept to the fediverse - the content warning. Content warnings could also be considered as ultra brief content summaries, allowing the user to rapidly skip over posts which were probably not of interest."
+      },
+      "date": 1517067577971
+    },
+    {
+      "type": "add",
+      "id": "4a1fe9510275c8de",
+      "item": {
+        "type": "paragraph",
+        "id": "4a1fe9510275c8de",
+        "text": "People on Twitter had been requesting user interface changes and getting nowhere for years, but were happily surprised that the Mastodon developer was much more responsive to suggestions."
+      },
+      "after": "6a662cc5d0472549",
+      "date": 1517067682269
+    },
+    {
+      "type": "edit",
+      "id": "4a1fe9510275c8de",
+      "item": {
+        "type": "paragraph",
+        "id": "4a1fe9510275c8de",
+        "text": "People on Twitter had been requesting user interface changes to improve usability and getting nowhere for years, but were happily surprised that the Mastodon developer was much more responsive to suggestions."
+      },
+      "date": 1517067702458
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c241c4039c56b823"
+      },
+      "id": "c241c4039c56b823",
+      "type": "add",
+      "after": "4a1fe9510275c8de",
+      "date": 1517067818339
+    },
+    {
+      "type": "edit",
+      "id": "c241c4039c56b823",
+      "item": {
+        "type": "paragraph",
+        "id": "c241c4039c56b823",
+        "text": "Mastodon initially set its character limit to 500 - much higher than Twitter, but typically lower than many GNU Social instances."
+      },
+      "date": 1517067851577
+    },
+    {
+      "type": "edit",
+      "id": "c241c4039c56b823",
+      "item": {
+        "type": "paragraph",
+        "id": "c241c4039c56b823",
+        "text": "Mastodon initially set its character limit to 500 - much higher than Twitter's 140 at the time, but typically lower than many GNU Social instances."
+      },
+      "date": 1517067874377
+    },
+    {
+      "type": "edit",
+      "id": "c241c4039c56b823",
+      "item": {
+        "type": "paragraph",
+        "id": "c241c4039c56b823",
+        "text": "Mastodon initially set its character limit to 500 - much higher than Twitter's 140 at the time, but typically lower than many GNU Social instances which defaulted to 2000."
+      },
+      "date": 1517067902617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa3163584b3feff2"
+      },
+      "id": "aa3163584b3feff2",
+      "type": "add",
+      "after": "c241c4039c56b823",
+      "date": 1517068215513
+    },
+    {
+      "type": "edit",
+      "id": "aa3163584b3feff2",
+      "item": {
+        "type": "paragraph",
+        "id": "aa3163584b3feff2",
+        "text": "From early on Mastodon seems to have attracted many artists, and as a consequence it tended to have better quality artwork for its logos than other fediverse projects - and Free Software projects in general."
+      },
+      "date": 1517068277912
+    },
+    {
+      "type": "edit",
+      "id": "53c3dc408c53d4f4",
+      "item": {
+        "type": "paragraph",
+        "id": "53c3dc408c53d4f4",
+        "text": "It was initially viewed skeptically by the users of GNU Social instances, as being a cult based around the personality of its young developer, Eugen Rochko."
+      },
+      "date": 1517070200585
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d779fe36ae86281e"
+      },
+      "id": "d779fe36ae86281e",
+      "type": "add",
+      "after": "aa3163584b3feff2",
+      "date": 1517072751570
+    },
+    {
+      "type": "edit",
+      "id": "d779fe36ae86281e",
+      "item": {
+        "type": "html",
+        "id": "d779fe36ae86281e",
+        "text": "<H3>Changing demographics"
+      },
+      "date": 1517072765951
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7aba358d6d79c5b"
+      },
+      "id": "e7aba358d6d79c5b",
+      "type": "add",
+      "after": "d779fe36ae86281e",
+      "date": 1517072767672
+    },
+    {
+      "type": "edit",
+      "id": "e7aba358d6d79c5b",
+      "item": {
+        "type": "paragraph",
+        "id": "e7aba358d6d79c5b",
+        "text": "With the rise of Mastodon the gender composition of the fediverse noticeably changed from being mostly masculine (maybe 80% at a guess) towards being much more even. Mastodon had broad appeal and brought in new demographics which were not confined to people interested in technology."
+      },
+      "date": 1517073091042
+    },
+    {
+      "type": "edit",
+      "id": "b1bcfc44ecbcc499",
+      "item": {
+        "type": "paragraph",
+        "id": "b1bcfc44ecbcc499",
+        "text": "This system was promoted as being a system like Twitter, but with a zero tolerance policy towards far right or alt-right agitators. The \"lack of nazis\" was enough of a motivator to get some users to move over from Twitter."
+      },
+      "date": 1517073191254
+    },
+    {
+      "type": "edit",
+      "id": "b1bcfc44ecbcc499",
+      "item": {
+        "type": "paragraph",
+        "id": "b1bcfc44ecbcc499",
+        "text": "This system was promoted as being like Twitter, but with a zero tolerance policy towards far right or alt-right agitators. The \"lack of nazis\" was enough of a motivator to get some users to move over from Twitter."
+      },
+      "date": 1517073201477
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c928e1ca6993702a"
+      },
+      "id": "c928e1ca6993702a",
+      "type": "add",
+      "after": "e7aba358d6d79c5b",
+      "date": 1517073319573
+    },
+    {
+      "type": "edit",
+      "id": "c928e1ca6993702a",
+      "item": {
+        "type": "paragraph",
+        "id": "c928e1ca6993702a",
+        "text": "A variety of factors contributed to the early popularity of Mastodon, and one of those factors was its similarity to an already familiar Twitter user interface, called Tweetdeck."
+      },
+      "date": 1517073380047
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b"
+      ],
+      "id": "c928e1ca6993702a",
+      "date": 1517073385189
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2852e6b7e7142bed"
+      },
+      "id": "2852e6b7e7142bed",
+      "type": "add",
+      "after": "e7aba358d6d79c5b",
+      "date": 1517073388677
+    },
+    {
+      "type": "edit",
+      "id": "2852e6b7e7142bed",
+      "item": {
+        "type": "html",
+        "id": "2852e6b7e7142bed",
+        "text": "<H3>Appearance"
+      },
+      "date": 1517073404801
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b"
+      ],
+      "id": "2852e6b7e7142bed",
+      "date": 1517073408058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e370b772c34f68f0"
+      },
+      "id": "e370b772c34f68f0",
+      "type": "add",
+      "after": "e7aba358d6d79c5b",
+      "date": 1517073606344
+    },
+    {
+      "type": "edit",
+      "id": "e370b772c34f68f0",
+      "item": {
+        "type": "html",
+        "id": "e370b772c34f68f0",
+        "text": "<H3>The first million"
+      },
+      "date": 1517073620546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84a1c7fade6f3990"
+      },
+      "id": "84a1c7fade6f3990",
+      "type": "add",
+      "after": "e370b772c34f68f0",
+      "date": 1517073622078
+    },
+    {
+      "type": "edit",
+      "id": "84a1c7fade6f3990",
+      "item": {
+        "type": "paragraph",
+        "id": "84a1c7fade6f3990",
+        "text": "At the end of 2017 Mastodon had a million user accounts. However, taking into account that many of those would be dormant, or bots, a more realistic estimate of active users would between 100 and 200 thousand."
+      },
+      "date": 1517073754098
+    },
+    {
+      "type": "edit",
+      "id": "e370b772c34f68f0",
+      "item": {
+        "type": "html",
+        "id": "e370b772c34f68f0",
+        "text": "<H3>The First Million"
+      },
+      "date": 1517073770114
+    },
+    {
+      "type": "edit",
+      "id": "e7aba358d6d79c5b",
+      "item": {
+        "type": "paragraph",
+        "id": "e7aba358d6d79c5b",
+        "text": "With the rise of Mastodon in 2017 the gender composition of the fediverse noticeably changed from being mostly masculine (maybe 80% at a guess) towards being much more even. Mastodon had broad appeal and brought in new demographics which were not confined to people interested in technology."
+      },
+      "date": 1517073855740
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f1d0c5c5523a403"
+      },
+      "id": "9f1d0c5c5523a403",
+      "type": "add",
+      "after": "84a1c7fade6f3990",
+      "date": 1517092325514
+    },
+    {
+      "type": "edit",
+      "id": "9f1d0c5c5523a403",
+      "item": {
+        "type": "html",
+        "id": "9f1d0c5c5523a403",
+        "text": "<H3>New Design Features"
+      },
+      "date": 1517092352134
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d60c32171186a744"
+      },
+      "id": "d60c32171186a744",
+      "type": "add",
+      "after": "9f1d0c5c5523a403",
+      "date": 1517092353528
+    },
+    {
+      "type": "edit",
+      "id": "d60c32171186a744",
+      "item": {
+        "type": "paragraph",
+        "id": "d60c32171186a744",
+        "text": "Mastodon also introduced new design features which were intended to reduce the potential for harassment. On Mastodon systems you could search on hashtags, but not do arbitrary searches of an instance for arbitrary text."
+      },
+      "date": 1517092545109
+    },
+    {
+      "type": "add",
+      "id": "f5f40e74e5a5fa60",
+      "item": {
+        "type": "paragraph",
+        "id": "f5f40e74e5a5fa60",
+        "text": "This was an attempt to mitigate lowbrow adversaries who would otherwise search through the system looking for keywords (like maybe \"feminist\") and then dogpile those users with insulting posts."
+      },
+      "after": "d60c32171186a744",
+      "date": 1517092638395
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bfddb62c4efa8c7"
+      },
+      "id": "7bfddb62c4efa8c7",
+      "type": "add",
+      "after": "f5f40e74e5a5fa60",
+      "date": 1517092730457
+    },
+    {
+      "type": "edit",
+      "id": "7bfddb62c4efa8c7",
+      "item": {
+        "type": "paragraph",
+        "id": "7bfddb62c4efa8c7",
+        "text": "Lowbrow dogpiling attacks of this kind had been common on Twitter for a number of years, so anything which frustrated the most dim-witted adversaries was still useful."
+      },
+      "date": 1517092821276
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c77e683ef10ecd5e"
+      },
+      "id": "c77e683ef10ecd5e",
+      "type": "add",
+      "after": "7bfddb62c4efa8c7",
+      "date": 1517489156306
+    },
+    {
+      "type": "edit",
+      "id": "c77e683ef10ecd5e",
+      "item": {
+        "type": "html",
+        "id": "c77e683ef10ecd5e",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/d63aa30b4bcd151c0c73621ac1f64cbc.png\" width=\"400\"/>"
+      },
+      "date": 1517489170071
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "c77e683ef10ecd5e",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7"
+      ],
+      "id": "c77e683ef10ecd5e",
+      "date": 1517489172528
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "c77e683ef10ecd5e",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7"
+      ],
+      "id": "c77e683ef10ecd5e",
+      "date": 1517489174934
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "c77e683ef10ecd5e",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7"
+      ],
+      "id": "c77e683ef10ecd5e",
+      "date": 1517489177774
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7"
+      ],
+      "id": "c77e683ef10ecd5e",
+      "date": 1517489182901
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1216c3ec8759ffc6"
+      },
+      "id": "1216c3ec8759ffc6",
+      "type": "add",
+      "after": "7bfddb62c4efa8c7",
+      "date": 1522427923150
+    },
+    {
+      "type": "edit",
+      "id": "1216c3ec8759ffc6",
+      "item": {
+        "type": "html",
+        "id": "1216c3ec8759ffc6",
+        "text": "<H3>ActivityPub Adoption"
+      },
+      "date": 1522427945236
+    },
+    {
+      "type": "add",
+      "id": "710aa3fae3cbd6d0",
+      "item": {
+        "type": "paragraph",
+        "id": "710aa3fae3cbd6d0",
+        "text": "Mastodon was the first web application in production to adopt ActivityPub for server-to-server communication, and it was available at the beginning of 2018."
+      },
+      "after": "7bfddb62c4efa8c7",
+      "date": 1522428056336
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1fb3d7d63b65ef29"
+      },
+      "id": "1fb3d7d63b65ef29",
+      "type": "add",
+      "after": "1216c3ec8759ffc6",
+      "date": 1528389698321
+    },
+    {
+      "type": "edit",
+      "id": "1fb3d7d63b65ef29",
+      "item": {
+        "type": "html",
+        "id": "1fb3d7d63b65ef29",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/d63aa30b4bcd151c0c73621ac1f64cbc.png\" width=\"400\"/>"
+      },
+      "date": 1528389703318
+    },
+    {
+      "type": "edit",
+      "id": "1fb3d7d63b65ef29",
+      "item": {
+        "type": "html",
+        "id": "1fb3d7d63b65ef29",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/8589428791a9c7cf0a6e4c01d9751100.jpg\" width=\"400\"/>"
+      },
+      "date": 1528389722085
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "1fb3d7d63b65ef29",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6"
+      ],
+      "id": "1fb3d7d63b65ef29",
+      "date": 1528389724384
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "1fb3d7d63b65ef29",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6"
+      ],
+      "id": "1fb3d7d63b65ef29",
+      "date": 1528389735001
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "1fb3d7d63b65ef29",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6"
+      ],
+      "id": "1fb3d7d63b65ef29",
+      "date": 1528389738174
+    },
+    {
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "1fb3d7d63b65ef29",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6"
+      ],
+      "id": "1fb3d7d63b65ef29",
+      "date": 1528389741822
+    },
+    {
+      "type": "edit",
+      "id": "1216c3ec8759ffc6",
+      "item": {
+        "type": "html",
+        "id": "1216c3ec8759ffc6",
+        "text": "<H3>ActivityPub Adoption</H3>\n"
+      },
+      "date": 1528389792222
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f0bb7229940c4bb"
+      },
+      "id": "9f0bb7229940c4bb",
+      "type": "add",
+      "after": "1216c3ec8759ffc6",
+      "date": 1528389794390
+    },
+    {
+      "type": "edit",
+      "id": "9f0bb7229940c4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "9f0bb7229940c4bb",
+        "text": "Mastodon adopted the ActivityPub protocol at the beginning of 2018. It only used the server-to-server part of the protocol. The implementation of ActivityPub within Mastodon then became primary reference for other instance software, such as Pleroma."
+      },
+      "date": 1528389887646
+    },
+    {
+      "type": "edit",
+      "id": "9f0bb7229940c4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "9f0bb7229940c4bb",
+        "text": "Mastodon adopted the ActivityPub protocol at the beginning of 2018. It only used the server-to-server part of the protocol, and not the server-to-client. The implementation of ActivityPub within Mastodon then became primary reference for other instance software, such as Pleroma."
+      },
+      "date": 1528389919254
+    },
+    {
+      "type": "edit",
+      "id": "9f0bb7229940c4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "9f0bb7229940c4bb",
+        "text": "Mastodon adopted the ActivityPub protocol at the beginning of 2018. It only used the server-to-server part of the protocol, and not the server-to-client. The implementation of ActivityPub within Mastodon then became primary reference for other instance software, such as Pleroma. OStatus continued to be supported."
+      },
+      "date": 1528389961018
+    },
+    {
+      "type": "edit",
+      "id": "9f0bb7229940c4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "9f0bb7229940c4bb",
+        "text": "Mastodon adopted the ActivityPub protocol at the beginning of 2018. It only used the server-to-server part of the protocol, and not the server-to-client. The implementation of ActivityPub within Mastodon then became primary reference for other instance software, such as Pleroma. The earlier OStatus protocol continued to be supported."
+      },
+      "date": 1528389981537
+    },
+    {
+      "type": "add",
+      "id": "6a3d194c96d05297",
+      "item": {
+        "type": "paragraph",
+        "id": "6a3d194c96d05297",
+        "text": "What content warnings (or one line summaries) allowed users to do was to follow numbers of other users above the Dunbar limit and without necessarily having a high degree of affinity with them and while avoiding the cognitive overload which would otherwise result. In effect, content warnings were an alternative to the algorithmic timeline, producing the same compressing effect without the down sides of censorship and shadowbans."
+      },
+      "after": "6a662cc5d0472549",
+      "date": 1530434677824
+    },
+    {
+      "type": "edit",
+      "id": "6a3d194c96d05297",
+      "item": {
+        "type": "paragraph",
+        "id": "6a3d194c96d05297",
+        "text": "What content warnings (or one line summaries) allowed users to do was to follow numbers of other users above the Dunbar limit and without necessarily having a high degree of affinity with them, while also avoiding the cognitive overload which would otherwise result. In effect, content warnings were an alternative to the algorithmic timeline, producing the same compressing effect without the down sides of censorship and shadowbans."
+      },
+      "date": 1530434734790
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bc5f4bfbae60df9"
+      },
+      "id": "3bc5f4bfbae60df9",
+      "type": "add",
+      "after": "9f0bb7229940c4bb",
+      "date": 1568652714300
+    },
+    {
+      "type": "edit",
+      "id": "3bc5f4bfbae60df9",
+      "item": {
+        "type": "html",
+        "id": "3bc5f4bfbae60df9",
+        "text": "<H3>ActivityPub Adoption</H3>"
+      },
+      "date": 1568652720200
+    },
+    {
+      "type": "edit",
+      "id": "3bc5f4bfbae60df9",
+      "item": {
+        "type": "html",
+        "id": "3bc5f4bfbae60df9",
+        "text": "<H3>Gab</H3>"
+      },
+      "date": 1568652729000
+    },
+    {
+      "type": "edit",
+      "id": "3bc5f4bfbae60df9",
+      "item": {
+        "type": "html",
+        "id": "3bc5f4bfbae60df9",
+        "text": "<H3>An invasion of Nazis</H3>"
+      },
+      "date": 1568652763400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7803c3718efa9a60"
+      },
+      "id": "7803c3718efa9a60",
+      "type": "add",
+      "after": "3bc5f4bfbae60df9",
+      "date": 1568652771800
+    },
+    {
+      "type": "edit",
+      "id": "7803c3718efa9a60",
+      "item": {
+        "type": "paragraph",
+        "id": "7803c3718efa9a60",
+        "text": "In July 2019 the white supremacist social network gab.com switched from its formerly proprietary codebase over to using a fork of Mastodon. This caused a lot of concern among the existing userbase, who up to that point had been mostly left wing or anarchist. The Mastodon project blog issued a statement."
+      },
+      "date": 1568652960900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7baa784ce55c52a"
+      },
+      "id": "c7baa784ce55c52a",
+      "type": "add",
+      "after": "7803c3718efa9a60",
+      "date": 1568653010900
+    },
+    {
+      "type": "edit",
+      "id": "c7baa784ce55c52a",
+      "item": {
+        "type": "html",
+        "id": "c7baa784ce55c52a",
+        "text": "<blockquote>Mastodon is completely opposed to Gab’s project and philosophy, which seeks to monetize and platform racist content while hiding behind the banner of free speech.</blockquote>"
+      },
+      "date": 1568653034800
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "00ebe4e11cefc3c6"
+      },
+      "id": "00ebe4e11cefc3c6",
+      "type": "add",
+      "after": "c7baa784ce55c52a",
+      "date": 1568653057500
+    },
+    {
+      "type": "edit",
+      "id": "00ebe4e11cefc3c6",
+      "item": {
+        "type": "paragraph",
+        "id": "00ebe4e11cefc3c6",
+        "text": "Upon launch gab.com claimed to have added another million users to the fediverse, but upon closer scrutiny these figures had been deliberately inflated via the inclusion of dormant accounts. The site also removed the active users count which would otherwise reveal the small size of their actual usebase."
+      },
+      "date": 1568653168400
+    },
+    {
+      "type": "edit",
+      "id": "00ebe4e11cefc3c6",
+      "item": {
+        "type": "paragraph",
+        "id": "00ebe4e11cefc3c6",
+        "text": "Upon launch gab.com claimed to have added another million users to the fediverse, but upon closer scrutiny these figures had been deliberately inflated via the inclusion of dormant legacy accounts carried over from their previous database. The site also removed the active users count which would otherwise reveal the small size of their actual usebase."
+      },
+      "date": 1568653205800
+    },
+    {
+      "type": "add",
+      "id": "18cf3f6e687ca57f",
+      "item": {
+        "type": "paragraph",
+        "id": "18cf3f6e687ca57f",
+        "text": "The appearance of an openly neo-nazi instance accelerated interest in improving the security and moderation capabilities of Mastodon. Many Mastodon instances preemptively blocked gab.com and its affiliated sites even before they had officially launched, such was the revulsion."
+      },
+      "after": "00ebe4e11cefc3c6",
+      "date": 1568653358000
+    },
+    {
+      "type": "edit",
+      "id": "18cf3f6e687ca57f",
+      "item": {
+        "type": "paragraph",
+        "id": "18cf3f6e687ca57f",
+        "text": "The appearance of an openly neo-nazi instance accelerated interest in improving the security and moderation capabilities of Mastodon, and the discussion of Object Capabilities or \"authorized fetch\". Many Mastodon instances preemptively blocked gab.com and its affiliated sites even before they had officially launched, such was the revulsion."
+      },
+      "date": 1568653455100
+    },
+    {
+      "type": "add",
+      "id": "fdf58e8a91dbb4d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf58e8a91dbb4d6",
+        "text": "There was also the irony of people with extreme hatred of minority groups adopting a software system largely created by and for those very same groups."
+      },
+      "after": "18cf3f6e687ca57f",
+      "date": 1568653641700
+    },
+    {
+      "type": "edit",
+      "id": "fdf58e8a91dbb4d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf58e8a91dbb4d6",
+        "text": "There was also the irony of people with extreme hatred of minority groups adopting a software system largely created by and for those very same groups. Effectively they were admitting that the proprietary approach had failed and that software built by people they viewed as enemoes was of superior quality."
+      },
+      "date": 1568653703900
+    },
+    {
+      "type": "edit",
+      "id": "fdf58e8a91dbb4d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf58e8a91dbb4d6",
+        "text": "There was also the irony of people espousing extreme hatred of minority groups adopting a software system largely created by and for those very same groups. Effectively they were admitting that the proprietary approach had failed and that software built by people they viewed as enemoes was of superior quality."
+      },
+      "date": 1568653723700
+    },
+    {
+      "type": "edit",
+      "id": "fdf58e8a91dbb4d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf58e8a91dbb4d6",
+        "text": "There was also the irony of people espousing extreme hatred of minority groups adopting a software system largely created by and for those very same groups. Effectively they were admitting that the proprietary approach had failed and that software built by people they viewed as enemies was technically superior to anything they could make for themselves."
+      },
+      "date": 1568653769300
+    },
+    {
+      "type": "edit",
+      "id": "fdf58e8a91dbb4d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf58e8a91dbb4d6",
+        "text": "There was also the irony of people espousing extreme hatred of minority groups adopting a software system largely created by and for those very same groups. Effectively they were admitting that the proprietary approach had failed and that software built by people they viewed as enemies was technically superior to anything that \"the master race\" could make for themselves."
+      },
+      "date": 1568653787200
+    },
+    {
+      "type": "edit",
+      "id": "fdf58e8a91dbb4d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf58e8a91dbb4d6",
+        "text": "There was also the irony of people espousing extreme hatred of minority groups adopting a software system largely created by and for those very same groups. Effectively they were admitting that the proprietary approach had failed and that software built by people they viewed as enemies was technically superior to anything that \"the master race\" could construct themselves."
+      },
+      "date": 1568653844600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "142904185c3f82be"
+      },
+      "id": "142904185c3f82be",
+      "type": "add",
+      "after": "a03d8204fb51b04f",
+      "date": 1568654876500
+    },
+    {
+      "type": "edit",
+      "id": "142904185c3f82be",
+      "item": {
+        "type": "paragraph",
+        "id": "142904185c3f82be",
+        "text": "In May 2019 the Mastodon project maintainer announced plans to deprecate the OStatus protocol, which had been superceded by ActivityPub."
+      },
+      "date": 1568654917700
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e93dc01d8f11e85"
+      },
+      "id": "2e93dc01d8f11e85",
+      "type": "add",
+      "after": "142904185c3f82be",
+      "date": 1568654931600
+    },
+    {
+      "type": "edit",
+      "id": "2e93dc01d8f11e85",
+      "item": {
+        "type": "html",
+        "id": "2e93dc01d8f11e85",
+        "text": "<blockquote>In 3.0, it is time to remove OStatus from Mastodon. Mastodon has not been designed as a multi-platform system and supporting a legacy platform creates messy and confusing code. Furthermore, the OStatus code has not been receiving the same performance and security improvements, in many parts because the OStatus protocol is inherently less secure in some aspects.</blockquote>"
+      },
+      "date": 1568654947400
+    },
+    {
+      "id": "142904185c3f82be",
+      "type": "move",
+      "order": [
+        "2e93dc01d8f11e85",
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "6a3d194c96d05297",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "1fb3d7d63b65ef29",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6",
+        "9f0bb7229940c4bb",
+        "142904185c3f82be",
+        "3bc5f4bfbae60df9",
+        "7803c3718efa9a60",
+        "c7baa784ce55c52a",
+        "00ebe4e11cefc3c6",
+        "18cf3f6e687ca57f",
+        "fdf58e8a91dbb4d6"
+      ],
+      "date": 1568655150546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ed3e0b515f86811"
+      },
+      "id": "9ed3e0b515f86811",
+      "type": "add",
+      "after": "fdf58e8a91dbb4d6",
+      "date": 1568655165440
+    },
+    {
+      "type": "edit",
+      "id": "9ed3e0b515f86811",
+      "item": {
+        "type": "html",
+        "id": "9ed3e0b515f86811",
+        "text": "<H3>The end of Ostatus</H3>"
+      },
+      "date": 1568655183914
+    },
+    {
+      "id": "9ed3e0b515f86811",
+      "type": "move",
+      "order": [
+        "2e93dc01d8f11e85",
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "6a3d194c96d05297",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "1fb3d7d63b65ef29",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6",
+        "9f0bb7229940c4bb",
+        "9ed3e0b515f86811",
+        "142904185c3f82be",
+        "3bc5f4bfbae60df9",
+        "7803c3718efa9a60",
+        "c7baa784ce55c52a",
+        "00ebe4e11cefc3c6",
+        "18cf3f6e687ca57f",
+        "fdf58e8a91dbb4d6"
+      ],
+      "date": 1568655190968
+    },
+    {
+      "id": "2e93dc01d8f11e85",
+      "type": "move",
+      "order": [
+        "439bd8b87e7bc948",
+        "c77e683ef10ecd5e",
+        "53c3dc408c53d4f4",
+        "b1bcfc44ecbcc499",
+        "6a662cc5d0472549",
+        "6a3d194c96d05297",
+        "4a1fe9510275c8de",
+        "c241c4039c56b823",
+        "2852e6b7e7142bed",
+        "c928e1ca6993702a",
+        "1fb3d7d63b65ef29",
+        "aa3163584b3feff2",
+        "d779fe36ae86281e",
+        "e7aba358d6d79c5b",
+        "e370b772c34f68f0",
+        "84a1c7fade6f3990",
+        "9f1d0c5c5523a403",
+        "d60c32171186a744",
+        "f5f40e74e5a5fa60",
+        "7bfddb62c4efa8c7",
+        "710aa3fae3cbd6d0",
+        "1216c3ec8759ffc6",
+        "9f0bb7229940c4bb",
+        "9ed3e0b515f86811",
+        "142904185c3f82be",
+        "2e93dc01d8f11e85",
+        "3bc5f4bfbae60df9",
+        "7803c3718efa9a60",
+        "c7baa784ce55c52a",
+        "00ebe4e11cefc3c6",
+        "18cf3f6e687ca57f",
+        "fdf58e8a91dbb4d6"
+      ],
+      "date": 1568655210910
+    }
+  ]
+}
