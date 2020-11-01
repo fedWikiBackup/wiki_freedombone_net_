@@ -1,0 +1,49 @@
+{
+  "title": "Software is not just code",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "788a3e5e85017ca5",
+      "text": "We understand that software is not just code. It includes documentation, artwork, testing and creating the infrastructure needed to support user communities. When referring to software we mean the totality of all of these things."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Software is not just code",
+        "story": []
+      },
+      "date": 1527502279047
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "788a3e5e85017ca5"
+      },
+      "id": "788a3e5e85017ca5",
+      "type": "add",
+      "date": 1527502280792
+    },
+    {
+      "type": "edit",
+      "id": "788a3e5e85017ca5",
+      "item": {
+        "type": "paragraph",
+        "id": "788a3e5e85017ca5",
+        "text": "We understand that software is not just code. It includes documentation, artwork, testing and creating communities. When referring to software we mean the totality of all of these things."
+      },
+      "date": 1527502377625
+    },
+    {
+      "type": "edit",
+      "id": "788a3e5e85017ca5",
+      "item": {
+        "type": "paragraph",
+        "id": "788a3e5e85017ca5",
+        "text": "We understand that software is not just code. It includes documentation, artwork, testing and creating the infrastructure needed to support user communities. When referring to software we mean the totality of all of these things."
+      },
+      "date": 1527502422145
+    }
+  ]
+}
