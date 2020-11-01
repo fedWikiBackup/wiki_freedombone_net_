@@ -1,0 +1,250 @@
+{
+  "title": "Trust in W3C Standards",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7438ec08dd439dd0",
+      "text": "After the W3C embraced digital restrictions management (EME) as an official standard in 2017 there wasn't much trust in the organization."
+    },
+    {
+      "type": "paragraph",
+      "id": "7a507ecc517242e7",
+      "text": "Bryan Lunduke did something resembling investigative journalism on the W3C, and uncovered troubling stuff."
+    },
+    {
+      "type": "paragraph",
+      "id": "4e601545edd2ea40",
+      "text": "It turned out that the W3C was purely corporate, not really representing the interests of internet users in any way, shape or form. Not even making an attempt to represent the interests of users either."
+    },
+    {
+      "type": "paragraph",
+      "id": "d919fb6e9b4e2572",
+      "text": "A few large technology companies paid most of the subscription fees and held nearly all of the influence over which standards got approved."
+    },
+    {
+      "type": "paragraph",
+      "id": "6865986fbc18a618",
+      "text": "There was no transparency about what happened to subscription fees. They were paid to some MIT department, and then who knows what happened to the money. Not exactly inspiring confidence."
+    },
+    {
+      "type": "paragraph",
+      "id": "9918bd57ac9a29c1",
+      "text": "The democratic process of voting for standards was shoddy and opaque, and W3C officials gave conflicting statements about to what extent voting even mattered or who voted for what."
+    },
+    {
+      "type": "paragraph",
+      "id": "2b11997086c6372c",
+      "text": "After the EME approval in 2017, EFF resigned from W3C, issuing a damning statement saying that they believed the organization to be no longer relevant."
+    },
+    {
+      "type": "paragraph",
+      "id": "26af1aa83402d8af",
+      "text": "It was in the context of the W3C's reputation smoldering in ruins that ActivityPub was approved."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Trust in W3C Standards",
+        "story": []
+      },
+      "date": 1517061545982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7438ec08dd439dd0"
+      },
+      "id": "7438ec08dd439dd0",
+      "type": "add",
+      "date": 1517061547726
+    },
+    {
+      "type": "edit",
+      "id": "7438ec08dd439dd0",
+      "item": {
+        "type": "paragraph",
+        "id": "7438ec08dd439dd0",
+        "text": "After the W3C embraced digital restrictions management as an official standard in 2017 there wasn't much trust in the organization."
+      },
+      "date": 1517061644339
+    },
+    {
+      "type": "add",
+      "id": "7a507ecc517242e7",
+      "item": {
+        "type": "paragraph",
+        "id": "7a507ecc517242e7",
+        "text": "Bryan Lunduke did something resembling investigative journalism on the W3C, and uncovered troubling stuff."
+      },
+      "after": "7438ec08dd439dd0",
+      "date": 1517061707499
+    },
+    {
+      "type": "add",
+      "id": "4e601545edd2ea40",
+      "item": {
+        "type": "paragraph",
+        "id": "4e601545edd2ea40",
+        "text": "It turned out that the W3C was purely corporate, not really representing the interests of internet users in any way, shape or form."
+      },
+      "after": "7a507ecc517242e7",
+      "date": 1517061791460
+    },
+    {
+      "type": "add",
+      "id": "d919fb6e9b4e2572",
+      "item": {
+        "type": "paragraph",
+        "id": "d919fb6e9b4e2572",
+        "text": " A few large companies had paid most of the subscription fees and held nearly all of the influence over which"
+      },
+      "after": "4e601545edd2ea40",
+      "date": 1517061791611
+    },
+    {
+      "type": "edit",
+      "id": "d919fb6e9b4e2572",
+      "item": {
+        "type": "paragraph",
+        "id": "d919fb6e9b4e2572",
+        "text": "A few large companies had paid most of the subscription fees and held nearly all of the influence over which standards got approved."
+      },
+      "date": 1517061811707
+    },
+    {
+      "type": "edit",
+      "id": "d919fb6e9b4e2572",
+      "item": {
+        "type": "paragraph",
+        "id": "d919fb6e9b4e2572",
+        "text": "A few large technology companies had paid most of the subscription fees and held nearly all of the influence over which standards got approved."
+      },
+      "date": 1517061833558
+    },
+    {
+      "type": "edit",
+      "id": "d919fb6e9b4e2572",
+      "item": {
+        "type": "paragraph",
+        "id": "d919fb6e9b4e2572",
+        "text": "A few large technology companies paid most of the subscription fees and held nearly all of the influence over which standards got approved."
+      },
+      "date": 1517061841728
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9918bd57ac9a29c1"
+      },
+      "id": "9918bd57ac9a29c1",
+      "type": "add",
+      "after": "d919fb6e9b4e2572",
+      "date": 1517061849893
+    },
+    {
+      "type": "edit",
+      "id": "9918bd57ac9a29c1",
+      "item": {
+        "type": "paragraph",
+        "id": "9918bd57ac9a29c1",
+        "text": "The democratic process of voting for standards was shoddy and opaque, and W3C officials gave conflicting statements about to what extent voting even mattered or who voted for what."
+      },
+      "date": 1517061929316
+    },
+    {
+      "type": "add",
+      "id": "26af1aa83402d8af",
+      "item": {
+        "type": "paragraph",
+        "id": "26af1aa83402d8af",
+        "text": "It was in the context of the W3C's reputation smoldering in ruins that ActivityPub was approved."
+      },
+      "after": "9918bd57ac9a29c1",
+      "date": 1517062015050
+    },
+    {
+      "type": "add",
+      "id": "6865986fbc18a618",
+      "item": {
+        "type": "paragraph",
+        "id": "6865986fbc18a618",
+        "text": "There was no transparency about what happened to subscription fees. There were paid to some MIT department, and then who know what happened to the money."
+      },
+      "after": "d919fb6e9b4e2572",
+      "date": 1517062153426
+    },
+    {
+      "type": "edit",
+      "id": "6865986fbc18a618",
+      "item": {
+        "type": "paragraph",
+        "id": "6865986fbc18a618",
+        "text": "There was no transparency about what happened to subscription fees. Thy were paid to some MIT department, and then who know what happened to the money."
+      },
+      "date": 1517062172300
+    },
+    {
+      "type": "edit",
+      "id": "6865986fbc18a618",
+      "item": {
+        "type": "paragraph",
+        "id": "6865986fbc18a618",
+        "text": "There was no transparency about what happened to subscription fees. Thy were paid to some MIT department, and then who knows what happened to the money."
+      },
+      "date": 1517062184258
+    },
+    {
+      "type": "edit",
+      "id": "6865986fbc18a618",
+      "item": {
+        "type": "paragraph",
+        "id": "6865986fbc18a618",
+        "text": "There was no transparency about what happened to subscription fees. Thy were paid to some MIT department, and then who knows what happened to the money. Not exactly inspiring confidence."
+      },
+      "date": 1517062208284
+    },
+    {
+      "type": "add",
+      "id": "2b11997086c6372c",
+      "item": {
+        "type": "paragraph",
+        "id": "2b11997086c6372c",
+        "text": "After the EME approval in 2017, EFF resigned from W3C, issuing a damning statement saying that they believed the organization to be no longer relevant."
+      },
+      "after": "9918bd57ac9a29c1",
+      "date": 1517062276345
+    },
+    {
+      "type": "edit",
+      "id": "7438ec08dd439dd0",
+      "item": {
+        "type": "paragraph",
+        "id": "7438ec08dd439dd0",
+        "text": "After the W3C embraced digital restrictions management (EME) as an official standard in 2017 there wasn't much trust in the organization."
+      },
+      "date": 1517062304352
+    },
+    {
+      "type": "edit",
+      "id": "4e601545edd2ea40",
+      "item": {
+        "type": "paragraph",
+        "id": "4e601545edd2ea40",
+        "text": "It turned out that the W3C was purely corporate, not really representing the interests of internet users in any way, shape or form. Not even making an attempt to represent the interests of users either."
+      },
+      "date": 1517062347609
+    },
+    {
+      "type": "edit",
+      "id": "6865986fbc18a618",
+      "item": {
+        "type": "paragraph",
+        "id": "6865986fbc18a618",
+        "text": "There was no transparency about what happened to subscription fees. They were paid to some MIT department, and then who knows what happened to the money. Not exactly inspiring confidence."
+      },
+      "date": 1517062366694
+    }
+  ]
+}

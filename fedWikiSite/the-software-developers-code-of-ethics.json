@@ -1,0 +1,680 @@
+{
+  "title": "The Software Developer's Code of Ethics",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3ac1420dbd917af7",
+      "text": "Written by Bob Young, FIFO Networks, 28 August, 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "d094c7f3b993732c",
+      "text": "-"
+    },
+    {
+      "type": "paragraph",
+      "id": "a08afc7a657b216e",
+      "text": "I will respect the user’s ownership of the device and its resources."
+    },
+    {
+      "type": "paragraph",
+      "id": "d3d37d4320d40ff9",
+      "text": "I will not treat the user’s device as if I own it."
+    },
+    {
+      "type": "paragraph",
+      "id": "7bbce8cf0d66b3bf",
+      "text": "I will not extract information from the user’s device without the user’s informed consent."
+    },
+    {
+      "type": "paragraph",
+      "id": "f69ef92fe57718b2",
+      "text": "I will write code as efficiently as my skills allow, to make minimal use of system resources."
+    },
+    {
+      "type": "paragraph",
+      "id": "b1c281b8ce0dcea6",
+      "text": "Specifically, I will write code that is both effective and frugal in its use of:\n— bandwidth\n— processor time,\n— device storage, and\n— system memory."
+    },
+    {
+      "type": "paragraph",
+      "id": "49311b389ca462cd",
+      "text": "I will always keep the non-technical user in mind, and treat them with respect."
+    },
+    {
+      "type": "paragraph",
+      "id": "ae3f02b32c5d326c",
+      "text": "When I write code, I will respect the limited technical knowledge of:\n— the elderly, who didn’t grow up with the current technologies,\n— the young, who have not yet had opportunity to learn the current technologies, and\n— others who, for many reasons, may have little prior experience with using the current technologies."
+    },
+    {
+      "type": "paragraph",
+      "id": "8a56e99dcf3f4859",
+      "text": "With the inexperienced user in mind, I will not create software installation prompts with a default opt-in. I will write code that requires the user to:\n— make an informed decision, and\n— take a deliberate action to opt-in to initiate installation."
+    },
+    {
+      "type": "paragraph",
+      "id": "394b3753ddbff5e4",
+      "text": "I will not write code to use device resources in ways other than intended and approved by the device owner."
+    },
+    {
+      "type": "paragraph",
+      "id": "d09298da70b60a42",
+      "text": "I will not write code to access cameras for any purpose not intended by the device owner."
+    },
+    {
+      "type": "paragraph",
+      "id": "83f44feb5a234e98",
+      "text": "I will not write code to access microphones for any purpose not intended by the device owner."
+    },
+    {
+      "type": "paragraph",
+      "id": "94006f1e3ff87c67",
+      "text": "I will not copy, transmit, or store the user’s information without the user’s knowledge and consent."
+    },
+    {
+      "type": "paragraph",
+      "id": "fbf81ffaac1144a0",
+      "text": "I will not write code to access account information for other accounts without the knowledge and consent of the device owner."
+    },
+    {
+      "type": "paragraph",
+      "id": "43ab4553959fa33c",
+      "text": "I will not write code that uses bandwidth for any purpose not intended by the device owner."
+    },
+    {
+      "type": "paragraph",
+      "id": "42f9b5f930647ba1",
+      "text": "I will only include code that supports the purposes for which the user installed the software."
+    },
+    {
+      "type": "paragraph",
+      "id": "9bf73ecebd275e71",
+      "text": "I will only include code that gathers user information if the user is informed by a disclosure policy."
+    },
+    {
+      "type": "paragraph",
+      "id": "318c038aa3094c53",
+      "text": "I will not include surreptitious code that supports the hidden purposes of my employer, myself, or any third party."
+    },
+    {
+      "type": "paragraph",
+      "id": "1e176c1a4bd37967",
+      "text": "I will not secretly block, inhibit, or obstruct the operation of other apps."
+    },
+    {
+      "type": "paragraph",
+      "id": "74307c024dd259f3",
+      "text": "I will not create misleading hyperlinks that cause an unintended action."
+    },
+    {
+      "type": "paragraph",
+      "id": "e53e170a476a8f85",
+      "text": "I will not create deceptive hyperlinks that take the user to an unintended website."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f2fd337061dcecf",
+      "text": "I will not design web pages that deliberately confuse or mislead the user."
+    },
+    {
+      "type": "paragraph",
+      "id": "15ebedf9591745b1",
+      "text": "My software will include privacy policies that can be clearly understood in ten sentences or less."
+    },
+    {
+      "type": "paragraph",
+      "id": "d09b90d914edda71",
+      "text": "My software will include disclosure policies that can be clearly understood in ten sentences or less."
+    },
+    {
+      "type": "paragraph",
+      "id": "4951eb1d7972b3ab",
+      "text": "I will not work for an employer who requires me to violate this code."
+    },
+    {
+      "type": "paragraph",
+      "id": "7456b9bc0fbc7855",
+      "text": "I will make my commitment to this code known to prospective employers during my job search."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Software Developer's Code of Ethics",
+        "story": []
+      },
+      "date": 1551818798830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ac1420dbd917af7"
+      },
+      "id": "3ac1420dbd917af7",
+      "type": "add",
+      "date": 1551818835107
+    },
+    {
+      "type": "edit",
+      "id": "3ac1420dbd917af7",
+      "item": {
+        "type": "paragraph",
+        "id": "3ac1420dbd917af7",
+        "text": "Written by Bob Young, FIFO Networks, 28 August, 2016"
+      },
+      "date": 1551818839887
+    },
+    {
+      "type": "add",
+      "id": "d094c7f3b993732c",
+      "item": {
+        "type": "paragraph",
+        "id": "d094c7f3b993732c",
+        "text": "-"
+      },
+      "after": "3ac1420dbd917af7",
+      "date": 1551818841612
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a08afc7a657b216e"
+      },
+      "id": "a08afc7a657b216e",
+      "type": "add",
+      "after": "d094c7f3b993732c",
+      "date": 1551818867688
+    },
+    {
+      "type": "edit",
+      "id": "a08afc7a657b216e",
+      "item": {
+        "type": "paragraph",
+        "id": "a08afc7a657b216e",
+        "text": "I will respect the user’s ownership of the device and its resources."
+      },
+      "date": 1551818870854
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3d37d4320d40ff9"
+      },
+      "id": "d3d37d4320d40ff9",
+      "type": "add",
+      "after": "a08afc7a657b216e",
+      "date": 1551818881270
+    },
+    {
+      "type": "edit",
+      "id": "d3d37d4320d40ff9",
+      "item": {
+        "type": "paragraph",
+        "id": "d3d37d4320d40ff9",
+        "text": "I will not treat the user’s device as if I own it."
+      },
+      "date": 1551818883741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bbce8cf0d66b3bf"
+      },
+      "id": "7bbce8cf0d66b3bf",
+      "type": "add",
+      "after": "d3d37d4320d40ff9",
+      "date": 1551818894746
+    },
+    {
+      "type": "edit",
+      "id": "7bbce8cf0d66b3bf",
+      "item": {
+        "type": "paragraph",
+        "id": "7bbce8cf0d66b3bf",
+        "text": "I will not extract information from the user’s device without the user’s informed consent."
+      },
+      "date": 1551818897290
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f69ef92fe57718b2"
+      },
+      "id": "f69ef92fe57718b2",
+      "type": "add",
+      "after": "7bbce8cf0d66b3bf",
+      "date": 1551818907322
+    },
+    {
+      "type": "edit",
+      "id": "f69ef92fe57718b2",
+      "item": {
+        "type": "paragraph",
+        "id": "f69ef92fe57718b2",
+        "text": "I will write code as efficiently as my skills allow, to make minimal use of system resources."
+      },
+      "date": 1551818909609
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b1c281b8ce0dcea6"
+      },
+      "id": "b1c281b8ce0dcea6",
+      "type": "add",
+      "after": "f69ef92fe57718b2",
+      "date": 1551818925772
+    },
+    {
+      "type": "edit",
+      "id": "b1c281b8ce0dcea6",
+      "item": {
+        "type": "paragraph",
+        "id": "b1c281b8ce0dcea6",
+        "text": "Specifically, I will write code that is both effective and frugal in its use of:\n— bandwidth\n— processor time,\n— device storage, and\n— system memory."
+      },
+      "date": 1551818930186
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "49311b389ca462cd"
+      },
+      "id": "49311b389ca462cd",
+      "type": "add",
+      "after": "b1c281b8ce0dcea6",
+      "date": 1551818943969
+    },
+    {
+      "type": "edit",
+      "id": "49311b389ca462cd",
+      "item": {
+        "type": "paragraph",
+        "id": "49311b389ca462cd",
+        "text": "I will always keep the non-technical user in mind, and treat them with respect."
+      },
+      "date": 1551818946995
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae3f02b32c5d326c"
+      },
+      "id": "ae3f02b32c5d326c",
+      "type": "add",
+      "after": "49311b389ca462cd",
+      "date": 1551818958692
+    },
+    {
+      "type": "edit",
+      "id": "ae3f02b32c5d326c",
+      "item": {
+        "type": "paragraph",
+        "id": "ae3f02b32c5d326c",
+        "text": "When I write code, I will respect the limited technical knowledge of:\n— the elderly, who didn’t grow up with the current technologies,\n— the young, who have not yet had opportunity to learn the current technologies, and\n— others who, for many reasons, may have little prior experience with using the current technologies."
+      },
+      "date": 1551818961291
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a56e99dcf3f4859"
+      },
+      "id": "8a56e99dcf3f4859",
+      "type": "add",
+      "after": "ae3f02b32c5d326c",
+      "date": 1551818972686
+    },
+    {
+      "type": "edit",
+      "id": "8a56e99dcf3f4859",
+      "item": {
+        "type": "paragraph",
+        "id": "8a56e99dcf3f4859",
+        "text": "With the inexperienced user in mind, I will not create software installation prompts with a default opt-in. I will write code that requires the user to:\n— make an informed decision, and\n— take a deliberate action to opt-in to initiate installation."
+      },
+      "date": 1551818974927
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "394b3753ddbff5e4"
+      },
+      "id": "394b3753ddbff5e4",
+      "type": "add",
+      "after": "8a56e99dcf3f4859",
+      "date": 1551818985496
+    },
+    {
+      "type": "edit",
+      "id": "394b3753ddbff5e4",
+      "item": {
+        "type": "paragraph",
+        "id": "394b3753ddbff5e4",
+        "text": "I will not write code to use device resources in ways other than intended and approved by the device owner."
+      },
+      "date": 1551818987673
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d09298da70b60a42"
+      },
+      "id": "d09298da70b60a42",
+      "type": "add",
+      "after": "394b3753ddbff5e4",
+      "date": 1551818998274
+    },
+    {
+      "type": "edit",
+      "id": "d09298da70b60a42",
+      "item": {
+        "type": "paragraph",
+        "id": "d09298da70b60a42",
+        "text": "I will not write code to access cameras for any purpose not intended by the device owner."
+      },
+      "date": 1551819000986
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83f44feb5a234e98"
+      },
+      "id": "83f44feb5a234e98",
+      "type": "add",
+      "after": "d09298da70b60a42",
+      "date": 1551819010955
+    },
+    {
+      "type": "edit",
+      "id": "83f44feb5a234e98",
+      "item": {
+        "type": "paragraph",
+        "id": "83f44feb5a234e98",
+        "text": "I will not write code to access microphones for any purpose not intended by the device owner."
+      },
+      "date": 1551819013292
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94006f1e3ff87c67"
+      },
+      "id": "94006f1e3ff87c67",
+      "type": "add",
+      "after": "83f44feb5a234e98",
+      "date": 1551819023490
+    },
+    {
+      "type": "edit",
+      "id": "94006f1e3ff87c67",
+      "item": {
+        "type": "paragraph",
+        "id": "94006f1e3ff87c67",
+        "text": "I will not copy, transmit, or store the user’s information without the user’s knowledge and consent."
+      },
+      "date": 1551819025884
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbf81ffaac1144a0"
+      },
+      "id": "fbf81ffaac1144a0",
+      "type": "add",
+      "after": "94006f1e3ff87c67",
+      "date": 1551819036666
+    },
+    {
+      "type": "edit",
+      "id": "fbf81ffaac1144a0",
+      "item": {
+        "type": "paragraph",
+        "id": "fbf81ffaac1144a0",
+        "text": "I will not write code to access account information for other accounts without the knowledge and consent of the device owner."
+      },
+      "date": 1551819038808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43ab4553959fa33c"
+      },
+      "id": "43ab4553959fa33c",
+      "type": "add",
+      "after": "fbf81ffaac1144a0",
+      "date": 1551819050913
+    },
+    {
+      "type": "edit",
+      "id": "43ab4553959fa33c",
+      "item": {
+        "type": "paragraph",
+        "id": "43ab4553959fa33c",
+        "text": "I will not write code that uses bandwidth for any purpose not intended by the device owner."
+      },
+      "date": 1551819053235
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "42f9b5f930647ba1"
+      },
+      "id": "42f9b5f930647ba1",
+      "type": "add",
+      "after": "43ab4553959fa33c",
+      "date": 1551819063441
+    },
+    {
+      "type": "edit",
+      "id": "42f9b5f930647ba1",
+      "item": {
+        "type": "paragraph",
+        "id": "42f9b5f930647ba1",
+        "text": "I will only include code that supports the purposes for which the user installed the software."
+      },
+      "date": 1551819065613
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bf73ecebd275e71"
+      },
+      "id": "9bf73ecebd275e71",
+      "type": "add",
+      "after": "42f9b5f930647ba1",
+      "date": 1551819076237
+    },
+    {
+      "type": "edit",
+      "id": "9bf73ecebd275e71",
+      "item": {
+        "type": "paragraph",
+        "id": "9bf73ecebd275e71",
+        "text": "I will only include code that gathers user information if the user is informed by a disclosure policy."
+      },
+      "date": 1551819078515
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "318c038aa3094c53"
+      },
+      "id": "318c038aa3094c53",
+      "type": "add",
+      "after": "9bf73ecebd275e71",
+      "date": 1551819088955
+    },
+    {
+      "type": "edit",
+      "id": "318c038aa3094c53",
+      "item": {
+        "type": "paragraph",
+        "id": "318c038aa3094c53",
+        "text": "I will not include surreptitious code that supports the hidden purposes of my employer, myself, or any third party."
+      },
+      "date": 1551819091246
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e176c1a4bd37967"
+      },
+      "id": "1e176c1a4bd37967",
+      "type": "add",
+      "after": "318c038aa3094c53",
+      "date": 1551819105082
+    },
+    {
+      "type": "edit",
+      "id": "1e176c1a4bd37967",
+      "item": {
+        "type": "paragraph",
+        "id": "1e176c1a4bd37967",
+        "text": "I will not secretly block, inhibit, or obstruct the operation of other apps."
+      },
+      "date": 1551819107529
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "74307c024dd259f3"
+      },
+      "id": "74307c024dd259f3",
+      "type": "add",
+      "after": "1e176c1a4bd37967",
+      "date": 1551819119723
+    },
+    {
+      "type": "edit",
+      "id": "74307c024dd259f3",
+      "item": {
+        "type": "paragraph",
+        "id": "74307c024dd259f3",
+        "text": "I will not create misleading hyperlinks that cause an unintended action."
+      },
+      "date": 1551819122380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e53e170a476a8f85"
+      },
+      "id": "e53e170a476a8f85",
+      "type": "add",
+      "after": "74307c024dd259f3",
+      "date": 1551819131830
+    },
+    {
+      "type": "edit",
+      "id": "e53e170a476a8f85",
+      "item": {
+        "type": "paragraph",
+        "id": "e53e170a476a8f85",
+        "text": "I will not create deceptive hyperlinks that take the user to an unintended website."
+      },
+      "date": 1551819134340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f2fd337061dcecf"
+      },
+      "id": "3f2fd337061dcecf",
+      "type": "add",
+      "after": "e53e170a476a8f85",
+      "date": 1551819148652
+    },
+    {
+      "type": "edit",
+      "id": "3f2fd337061dcecf",
+      "item": {
+        "type": "paragraph",
+        "id": "3f2fd337061dcecf",
+        "text": "I will not design web pages that deliberately confuse or mislead the user."
+      },
+      "date": 1551819152116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15ebedf9591745b1"
+      },
+      "id": "15ebedf9591745b1",
+      "type": "add",
+      "after": "3f2fd337061dcecf",
+      "date": 1551819161556
+    },
+    {
+      "type": "edit",
+      "id": "15ebedf9591745b1",
+      "item": {
+        "type": "paragraph",
+        "id": "15ebedf9591745b1",
+        "text": "My software will include privacy policies that can be clearly understood in ten sentences or less."
+      },
+      "date": 1551819164922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d09b90d914edda71"
+      },
+      "id": "d09b90d914edda71",
+      "type": "add",
+      "after": "15ebedf9591745b1",
+      "date": 1551819174465
+    },
+    {
+      "type": "edit",
+      "id": "d09b90d914edda71",
+      "item": {
+        "type": "paragraph",
+        "id": "d09b90d914edda71",
+        "text": "My software will include disclosure policies that can be clearly understood in ten sentences or less."
+      },
+      "date": 1551819176957
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4951eb1d7972b3ab"
+      },
+      "id": "4951eb1d7972b3ab",
+      "type": "add",
+      "after": "d09b90d914edda71",
+      "date": 1551819192949
+    },
+    {
+      "type": "edit",
+      "id": "4951eb1d7972b3ab",
+      "item": {
+        "type": "paragraph",
+        "id": "4951eb1d7972b3ab",
+        "text": "I will not work for an employer who requires me to violate this code."
+      },
+      "date": 1551819195293
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7456b9bc0fbc7855"
+      },
+      "id": "7456b9bc0fbc7855",
+      "type": "add",
+      "after": "4951eb1d7972b3ab",
+      "date": 1551819203663
+    },
+    {
+      "type": "edit",
+      "id": "7456b9bc0fbc7855",
+      "item": {
+        "type": "paragraph",
+        "id": "7456b9bc0fbc7855",
+        "text": "I will make my commitment to this code known to prospective employers during my job search."
+      },
+      "date": 1551819205764
+    }
+  ]
+}

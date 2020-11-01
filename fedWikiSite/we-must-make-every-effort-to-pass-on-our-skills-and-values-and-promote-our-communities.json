@@ -1,0 +1,91 @@
+{
+  "title": "we-must-make-every-effort-to-pass-on-our-skills-and-values-and-promote-our-communities",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "566d61116fd15fc3",
+      "text": "In the creation of software we should always consider how and to what extent this helps to perpetuate our values into the wider world."
+    },
+    {
+      "type": "paragraph",
+      "id": "a20714e4736817b8",
+      "text": "Always think \"is what I'm doing helping or harming the things and/or people I value\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "3a7ad5db6aeb339f",
+      "text": "Too often outside of the world of FOSS, software developers are distracted by money into actively working against their own values in a manner which is self-defeating and damaging to society."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "we-must-make-every-effort-to-pass-on-our-skills-and-values-and-promote-our-communities",
+        "story": []
+      },
+      "date": 1527500429508
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "566d61116fd15fc3"
+      },
+      "id": "566d61116fd15fc3",
+      "type": "add",
+      "date": 1527500431209
+    },
+    {
+      "type": "edit",
+      "id": "566d61116fd15fc3",
+      "item": {
+        "type": "paragraph",
+        "id": "566d61116fd15fc3",
+        "text": "In the creation of software we should always consider how and to what extent this helps to perpetuate our values into the wider society."
+      },
+      "date": 1527500622824
+    },
+    {
+      "type": "add",
+      "id": "a20714e4736817b8",
+      "item": {
+        "type": "paragraph",
+        "id": "a20714e4736817b8",
+        "text": "Always think \"is what I'm doing helping or harming the things and/or people I value\"."
+      },
+      "after": "566d61116fd15fc3",
+      "date": 1527500657969
+    },
+    {
+      "type": "add",
+      "id": "3a7ad5db6aeb339f",
+      "item": {
+        "type": "paragraph",
+        "id": "3a7ad5db6aeb339f",
+        "text": "Too often outside of the world of FOSS, software developers are distracted by money into actively working against their own values in a manner which is self-defeating and harms the community."
+      },
+      "after": "a20714e4736817b8",
+      "date": 1527500731960
+    },
+    {
+      "type": "edit",
+      "id": "3a7ad5db6aeb339f",
+      "item": {
+        "type": "paragraph",
+        "id": "3a7ad5db6aeb339f",
+        "text": "Too often outside of the world of FOSS, software developers are distracted by money into actively working against their own values in a manner which is self-defeating and damaging to society."
+      },
+      "date": 1527500797579
+    },
+    {
+      "type": "edit",
+      "id": "566d61116fd15fc3",
+      "item": {
+        "type": "paragraph",
+        "id": "566d61116fd15fc3",
+        "text": "In the creation of software we should always consider how and to what extent this helps to perpetuate our values into the wider world."
+      },
+      "date": 1527500845224
+    }
+  ]
+}

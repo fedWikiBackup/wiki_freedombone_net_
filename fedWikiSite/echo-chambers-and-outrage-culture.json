@@ -1,0 +1,202 @@
+{
+  "title": "Echo chambers and outrage culture",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "59b547218e676e29",
+      "text": "What happens when you put millions of people from many different cultures into an online space where they can't avoid each other? This is the experiment which the centralized social network systems have been performing."
+    },
+    {
+      "type": "paragraph",
+      "id": "9e504d05d39f2a9c",
+      "text": "People have conflicting opinions and expected norms, so when they're in a confined space and don't have much control over what gets into their stream they will of course fight with each other."
+    },
+    {
+      "type": "paragraph",
+      "id": "45aa895cc75e3010",
+      "text": "This can result in endless bickering, ALLCAPS RANTS, harassment, bikeshedding, egobattles and call-outs. It soon gets emotionally draining and can have serious psychological and sometimes physical consequences. Twitter today is a more or less endless stream of outrage."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff09f91761fe9db6",
+      "text": "The echo chamber is the opposite. You only talk to a small circle of friends and never meet anyone outside of your ingroup. There's a lot of complaining about bubble effects, but in practice this rarely happens since algorithmic timelines don't give the user enough control to be able to remain strictly within their bubble."
+    },
+    {
+      "type": "paragraph",
+      "id": "61a4c25480a2f3a7",
+      "text": "The ideal is somewhere between being in a bubble and being in an overcrowded and antagonistic space suffering from [https://en.wikipedia.org/wiki/Behavioral_sink behavioral sink]. Federation provides this kind of model."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Echo chambers and outrage culture",
+        "story": []
+      },
+      "date": 1517058164250
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59b547218e676e29"
+      },
+      "id": "59b547218e676e29",
+      "type": "add",
+      "date": 1517058165546
+    },
+    {
+      "type": "edit",
+      "id": "59b547218e676e29",
+      "item": {
+        "type": "paragraph",
+        "id": "59b547218e676e29",
+        "text": "What happens when you put millions of people from many different cultures into an online space where they can't avoid each other? This is the experiment which the centralized social network systems have been performing."
+      },
+      "date": 1517058241042
+    },
+    {
+      "type": "add",
+      "id": "9e504d05d39f2a9c",
+      "item": {
+        "type": "paragraph",
+        "id": "9e504d05d39f2a9c",
+        "text": "People have conflicting opinions, so when they're in a confined space and don't have much control over what gets into their stream they will of course fight with each other."
+      },
+      "after": "59b547218e676e29",
+      "date": 1517058390223
+    },
+    {
+      "type": "add",
+      "id": "45aa895cc75e3010",
+      "item": {
+        "type": "paragraph",
+        "id": "45aa895cc75e3010",
+        "text": "This can result in endless bickering, ALLCAPS RANTS, harassment and call-outs. It soon gets tiring and can have serious consequences. Twitter today is a more or less endless stream of outrage."
+      },
+      "after": "9e504d05d39f2a9c",
+      "date": 1517058494964
+    },
+    {
+      "type": "edit",
+      "id": "45aa895cc75e3010",
+      "item": {
+        "type": "paragraph",
+        "id": "45aa895cc75e3010",
+        "text": "This can result in endless bickering, ALLCAPS RANTS, harassment and call-outs. It soon gets emotionally draining and can have serious consequences. Twitter today is a more or less endless stream of outrage."
+      },
+      "date": 1517058518564
+    },
+    {
+      "type": "edit",
+      "id": "45aa895cc75e3010",
+      "item": {
+        "type": "paragraph",
+        "id": "45aa895cc75e3010",
+        "text": "This can result in endless bickering, ALLCAPS RANTS, harassment, bikeshedding and call-outs. It soon gets emotionally draining and can have serious consequences. Twitter today is a more or less endless stream of outrage."
+      },
+      "date": 1517058596142
+    },
+    {
+      "type": "edit",
+      "id": "45aa895cc75e3010",
+      "item": {
+        "type": "paragraph",
+        "id": "45aa895cc75e3010",
+        "text": "This can result in endless bickering, ALLCAPS RANTS, harassment, bikeshedding, egobattles and call-outs. It soon gets emotionally draining and can have serious consequences. Twitter today is a more or less endless stream of outrage."
+      },
+      "date": 1517058617950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff09f91761fe9db6"
+      },
+      "id": "ff09f91761fe9db6",
+      "type": "add",
+      "after": "45aa895cc75e3010",
+      "date": 1517058660087
+    },
+    {
+      "type": "edit",
+      "id": "ff09f91761fe9db6",
+      "item": {
+        "type": "paragraph",
+        "id": "ff09f91761fe9db6",
+        "text": "The echo chamber is the opposite. You only talk to a small circle of friends and never meet anyone outside of your ingroup. There's a lot of complaining about bubble effects, but in practice this rarely happens since algorithmic timelines don't give the user enough control to be able to remain strictly within their bubble."
+      },
+      "date": 1517058753070
+    },
+    {
+      "type": "add",
+      "id": "61a4c25480a2f3a7",
+      "item": {
+        "type": "paragraph",
+        "id": "61a4c25480a2f3a7",
+        "text": "The ideal is somewhere between being in a bubble and being in a crowded space. Federation provides this kind of model."
+      },
+      "after": "ff09f91761fe9db6",
+      "date": 1517058816988
+    },
+    {
+      "type": "edit",
+      "id": "61a4c25480a2f3a7",
+      "item": {
+        "type": "paragraph",
+        "id": "61a4c25480a2f3a7",
+        "text": "The ideal is somewhere between being in a bubble and being in a crowded and antagonistic space. Federation provides this kind of model."
+      },
+      "date": 1517058836146
+    },
+    {
+      "type": "edit",
+      "id": "61a4c25480a2f3a7",
+      "item": {
+        "type": "paragraph",
+        "id": "61a4c25480a2f3a7",
+        "text": "The ideal is somewhere between being in a bubble and being in an overcrowded and antagonistic space. Federation provides this kind of model."
+      },
+      "date": 1517058954377
+    },
+    {
+      "type": "edit",
+      "id": "61a4c25480a2f3a7",
+      "item": {
+        "type": "paragraph",
+        "id": "61a4c25480a2f3a7",
+        "text": "The ideal is somewhere between being in a bubble and being in an overcrowded and antagonistic space suffering from behavioral sink. Federation provides this kind of model."
+      },
+      "date": 1517059046243
+    },
+    {
+      "type": "edit",
+      "id": "61a4c25480a2f3a7",
+      "item": {
+        "type": "paragraph",
+        "id": "61a4c25480a2f3a7",
+        "text": "The ideal is somewhere between being in a bubble and being in an overcrowded and antagonistic space suffering from [https://en.wikipedia.org/wiki/Behavioral_sink behavioral sink]. Federation provides this kind of model."
+      },
+      "date": 1517059092949
+    },
+    {
+      "type": "edit",
+      "id": "45aa895cc75e3010",
+      "item": {
+        "type": "paragraph",
+        "id": "45aa895cc75e3010",
+        "text": "This can result in endless bickering, ALLCAPS RANTS, harassment, bikeshedding, egobattles and call-outs. It soon gets emotionally draining and can have serious psychological and sometimes physical consequences. Twitter today is a more or less endless stream of outrage."
+      },
+      "date": 1517059254621
+    },
+    {
+      "type": "edit",
+      "id": "9e504d05d39f2a9c",
+      "item": {
+        "type": "paragraph",
+        "id": "9e504d05d39f2a9c",
+        "text": "People have conflicting opinions and expected norms, so when they're in a confined space and don't have much control over what gets into their stream they will of course fight with each other."
+      },
+      "date": 1517059368469
+    }
+  ]
+}

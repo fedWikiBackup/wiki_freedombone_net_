@@ -1,0 +1,394 @@
+{
+  "title": "migrations-and-exoduses",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7ac6d437772e8e38",
+      "text": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter, Facebook or other silo systems will just decide that they don't like a certain type of user and begin closing or suspending their accounts or groups. "
+    },
+    {
+      "type": "paragraph",
+      "id": "12f7e4df38a9895b",
+      "text": "In other cases a celebrity will be shadowbanned or suspended, which then causes a scandal among their followers and a desire for the fandom to move elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "6ca2d6df6cebf400",
+      "text": "These are the biggest exoduses so far:"
+    },
+    {
+      "type": "paragraph",
+      "id": "68e2c92fd3b77cfa",
+      "text": "[[2011/12: Identi.ca in trouble]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9c5c8b5d7aacf08d",
+      "text": "[[2016: Twitter's Algorithmic Timeline]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f1cfd2f306f34552",
+      "text": "[[2017: Mastodon goes Viral]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9d15877130b048e2",
+      "text": "[[2018: A perfect storm]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7db1b473eeffdd63",
+      "text": "[[2019: The Nazi Menace]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2282037e2fef5e0c",
+      "text": "[[Fediverse culture shock]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "migrations-and-exoduses",
+        "story": []
+      },
+      "date": 1516996534599
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8181b38c860ac9bd"
+      },
+      "id": "8181b38c860ac9bd",
+      "type": "add",
+      "date": 1516996540224
+    },
+    {
+      "type": "edit",
+      "id": "8181b38c860ac9bd",
+      "item": {
+        "type": "calculator",
+        "id": "8181b38c860ac9bd",
+        "text": "[[Twitter exodus of 2016]]\n"
+      },
+      "date": 1516996578147
+    },
+    {
+      "type": "edit",
+      "id": "8181b38c860ac9bd",
+      "item": {
+        "type": "calculator",
+        "id": "8181b38c860ac9bd",
+        "text": "Twitter exodus of 2016\n",
+        "data": []
+      },
+      "date": 1516996600514
+    },
+    {
+      "type": "edit",
+      "id": "8181b38c860ac9bd",
+      "item": {
+        "type": "calculator",
+        "id": "8181b38c860ac9bd",
+        "text": "[[Twitter exodus of 2016]]\n",
+        "data": []
+      },
+      "date": 1516996617074
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "12dcb4b9c9e59976"
+      },
+      "id": "12dcb4b9c9e59976",
+      "type": "add",
+      "after": "8181b38c860ac9bd",
+      "date": 1516996762816
+    },
+    {
+      "type": "edit",
+      "id": "8181b38c860ac9bd",
+      "item": {
+        "type": "calculator",
+        "id": "8181b38c860ac9bd",
+        "text": "[[2016: Algorithmic Timelines]]\n\n",
+        "data": []
+      },
+      "date": 1516996764385
+    },
+    {
+      "type": "remove",
+      "id": "12dcb4b9c9e59976",
+      "date": 1516996772124
+    },
+    {
+      "type": "edit",
+      "id": "8181b38c860ac9bd",
+      "item": {
+        "type": "calculator",
+        "id": "8181b38c860ac9bd",
+        "text": "\n\n",
+        "data": []
+      },
+      "date": 1516996778580
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c5c8b5d7aacf08d"
+      },
+      "id": "9c5c8b5d7aacf08d",
+      "type": "add",
+      "after": "8181b38c860ac9bd",
+      "date": 1516996780125
+    },
+    {
+      "type": "edit",
+      "id": "9c5c8b5d7aacf08d",
+      "item": {
+        "type": "paragraph",
+        "id": "9c5c8b5d7aacf08d",
+        "text": "[[2016: Twitter's Algorithmic Timeline]]"
+      },
+      "date": 1516996802026
+    },
+    {
+      "type": "remove",
+      "id": "8181b38c860ac9bd",
+      "date": 1516996812626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1cfd2f306f34552"
+      },
+      "id": "f1cfd2f306f34552",
+      "type": "add",
+      "after": "9c5c8b5d7aacf08d",
+      "date": 1516996840603
+    },
+    {
+      "type": "edit",
+      "id": "f1cfd2f306f34552",
+      "item": {
+        "type": "paragraph",
+        "id": "f1cfd2f306f34552",
+        "text": "2017: Mastodon goes Viral"
+      },
+      "date": 1516996871969
+    },
+    {
+      "type": "edit",
+      "id": "f1cfd2f306f34552",
+      "item": {
+        "type": "paragraph",
+        "id": "f1cfd2f306f34552",
+        "text": "[[2017: Mastodon goes Viral]]"
+      },
+      "date": 1516996884282
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2282037e2fef5e0c"
+      },
+      "id": "2282037e2fef5e0c",
+      "type": "add",
+      "after": "f1cfd2f306f34552",
+      "date": 1517000446658
+    },
+    {
+      "type": "edit",
+      "id": "2282037e2fef5e0c",
+      "item": {
+        "type": "paragraph",
+        "id": "2282037e2fef5e0c",
+        "text": "[[Fediverse culture shock]]"
+      },
+      "date": 1517000465500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ac6d437772e8e38"
+      },
+      "id": "7ac6d437772e8e38",
+      "type": "add",
+      "after": "2282037e2fef5e0c",
+      "date": 1517074501288
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users, but these are the main ones."
+      },
+      "date": 1517074551598
+    },
+    {
+      "type": "move",
+      "order": [
+        "7ac6d437772e8e38",
+        "9c5c8b5d7aacf08d",
+        "f1cfd2f306f34552",
+        "2282037e2fef5e0c"
+      ],
+      "id": "7ac6d437772e8e38",
+      "date": 1517074553141
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users, but these are the biggest ones."
+      },
+      "date": 1517074580604
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter or Facebook will just decide that they don't like a certain type of user and begin closing or blocking their accounts."
+      },
+      "date": 1517090958150
+    },
+    {
+      "type": "add",
+      "id": "6ca2d6df6cebf400",
+      "item": {
+        "type": "paragraph",
+        "id": "6ca2d6df6cebf400",
+        "text": "These are the biggest exoduses so far:"
+      },
+      "after": "7ac6d437772e8e38",
+      "date": 1517090977021
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter or Facebook will just decide that they don't like a certain type of user and begin closing or blocking their accounts or groups."
+      },
+      "date": 1517091037670
+    },
+    {
+      "type": "add",
+      "id": "e7fb84f0a05b2ac0",
+      "item": {
+        "type": "paragraph",
+        "id": "e7fb84f0a05b2ac0",
+        "text": "[[2018: Steady growth]]"
+      },
+      "after": "f1cfd2f306f34552",
+      "date": 1528032969822
+    },
+    {
+      "type": "add",
+      "id": "68e2c92fd3b77cfa",
+      "item": {
+        "type": "paragraph",
+        "id": "68e2c92fd3b77cfa",
+        "text": "[[2011/12: Identi.ca in trouble]]"
+      },
+      "after": "6ca2d6df6cebf400",
+      "date": 1528366342070
+    },
+    {
+      "type": "add",
+      "id": "9d15877130b048e2",
+      "item": {
+        "type": "paragraph",
+        "id": "9d15877130b048e2",
+        "text": "[[2018: A perfect storm]]"
+      },
+      "after": "6ca2d6df6cebf400",
+      "date": 1534436672795
+    },
+    {
+      "type": "remove",
+      "id": "e7fb84f0a05b2ac0",
+      "date": 1534436705445
+    },
+    {
+      "type": "remove",
+      "id": "e7fb84f0a05b2ac0",
+      "date": 1535014808873
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter, Facebook or other silo systems will just decide that they don't like a certain type of user and begin closing or suspending their accounts or groups."
+      },
+      "date": 1543961011113
+    },
+    {
+      "type": "move",
+      "order": [
+        "7ac6d437772e8e38",
+        "6ca2d6df6cebf400",
+        "68e2c92fd3b77cfa",
+        "9c5c8b5d7aacf08d",
+        "f1cfd2f306f34552",
+        "9d15877130b048e2",
+        "2282037e2fef5e0c"
+      ],
+      "id": "9d15877130b048e2",
+      "date": 1545480794700
+    },
+    {
+      "type": "add",
+      "id": "7db1b473eeffdd63",
+      "item": {
+        "type": "paragraph",
+        "id": "7db1b473eeffdd63",
+        "text": "[[2019: The Nazi Menace]]"
+      },
+      "after": "9d15877130b048e2",
+      "date": 1573399180399
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter, Facebook or other silo systems will just decide that they don't like a certain type of user and begin closing or suspending their accounts or groups. In other cases a celebrity will be shadowbanned or suspended, which then causes a scandal among their followers and a desire for the fandom to move elsewhere."
+      },
+      "date": 1577795631901
+    },
+    {
+      "type": "edit",
+      "id": "7ac6d437772e8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac6d437772e8e38",
+        "text": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter, Facebook or other silo systems will just decide that they don't like a certain type of user and begin closing or suspending their accounts or groups. "
+      },
+      "date": 1577795637922
+    },
+    {
+      "type": "add",
+      "id": "12f7e4df38a9895b",
+      "item": {
+        "type": "paragraph",
+        "id": "12f7e4df38a9895b",
+        "text": "In other cases a celebrity will be shadowbanned or suspended, which then causes a scandal among their followers and a desire for the fandom to move elsewhere."
+      },
+      "after": "7ac6d437772e8e38",
+      "date": 1577795639950
+    }
+  ]
+}

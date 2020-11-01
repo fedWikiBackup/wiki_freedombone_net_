@@ -1,0 +1,167 @@
+{
+  "title": "2011/12: Identi.ca in trouble",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ace77fc1b0f8cb12",
+      "text": "Towards the end of 2011 identi.ca started to experience multi-day or multi-week outages. Its developer advised that anyone complaining create their own instances, and thus the first migration wave began out of the original silo system."
+    },
+    {
+      "type": "html",
+      "id": "a46cdbd848a3278c",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/3a8a039e140dee8d9cfa1fb73658fadc.png\" width=\"400\"/>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9cd3adb49e890dfa",
+      "text": "Evan wanted to change the posts size of identi.ca from 140 characters, like Twitter at the time, to something larger. There was a harsh backlash, so some of those who wanted to maintain the traditional length created their own federated sites, or used hosted ones which could be paid for to support the main development."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0de9a5335f1f54b",
+      "text": "By that time identi.ca was running out of money and its end was immanent."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2011/12: Identi.ca in trouble",
+        "story": []
+      },
+      "date": 1528366356082
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ace77fc1b0f8cb12"
+      },
+      "id": "ace77fc1b0f8cb12",
+      "type": "add",
+      "date": 1528366357829
+    },
+    {
+      "type": "edit",
+      "id": "ace77fc1b0f8cb12",
+      "item": {
+        "type": "paragraph",
+        "id": "ace77fc1b0f8cb12",
+        "text": "Towards the end of 2011 identi.ca started to experience multi-day outages. Its developer advised that anyone complaining create their own instances, and thus the first mugration wave began out of the original silo system."
+      },
+      "date": 1528366455459
+    },
+    {
+      "type": "edit",
+      "id": "ace77fc1b0f8cb12",
+      "item": {
+        "type": "paragraph",
+        "id": "ace77fc1b0f8cb12",
+        "text": "Towards the end of 2011 identi.ca started to experience multi-day outages. Its developer advised that anyone complaining create their own instances, and thus the first migration wave began out of the original silo system."
+      },
+      "date": 1528366461290
+    },
+    {
+      "type": "add",
+      "id": "9cd3adb49e890dfa",
+      "item": {
+        "type": "paragraph",
+        "id": "9cd3adb49e890dfa",
+        "text": "Evan wanted to change the posts size of identi.ca from 140 characters to something larger. There was a harsh backlash, so some of those who wanted even higher character limits created their own federated sites, or used hosted ones which could be paid for to support the main development."
+      },
+      "after": "ace77fc1b0f8cb12",
+      "date": 1528366636749
+    },
+    {
+      "type": "edit",
+      "id": "ace77fc1b0f8cb12",
+      "item": {
+        "type": "paragraph",
+        "id": "ace77fc1b0f8cb12",
+        "text": "Towards the end of 2011 identi.ca started to experience multi-day or multi-week outages. Its developer advised that anyone complaining create their own instances, and thus the first migration wave began out of the original silo system."
+      },
+      "date": 1528366740818
+    },
+    {
+      "type": "edit",
+      "id": "9cd3adb49e890dfa",
+      "item": {
+        "type": "paragraph",
+        "id": "9cd3adb49e890dfa",
+        "text": "Evan wanted to change the posts size of identi.ca from 140 characters, like Twitter at the time, to something larger. There was a harsh backlash, so some of those who wanted even higher character limits created their own federated sites, or used hosted ones which could be paid for to support the main development."
+      },
+      "date": 1528366794585
+    },
+    {
+      "type": "edit",
+      "id": "9cd3adb49e890dfa",
+      "item": {
+        "type": "paragraph",
+        "id": "9cd3adb49e890dfa",
+        "text": "Evan wanted to change the posts size of identi.ca from 140 characters, like Twitter at the time, to something larger. There was a harsh backlash, so some of those who wanted even higher character limits or to maintain the traditional length created their own federated sites, or used hosted ones which could be paid for to support the main development."
+      },
+      "date": 1528366835425
+    },
+    {
+      "type": "edit",
+      "id": "9cd3adb49e890dfa",
+      "item": {
+        "type": "paragraph",
+        "id": "9cd3adb49e890dfa",
+        "text": "Evan wanted to change the posts size of identi.ca from 140 characters, like Twitter at the time, to something larger. There was a harsh backlash, so some of those who wanted to maintain the traditional length created their own federated sites, or used hosted ones which could be paid for to support the main development."
+      },
+      "date": 1528366859313
+    },
+    {
+      "type": "add",
+      "id": "b0de9a5335f1f54b",
+      "item": {
+        "type": "paragraph",
+        "id": "b0de9a5335f1f54b",
+        "text": "By that time identi.ca was running out of money and its end was immanent."
+      },
+      "after": "9cd3adb49e890dfa",
+      "date": 1528366915499
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a46cdbd848a3278c"
+      },
+      "id": "a46cdbd848a3278c",
+      "type": "add",
+      "after": "b0de9a5335f1f54b",
+      "date": 1528484757738
+    },
+    {
+      "type": "edit",
+      "id": "a46cdbd848a3278c",
+      "item": {
+        "type": "html",
+        "id": "a46cdbd848a3278c",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/49866d0cb4185767e07ca99c2371c4c6.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528484765644
+    },
+    {
+      "type": "edit",
+      "id": "a46cdbd848a3278c",
+      "item": {
+        "type": "html",
+        "id": "a46cdbd848a3278c",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/3a8a039e140dee8d9cfa1fb73658fadc.png\" width=\"400\"/>\n"
+      },
+      "date": 1528484781058
+    },
+    {
+      "type": "move",
+      "order": [
+        "ace77fc1b0f8cb12",
+        "a46cdbd848a3278c",
+        "9cd3adb49e890dfa",
+        "b0de9a5335f1f54b"
+      ],
+      "id": "a46cdbd848a3278c",
+      "date": 1528484787198
+    }
+  ]
+}

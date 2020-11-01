@@ -1,0 +1,302 @@
+{
+  "title": "Peers and Federalists",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8db66208989ee4ec",
+      "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. DDoS would be practically impossible. Each peer would make their own decisions about which others to connect to and what data to share."
+    },
+    {
+      "type": "paragraph",
+      "id": "77bcf54550c3f085",
+      "text": "The web today is the opposite of this, and is increasingly centralised. Policies about what type of content is permitted or not tend to be global and defined by the terms of service a few megacorporations."
+    },
+    {
+      "type": "paragraph",
+      "id": "b8b3b375fa93cd34",
+      "text": "Both of these have disadvantages. The centralised web tries to impose a single standard for connectivity and content onto the whole world. The peer to peer situation means that each individual is captain of their own ship and makes their own decisions about who to connect to and what to share, but this may sometimes involve a lot of duplicated curation effort."
+    },
+    {
+      "type": "paragraph",
+      "id": "2f8fe14d3f75bbb3",
+      "text": "Federation offers a third way of doing things, in which decisions about what is or isn't acceptable may be partly collectivized, but not to a totalizing extent as in the centralized case. This allows peers to offload some of their preferences to their affinity group, which may improve the user experience and reduce cognitive workload. For example, collective defense against known bad entities."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Peers and Federalists",
+        "story": []
+      },
+      "date": 1522070847878
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21e2523a86eb7024"
+      },
+      "id": "21e2523a86eb7024",
+      "type": "add",
+      "date": 1522070852498
+    },
+    {
+      "type": "edit",
+      "id": "21e2523a86eb7024",
+      "item": {
+        "type": "code",
+        "id": "21e2523a86eb7024",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. Each peer would make their own decisions about which others to connect to and what data to share.\n"
+      },
+      "date": 1522071006716
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b42f9f97084e0b80"
+      },
+      "id": "b42f9f97084e0b80",
+      "type": "add",
+      "after": "21e2523a86eb7024",
+      "date": 1522071009898
+    },
+    {
+      "type": "remove",
+      "id": "b42f9f97084e0b80",
+      "date": 1522071024454
+    },
+    {
+      "type": "edit",
+      "id": "21e2523a86eb7024",
+      "item": {
+        "type": "code",
+        "id": "21e2523a86eb7024",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. Each peer would make their own decisions about which others to connect to and what data to share."
+      },
+      "date": 1522071030856
+    },
+    {
+      "type": "edit",
+      "id": "21e2523a86eb7024",
+      "item": {
+        "type": "code",
+        "id": "21e2523a86eb7024",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. Each peer would make their own decisions about which others to connect to and what data to share.\n"
+      },
+      "date": 1522071044176
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c11630967efe6ec"
+      },
+      "id": "9c11630967efe6ec",
+      "type": "add",
+      "after": "21e2523a86eb7024",
+      "date": 1522071048010
+    },
+    {
+      "type": "edit",
+      "id": "9c11630967efe6ec",
+      "item": {
+        "type": "bytebeat",
+        "id": "9c11630967efe6ec",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. Each peer would make their own decisions about which others to connect to and what data to share."
+      },
+      "date": 1522071051094
+    },
+    {
+      "type": "remove",
+      "id": "21e2523a86eb7024",
+      "date": 1522071056814
+    },
+    {
+      "type": "edit",
+      "id": "9c11630967efe6ec",
+      "item": {
+        "type": "bytebeat",
+        "id": "9c11630967efe6ec",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. Each peer would make their own decisions about which others to connect to and what data to share.\n\n"
+      },
+      "date": 1522071066988
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8db66208989ee4ec"
+      },
+      "id": "8db66208989ee4ec",
+      "type": "add",
+      "after": "9c11630967efe6ec",
+      "date": 1522071077016
+    },
+    {
+      "type": "edit",
+      "id": "8db66208989ee4ec",
+      "item": {
+        "type": "paragraph",
+        "id": "8db66208989ee4ec",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. Each peer would make their own decisions about which others to connect to and what data to share."
+      },
+      "date": 1522071085770
+    },
+    {
+      "type": "remove",
+      "id": "9c11630967efe6ec",
+      "date": 1522071092404
+    },
+    {
+      "type": "edit",
+      "id": "8db66208989ee4ec",
+      "item": {
+        "type": "paragraph",
+        "id": "8db66208989ee4ec",
+        "text": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. DDoS would be practically impossible. Each peer would make their own decisions about which others to connect to and what data to share."
+      },
+      "date": 1522071134328
+    },
+    {
+      "type": "add",
+      "id": "77bcf54550c3f085",
+      "item": {
+        "type": "paragraph",
+        "id": "77bcf54550c3f085",
+        "text": "The web today is increasingly centralised. Policies about what type of content is permitted or not tend to be global and defined by megacorporations."
+      },
+      "after": "8db66208989ee4ec",
+      "date": 1522071242516
+    },
+    {
+      "type": "add",
+      "id": "b8b3b375fa93cd34",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b3b375fa93cd34",
+        "text": "Both of these have disadvantages. The centralised web tries to impose a single standard for connectivity and content onto the whole world. The peer to peer situation means that each individual makes their own decisions about who to connect to and what to share, but this may sometimes involve a lot of work."
+      },
+      "after": "77bcf54550c3f085",
+      "date": 1522071405830
+    },
+    {
+      "type": "add",
+      "id": "2f8fe14d3f75bbb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2f8fe14d3f75bbb3",
+        "text": "Federation offers a third way of doing things, in which decisions about what is or isn't acceptable may be partly collectivized, but not to a totalizing extent as in the centralized case. This allows peers to offload some of their decisions to their preferred affinity group, which may improve the user experience and cognitive workload."
+      },
+      "after": "b8b3b375fa93cd34",
+      "date": 1522071577092
+    },
+    {
+      "type": "edit",
+      "id": "2f8fe14d3f75bbb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2f8fe14d3f75bbb3",
+        "text": "Federation offers a third way of doing things, in which decisions about what is or isn't acceptable may be partly collectivized, but not to a totalizing extent as in the centralized case. This allows peers to offload some of their decisions to their preferred affinity group, which may improve the user experience and cognitive workload. For example, collective defense against known bad entities."
+      },
+      "date": 1522071610344
+    },
+    {
+      "type": "edit",
+      "id": "77bcf54550c3f085",
+      "item": {
+        "type": "paragraph",
+        "id": "77bcf54550c3f085",
+        "text": "The web today is the opposite of this, and is increasingly centralised. Policies about what type of content is permitted or not tend to be global and defined by megacorporations."
+      },
+      "date": 1522071668454
+    },
+    {
+      "type": "edit",
+      "id": "77bcf54550c3f085",
+      "item": {
+        "type": "paragraph",
+        "id": "77bcf54550c3f085",
+        "text": "The web today is the opposite of this, and is increasingly centralised. Policies about what type of content is permitted or not tend to be global and defined by a few megacorporations."
+      },
+      "date": 1522071687252
+    },
+    {
+      "type": "edit",
+      "id": "b8b3b375fa93cd34",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b3b375fa93cd34",
+        "text": "Both of these have disadvantages. The centralised web tries to impose a single standard for connectivity and content onto the whole world. The peer to peer situation means that each individual is master of their own ship and makes their own decisions about who to connect to and what to share, but this may sometimes involve a lot of work."
+      },
+      "date": 1522071728338
+    },
+    {
+      "type": "edit",
+      "id": "b8b3b375fa93cd34",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b3b375fa93cd34",
+        "text": "Both of these have disadvantages. The centralised web tries to impose a single standard for connectivity and content onto the whole world. The peer to peer situation means that each individual is captain of their own ship and makes their own decisions about who to connect to and what to share, but this may sometimes involve a lot of work."
+      },
+      "date": 1522071743356
+    },
+    {
+      "type": "edit",
+      "id": "b8b3b375fa93cd34",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b3b375fa93cd34",
+        "text": "Both of these have disadvantages. The centralised web tries to impose a single standard for connectivity and content onto the whole world. The peer to peer situation means that each individual is captain of their own ship and makes their own decisions about who to connect to and what to share, but this may sometimes involve a lot of curation effort."
+      },
+      "date": 1522071769366
+    },
+    {
+      "type": "edit",
+      "id": "2f8fe14d3f75bbb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2f8fe14d3f75bbb3",
+        "text": "Federation offers a third way of doing things, in which decisions about what is or isn't acceptable may be partly collectivized, but not to a totalizing extent as in the centralized case. This allows peers to offload some of their preferences to their preferred affinity group, which may improve the user experience and cognitive workload. For example, collective defense against known bad entities."
+      },
+      "date": 1522071796470
+    },
+    {
+      "type": "edit",
+      "id": "2f8fe14d3f75bbb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2f8fe14d3f75bbb3",
+        "text": "Federation offers a third way of doing things, in which decisions about what is or isn't acceptable may be partly collectivized, but not to a totalizing extent as in the centralized case. This allows peers to offload some of their preferences to their affinity group, which may improve the user experience and cognitive workload. For example, collective defense against known bad entities."
+      },
+      "date": 1522071807358
+    },
+    {
+      "type": "edit",
+      "id": "2f8fe14d3f75bbb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2f8fe14d3f75bbb3",
+        "text": "Federation offers a third way of doing things, in which decisions about what is or isn't acceptable may be partly collectivized, but not to a totalizing extent as in the centralized case. This allows peers to offload some of their preferences to their affinity group, which may improve the user experience and reduce cognitive workload. For example, collective defense against known bad entities."
+      },
+      "date": 1522071828024
+    },
+    {
+      "type": "edit",
+      "id": "77bcf54550c3f085",
+      "item": {
+        "type": "paragraph",
+        "id": "77bcf54550c3f085",
+        "text": "The web today is the opposite of this, and is increasingly centralised. Policies about what type of content is permitted or not tend to be global and defined by the terms of service a few megacorporations."
+      },
+      "date": 1522071921118
+    },
+    {
+      "type": "edit",
+      "id": "b8b3b375fa93cd34",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b3b375fa93cd34",
+        "text": "Both of these have disadvantages. The centralised web tries to impose a single standard for connectivity and content onto the whole world. The peer to peer situation means that each individual is captain of their own ship and makes their own decisions about who to connect to and what to share, but this may sometimes involve a lot of duplicated curation effort."
+      },
+      "date": 1522072755212
+    }
+  ]
+}

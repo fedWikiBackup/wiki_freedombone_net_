@@ -1,0 +1,85 @@
+{
+  "title": "2018-steady-growth",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "39ca72f3bfa7b163",
+      "text": "By 2018 the fediverse wasn't experiencing the big upheavals that it did in the three years prior. Even despite a big Facebook scandal there wasn't a noticably large wave of immigration."
+    },
+    {
+      "type": "paragraph",
+      "id": "95626d64ffc47efa",
+      "text": "By that time there were thousands of instances, and the addition of an extra few occasionally made no difference to the user experience. It might be that more users joined because of the Facebook scandal than joned in the Twitter panic of 2016, but because the fediverse was now a lot larger it was more able to accomodate new users easily."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2018-steady-growth",
+        "story": []
+      },
+      "date": 1528032973204
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "39ca72f3bfa7b163"
+      },
+      "id": "39ca72f3bfa7b163",
+      "type": "add",
+      "date": 1528032975670
+    },
+    {
+      "type": "edit",
+      "id": "39ca72f3bfa7b163",
+      "item": {
+        "type": "paragraph",
+        "id": "39ca72f3bfa7b163",
+        "text": "By 2018 the fediverse wasn't experiencing the big upheavals that it did in the three years prior. Even despite a big Facebook scandal there wasn't a big wave of immigration."
+      },
+      "date": 1528033108479
+    },
+    {
+      "type": "add",
+      "id": "95626d64ffc47efa",
+      "item": {
+        "type": "paragraph",
+        "id": "95626d64ffc47efa",
+        "text": "By that time there were thousands of instances, and the addition of an extra few occasionally made no difference to the user experience."
+      },
+      "after": "39ca72f3bfa7b163",
+      "date": 1528033110446
+    },
+    {
+      "type": "edit",
+      "id": "39ca72f3bfa7b163",
+      "item": {
+        "type": "paragraph",
+        "id": "39ca72f3bfa7b163",
+        "text": "By 2018 the fediverse wasn't experiencing the big upheavals that it did in the three years prior. Even despite a big Facebook scandal there wasn't a noticably big wave of immigration."
+      },
+      "date": 1528033141382
+    },
+    {
+      "type": "edit",
+      "id": "39ca72f3bfa7b163",
+      "item": {
+        "type": "paragraph",
+        "id": "39ca72f3bfa7b163",
+        "text": "By 2018 the fediverse wasn't experiencing the big upheavals that it did in the three years prior. Even despite a big Facebook scandal there wasn't a noticably large wave of immigration."
+      },
+      "date": 1528033152194
+    },
+    {
+      "type": "edit",
+      "id": "95626d64ffc47efa",
+      "item": {
+        "type": "paragraph",
+        "id": "95626d64ffc47efa",
+        "text": "By that time there were thousands of instances, and the addition of an extra few occasionally made no difference to the user experience. It might be that more users joined because of the Facebook scandal than joned in the Twitter panic of 2016, but because the fediverse was now a lot larger it was more able to accomodate new users easily."
+      },
+      "date": 1528033243309
+    }
+  ]
+}

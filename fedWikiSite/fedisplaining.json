@@ -1,0 +1,244 @@
+{
+  "title": "Fedisplaining",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cf954f59fb706a8e",
+      "text": "Explaining the fediverse to people is not always easy."
+    },
+    {
+      "type": "html",
+      "id": "1796de71525da62e",
+      "text": "<h4>It's like Email</h4>\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f2cab0ab0117232",
+      "text": "The trouble with this is that few people understand how email works. The sad reality is these days email is mostly Google, since Android stongly guides users to setting up a Gmail account and Android phones are extremely common. This makes the email experience defacto centralized for most users."
+    },
+    {
+      "type": "paragraph",
+      "id": "373f9dcb48ca15fc",
+      "text": "Younger users only began using the internet after web 2.0, and so by then email had become defacto centralized."
+    },
+    {
+      "type": "html",
+      "id": "607d9f41b9d6cd16",
+      "text": "<h4>It's like Phone Companies</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f64c6cef91a9b13",
+      "text": "This is a better analogy, although still not perfect. You can choose what phone company you want to use for calls or mobile data. If you don't like one you can go with another. Sometimes you can also move your phone number."
+    },
+    {
+      "type": "paragraph",
+      "id": "ffc67b7d8ee7e703",
+      "text": "In the mobile phone company analogy there is at least the idea of picking who to trust."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fedisplaining",
+        "story": []
+      },
+      "date": 1534604952538
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf954f59fb706a8e"
+      },
+      "id": "cf954f59fb706a8e",
+      "type": "add",
+      "date": 1534604954191
+    },
+    {
+      "type": "edit",
+      "id": "cf954f59fb706a8e",
+      "item": {
+        "type": "paragraph",
+        "id": "cf954f59fb706a8e",
+        "text": "Explaining the fediverse to people is not always easy."
+      },
+      "date": 1534605054706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1796de71525da62e"
+      },
+      "id": "1796de71525da62e",
+      "type": "add",
+      "after": "62322c1a351c72e3",
+      "date": 1534605060245
+    },
+    {
+      "type": "edit",
+      "id": "1796de71525da62e",
+      "item": {
+        "type": "html",
+        "id": "1796de71525da62e",
+        "text": "<h1>It's like Email</h1>\n"
+      },
+      "date": 1534605074714
+    },
+    {
+      "type": "edit",
+      "id": "1796de71525da62e",
+      "item": {
+        "type": "html",
+        "id": "1796de71525da62e",
+        "text": "<h2>It's like Email</h2>\n\n"
+      },
+      "date": 1534605085707
+    },
+    {
+      "type": "edit",
+      "id": "1796de71525da62e",
+      "item": {
+        "type": "html",
+        "id": "1796de71525da62e",
+        "text": "<h4>It's like Email</h4>\n\n"
+      },
+      "date": 1534605092235
+    },
+    {
+      "type": "add",
+      "id": "3f2cab0ab0117232",
+      "item": {
+        "type": "paragraph",
+        "id": "3f2cab0ab0117232",
+        "text": "The trouble with this is that few people understand how email works. The sad reality is these days email is mostly Google, since Android stongly guides users to setting up a Gmail account and Android phones are extremely common."
+      },
+      "after": "cf954f59fb706a8e",
+      "date": 1534605159348
+    },
+    {
+      "type": "add",
+      "id": "99dd6dbda5650be5",
+      "item": {
+        "type": "paragraph",
+        "id": "99dd6dbda5650be5",
+        "text": "Fediverse addresses do work like email, but using this as a metaphor is increasingly difficult, especially if explaining to younger users."
+      },
+      "after": "3f2cab0ab0117232",
+      "date": 1534605288154
+    },
+    {
+      "type": "edit",
+      "id": "99dd6dbda5650be5",
+      "item": {
+        "type": "paragraph",
+        "id": "99dd6dbda5650be5",
+        "text": "Fediverse addresses do work like email, but using this as a metaphor is increasingly difficult, especially if explaining to younger users who have never known anything but web 2.0 systems."
+      },
+      "date": 1534605369455
+    },
+    {
+      "type": "move",
+      "order": [
+        "cf954f59fb706a8e",
+        "1796de71525da62e",
+        "3f2cab0ab0117232",
+        "99dd6dbda5650be5"
+      ],
+      "id": "cf954f59fb706a8e",
+      "date": 1534605500178
+    },
+    {
+      "type": "move",
+      "order": [
+        "cf954f59fb706a8e",
+        "1796de71525da62e",
+        "3f2cab0ab0117232"
+      ],
+      "id": "cf954f59fb706a8e",
+      "date": 1534605514724
+    },
+    {
+      "type": "add",
+      "id": "373f9dcb48ca15fc",
+      "item": {
+        "type": "paragraph",
+        "id": "373f9dcb48ca15fc",
+        "text": "Younger users only began using the internet after web 2.0, and so by then email had become defacto centralized."
+      },
+      "after": "3f2cab0ab0117232",
+      "date": 1534605639997
+    },
+    {
+      "type": "edit",
+      "id": "3f2cab0ab0117232",
+      "item": {
+        "type": "paragraph",
+        "id": "3f2cab0ab0117232",
+        "text": "The trouble with this is that few people understand how email works. The sad reality is these days email is mostly Google, since Android stongly guides users to setting up a Gmail account and Android phones are extremely common. This makes the email experience defacto centralized for most users."
+      },
+      "date": 1535014707138
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "607d9f41b9d6cd16"
+      },
+      "id": "607d9f41b9d6cd16",
+      "type": "add",
+      "after": "373f9dcb48ca15fc",
+      "date": 1550682990357
+    },
+    {
+      "type": "edit",
+      "id": "607d9f41b9d6cd16",
+      "item": {
+        "type": "html",
+        "id": "607d9f41b9d6cd16",
+        "text": "<h4>It's Phone Companies</h4>"
+      },
+      "date": 1550683011900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f64c6cef91a9b13"
+      },
+      "id": "9f64c6cef91a9b13",
+      "type": "add",
+      "after": "607d9f41b9d6cd16",
+      "date": 1550683014306
+    },
+    {
+      "type": "edit",
+      "id": "9f64c6cef91a9b13",
+      "item": {
+        "type": "paragraph",
+        "id": "9f64c6cef91a9b13",
+        "text": "This is a better analogy, although still not perfect. You can choose what phone company you want to use for calls or mobile data. If you don't like one you can go with another. Sometimes you can also move your phone number."
+      },
+      "date": 1550683129743
+    },
+    {
+      "type": "add",
+      "id": "ffc67b7d8ee7e703",
+      "item": {
+        "type": "paragraph",
+        "id": "ffc67b7d8ee7e703",
+        "text": "In the mobile phone company analogy there is at least the idea of picking who to trust."
+      },
+      "after": "9f64c6cef91a9b13",
+      "date": 1550683177465
+    },
+    {
+      "type": "edit",
+      "id": "607d9f41b9d6cd16",
+      "item": {
+        "type": "html",
+        "id": "607d9f41b9d6cd16",
+        "text": "<h4>It's like Phone Companies</h4>"
+      },
+      "date": 1550683200714
+    }
+  ]
+}

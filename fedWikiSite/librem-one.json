@@ -1,0 +1,234 @@
+{
+  "title": "Librem One",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "423cf7e24cac4a6b",
+      "text": "In early May 2019 Purism - a company who had already been around for some time in the fediverse and was known for making laptops without Intel ME - started their own instance at social.librem.one."
+    },
+    {
+      "type": "paragraph",
+      "id": "824082cd560a4b93",
+      "text": "Launched with a cringe-inducing advert about \"not looking at your junk\" with a Bryan Lunduke voiceover this instance soon ran into controversy."
+    },
+    {
+      "type": "paragraph",
+      "id": "75f10ba516104ca8",
+      "text": "The Librem One social instance was really a rebranded version of Mastodon and they had hired the Mastodon developer to customize it for them. One of the customizations was to turn off the reporting feature which allowed users on the instance to report things of concern to the administrator."
+    },
+    {
+      "type": "paragraph",
+      "id": "87cd415d62e7a873",
+      "text": "Some people in the fediverse expressed concerns about Purism's rebranding of various Free Software apps, including Mastodon, but this was quite normal practice in the Free Software world."
+    },
+    {
+      "type": "paragraph",
+      "id": "d65ad874c66ccaa8",
+      "text": "People who had been around in the fediverse for some years knew that disabling moderation features or expressing unwillingness to actively moderate leaves the door wide open for the worst people on the internet to make themselves at home. After sustained complaints Librem One turned the reporting feature back on again."
+    },
+    {
+      "type": "html",
+      "id": "d1503f085360f6a2",
+      "text": "<h3>Refusal to moderate</h3>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e583223c8a329bef",
+      "text": "More concerning than the initial lack of reporting was their subsequent refusal to moderate content on their instance."
+    },
+    {
+      "type": "paragraph",
+      "id": "81ca6ad4d6a5be9b",
+      "text": "Lacking a robust moderation policy it wasn't long before known bandits began showing up. The fact that these were paying customers created an obvious conflict of interest."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Librem One",
+        "story": []
+      },
+      "date": 1557328279400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "423cf7e24cac4a6b"
+      },
+      "id": "423cf7e24cac4a6b",
+      "type": "add",
+      "date": 1557328283500
+    },
+    {
+      "type": "edit",
+      "id": "423cf7e24cac4a6b",
+      "item": {
+        "type": "paragraph",
+        "id": "423cf7e24cac4a6b",
+        "text": "In early May 2019 Purism - a company who had already been around for some time in the fediverse and was known for making laptops without Intel ME - started their own instance."
+      },
+      "date": 1557328366700
+    },
+    {
+      "type": "edit",
+      "id": "423cf7e24cac4a6b",
+      "item": {
+        "type": "paragraph",
+        "id": "423cf7e24cac4a6b",
+        "text": "In early May 2019 Purism - a company who had already been around for some time in the fediverse and was known for making laptops without Intel ME - started their own instance at social.librem.one."
+      },
+      "date": 1557328392400
+    },
+    {
+      "type": "add",
+      "id": "824082cd560a4b93",
+      "item": {
+        "type": "paragraph",
+        "id": "824082cd560a4b93",
+        "text": "Launched with a cringe-inducing advert about \"not looking at your junk\" this instance soon ran into controversy."
+      },
+      "after": "423cf7e24cac4a6b",
+      "date": 1557328453200
+    },
+    {
+      "type": "edit",
+      "id": "824082cd560a4b93",
+      "item": {
+        "type": "paragraph",
+        "id": "824082cd560a4b93",
+        "text": "Launched with a cringe-inducing advert about \"not looking at your junk\" with a Bryan Lunduke voiceover this instance soon ran into controversy."
+      },
+      "date": 1557328497600
+    },
+    {
+      "type": "add",
+      "id": "75f10ba516104ca8",
+      "item": {
+        "type": "paragraph",
+        "id": "75f10ba516104ca8",
+        "text": "The Librem One social instance was really a rebranded version of Mastodon and they had hired the Mastodon developer to customize it for them. One of the customizations was to turn off the reporting feature which allowed users on the instance to report things of concern to the administrator."
+      },
+      "after": "824082cd560a4b93",
+      "date": 1557328604200
+    },
+    {
+      "type": "add",
+      "id": "d65ad874c66ccaa8",
+      "item": {
+        "type": "paragraph",
+        "id": "d65ad874c66ccaa8",
+        "text": "People who had been around in the fediverse for some years knew that disabling moderation features or expressing unwillingness to actively moderate leaves the door wide open for the worst people on the internet to make themselves at home. After sustained complaints Librem One turned the reporting feature back on again."
+      },
+      "after": "75f10ba516104ca8",
+      "date": 1557328743200
+    },
+    {
+      "type": "add",
+      "id": "87cd415d62e7a873",
+      "item": {
+        "type": "paragraph",
+        "id": "87cd415d62e7a873",
+        "text": "Some people in the fediverse expressed concerns about Purism's rebranding of various Free Software apps, including Mastodon, but this was quite normal practice in the Free Software world."
+      },
+      "after": "75f10ba516104ca8",
+      "date": 1557330924800
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1503f085360f6a2"
+      },
+      "id": "d1503f085360f6a2",
+      "type": "add",
+      "after": "d65ad874c66ccaa8",
+      "date": 1559162311200
+    },
+    {
+      "type": "edit",
+      "id": "d1503f085360f6a2",
+      "item": {
+        "type": "html",
+        "id": "d1503f085360f6a2",
+        "text": "<h3>Refusal to moderate</h3>\n"
+      },
+      "date": 1559162362100
+    },
+    {
+      "type": "add",
+      "id": "e583223c8a329bef",
+      "item": {
+        "type": "paragraph",
+        "id": "e583223c8a329bef",
+        "text": "More concerning than the initial lack of reporting was their subsequent refusal to moderate content on their instance."
+      },
+      "after": "d65ad874c66ccaa8",
+      "date": 1559162438700
+    },
+    {
+      "type": "move",
+      "order": [
+        "423cf7e24cac4a6b",
+        "824082cd560a4b93",
+        "75f10ba516104ca8",
+        "87cd415d62e7a873",
+        "d65ad874c66ccaa8",
+        "d1503f085360f6a2",
+        "e583223c8a329bef"
+      ],
+      "id": "e583223c8a329bef",
+      "date": 1559162442600
+    },
+    {
+      "type": "add",
+      "id": "81ca6ad4d6a5be9b",
+      "item": {
+        "type": "paragraph",
+        "id": "81ca6ad4d6a5be9b",
+        "text": "Lacking a robust moderation policy it wasn't long before known bad guys began showing up."
+      },
+      "after": "e583223c8a329bef",
+      "date": 1559162697800
+    },
+    {
+      "type": "edit",
+      "id": "e583223c8a329bef",
+      "item": {
+        "type": "paragraph",
+        "id": "e583223c8a329bef",
+        "text": "More concerning than the initial lack of reporting was their subsequent refusal to moderate content on their instance. The fact that these were paying customers created an obvious conflict of interest."
+      },
+      "date": 1559162765700
+    },
+    {
+      "type": "edit",
+      "id": "e583223c8a329bef",
+      "item": {
+        "type": "paragraph",
+        "id": "e583223c8a329bef",
+        "text": "More concerning than the initial lack of reporting was their subsequent refusal to moderate content on their instance."
+      },
+      "date": 1559162786700
+    },
+    {
+      "type": "edit",
+      "id": "81ca6ad4d6a5be9b",
+      "item": {
+        "type": "paragraph",
+        "id": "81ca6ad4d6a5be9b",
+        "text": "Lacking a robust moderation policy it wasn't long before known bad guys began showing up. The fact that these were paying customers created an obvious conflict of interest."
+      },
+      "date": 1559162797700
+    },
+    {
+      "type": "edit",
+      "id": "81ca6ad4d6a5be9b",
+      "item": {
+        "type": "paragraph",
+        "id": "81ca6ad4d6a5be9b",
+        "text": "Lacking a robust moderation policy it wasn't long before known bandits began showing up. The fact that these were paying customers created an obvious conflict of interest."
+      },
+      "date": 1559162912700
+    }
+  ]
+}

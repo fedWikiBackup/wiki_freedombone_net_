@@ -1,0 +1,387 @@
+{
+  "title": "The Code It Yourself Manifesto",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1751f96b2fbb5dbc",
+      "text": "written by Christian Kellermann on 2016-01-12"
+    },
+    {
+      "type": "paragraph",
+      "id": "0ba20bbd4900873c",
+      "text": "We use software for our everyday needs because we want to get something done. We have goals to achieve and things to do."
+    },
+    {
+      "type": "paragraph",
+      "id": "e780b7a4aa30ff98",
+      "text": "The software we use is coded by brave programmers that have their own goals. Most of the time there is an overlap between their goals and ours."
+    },
+    {
+      "type": "paragraph",
+      "id": "4c9ef522b11311a0",
+      "text": "Over time these will diverge."
+    },
+    {
+      "type": "paragraph",
+      "id": "0f5bd0daa60cdb8f",
+      "text": "This means that the tools we depend on grow features we don't use or understand. There will be bugs in these code parts which will prevent us from reaching our goals."
+    },
+    {
+      "type": "paragraph",
+      "id": "d5423c9ff1f5eb9d",
+      "text": "So we are at a fork in the road:"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a7e7b9b14cfdb3c",
+      "text": "* We have the choice of trying to understand the code and fix it."
+    },
+    {
+      "type": "paragraph",
+      "id": "cc0af497ba098f54",
+      "text": "* We have the choice of trying another program, whose creator's goals are closer to ours."
+    },
+    {
+      "type": "paragraph",
+      "id": "f7fee809c98176ef",
+      "text": "* We also have the choice of coding the software ourself."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a3d4bace1e536ef",
+      "text": "All but the last path mean endless seeking, evaluating and further deviation from our goals. Therefore we replace programs we do not understand fully with our own implementation."
+    },
+    {
+      "type": "paragraph",
+      "id": "1c278065c34cefa2",
+      "text": "The followers of the Code It Yourself Manifesto believe in these things:"
+    },
+    {
+      "type": "paragraph",
+      "id": "22a9c949e8328dbc",
+      "text": "* We implement it according to our own goals."
+    },
+    {
+      "type": "paragraph",
+      "id": "23d7a321fd6f96b8",
+      "text": "* We make mistakes and learn from them."
+    },
+    {
+      "type": "paragraph",
+      "id": "048b87c8347bfdaa",
+      "text": "* We learn how our tools we depend on need to work."
+    },
+    {
+      "type": "paragraph",
+      "id": "5f9f5796e23a5ced",
+      "text": "* We gain a deep understanding of our problem domain."
+    },
+    {
+      "type": "paragraph",
+      "id": "f04d7af63f60d7ee",
+      "text": "We still embrace sharing of ideas and code."
+    },
+    {
+      "type": "paragraph",
+      "id": "6105f5ee7daa172c",
+      "text": "Sharing is only possible if we are excellent developers to each other. The next developer reading our code will be us in a not so distant future. Coding It Ourselves means we will document our code, clearly stating the goal of the software we write."
+    },
+    {
+      "type": "paragraph",
+      "id": "103eed966f2b3629",
+      "text": "Together we enjoy the diversity of implementations and ideas."
+    },
+    {
+      "type": "paragraph",
+      "id": "24cf17e5f6383cf8",
+      "text": "We encourage our colleagues to"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c15c74d775112d1",
+      "text": "*Code It Yourself*"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Code It Yourself Manifesto",
+        "story": []
+      },
+      "date": 1538644862267
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e866ea25be835ee"
+      },
+      "id": "8e866ea25be835ee",
+      "type": "add",
+      "date": 1538644865033
+    },
+    {
+      "type": "remove",
+      "id": "8e866ea25be835ee",
+      "date": 1538644867448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1751f96b2fbb5dbc"
+      },
+      "id": "1751f96b2fbb5dbc",
+      "type": "add",
+      "date": 1538644901231
+    },
+    {
+      "type": "edit",
+      "id": "1751f96b2fbb5dbc",
+      "item": {
+        "type": "paragraph",
+        "id": "1751f96b2fbb5dbc",
+        "text": "written by Christian Kellermann on 2016-01-12"
+      },
+      "date": 1538644928199
+    },
+    {
+      "type": "add",
+      "id": "0ba20bbd4900873c",
+      "item": {
+        "type": "paragraph",
+        "id": "0ba20bbd4900873c",
+        "text": "We use software for our everyday needs because we want to get something done. We have goals to achieve and things to do."
+      },
+      "after": "1751f96b2fbb5dbc",
+      "date": 1538644941046
+    },
+    {
+      "type": "add",
+      "id": "e780b7a4aa30ff98",
+      "item": {
+        "type": "paragraph",
+        "id": "e780b7a4aa30ff98",
+        "text": "The software we use is coded by brave programmers that have their own goals. Most of the time there is an overlap between their goals and ours."
+      },
+      "after": "0ba20bbd4900873c",
+      "date": 1538644951718
+    },
+    {
+      "type": "add",
+      "id": "4c9ef522b11311a0",
+      "item": {
+        "type": "paragraph",
+        "id": "4c9ef522b11311a0",
+        "text": "Over time these will diverge."
+      },
+      "after": "e780b7a4aa30ff98",
+      "date": 1538644962167
+    },
+    {
+      "type": "add",
+      "id": "0f5bd0daa60cdb8f",
+      "item": {
+        "type": "paragraph",
+        "id": "0f5bd0daa60cdb8f",
+        "text": "This means that the tools we depend on grow features we don't use or understand. There will be bugs in these code parts which will prevent us from reaching our goals."
+      },
+      "after": "4c9ef522b11311a0",
+      "date": 1538644974236
+    },
+    {
+      "type": "add",
+      "id": "d5423c9ff1f5eb9d",
+      "item": {
+        "type": "paragraph",
+        "id": "d5423c9ff1f5eb9d",
+        "text": "So we are at a fork in the road:"
+      },
+      "after": "0f5bd0daa60cdb8f",
+      "date": 1538644985373
+    },
+    {
+      "type": "add",
+      "id": "2a7e7b9b14cfdb3c",
+      "item": {
+        "type": "paragraph",
+        "id": "2a7e7b9b14cfdb3c",
+        "text": " * We have the choice of trying to understand the code and fix it.\n * We have the choice of trying another program, whose creator's goals are closer to ours.\n * We also have the choice of coding the software ourself."
+      },
+      "after": "d5423c9ff1f5eb9d",
+      "date": 1538645020240
+    },
+    {
+      "type": "edit",
+      "id": "2a7e7b9b14cfdb3c",
+      "item": {
+        "type": "paragraph",
+        "id": "2a7e7b9b14cfdb3c",
+        "text": " * We have the choice of trying to understand the code and fix it."
+      },
+      "date": 1538645025733
+    },
+    {
+      "type": "add",
+      "id": "cc0af497ba098f54",
+      "item": {
+        "type": "paragraph",
+        "id": "cc0af497ba098f54",
+        "text": " * We have the choice of trying another program, whose creator's goals are closer to ours."
+      },
+      "after": "2a7e7b9b14cfdb3c",
+      "date": 1538645027935
+    },
+    {
+      "type": "add",
+      "id": "f7fee809c98176ef",
+      "item": {
+        "type": "paragraph",
+        "id": "f7fee809c98176ef",
+        "text": "* We also have the choice of coding the software ourself."
+      },
+      "after": "cc0af497ba098f54",
+      "date": 1538645031044
+    },
+    {
+      "type": "edit",
+      "id": "cc0af497ba098f54",
+      "item": {
+        "type": "paragraph",
+        "id": "cc0af497ba098f54",
+        "text": "* We have the choice of trying another program, whose creator's goals are closer to ours."
+      },
+      "date": 1538645037660
+    },
+    {
+      "type": "edit",
+      "id": "2a7e7b9b14cfdb3c",
+      "item": {
+        "type": "paragraph",
+        "id": "2a7e7b9b14cfdb3c",
+        "text": "* We have the choice of trying to understand the code and fix it."
+      },
+      "date": 1538645042412
+    },
+    {
+      "type": "add",
+      "id": "9a3d4bace1e536ef",
+      "item": {
+        "type": "paragraph",
+        "id": "9a3d4bace1e536ef",
+        "text": "All but the last path mean endless seeking, evaluating and further deviation from our goals. Therefore we replace programs we do not understand fully with our own implementation."
+      },
+      "after": "f7fee809c98176ef",
+      "date": 1538645061189
+    },
+    {
+      "type": "add",
+      "id": "1c278065c34cefa2",
+      "item": {
+        "type": "paragraph",
+        "id": "1c278065c34cefa2",
+        "text": "The followers of the Code It Yourself Manifesto believe in these things:"
+      },
+      "after": "9a3d4bace1e536ef",
+      "date": 1538645071589
+    },
+    {
+      "type": "add",
+      "id": "22a9c949e8328dbc",
+      "item": {
+        "type": "paragraph",
+        "id": "22a9c949e8328dbc",
+        "text": "* We implement it according to our own goals."
+      },
+      "after": "1c278065c34cefa2",
+      "date": 1538645082605
+    },
+    {
+      "type": "add",
+      "id": "23d7a321fd6f96b8",
+      "item": {
+        "type": "paragraph",
+        "id": "23d7a321fd6f96b8",
+        "text": "* We make mistakes and learn from them."
+      },
+      "after": "22a9c949e8328dbc",
+      "date": 1538645093620
+    },
+    {
+      "type": "add",
+      "id": "048b87c8347bfdaa",
+      "item": {
+        "type": "paragraph",
+        "id": "048b87c8347bfdaa",
+        "text": "* We learn how our tools we depend on need to work."
+      },
+      "after": "23d7a321fd6f96b8",
+      "date": 1538645104674
+    },
+    {
+      "type": "add",
+      "id": "5f9f5796e23a5ced",
+      "item": {
+        "type": "paragraph",
+        "id": "5f9f5796e23a5ced",
+        "text": "* We gain a deep understanding of our problem domain."
+      },
+      "after": "048b87c8347bfdaa",
+      "date": 1538645117021
+    },
+    {
+      "type": "add",
+      "id": "f04d7af63f60d7ee",
+      "item": {
+        "type": "paragraph",
+        "id": "f04d7af63f60d7ee",
+        "text": "We still embrace sharing of ideas and code."
+      },
+      "after": "5f9f5796e23a5ced",
+      "date": 1538645127283
+    },
+    {
+      "type": "add",
+      "id": "6105f5ee7daa172c",
+      "item": {
+        "type": "paragraph",
+        "id": "6105f5ee7daa172c",
+        "text": "Sharing is only possible if we are excellent developers to each other. The next developer reading our code will be us in a not so distant future. Coding It Ourselves means we will document our code, clearly stating the goal of the software we write."
+      },
+      "after": "f04d7af63f60d7ee",
+      "date": 1538645137811
+    },
+    {
+      "type": "add",
+      "id": "103eed966f2b3629",
+      "item": {
+        "type": "paragraph",
+        "id": "103eed966f2b3629",
+        "text": "Together we enjoy the diversity of implementations and ideas."
+      },
+      "after": "6105f5ee7daa172c",
+      "date": 1538645147086
+    },
+    {
+      "type": "add",
+      "id": "24cf17e5f6383cf8",
+      "item": {
+        "type": "paragraph",
+        "id": "24cf17e5f6383cf8",
+        "text": "We encourage our colleagues to"
+      },
+      "after": "103eed966f2b3629",
+      "date": 1538645156756
+    },
+    {
+      "type": "add",
+      "id": "3c15c74d775112d1",
+      "item": {
+        "type": "paragraph",
+        "id": "3c15c74d775112d1",
+        "text": "*Code It Yourself*"
+      },
+      "after": "24cf17e5f6383cf8",
+      "date": 1538645172547
+    }
+  ]
+}

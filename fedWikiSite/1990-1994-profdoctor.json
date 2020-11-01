@@ -1,0 +1,65 @@
+{
+  "title": "1990-1994 ProfDoctor",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a5504dd89f295a32",
+      "text": "The initial invention of the web. During this time there were not many websites and those which did exist were hosted by academic institutions like MIT and CERN. The content was the profile pages and publication listings of academics."
+    },
+    {
+      "type": "paragraph",
+      "id": "2c28a0ce80114839",
+      "text": "During the early web development there was the idea of separating the data from its presentation. In later years this was typically only partially achieved via CSS."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1990-1994 ProfDoctor",
+        "story": []
+      },
+      "date": 1531299150134
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5504dd89f295a32"
+      },
+      "id": "a5504dd89f295a32",
+      "type": "add",
+      "date": 1531299152779
+    },
+    {
+      "type": "edit",
+      "id": "a5504dd89f295a32",
+      "item": {
+        "type": "paragraph",
+        "id": "a5504dd89f295a32",
+        "text": "The initial invention of the web. Diring this time there were not many websites and those which did exist were hosted by academic institutions like MIT and CERN. The content was the profile pages and publication listings of academics."
+      },
+      "date": 1531299257030
+    },
+    {
+      "type": "edit",
+      "id": "a5504dd89f295a32",
+      "item": {
+        "type": "paragraph",
+        "id": "a5504dd89f295a32",
+        "text": "The initial invention of the web. During this time there were not many websites and those which did exist were hosted by academic institutions like MIT and CERN. The content was the profile pages and publication listings of academics."
+      },
+      "date": 1531308247249
+    },
+    {
+      "type": "add",
+      "id": "2c28a0ce80114839",
+      "item": {
+        "type": "paragraph",
+        "id": "2c28a0ce80114839",
+        "text": "During the early web development there was the idea of separating the data from its presentation. In later years this was typically only partially achieved via CSS."
+      },
+      "after": "a5504dd89f295a32",
+      "date": 1531308338452
+    }
+  ]
+}

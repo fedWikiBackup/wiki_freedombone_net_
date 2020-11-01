@@ -1,0 +1,149 @@
+{
+  "title": "Pseudonymity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b8b84ef71499fd18",
+      "text": "After the web 2.0 systems appeared in the mid 2000s so too did a consensus that \"real names\" were preferable to pseudonyms."
+    },
+    {
+      "type": "paragraph",
+      "id": "d782c17ea1a057af",
+      "text": "The thinking was that if users are anonymous then they're more likely to indulge in antisocial behavior, because there are likely to be no real world repercussions."
+    },
+    {
+      "type": "paragraph",
+      "id": "39df34f87e1f1c9c",
+      "text": "In the fediverse, as on earlier internet systems, pseudonyms are used predominantly and there have been no \"real name\" policies so far."
+    },
+    {
+      "type": "paragraph",
+      "id": "6e92c7756b44d339",
+      "text": "The evolution of Facebook and to a much lesser extent Google+ provided good evidence that \"real names\" do not necessarily produce civility. Instead \"real names\" are much more about producing a consistent social graph for use by advertisers. If you know someone's specific identity then its much easier to target them with advertising and send traditional junk mail to their home address."
+    },
+    {
+      "type": "paragraph",
+      "id": "5799812df2aa2792",
+      "text": "So the obsession with \"real names\" was largely about commercial motives rather than improving the discourse."
+    },
+    {
+      "type": "paragraph",
+      "id": "f377d2780428eca4",
+      "text": "Full anonymity where there isn't a consistent username or where many users are on the same account is difficult to handle because it makes spammers hard to block, but pseudonymity where users have a persistent and unique username/address which is not necessarily linked to any \"legal person\" appears to be optimal."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pseudonymity",
+        "story": []
+      },
+      "date": 1535187809627
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b8b84ef71499fd18"
+      },
+      "id": "b8b84ef71499fd18",
+      "type": "add",
+      "date": 1535187812221
+    },
+    {
+      "type": "edit",
+      "id": "b8b84ef71499fd18",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b84ef71499fd18",
+        "text": "After the web 2.0 systems appeared so too did a consensus that \"real names\" were preferable to pseudonyms."
+      },
+      "date": 1535187873399
+    },
+    {
+      "type": "add",
+      "id": "d782c17ea1a057af",
+      "item": {
+        "type": "paragraph",
+        "id": "d782c17ea1a057af",
+        "text": "The thinking was that if users are anonymous then they're more likely to indulge in antisocial behavior, because there are likely to be no real world repercussions."
+      },
+      "after": "b8b84ef71499fd18",
+      "date": 1535187932344
+    },
+    {
+      "type": "add",
+      "id": "39df34f87e1f1c9c",
+      "item": {
+        "type": "paragraph",
+        "id": "39df34f87e1f1c9c",
+        "text": "In the fediverse, as on earlier internet systems, pseudonyms are used predominantly and there have been no \"real name\" policies so far."
+      },
+      "after": "d782c17ea1a057af",
+      "date": 1535188006217
+    },
+    {
+      "type": "add",
+      "id": "6e92c7756b44d339",
+      "item": {
+        "type": "paragraph",
+        "id": "6e92c7756b44d339",
+        "text": "The evolution of Facebook and to a much lesser extent Google+ provided good evidence that \"real names\" do not necessarily produce civility. Instead \"real names\" are much more about producing a consistent social graph for use by advertisers. If you know someone's specific identity then its much easier to target them with advertising."
+      },
+      "after": "39df34f87e1f1c9c",
+      "date": 1535188233380
+    },
+    {
+      "type": "edit",
+      "id": "6e92c7756b44d339",
+      "item": {
+        "type": "paragraph",
+        "id": "6e92c7756b44d339",
+        "text": "The evolution of Facebook and to a much lesser extent Google+ provided good evidence that \"real names\" do not necessarily produce civility. Instead \"real names\" are much more about producing a consistent social graph for use by advertisers. If you know someone's specific identity then its much easier to target them with advertising and send traditional junk mail to their home address."
+      },
+      "date": 1535188321331
+    },
+    {
+      "type": "add",
+      "id": "5799812df2aa2792",
+      "item": {
+        "type": "paragraph",
+        "id": "5799812df2aa2792",
+        "text": "So the obsession with \"real names\" was largely about commercial motives rather than improving the discourse."
+      },
+      "after": "6e92c7756b44d339",
+      "date": 1535188451328
+    },
+    {
+      "type": "edit",
+      "id": "b8b84ef71499fd18",
+      "item": {
+        "type": "paragraph",
+        "id": "b8b84ef71499fd18",
+        "text": "After the web 2.0 systems appeared in the mid 2000s so too did a consensus that \"real names\" were preferable to pseudonyms."
+      },
+      "date": 1535188577527
+    },
+    {
+      "type": "add",
+      "id": "f377d2780428eca4",
+      "item": {
+        "type": "paragraph",
+        "id": "f377d2780428eca4",
+        "text": "Full anonymity where there isn't a consistent username or where many users are on the same account is difficult to handle because it makes spammers hard to block, but pseudonymity where users have a persistent and unique username which is not necessarily linked to any \"legal person\" appears to be optimal."
+      },
+      "after": "5799812df2aa2792",
+      "date": 1535189139897
+    },
+    {
+      "type": "edit",
+      "id": "f377d2780428eca4",
+      "item": {
+        "type": "paragraph",
+        "id": "f377d2780428eca4",
+        "text": "Full anonymity where there isn't a consistent username or where many users are on the same account is difficult to handle because it makes spammers hard to block, but pseudonymity where users have a persistent and unique username/address which is not necessarily linked to any \"legal person\" appears to be optimal."
+      },
+      "date": 1535189184102
+    }
+  ]
+}

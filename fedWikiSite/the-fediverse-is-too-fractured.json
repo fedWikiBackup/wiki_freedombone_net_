@@ -1,0 +1,97 @@
+{
+  "title": "The fediverse is too fractured",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "38df49dbf23eca1c",
+      "text": "Too bad. Celebrity culture isn't what the fediverse is about. If you try to gather millions of followers then that probably won't work, and your user interface will appear to grind to a halt."
+    },
+    {
+      "type": "paragraph",
+      "id": "00b92bbd21db62d3",
+      "text": "The fediverse is more about cultivating a smaller number of strong ties, rather than having millions of weak or meaningless associations."
+    },
+    {
+      "type": "paragraph",
+      "id": "38376077fb415ef8",
+      "text": "When celebrities from the centralized systems join the fediverse they usually quickly realize that they're not going to get millions of followers and leave within a couple of weeks. Good riddance."
+    },
+    {
+      "type": "paragraph",
+      "id": "04368d65851fd1d8",
+      "text": "Celebrity culture only provides a fake community. The fediverse is more about real community."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The fediverse is too fractured",
+        "story": []
+      },
+      "date": 1517001108859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38df49dbf23eca1c"
+      },
+      "id": "38df49dbf23eca1c",
+      "type": "add",
+      "date": 1517001110492
+    },
+    {
+      "type": "edit",
+      "id": "38df49dbf23eca1c",
+      "item": {
+        "type": "paragraph",
+        "id": "38df49dbf23eca1c",
+        "text": "Too bad. Celebrity culture isn't what the fediverse is about. If you try to gather millions of followers then that probably won't work, and your user interface will appear to grind to a halt."
+      },
+      "date": 1517001202507
+    },
+    {
+      "type": "add",
+      "id": "00b92bbd21db62d3",
+      "item": {
+        "type": "paragraph",
+        "id": "00b92bbd21db62d3",
+        "text": "The fediverse is more about cultivating a smaller number of strong ties, rather than having millions of weak or meaningless associations."
+      },
+      "after": "38df49dbf23eca1c",
+      "date": 1517001251026
+    },
+    {
+      "type": "add",
+      "id": "38376077fb415ef8",
+      "item": {
+        "type": "paragraph",
+        "id": "38376077fb415ef8",
+        "text": "When celebrities from the centralized systems join the fediverse they usually quickly realize that they're not going to get millions of followers and leave within a couple of weeks."
+      },
+      "after": "00b92bbd21db62d3",
+      "date": 1517001328418
+    },
+    {
+      "type": "add",
+      "id": "04368d65851fd1d8",
+      "item": {
+        "type": "paragraph",
+        "id": "04368d65851fd1d8",
+        "text": "Celebrity culture only provides a fake community. The fediverse is more about real community."
+      },
+      "after": "38376077fb415ef8",
+      "date": 1517001370312
+    },
+    {
+      "type": "edit",
+      "id": "38376077fb415ef8",
+      "item": {
+        "type": "paragraph",
+        "id": "38376077fb415ef8",
+        "text": "When celebrities from the centralized systems join the fediverse they usually quickly realize that they're not going to get millions of followers and leave within a couple of weeks. Good riddance."
+      },
+      "date": 1517001465681
+    }
+  ]
+}

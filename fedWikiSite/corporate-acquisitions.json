@@ -1,0 +1,88 @@
+{
+  "title": "Corporate Acquisitions",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Corporate Acquisitions",
+        "story": []
+      },
+      "date": 1550682555617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02880a731e87d6f3"
+      },
+      "id": "02880a731e87d6f3",
+      "type": "add",
+      "date": 1550682558998
+    },
+    {
+      "type": "edit",
+      "id": "02880a731e87d6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "02880a731e87d6f3",
+        "text": "In december 2018 "
+      },
+      "date": 1550682573270
+    },
+    {
+      "type": "edit",
+      "id": "02880a731e87d6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "02880a731e87d6f3",
+        "text": "In december 2018 Kibousoft bought mastodon.cloud which was a large instance with 50,000 accounts. The reason for the buyout was unclear, but suspected to be in order to obtain and then sell user data."
+      },
+      "date": 1550682649645
+    },
+    {
+      "type": "edit",
+      "id": "02880a731e87d6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "02880a731e87d6f3",
+        "text": "In december 2018 Kibousoft bought mastodon.cloud which was a large instance with 50,000 accounts. The reason for the buyout was unclear, but suspected to be in order to obtain and then sell user data or for some future smartphone app integration."
+      },
+      "date": 1550682712434
+    },
+    {
+      "type": "edit",
+      "id": "02880a731e87d6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "02880a731e87d6f3",
+        "text": "In december 2018 [Kibousoft](https://press.kibousoft.co.jp/posts/takeover-of-operation-of-mastodon-cloud-a-mastodon-instance-with-over-50-000-registered-users/) bought mastodon.cloud which was a large instance with 50,000 accounts. The reason for the buyout was unclear, but suspected to be in order to obtain and then sell user data or for some future mobile app integration."
+      },
+      "date": 1550682744820
+    },
+    {
+      "type": "edit",
+      "id": "02880a731e87d6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "02880a731e87d6f3",
+        "text": "In december 2018 [Kibousoft https://press.kibousoft.co.jp/posts/takeover-of-operation-of-mastodon-cloud-a-mastodon-instance-with-over-50-000-registered-users/] bought mastodon.cloud which was a large instance with 50,000 accounts. The reason for the buyout was unclear, but suspected to be in order to obtain and then sell user data or for some future mobile app integration."
+      },
+      "date": 1550682819313
+    },
+    {
+      "type": "edit",
+      "id": "02880a731e87d6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "02880a731e87d6f3",
+        "text": "In december 2018 [https://press.kibousoft.co.jp/posts/takeover-of-operation-of-mastodon-cloud-a-mastodon-instance-with-over-50-000-registered-users/ Kibousoft] bought mastodon.cloud which was a large instance with 50,000 accounts. The reason for the buyout was unclear, but suspected to be in order to obtain and then sell user data or for some future mobile app integration."
+      },
+      "date": 1550682842883
+    },
+    {
+      "type": "remove",
+      "id": "02880a731e87d6f3",
+      "date": 1550689166077
+    }
+  ]
+}

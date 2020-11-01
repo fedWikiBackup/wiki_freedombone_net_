@@ -1,0 +1,301 @@
+{
+  "title": "2018: A perfect storm",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3f10a230271bf2bb",
+      "text": "In 2018 the exoduses didn't let up."
+    },
+    {
+      "type": "paragraph",
+      "id": "55b88560b4adbeb5",
+      "text": "In April the first instance for sex workers appeared. This was in response to the [https://en.wikipedia.org/wiki/Stop_Enabling_Sex_Traffickers_Act SESTA] act in the US, which made the more mainstream sites nervous about hosting anything which might be related to sex work of any kind, and as a consequence began the large scale purging of accounts which might be related to that. The Switter instance rapidly grew to host a large number of users displaced from various other sites by the new law."
+    },
+    {
+      "type": "paragraph",
+      "id": "0c33d4e93d921373",
+      "text": "In August a combination of bad decisions made by the CEO of Twitter resulted in a kind of perfect storm in which at its peak 17,000 new users arrived in a single day."
+    },
+    {
+      "type": "paragraph",
+      "id": "62d67ec6a0c0ab1a",
+      "text": "The factors creating the August Twitter storm were:"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0d3b5c496e8d9d2",
+      "text": "* Changes to the Twitter API, resulting in client apps breaking"
+    },
+    {
+      "type": "paragraph",
+      "id": "25eae0c9ee47b38e",
+      "text": "* A witch hunt against Terms of Service violators, almost certainly automated via AI rather than manual vetting. Violations were often silly things taken out of context from tweets a year or more old"
+    },
+    {
+      "type": "paragraph",
+      "id": "7fb3578f50e2d2d2",
+      "text": "* It became increasingly obvious that the Twitter CEO's decisions were politically motivated, leading many users to consider themselves unsafe on that platform"
+    },
+    {
+      "type": "paragraph",
+      "id": "5800b6f6bfce538d",
+      "text": "* Closing the alt accounts of Twitter users in an attempt to consolidate a singular identity in the same manner as Facebook. Users often had multiple accounts for different purposes."
+    },
+    {
+      "type": "paragraph",
+      "id": "7b854aaaa9cfe602",
+      "text": "In early December there was another exodus, this time from Tumblr which had adopted a new policy of banning adult content. Like Facebook, Tublr tried to use AI to detect images containing what it called \"female-presenting nipples\", but the AI was hopelessly bad and caused an avalanche of false positives resulting in account suspensions."
+    },
+    {
+      "type": "paragraph",
+      "id": "1da1fb1c438ece80",
+      "text": "In the same week that Tublr began its purge of adult content Facebook also changed its terms of service to follow suit in what appeared to be a coordinated takedown. Facebook's new terms forbade pretty much anything even tangentally related to sex, including things such as the discussion of sexual orientation or partner preferences."
+    },
+    {
+      "type": "paragraph",
+      "id": "93a20981e5c058f4",
+      "text": "Also in 2018 Google announced that its social network service, known as Google+, would soon be closed. The fediverse gained some new people as a result, although by that time the number of users on Google+ had dwindled to a small community."
+    },
+    {
+      "type": "paragraph",
+      "id": "e8abf20a531ada5d",
+      "text": "By the end of 2018 Facebook's AI moderation was becoming more of a problem for the average user of that system. Even expressing frustration in some mild forms, such as \"men are trash!\", was enough to result in account suspension due to the misidentification of \"hate speech\"."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2018: A perfect storm",
+        "story": []
+      },
+      "date": 1534436709797
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f10a230271bf2bb"
+      },
+      "id": "3f10a230271bf2bb",
+      "type": "add",
+      "date": 1534436711310
+    },
+    {
+      "type": "edit",
+      "id": "3f10a230271bf2bb",
+      "item": {
+        "type": "paragraph",
+        "id": "3f10a230271bf2bb",
+        "text": "In 2018 growth in the number of active users was mostly steady, but in August a combination of bad decisions made by the CEO of Twitter resulted in a kind of perfect storm in which at its peak 17,000 new users arrived in a single day."
+      },
+      "date": 1534436848927
+    },
+    {
+      "type": "add",
+      "id": "62d67ec6a0c0ab1a",
+      "item": {
+        "type": "paragraph",
+        "id": "62d67ec6a0c0ab1a",
+        "text": "The factors creating the August Twitter storm were:"
+      },
+      "after": "3f10a230271bf2bb",
+      "date": 1534436875522
+    },
+    {
+      "type": "add",
+      "id": "e0d3b5c496e8d9d2",
+      "item": {
+        "type": "paragraph",
+        "id": "e0d3b5c496e8d9d2",
+        "text": "* Changes to the Twitter API, resulting in client apps breaking"
+      },
+      "after": "62d67ec6a0c0ab1a",
+      "date": 1534436895119
+    },
+    {
+      "type": "add",
+      "id": "25eae0c9ee47b38e",
+      "item": {
+        "type": "paragraph",
+        "id": "25eae0c9ee47b38e",
+        "text": "* A witch hunt against Terms of Service violators, almost certainly automated via AI rather than manual vetting"
+      },
+      "after": "e0d3b5c496e8d9d2",
+      "date": 1534436944950
+    },
+    {
+      "type": "add",
+      "id": "7fb3578f50e2d2d2",
+      "item": {
+        "type": "paragraph",
+        "id": "7fb3578f50e2d2d2",
+        "text": "* It became increasingly obvious that the Twitter CEO's decisions were politically motivated, leading many users to consider themselves unsafe on that platform"
+      },
+      "after": "25eae0c9ee47b38e",
+      "date": 1534437057710
+    },
+    {
+      "type": "add",
+      "id": "5800b6f6bfce538d",
+      "item": {
+        "type": "paragraph",
+        "id": "5800b6f6bfce538d",
+        "text": "* Closing the alt accounts of Twitter users in an attempt to consolidate a singular identity in the same manner as Facebook"
+      },
+      "after": "7fb3578f50e2d2d2",
+      "date": 1534437145732
+    },
+    {
+      "type": "edit",
+      "id": "5800b6f6bfce538d",
+      "item": {
+        "type": "paragraph",
+        "id": "5800b6f6bfce538d",
+        "text": "* Closing the alt accounts of Twitter users in an attempt to consolidate a singular identity in the same manner as Facebook. Users often had multiple accounts for different purposes."
+      },
+      "date": 1534437183172
+    },
+    {
+      "type": "edit",
+      "id": "25eae0c9ee47b38e",
+      "item": {
+        "type": "paragraph",
+        "id": "25eae0c9ee47b38e",
+        "text": "* A witch hunt against Terms of Service violators, almost certainly automated via AI rather than manual vetting. Violations were often silly things taken out of context from tweets a year or more old"
+      },
+      "date": 1534437224348
+    },
+    {
+      "type": "add",
+      "id": "7b854aaaa9cfe602",
+      "item": {
+        "type": "paragraph",
+        "id": "7b854aaaa9cfe602",
+        "text": "In early December there was another exodus, this time from Tumblr which had adopted a new policy of banning adult content. Like Facebook, Tublr tried to use AI to detect images containing exposed nipples, but the AI was hopelessly bad and caused an avalanche of false positives resulting in account suspensions."
+      },
+      "after": "5800b6f6bfce538d",
+      "date": 1543960419431
+    },
+    {
+      "type": "add",
+      "id": "d31012d5b9a43123",
+      "item": {
+        "type": "paragraph",
+        "id": "d31012d5b9a43123",
+        "text": "<h3>test</h3>"
+      },
+      "after": "3f10a230271bf2bb",
+      "date": 1543960489025
+    },
+    {
+      "type": "remove",
+      "id": "d31012d5b9a43123",
+      "date": 1543960493054
+    },
+    {
+      "type": "edit",
+      "id": "7b854aaaa9cfe602",
+      "item": {
+        "type": "paragraph",
+        "id": "7b854aaaa9cfe602",
+        "text": "In early December there was another exodus, this time from Tumblr which had adopted a new policy of banning adult content. Like Facebook, Tublr tried to use AI to detect images containing what it called \"female-presenting nipples\", but the AI was hopelessly bad and caused an avalanche of false positives resulting in account suspensions."
+      },
+      "date": 1543960721329
+    },
+    {
+      "type": "edit",
+      "id": "3f10a230271bf2bb",
+      "item": {
+        "type": "paragraph",
+        "id": "3f10a230271bf2bb",
+        "text": "In 2018 the exoduses didn't let up. "
+      },
+      "date": 1543961202357
+    },
+    {
+      "type": "add",
+      "id": "0c33d4e93d921373",
+      "item": {
+        "type": "paragraph",
+        "id": "0c33d4e93d921373",
+        "text": "In August a combination of bad decisions made by the CEO of Twitter resulted in a kind of perfect storm in which at its peak 17,000 new users arrived in a single day."
+      },
+      "after": "3f10a230271bf2bb",
+      "date": 1543961207257
+    },
+    {
+      "type": "edit",
+      "id": "3f10a230271bf2bb",
+      "item": {
+        "type": "paragraph",
+        "id": "3f10a230271bf2bb",
+        "text": "In 2018 the exoduses didn't let up."
+      },
+      "date": 1543961208681
+    },
+    {
+      "type": "add",
+      "id": "55b88560b4adbeb5",
+      "item": {
+        "type": "paragraph",
+        "id": "55b88560b4adbeb5",
+        "text": "In April the first instance for sex workers appeared. This was in response to the [https://en.wikipedia.org/wiki/Stop_Enabling_Sex_Traffickers_Act SESTA] act in the US, which made the more mainstream sites nervous about hosting anything which might be related to sex work of any kind, and as a consequence began the large scale purging of accounts which might be related to that. Switter rapidly grew to host a large number of users displaced from various other sites by the new law."
+      },
+      "after": "3f10a230271bf2bb",
+      "date": 1543961281568
+    },
+    {
+      "type": "edit",
+      "id": "55b88560b4adbeb5",
+      "item": {
+        "type": "paragraph",
+        "id": "55b88560b4adbeb5",
+        "text": "In April the first instance for sex workers appeared. This was in response to the [https://en.wikipedia.org/wiki/Stop_Enabling_Sex_Traffickers_Act SESTA] act in the US, which made the more mainstream sites nervous about hosting anything which might be related to sex work of any kind, and as a consequence began the large scale purging of accounts which might be related to that. The Switter instance rapidly grew to host a large number of users displaced from various other sites by the new law."
+      },
+      "date": 1543961342641
+    },
+    {
+      "type": "add",
+      "id": "1da1fb1c438ece80",
+      "item": {
+        "type": "paragraph",
+        "id": "1da1fb1c438ece80",
+        "text": "In the same week that Tublr began its purge of adult content Facebook also changed its terms of service to effectively do the same thing. Facebook's new terms forbade pretty much anything even tangentally related to sex, including things such as the discussion of sexual orientation or partner preferences."
+      },
+      "after": "7b854aaaa9cfe602",
+      "date": 1545479940300
+    },
+    {
+      "type": "edit",
+      "id": "1da1fb1c438ece80",
+      "item": {
+        "type": "paragraph",
+        "id": "1da1fb1c438ece80",
+        "text": "In the same week that Tublr began its purge of adult content Facebook also changed its terms of service to follow suit in what appeared to be a coordinated takedown. Facebook's new terms forbade pretty much anything even tangentally related to sex, including things such as the discussion of sexual orientation or partner preferences."
+      },
+      "date": 1545480041500
+    },
+    {
+      "type": "add",
+      "id": "e8abf20a531ada5d",
+      "item": {
+        "type": "paragraph",
+        "id": "e8abf20a531ada5d",
+        "text": "By the end of 2018 Facebook's AI moderation was becoming more of a problem for the average user of that system. Even expressing frustration in some mild forms, such as \"men are trash!\", was enough to result in account suspension due to the misidentification of \"hate speech\"."
+      },
+      "after": "1da1fb1c438ece80",
+      "date": 1545480503800
+    },
+    {
+      "type": "add",
+      "id": "93a20981e5c058f4",
+      "item": {
+        "type": "paragraph",
+        "id": "93a20981e5c058f4",
+        "text": "Also in 2018 Google announced that its social network service, known as Google+, would soon be closed. The fediverse gained some new people as a result, although by that time the number of users on Google+ had dwindled to a small community."
+      },
+      "after": "1da1fb1c438ece80",
+      "date": 1545482361100
+    }
+  ]
+}

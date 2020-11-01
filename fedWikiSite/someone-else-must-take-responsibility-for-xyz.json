@@ -1,0 +1,123 @@
+{
+  "title": "Someone else must take responsibility for XYZ",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5144cd6990be826c",
+      "text": "If you're coming from a centralized system then you're typically familiar with the class divisions which exist there."
+    },
+    {
+      "type": "paragraph",
+      "id": "bcce90f44bfa78cf",
+      "text": "In the centralized model the corporate owners are all-powerful and users are merely helpless underlings who have things done to them by the Genius Developers (TM) of the system who work under the instructions of their corporate overlords."
+    },
+    {
+      "type": "paragraph",
+      "id": "eff92b6d1dfd6bf4",
+      "text": "Decentralized systems, like the fediverse, are a lot more grassroots in their orientation."
+    },
+    {
+      "type": "paragraph",
+      "id": "baf97e193acbbad0",
+      "text": "There may be an instance admin who can intervene, but usually folks have to figure things out for themselves. This may sometimes mean having to move to another instance or start your own instance."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a76b78018ec34fb",
+      "text": "Another consequence of this is that there is greater incentive to show solidarity with your fellow instance dwellers. There is probably no savior who is going to intervene otherwise."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Someone else must take responsibility for XYZ",
+        "story": []
+      },
+      "date": 1516998727902
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5144cd6990be826c"
+      },
+      "id": "5144cd6990be826c",
+      "type": "add",
+      "date": 1516998731374
+    },
+    {
+      "type": "edit",
+      "id": "5144cd6990be826c",
+      "item": {
+        "type": "paragraph",
+        "id": "5144cd6990be826c",
+        "text": "If you're coming from a centralized system then you're typically familiar with the class divisions which exist there."
+      },
+      "date": 1516998768423
+    },
+    {
+      "type": "add",
+      "id": "bcce90f44bfa78cf",
+      "item": {
+        "type": "paragraph",
+        "id": "bcce90f44bfa78cf",
+        "text": "In the centralized model the corporate owners are all-powerful and users are merely helpless underlings who have things done to them by the Genius Developers (TM) of the system who work under the instructions of their corporate overlords."
+      },
+      "after": "5144cd6990be826c",
+      "date": 1516998852078
+    },
+    {
+      "type": "add",
+      "id": "eff92b6d1dfd6bf4",
+      "item": {
+        "type": "paragraph",
+        "id": "eff92b6d1dfd6bf4",
+        "text": "Decentralized systems, like the fediverse, are a lot more grassroots in orientation."
+      },
+      "after": "bcce90f44bfa78cf",
+      "date": 1516998887006
+    },
+    {
+      "type": "edit",
+      "id": "eff92b6d1dfd6bf4",
+      "item": {
+        "type": "paragraph",
+        "id": "eff92b6d1dfd6bf4",
+        "text": "Decentralized systems, like the fediverse, are a lot more grassroots in their orientation."
+      },
+      "date": 1516998896320
+    },
+    {
+      "type": "add",
+      "id": "baf97e193acbbad0",
+      "item": {
+        "type": "paragraph",
+        "id": "baf97e193acbbad0",
+        "text": "There may be an instance admin who "
+      },
+      "after": "eff92b6d1dfd6bf4",
+      "date": 1516999076443
+    },
+    {
+      "type": "edit",
+      "id": "baf97e193acbbad0",
+      "item": {
+        "type": "paragraph",
+        "id": "baf97e193acbbad0",
+        "text": "There may be an instance admin who can intervene, but usually folks have to figure things out for themselves. This may sometimes mean having to move to another instance or start your own instance."
+      },
+      "date": 1516999370315
+    },
+    {
+      "type": "add",
+      "id": "5a76b78018ec34fb",
+      "item": {
+        "type": "paragraph",
+        "id": "5a76b78018ec34fb",
+        "text": "Another consequence of this is that there is greater incentive to show solidarity with your fellow instance dwellers. There is probably no savior who is going to intervene otherwise."
+      },
+      "after": "baf97e193acbbad0",
+      "date": 1516999538818
+    }
+  ]
+}

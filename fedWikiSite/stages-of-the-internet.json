@@ -1,0 +1,175 @@
+{
+  "title": "Stages of the Internet",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5fb9cfc3f9d6f93f",
+      "text": "A history of the internet as a number of stages."
+    },
+    {
+      "type": "paragraph",
+      "id": "491f9970987badec",
+      "text": "[[1990-1994 ProfDoctor]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "715a443094b5b2cb",
+      "text": "[[1995-1997 Web 1.0 begins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4c0f186950e0c2d6",
+      "text": "[[1998-2001 Dotcom]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f640bc24bc5fcefe",
+      "text": "[[2002-2004 Blogosphere]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "94c8a9dbd410dd22",
+      "text": "[[2005-2009 Web 2.0 begins]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cbc28a7fcd7641f4",
+      "text": "[[2010-present Surveillance Capital]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stages of the Internet",
+        "story": []
+      },
+      "date": 1531298407958
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5fb9cfc3f9d6f93f"
+      },
+      "id": "5fb9cfc3f9d6f93f",
+      "type": "add",
+      "date": 1531298409930
+    },
+    {
+      "type": "edit",
+      "id": "5fb9cfc3f9d6f93f",
+      "item": {
+        "type": "paragraph",
+        "id": "5fb9cfc3f9d6f93f",
+        "text": "A history of the internet as a number of stages."
+      },
+      "date": 1531298427299
+    },
+    {
+      "type": "add",
+      "id": "491f9970987badec",
+      "item": {
+        "type": "paragraph",
+        "id": "491f9970987badec",
+        "text": "[[1990-1994 ProfDoctor]]"
+      },
+      "after": "5fb9cfc3f9d6f93f",
+      "date": 1531298467653
+    },
+    {
+      "type": "add",
+      "id": "715a443094b5b2cb",
+      "item": {
+        "type": "paragraph",
+        "id": "715a443094b5b2cb",
+        "text": "[[1995-1997 Home Pages]]"
+      },
+      "after": "491f9970987badec",
+      "date": 1531298508107
+    },
+    {
+      "type": "add",
+      "id": "4c0f186950e0c2d6",
+      "item": {
+        "type": "paragraph",
+        "id": "4c0f186950e0c2d6",
+        "text": "[[1998-2001 Dotcom]]"
+      },
+      "after": "715a443094b5b2cb",
+      "date": 1531298532579
+    },
+    {
+      "type": "edit",
+      "id": "715a443094b5b2cb",
+      "item": {
+        "type": "paragraph",
+        "id": "715a443094b5b2cb",
+        "text": "[[1995-1997 Web 1.0]]"
+      },
+      "date": 1531298588599
+    },
+    {
+      "type": "edit",
+      "id": "715a443094b5b2cb",
+      "item": {
+        "type": "paragraph",
+        "id": "715a443094b5b2cb",
+        "text": "[[1995-1997 Web 1.0 begins]]"
+      },
+      "date": 1531298603187
+    },
+    {
+      "type": "add",
+      "id": "f640bc24bc5fcefe",
+      "item": {
+        "type": "paragraph",
+        "id": "f640bc24bc5fcefe",
+        "text": "[[2002-2004 Blogosphere]]"
+      },
+      "after": "4c0f186950e0c2d6",
+      "date": 1531298767818
+    },
+    {
+      "type": "add",
+      "id": "94c8a9dbd410dd22",
+      "item": {
+        "type": "paragraph",
+        "id": "94c8a9dbd410dd22",
+        "text": "[[2005-2010 Web 2.0 begins]]"
+      },
+      "after": "f640bc24bc5fcefe",
+      "date": 1531298843249
+    },
+    {
+      "type": "add",
+      "id": "cbc28a7fcd7641f4",
+      "item": {
+        "type": "paragraph",
+        "id": "cbc28a7fcd7641f4",
+        "text": "[[2011-present Surveillance Capital]]"
+      },
+      "after": "94c8a9dbd410dd22",
+      "date": 1531298876401
+    },
+    {
+      "type": "edit",
+      "id": "94c8a9dbd410dd22",
+      "item": {
+        "type": "paragraph",
+        "id": "94c8a9dbd410dd22",
+        "text": "[[2005-2009 Web 2.0 begins]]"
+      },
+      "date": 1531298946354
+    },
+    {
+      "type": "edit",
+      "id": "cbc28a7fcd7641f4",
+      "item": {
+        "type": "paragraph",
+        "id": "cbc28a7fcd7641f4",
+        "text": "[[2010-present Surveillance Capital]]"
+      },
+      "date": 1531298953391
+    }
+  ]
+}

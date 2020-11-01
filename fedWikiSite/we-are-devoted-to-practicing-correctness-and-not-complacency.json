@@ -1,0 +1,39 @@
+{
+  "title": "We are devoted to practicing correctness and not complacency",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b38c47397318db39",
+      "text": "We refuse to accept ongoing technical blunders in spite of their proponents, because we know that while emotions are temporary legacy systems are forever."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We are devoted to practicing correctness and not complacency",
+        "story": []
+      },
+      "date": 1527501601680
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b38c47397318db39"
+      },
+      "id": "b38c47397318db39",
+      "type": "add",
+      "date": 1527501610390
+    },
+    {
+      "type": "edit",
+      "id": "b38c47397318db39",
+      "item": {
+        "type": "paragraph",
+        "id": "b38c47397318db39",
+        "text": "We refuse to accept ongoing technical blunders in spite of their proponents, because we know that while emotions are temporary legacy systems are forever."
+      },
+      "date": 1527501613300
+    }
+  ]
+}

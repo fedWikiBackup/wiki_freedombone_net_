@@ -1,0 +1,534 @@
+{
+  "title": "introduction",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a7b0faf58f020da4",
+      "text": "In simple terms the fediverse is a collection of servers run by many different people which post messages to each other using the [https://en.wikipedia.org/wiki/OStatus OStatus] or [https://en.wikipedia.org/wiki/ActivityPub ActivityPub] protocols."
+    },
+    {
+      "type": "paragraph",
+      "id": "aaed25d509c0b700",
+      "text": "In the olden days email worked in a quite similar way, although with different protocols. Before Gmail and things like that many individuals and organizations ran their own email servers. Fediverse addresses are also similar to email addresses: myusername@myinstancedomain."
+    },
+    {
+      "type": "paragraph",
+      "id": "addb2a9d6ac89dd7",
+      "text": "Fediverse servers are usually called \"instances\". It's not really clear where this terminology comes from, but most likely it originates from object oriented programming."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ec4467aa5ddab01",
+      "text": "The fediverse has existed for about as long as Twitter, starting at around the same time in 2008, but up until 2012 its existence it was centralized around a single instance called [https://en.wikipedia.org/wiki/Identi.ca identi.ca], or in the form of StatusNet subdomains."
+    },
+    {
+      "type": "paragraph",
+      "id": "0e3b6cba611cba2e",
+      "text": "After 2012 the identi.ca development split in two. One becoming pump.io, with a completely new javascript codebase, and the other becoming GNU Social, based on the original StatusNet PHP codebase. pump.io subsequently suffered from lack of development and a horribly buggy web user interface. Although it's still around it pretty much went nowhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "9bb4770dd61c29cf",
+      "text": "The word \"fediverse\" itself appears to have originated at around the same time as this split."
+    },
+    {
+      "type": "paragraph",
+      "id": "bd8e0d39e607bc36",
+      "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"The Quitter Era\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby. Then in 2017 a new fediverse server system called Pleroma appeared, written in Elixir. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2f10809a6f4a9ba7",
+      "text": "After 2018 implementations of ActivityPub became more common, including systems such as microblog.pub, Epicyon, PeerTube and PixelFed."
+    },
+    {
+      "type": "paragraph",
+      "id": "dc127a35f425dc2c",
+      "text": "Today Mastodon is by far the most popular fediverse software with 90+% of the active users."
+    },
+    {
+      "type": "paragraph",
+      "id": "167e199bccb304ca",
+      "text": "In terms of numbers of users there was probably a peak somewhere around 2010 on identi.ca. After that there were not many users (a few tens) until the first major Twitter exodus in 2016. Today the size of the fediverse has grown far beyond even the identi.ca peak, with thousands of instances and tens of thousands of active users. By the end of 2017 Mastodon reported a million user accounts, although only a fraction of those will have been active."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "introduction",
+        "story": []
+      },
+      "date": 1516994645900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7b0faf58f020da4"
+      },
+      "id": "a7b0faf58f020da4",
+      "type": "add",
+      "date": 1516994650700
+    },
+    {
+      "type": "edit",
+      "id": "a7b0faf58f020da4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7b0faf58f020da4",
+        "text": "In the beginning it was dark and cold. Someone ran Vim, but then didn't know how to exit."
+      },
+      "date": 1516994714300
+    },
+    {
+      "type": "edit",
+      "id": "a7b0faf58f020da4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7b0faf58f020da4",
+        "text": "In simple terms the fediverse is a collection of servers run by many different people which post messages to each other using the OStatus or ActivityPub protocols. In this regard it's quite similar to how email worked in the olden days. Individuals and organizations had their own email server "
+      },
+      "date": 1517048497407
+    },
+    {
+      "type": "edit",
+      "id": "a7b0faf58f020da4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7b0faf58f020da4",
+        "text": "In simple terms the fediverse is a collection of servers run by many different people which post messages to each other using the OStatus or ActivityPub protocols."
+      },
+      "date": 1517048518945
+    },
+    {
+      "type": "add",
+      "id": "aaed25d509c0b700",
+      "item": {
+        "type": "paragraph",
+        "id": "aaed25d509c0b700",
+        "text": " In this regard it's quite similar to how email worked in the olden days. Individuals and organizations had their own email server "
+      },
+      "after": "a7b0faf58f020da4",
+      "date": 1517048519073
+    },
+    {
+      "type": "edit",
+      "id": "aaed25d509c0b700",
+      "item": {
+        "type": "paragraph",
+        "id": "aaed25d509c0b700",
+        "text": "In the olden days email worked in a quite similar way, although with different protocols. Before Gmail and things like that many individuals and organizations ran their own email server. Fediverse addresses are also similar to email addresses: myusername@mydomain."
+      },
+      "date": 1517048632024
+    },
+    {
+      "type": "edit",
+      "id": "aaed25d509c0b700",
+      "item": {
+        "type": "paragraph",
+        "id": "aaed25d509c0b700",
+        "text": "In the olden days email worked in a quite similar way, although with different protocols. Before Gmail and things like that many individuals and organizations ran their own email server. Fediverse addresses are also similar to email addresses: myusername@myinstancedomain."
+      },
+      "date": 1517048657733
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "addb2a9d6ac89dd7"
+      },
+      "id": "addb2a9d6ac89dd7",
+      "type": "add",
+      "after": "aaed25d509c0b700",
+      "date": 1517048670979
+    },
+    {
+      "type": "edit",
+      "id": "addb2a9d6ac89dd7",
+      "item": {
+        "type": "paragraph",
+        "id": "addb2a9d6ac89dd7",
+        "text": "Fediverse servers are usually called \"instances\". It's not really clear where this comes from, but most likely it originates from object oriented programming terminology."
+      },
+      "date": 1517048730928
+    },
+    {
+      "type": "edit",
+      "id": "a7b0faf58f020da4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7b0faf58f020da4",
+        "text": "In simple terms the fediverse is a collection of servers run by many different people which post messages to each other using the [https://en.wikipedia.org/wiki/OStatus OStatus] or [ ActivityPub] protocols."
+      },
+      "date": 1517048809567
+    },
+    {
+      "type": "edit",
+      "id": "a7b0faf58f020da4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7b0faf58f020da4",
+        "text": "In simple terms the fediverse is a collection of servers run by many different people which post messages to each other using the [https://en.wikipedia.org/wiki/OStatus OStatus] or [https://en.wikipedia.org/wiki/ActivityPub ActivityPub] protocols."
+      },
+      "date": 1517048829991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ec4467aa5ddab01"
+      },
+      "id": "1ec4467aa5ddab01",
+      "type": "add",
+      "after": "addb2a9d6ac89dd7",
+      "date": 1517049075821
+    },
+    {
+      "type": "edit",
+      "id": "1ec4467aa5ddab01",
+      "item": {
+        "type": "paragraph",
+        "id": "1ec4467aa5ddab01",
+        "text": "The fediverse has existed for about as long as Twitter, starting at around the same time, but for the first few years of its existence it was centralized around a single instance called identi.ca"
+      },
+      "date": 1517049177962
+    },
+    {
+      "type": "edit",
+      "id": "1ec4467aa5ddab01",
+      "item": {
+        "type": "paragraph",
+        "id": "1ec4467aa5ddab01",
+        "text": "The fediverse has existed for about as long as Twitter, starting at around the same time, but for the first few years of its existence it was centralized around a single instance called [https://en.wikipedia.org/wiki/Identi.ca identi.ca]."
+      },
+      "date": 1517049319925
+    },
+    {
+      "type": "edit",
+      "id": "1ec4467aa5ddab01",
+      "item": {
+        "type": "paragraph",
+        "id": "1ec4467aa5ddab01",
+        "text": "The fediverse has existed for about as long as Twitter, starting at around the same time, but up until 2010 its existence it was centralized around a single instance called [https://en.wikipedia.org/wiki/Identi.ca identi.ca]."
+      },
+      "date": 1517049341352
+    },
+    {
+      "type": "edit",
+      "id": "1ec4467aa5ddab01",
+      "item": {
+        "type": "paragraph",
+        "id": "1ec4467aa5ddab01",
+        "text": "The fediverse has existed for about as long as Twitter, starting at around the same time in 2008, but up until 2010 its existence it was centralized around a single instance called [https://en.wikipedia.org/wiki/Identi.ca identi.ca]."
+      },
+      "date": 1517049392353
+    },
+    {
+      "type": "edit",
+      "id": "1ec4467aa5ddab01",
+      "item": {
+        "type": "paragraph",
+        "id": "1ec4467aa5ddab01",
+        "text": "The fediverse has existed for about as long as Twitter, starting at around the same time in 2008, but up until 2012 its existence it was centralized around a single instance called [https://en.wikipedia.org/wiki/Identi.ca identi.ca], or in the form of StatusNet subdomains."
+      },
+      "date": 1517049800041
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e3b6cba611cba2e"
+      },
+      "id": "0e3b6cba611cba2e",
+      "type": "add",
+      "after": "1ec4467aa5ddab01",
+      "date": 1517050191805
+    },
+    {
+      "type": "edit",
+      "id": "0e3b6cba611cba2e",
+      "item": {
+        "type": "paragraph",
+        "id": "0e3b6cba611cba2e",
+        "text": "After 2012 the identi.ca development split in two. One becoming pump.io, with a completely new codebase, and the other becoming GNU Social, based on the original StatusNet codebase. pump.io subsequently suffered from lack of development and a horribly buggy web user interface. Although it's still around it pretty much went nowhere."
+      },
+      "date": 1517050366934
+    },
+    {
+      "type": "edit",
+      "id": "0e3b6cba611cba2e",
+      "item": {
+        "type": "paragraph",
+        "id": "0e3b6cba611cba2e",
+        "text": "After 2012 the identi.ca development split in two. One becoming pump.io, with a completely new javascript codebase, and the other becoming GNU Social, based on the original StatusNet codebase. pump.io subsequently suffered from lack of development and a horribly buggy web user interface. Although it's still around it pretty much went nowhere."
+      },
+      "date": 1517050401308
+    },
+    {
+      "type": "edit",
+      "id": "0e3b6cba611cba2e",
+      "item": {
+        "type": "paragraph",
+        "id": "0e3b6cba611cba2e",
+        "text": "After 2012 the identi.ca development split in two. One becoming pump.io, with a completely new javascript codebase, and the other becoming GNU Social, based on the original StatusNet PHP codebase. pump.io subsequently suffered from lack of development and a horribly buggy web user interface. Although it's still around it pretty much went nowhere."
+      },
+      "date": 1517050540119
+    },
+    {
+      "type": "edit",
+      "id": "addb2a9d6ac89dd7",
+      "item": {
+        "type": "paragraph",
+        "id": "addb2a9d6ac89dd7",
+        "text": "Fediverse servers are usually called \"instances\". It's not really clear where this terminology comes from, but most likely it originates from object oriented programming terminology."
+      },
+      "date": 1517050762704
+    },
+    {
+      "type": "edit",
+      "id": "addb2a9d6ac89dd7",
+      "item": {
+        "type": "paragraph",
+        "id": "addb2a9d6ac89dd7",
+        "text": "Fediverse servers are usually called \"instances\". It's not really clear where this terminology comes from, but most likely it originates from object oriented programming."
+      },
+      "date": 1517050774326
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bd8e0d39e607bc36"
+      },
+      "id": "bd8e0d39e607bc36",
+      "type": "add",
+      "after": "0e3b6cba611cba2e",
+      "date": 1517050863499
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. At that time there appeared a fork called postActiv and a new system called Mastodon, written in Ruby."
+      },
+      "date": 1517051063428
+    },
+    {
+      "type": "add",
+      "id": "dc127a35f425dc2c",
+      "item": {
+        "type": "paragraph",
+        "id": "dc127a35f425dc2c",
+        "text": "Today Mastodon is by far the "
+      },
+      "after": "bd8e0d39e607bc36",
+      "date": 1517051112238
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time might be called \"the era of Qvitter\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby."
+      },
+      "date": 1517051154996
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"the era of Qvitter\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby."
+      },
+      "date": 1517051177830
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"the era of Quitter\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby."
+      },
+      "date": 1517051203157
+    },
+    {
+      "type": "edit",
+      "id": "dc127a35f425dc2c",
+      "item": {
+        "type": "paragraph",
+        "id": "dc127a35f425dc2c",
+        "text": "Today Mastodon is by far the most popular fediverse software."
+      },
+      "date": 1517051241682
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"the era of Quitter\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby. Then in 2017 a new fediverse server system called Pleroma appeared, written in Elixir."
+      },
+      "date": 1517051348735
+    },
+    {
+      "type": "edit",
+      "id": "aaed25d509c0b700",
+      "item": {
+        "type": "paragraph",
+        "id": "aaed25d509c0b700",
+        "text": "In the olden days email worked in a quite similar way, although with different protocols. Before Gmail and things like that many individuals and organizations ran their own email servers. Fediverse addresses are also similar to email addresses: myusername@myinstancedomain."
+      },
+      "date": 1517051418785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "167e199bccb304ca"
+      },
+      "id": "167e199bccb304ca",
+      "type": "add",
+      "after": "dc127a35f425dc2c",
+      "date": 1517051657894
+    },
+    {
+      "type": "edit",
+      "id": "167e199bccb304ca",
+      "item": {
+        "type": "paragraph",
+        "id": "167e199bccb304ca",
+        "text": "In terms of numbers of users there was probably a peak somewhere around 2010 on identi.ca. After that there were not many users until the first major Twitter exodus in 2016."
+      },
+      "date": 1517051771877
+    },
+    {
+      "type": "edit",
+      "id": "167e199bccb304ca",
+      "item": {
+        "type": "paragraph",
+        "id": "167e199bccb304ca",
+        "text": "In terms of numbers of users there was probably a peak somewhere around 2010 on identi.ca. After that there were not many users until the first major Twitter exodus in 2016. Today the size of the fediverse has grown far beyond even the identi.ca peak, with hundreds of instances and many thousands of active users. By the end of 2017 Mastodon reported a million user accounts, although only a fraction of those will have been active."
+      },
+      "date": 1517051962796
+    },
+    {
+      "type": "edit",
+      "id": "167e199bccb304ca",
+      "item": {
+        "type": "paragraph",
+        "id": "167e199bccb304ca",
+        "text": "In terms of numbers of users there was probably a peak somewhere around 2010 on identi.ca. After that there were not many users (a few tens) until the first major Twitter exodus in 2016. Today the size of the fediverse has grown far beyond even the identi.ca peak, with hundreds of instances and many thousands of active users. By the end of 2017 Mastodon reported a million user accounts, although only a fraction of those will have been active."
+      },
+      "date": 1517051988798
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"The Quitter Era\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby. Then in 2017 a new fediverse server system called Pleroma appeared, written in Elixir."
+      },
+      "date": 1517090783291
+    },
+    {
+      "type": "add",
+      "id": "9bb4770dd61c29cf",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb4770dd61c29cf",
+        "text": "The word \"fediverse\" itself appears to have originated during the early development of pump.io or the late stages of the StatusNet based identi.ca."
+      },
+      "after": "addb2a9d6ac89dd7",
+      "date": 1517489530605
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7b0faf58f020da4",
+        "aaed25d509c0b700",
+        "addb2a9d6ac89dd7",
+        "1ec4467aa5ddab01",
+        "0e3b6cba611cba2e",
+        "9bb4770dd61c29cf",
+        "bd8e0d39e607bc36",
+        "dc127a35f425dc2c",
+        "167e199bccb304ca"
+      ],
+      "id": "9bb4770dd61c29cf",
+      "date": 1517489593020
+    },
+    {
+      "type": "edit",
+      "id": "9bb4770dd61c29cf",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb4770dd61c29cf",
+        "text": "The word \"fediverse\" itself appears to have originated at around the same time as this split."
+      },
+      "date": 1517489638527
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"The Quitter Era\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby. Then in 2017 a new fediverse server system called Pleroma appeared, written in Elixir. After 2017 implementations of ActivityPub became more common, including systems such as microblog.pub, Epicyon, PeerTube and PixelFed."
+      },
+      "date": 1573398241369
+    },
+    {
+      "type": "edit",
+      "id": "bd8e0d39e607bc36",
+      "item": {
+        "type": "paragraph",
+        "id": "bd8e0d39e607bc36",
+        "text": "GNU Social was the main flagship software of the fediverse up until 2016. This period of time between 2013-16 might be called \"The Quitter Era\". In 2016 there appeared a fork called postActiv and a new system called Mastodon, written in Ruby. Then in 2017 a new fediverse server system called Pleroma appeared, written in Elixir. "
+      },
+      "date": 1573398257505
+    },
+    {
+      "type": "add",
+      "id": "2f10809a6f4a9ba7",
+      "item": {
+        "type": "paragraph",
+        "id": "2f10809a6f4a9ba7",
+        "text": "After 2017 implementations of ActivityPub became more common, including systems such as microblog.pub, Epicyon, PeerTube and PixelFed."
+      },
+      "after": "bd8e0d39e607bc36",
+      "date": 1573398257630
+    },
+    {
+      "type": "edit",
+      "id": "dc127a35f425dc2c",
+      "item": {
+        "type": "paragraph",
+        "id": "dc127a35f425dc2c",
+        "text": "Today Mastodon is by far the most popular fediverse software with 90+% of the active users."
+      },
+      "date": 1573398304815
+    },
+    {
+      "type": "edit",
+      "id": "2f10809a6f4a9ba7",
+      "item": {
+        "type": "paragraph",
+        "id": "2f10809a6f4a9ba7",
+        "text": "After 2018 implementations of ActivityPub became more common, including systems such as microblog.pub, Epicyon, PeerTube and PixelFed."
+      },
+      "date": 1573398334630
+    },
+    {
+      "type": "edit",
+      "id": "167e199bccb304ca",
+      "item": {
+        "type": "paragraph",
+        "id": "167e199bccb304ca",
+        "text": "In terms of numbers of users there was probably a peak somewhere around 2010 on identi.ca. After that there were not many users (a few tens) until the first major Twitter exodus in 2016. Today the size of the fediverse has grown far beyond even the identi.ca peak, with thousands of instances and tens of thousands of active users. By the end of 2017 Mastodon reported a million user accounts, although only a fraction of those will have been active."
+      },
+      "date": 1573398406710
+    }
+  ]
+}

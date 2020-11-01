@@ -1,0 +1,39 @@
+{
+  "title": "we-understand-that-software-is-not-just-code",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "99dbff06bbead3cf",
+      "text": "We understand that software is not just code. It includes documentation, artwork, testing and creating the infrastructure needed to support user communities. When referring to software we mean the totality of all of these things."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "we-understand-that-software-is-not-just-code",
+        "story": []
+      },
+      "date": 1527502950884
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99dbff06bbead3cf"
+      },
+      "id": "99dbff06bbead3cf",
+      "type": "add",
+      "date": 1527502953140
+    },
+    {
+      "type": "edit",
+      "id": "99dbff06bbead3cf",
+      "item": {
+        "type": "paragraph",
+        "id": "99dbff06bbead3cf",
+        "text": "We understand that software is not just code. It includes documentation, artwork, testing and creating the infrastructure needed to support user communities. When referring to software we mean the totality of all of these things."
+      },
+      "date": 1527502955592
+    }
+  ]
+}

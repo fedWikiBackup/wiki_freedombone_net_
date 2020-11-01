@@ -1,0 +1,111 @@
+{
+  "title": "2002-2004 Blogosphere",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3f85db073ac57861",
+      "text": "This time is the hangover from the dotcom years. A time of \"will code for food\" signs and cynical or jaded attitudes towards web technology. When your crazy web business is gone because investors have pulled out what do you do? You turn to a blog to lament about your experiences over the last few years and muse upon what you might do next."
+    },
+    {
+      "type": "paragraph",
+      "id": "fbd32fd3a56bc6b8",
+      "text": "This period was the heyday of blogs and their authors, when sites like [https://en.wikipedia.org/wiki/LiveJournal Livejournal] and [https://en.wikipedia.org/wiki/Blogger_(service) Blogger] were the hot new thing. Bloggers were beginning to become celebrities, and when the Iraq war started the mainstream media was obsessed with commentaries from [https://en.wikipedia.org/wiki/Salam_Pax \"the Baghdad blogger\"]."
+    },
+    {
+      "type": "paragraph",
+      "id": "05231794f02f2dde",
+      "text": "This period could also be considered the precursor of web 2.0. Some blogs were trying to monetize with ads, but aggressive tracking and monetizing of user behavior data had not yet become a thing."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2002-2004 Blogosphere",
+        "story": []
+      },
+      "date": 1531301127426
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f85db073ac57861"
+      },
+      "id": "3f85db073ac57861",
+      "type": "add",
+      "date": 1531301130267
+    },
+    {
+      "type": "edit",
+      "id": "3f85db073ac57861",
+      "item": {
+        "type": "paragraph",
+        "id": "3f85db073ac57861",
+        "text": "This time is the hangover from the dotcom years. A time of \"will code for food\" signs and cynical or jaded attitudes towards web technology."
+      },
+      "date": 1531301193160
+    },
+    {
+      "type": "edit",
+      "id": "3f85db073ac57861",
+      "item": {
+        "type": "paragraph",
+        "id": "3f85db073ac57861",
+        "text": "This time is the hangover from the dotcom years. A time of \"will code for food\" signs and cynical or jaded attitudes towards web technology. When your crazy web business is gone because investors have pulled out what do you do? You turn to a blog to lament about your experiences over the last few years and muse upon what you might do next."
+      },
+      "date": 1531301491759
+    },
+    {
+      "type": "add",
+      "id": "fbd32fd3a56bc6b8",
+      "item": {
+        "type": "paragraph",
+        "id": "fbd32fd3a56bc6b8",
+        "text": "This period was the heyday of blogs and their authors, when sites like Livejournal were the hot new thing. Bloggers were beginning to become celebrities, and when the Iraq war started the mainstream media was obsessed with commentaries from \"the Baghdad blogger\"."
+      },
+      "after": "3f85db073ac57861",
+      "date": 1531301532233
+    },
+    {
+      "type": "edit",
+      "id": "fbd32fd3a56bc6b8",
+      "item": {
+        "type": "paragraph",
+        "id": "fbd32fd3a56bc6b8",
+        "text": "This period was the heyday of blogs and their authors, when sites like Livejournal were the hot new thing. Bloggers were beginning to become celebrities, and when the Iraq war started the mainstream media was obsessed with commentaries from [https://en.wikipedia.org/wiki/Salam_Pax \"the Baghdad blogger\"]."
+      },
+      "date": 1531301580848
+    },
+    {
+      "type": "edit",
+      "id": "fbd32fd3a56bc6b8",
+      "item": {
+        "type": "paragraph",
+        "id": "fbd32fd3a56bc6b8",
+        "text": "This period was the heyday of blogs and their authors, when sites like [https://en.wikipedia.org/wiki/LiveJournal Livejournal] were the hot new thing. Bloggers were beginning to become celebrities, and when the Iraq war started the mainstream media was obsessed with commentaries from [https://en.wikipedia.org/wiki/Salam_Pax \"the Baghdad blogger\"]."
+      },
+      "date": 1531301620305
+    },
+    {
+      "type": "edit",
+      "id": "fbd32fd3a56bc6b8",
+      "item": {
+        "type": "paragraph",
+        "id": "fbd32fd3a56bc6b8",
+        "text": "This period was the heyday of blogs and their authors, when sites like [https://en.wikipedia.org/wiki/LiveJournal Livejournal] and [https://en.wikipedia.org/wiki/Blogger_(service) Blogger] were the hot new thing. Bloggers were beginning to become celebrities, and when the Iraq war started the mainstream media was obsessed with commentaries from [https://en.wikipedia.org/wiki/Salam_Pax \"the Baghdad blogger\"]."
+      },
+      "date": 1531301744875
+    },
+    {
+      "type": "add",
+      "id": "05231794f02f2dde",
+      "item": {
+        "type": "paragraph",
+        "id": "05231794f02f2dde",
+        "text": "This period could also be considered the precursor of web 2.0. Some blogs were trying to monetize with ads, but aggressive tracking and monetizing of user behavior data had not yet become a thing."
+      },
+      "after": "fbd32fd3a56bc6b8",
+      "date": 1531301894285
+    }
+  ]
+}

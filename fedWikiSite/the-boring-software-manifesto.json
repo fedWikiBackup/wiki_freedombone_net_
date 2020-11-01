@@ -1,0 +1,241 @@
+{
+  "title": "The Boring Software Manifesto",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fca4532e9f4ce084",
+      "text": "18 Jun 2018 - by Maurits van der Schee"
+    },
+    {
+      "type": "paragraph",
+      "id": "f55d8bd01ebd0226",
+      "text": "As software developers we are tired of the false claims made by evangelists of the latest and greatest technology. We will no longer confront them with their lack of understanding of computer science fundamentals, nor will we defend our lack of knowledge of their hyped and volatile technologies. The state of industry is forcing us to value:"
+    },
+    {
+      "type": "html",
+      "id": "e6bfbb43bd60ab1b",
+      "text": "<h4>Not only working software</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "483d7463dd2d0575",
+      "text": "* but also well-crafted software"
+    },
+    {
+      "type": "paragraph",
+      "id": "a6f778f716aaafad",
+      "text": "* built exclusively with popular and proven tools"
+    },
+    {
+      "type": "html",
+      "id": "41753cb6875a8ed6",
+      "text": "<h4>Not only responding to change</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea8572f8a754a7d2",
+      "text": "* but also steadily adding value"
+    },
+    {
+      "type": "paragraph",
+      "id": "4736935c71de8c21",
+      "text": "* while reducing the dependencies and complexity"
+    },
+    {
+      "type": "html",
+      "id": "5b6c51714cab7ec4",
+      "text": "<h4>Not only individuals and interactions</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "af5d3fc43c09512c",
+      "text": "* but also a community of professionals"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ef5b8d4c4b0feec",
+      "text": "* that share best practices with verifiable claims"
+    },
+    {
+      "type": "html",
+      "id": "11542b015bb29ef6",
+      "text": "<h4>Not only customer collaboration</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "5ee8775a8e7098ce",
+      "text": "* but also productive partnerships"
+    },
+    {
+      "type": "paragraph",
+      "id": "3736f4375ae22e87",
+      "text": "* to reduce the scope of the software we build"
+    },
+    {
+      "type": "paragraph",
+      "id": "551df749adb17c1c",
+      "text": "That is, in pursuit of 'agility and craftsmanship' we have found 'boring software' to be indispensable."
+    },
+    {
+      "type": "html",
+      "id": "cf23c729cd4b2dbf",
+      "text": "<h4>Some examples</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e2f4c1bbd6a9330",
+      "text": "The things on the left that are simple and proven, while the things on the right are hyped and volatile"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e3b6396f508065b",
+      "text": "* 3-tier applications vs. micro services"
+    },
+    {
+      "type": "paragraph",
+      "id": "c344620c873fe629",
+      "text": "* relational database vs. NoSQL"
+    },
+    {
+      "type": "paragraph",
+      "id": "616b823d5b9a0d41",
+      "text": "* page reloads vs. single page applications"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d81d8323daa11be",
+      "text": "There are many other examples, but this should get the idea across."
+    },
+    {
+      "type": "paragraph",
+      "id": "38ef2aef706645a4",
+      "text": "Happy coding!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Boring Software Manifesto",
+        "story": []
+      },
+      "date": 1529402224710
+    },
+    {
+      "type": "move",
+      "order": [
+        "fca4532e9f4ce084",
+        "f55d8bd01ebd0226",
+        "e6bfbb43bd60ab1b",
+        "483d7463dd2d0575",
+        "a6f778f716aaafad",
+        "41753cb6875a8ed6",
+        "ea8572f8a754a7d2",
+        "4736935c71de8c21",
+        "af5d3fc43c09512c",
+        "4ef5b8d4c4b0feec",
+        "5ee8775a8e7098ce",
+        "3736f4375ae22e87",
+        "551df749adb17c1c",
+        "3e2f4c1bbd6a9330",
+        "0e3b6396f508065b",
+        "c344620c873fe629",
+        "616b823d5b9a0d41",
+        "4d81d8323daa11be",
+        "38ef2aef706645a4",
+        "cf23c729cd4b2dbf",
+        "11542b015bb29ef6",
+        "5b6c51714cab7ec4"
+      ],
+      "id": "41753cb6875a8ed6",
+      "date": 1529403175948
+    },
+    {
+      "type": "move",
+      "order": [
+        "fca4532e9f4ce084",
+        "f55d8bd01ebd0226",
+        "e6bfbb43bd60ab1b",
+        "483d7463dd2d0575",
+        "a6f778f716aaafad",
+        "41753cb6875a8ed6",
+        "ea8572f8a754a7d2",
+        "4736935c71de8c21",
+        "5b6c51714cab7ec4",
+        "af5d3fc43c09512c",
+        "4ef5b8d4c4b0feec",
+        "5ee8775a8e7098ce",
+        "3736f4375ae22e87",
+        "551df749adb17c1c",
+        "3e2f4c1bbd6a9330",
+        "0e3b6396f508065b",
+        "c344620c873fe629",
+        "616b823d5b9a0d41",
+        "4d81d8323daa11be",
+        "38ef2aef706645a4",
+        "cf23c729cd4b2dbf",
+        "11542b015bb29ef6"
+      ],
+      "id": "5b6c51714cab7ec4",
+      "date": 1529403183216
+    },
+    {
+      "type": "move",
+      "order": [
+        "fca4532e9f4ce084",
+        "f55d8bd01ebd0226",
+        "e6bfbb43bd60ab1b",
+        "483d7463dd2d0575",
+        "a6f778f716aaafad",
+        "41753cb6875a8ed6",
+        "ea8572f8a754a7d2",
+        "4736935c71de8c21",
+        "5b6c51714cab7ec4",
+        "af5d3fc43c09512c",
+        "4ef5b8d4c4b0feec",
+        "11542b015bb29ef6",
+        "5ee8775a8e7098ce",
+        "3736f4375ae22e87",
+        "551df749adb17c1c",
+        "3e2f4c1bbd6a9330",
+        "0e3b6396f508065b",
+        "c344620c873fe629",
+        "616b823d5b9a0d41",
+        "4d81d8323daa11be",
+        "38ef2aef706645a4",
+        "cf23c729cd4b2dbf"
+      ],
+      "id": "11542b015bb29ef6",
+      "date": 1529403190288
+    },
+    {
+      "type": "move",
+      "order": [
+        "fca4532e9f4ce084",
+        "f55d8bd01ebd0226",
+        "e6bfbb43bd60ab1b",
+        "483d7463dd2d0575",
+        "a6f778f716aaafad",
+        "41753cb6875a8ed6",
+        "ea8572f8a754a7d2",
+        "4736935c71de8c21",
+        "5b6c51714cab7ec4",
+        "af5d3fc43c09512c",
+        "4ef5b8d4c4b0feec",
+        "11542b015bb29ef6",
+        "5ee8775a8e7098ce",
+        "3736f4375ae22e87",
+        "551df749adb17c1c",
+        "cf23c729cd4b2dbf",
+        "3e2f4c1bbd6a9330",
+        "0e3b6396f508065b",
+        "c344620c873fe629",
+        "616b823d5b9a0d41",
+        "4d81d8323daa11be",
+        "38ef2aef706645a4"
+      ],
+      "id": "cf23c729cd4b2dbf",
+      "date": 1529403197632
+    }
+  ]
+}

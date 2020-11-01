@@ -1,0 +1,49 @@
+{
+  "title": "We believe that our value as human beings is intrinsically tied to what we leave for others to use",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a24cd9704036ddc0",
+      "text": "While we are all individuals with diverse and special circumstances and histories, our utility to our peers is measurable in what software we produce and how helpful to others that software is."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We believe that our value as human beings is intrinsically tied to what we leave for others to use",
+        "story": []
+      },
+      "date": 1527498680856
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a24cd9704036ddc0"
+      },
+      "id": "a24cd9704036ddc0",
+      "type": "add",
+      "date": 1527498682596
+    },
+    {
+      "type": "edit",
+      "id": "a24cd9704036ddc0",
+      "item": {
+        "type": "paragraph",
+        "id": "a24cd9704036ddc0",
+        "text": "While we are all individuals with diverse and special circumstances and histories, our utility to our peers is measurable in what artifacts we produce and how helpful to others those artifacts are."
+      },
+      "date": 1527498686856
+    },
+    {
+      "type": "edit",
+      "id": "a24cd9704036ddc0",
+      "item": {
+        "type": "paragraph",
+        "id": "a24cd9704036ddc0",
+        "text": "While we are all individuals with diverse and special circumstances and histories, our utility to our peers is measurable in what software we produce and how helpful to others that software is."
+      },
+      "date": 1527502227299
+    }
+  ]
+}

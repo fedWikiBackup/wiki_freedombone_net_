@@ -1,0 +1,124 @@
+{
+  "title": "We have an obligation of solidarity towards software creators and communities who share our values",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a16b13ec2852177a",
+      "text": "Where possible we should help to keep the software created by the community running, and that may include fund raising, volunteering to share resources, campaigning against legal or other threats to the community and archiving of projects which are no longer maintained."
+    },
+    {
+      "type": "paragraph",
+      "id": "56a384ee5261d033",
+      "text": "We also reject personal attacks or disrespectful behavior towards members of our community and will take speedy action to isolate and remove offenders - regardless of their technical contributions or supposed status."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We have an obligation of solidarity towards software creators and communities who share our values",
+        "story": []
+      },
+      "date": 1527499811219
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a16b13ec2852177a"
+      },
+      "id": "a16b13ec2852177a",
+      "type": "add",
+      "date": 1527499812862
+    },
+    {
+      "type": "edit",
+      "id": "a16b13ec2852177a",
+      "item": {
+        "type": "paragraph",
+        "id": "a16b13ec2852177a",
+        "text": "Where possible we should help to keep the software created by the community running, and that may include fund raising or volunteering to share resources."
+      },
+      "date": 1527499926900
+    },
+    {
+      "type": "edit",
+      "id": "a16b13ec2852177a",
+      "item": {
+        "type": "paragraph",
+        "id": "a16b13ec2852177a",
+        "text": "Where possible we should help to keep the software created by the community running, and that may include fund raising volunteering to share resources and archiving if projects are no longer maintained."
+      },
+      "date": 1527499987804
+    },
+    {
+      "type": "edit",
+      "id": "a16b13ec2852177a",
+      "item": {
+        "type": "paragraph",
+        "id": "a16b13ec2852177a",
+        "text": "Where possible we should help to keep the software created by the community running, and that may include fund raising, volunteering to share resources, campaigning against threats to the community and archiving of projects are no longer maintained."
+      },
+      "date": 1527500063180
+    },
+    {
+      "type": "edit",
+      "id": "a16b13ec2852177a",
+      "item": {
+        "type": "paragraph",
+        "id": "a16b13ec2852177a",
+        "text": "Where possible we should help to keep the software created by the community running, and that may include fund raising, volunteering to share resources, campaigning against legal or other threats to the community and archiving of projects are no longer maintained."
+      },
+      "date": 1527500090851
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56a384ee5261d033"
+      },
+      "id": "56a384ee5261d033",
+      "type": "add",
+      "after": "a16b13ec2852177a",
+      "date": 1527503113067
+    },
+    {
+      "type": "edit",
+      "id": "56a384ee5261d033",
+      "item": {
+        "type": "paragraph",
+        "id": "56a384ee5261d033",
+        "text": "We also reject personal attacks or disrespectful behavior towards members of our community and will take speedy action to isolate and remove offenders."
+      },
+      "date": 1527503174334
+    },
+    {
+      "type": "edit",
+      "id": "56a384ee5261d033",
+      "item": {
+        "type": "paragraph",
+        "id": "56a384ee5261d033",
+        "text": "We also reject personal attacks or disrespectful behavior towards members of our community and will take speedy action to isolate and remove offenders - regardless of their technical contributions."
+      },
+      "date": 1527503278639
+    },
+    {
+      "type": "edit",
+      "id": "a16b13ec2852177a",
+      "item": {
+        "type": "paragraph",
+        "id": "a16b13ec2852177a",
+        "text": "Where possible we should help to keep the software created by the community running, and that may include fund raising, volunteering to share resources, campaigning against legal or other threats to the community and archiving of projects which are no longer maintained."
+      },
+      "date": 1527507264180
+    },
+    {
+      "type": "edit",
+      "id": "56a384ee5261d033",
+      "item": {
+        "type": "paragraph",
+        "id": "56a384ee5261d033",
+        "text": "We also reject personal attacks or disrespectful behavior towards members of our community and will take speedy action to isolate and remove offenders - regardless of their technical contributions or supposed status."
+      },
+      "date": 1527528944123
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "We welcome anyone who shares the values of software freedom into our community",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4c2e7cac2cff3a96",
+      "text": "We do not turn away anyone on the basis of narrow denominations such as class, race, nationality, age or gender."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We welcome anyone who shares the values of software freedom into our community",
+        "story": []
+      },
+      "date": 1527502821293
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c2e7cac2cff3a96"
+      },
+      "id": "4c2e7cac2cff3a96",
+      "type": "add",
+      "date": 1527502825343
+    },
+    {
+      "type": "edit",
+      "id": "4c2e7cac2cff3a96",
+      "item": {
+        "type": "paragraph",
+        "id": "4c2e7cac2cff3a96",
+        "text": "We do not turn away anyone on the basis of narrow denominations such as class, race, nationality, age or gender."
+      },
+      "date": 1527502908855
+    }
+  ]
+}

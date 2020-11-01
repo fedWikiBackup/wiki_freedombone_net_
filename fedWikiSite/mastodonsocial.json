@@ -1,0 +1,120 @@
+{
+  "title": "mastodon.social",
+  "story": [
+    {
+      "type": "html",
+      "id": "141dfe5797b321c6",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/8589428791a9c7cf0a6e4c01d9751100.jpg\" width=\"400\"/>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4c3ae7b88aafcf5",
+      "text": "This is the original Mastodon instance and one of the largest in the fediverse. In the early part of 2017 the instance became known for having an insular community hostile to other instances and seeing spinoff instances as traitors to the One True Instance. But as it grew this insularity was no longer tennable."
+    },
+    {
+      "type": "paragraph",
+      "id": "73f6fc3e135bfee3",
+      "text": "During the Mastodon craze which reached its peak in April 2017 mastodon.social could no longer cope with the influx and other Mastodon instances began to appear to cater for the wave of migration. Over the subsequent year a few instances turned into thousands."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "mastodon.social",
+        "story": []
+      },
+      "date": 1528365726050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4c3ae7b88aafcf5"
+      },
+      "id": "b4c3ae7b88aafcf5",
+      "type": "add",
+      "date": 1528365727626
+    },
+    {
+      "type": "edit",
+      "id": "b4c3ae7b88aafcf5",
+      "item": {
+        "type": "paragraph",
+        "id": "b4c3ae7b88aafcf5",
+        "text": "This is the original Mastodon instance and one of the largest in the fediverse. In the early part of 2017 the instance became known for having an insular community hostile to other instances and seeing spinoff instances as traitors to the One True Instance. But as it grew this insularity was no longer tennable."
+      },
+      "date": 1528365916606
+    },
+    {
+      "type": "add",
+      "id": "73f6fc3e135bfee3",
+      "item": {
+        "type": "paragraph",
+        "id": "73f6fc3e135bfee3",
+        "text": "During the Mastodon craze which reached its peak in April 2017 mastodon.social could no longer cope with the influx and other mastodon instances began to appear to take up the wave of migration. Over the subsequent year a few instances turned into thousands."
+      },
+      "after": "b4c3ae7b88aafcf5",
+      "date": 1528366054239
+    },
+    {
+      "type": "edit",
+      "id": "73f6fc3e135bfee3",
+      "item": {
+        "type": "paragraph",
+        "id": "73f6fc3e135bfee3",
+        "text": "During the Mastodon craze which reached its peak in April 2017 mastodon.social could no longer cope with the influx and other mastodon instances began to appear to cater for the wave of migration. Over the subsequent year a few instances turned into thousands."
+      },
+      "date": 1528366071015
+    },
+    {
+      "type": "edit",
+      "id": "73f6fc3e135bfee3",
+      "item": {
+        "type": "paragraph",
+        "id": "73f6fc3e135bfee3",
+        "text": "During the Mastodon craze which reached its peak in April 2017 mastodon.social could no longer cope with the influx and other Mastodon instances began to appear to cater for the wave of migration. Over the subsequent year a few instances turned into thousands."
+      },
+      "date": 1528366130551
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "141dfe5797b321c6"
+      },
+      "id": "141dfe5797b321c6",
+      "type": "add",
+      "after": "73f6fc3e135bfee3",
+      "date": 1528388553318
+    },
+    {
+      "type": "edit",
+      "id": "141dfe5797b321c6",
+      "item": {
+        "type": "html",
+        "id": "141dfe5797b321c6",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/fecbfbd5106c661899d96a7ff4efec9b.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528388558555
+    },
+    {
+      "type": "edit",
+      "id": "141dfe5797b321c6",
+      "item": {
+        "type": "html",
+        "id": "141dfe5797b321c6",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/8589428791a9c7cf0a6e4c01d9751100.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528388579347
+    },
+    {
+      "type": "move",
+      "order": [
+        "141dfe5797b321c6",
+        "b4c3ae7b88aafcf5",
+        "73f6fc3e135bfee3"
+      ],
+      "id": "141dfe5797b321c6",
+      "date": 1528388582469
+    }
+  ]
+}

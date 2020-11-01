@@ -1,0 +1,293 @@
+{
+  "title": "The Silo Feedback Loop",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3683541ce93af9f3",
+      "text": "The various features of the centralized silo systems create a feedback loop which encourages \"engagement\" and enables paying customers to manipulate opinions."
+    },
+    {
+      "type": "markdown",
+      "id": "f362ca5e10fe6e52",
+      "text": " * Organization buys targeted ads\n * Algorithmic timeline changes to display them\n * User experience changes due to altered timeline\n * Analytics of resulting user behavior\n * Devise new ad campaign\n * Repeat"
+    },
+    {
+      "type": "paragraph",
+      "id": "3a0cdd947ef69931",
+      "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes shock and outrage, resulting in furious replies and flamewars. \"Look at this terrible thing!\", etc."
+    },
+    {
+      "type": "paragraph",
+      "id": "eadd12db4d3165b9",
+      "text": "When the ads are of a political or psyops nature obviously this can have significant adverse effects upon the society if enough targeted advertising is deployed. Even if the silo system has a policy which forbids this it's hard for them to automatically detect political campaigns which may be quite subtle and manipulative in their messaging. They also have a strong incentive to take as much money as they can, regardless of its origin or intentions."
+    },
+    {
+      "type": "paragraph",
+      "id": "0409784c78a4040e",
+      "text": "The absence of centrally controlled algorithmic timelines prevents this kind of feedback loop from being deliberately created within the fediverse."
+    },
+    {
+      "type": "paragraph",
+      "id": "51f4eedd259c8612",
+      "text": "If the timeline is purely chronological, or if it's controlled by the user, then it's not possible to buy influence over opinions in the same manner."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Silo Feedback Loop",
+        "story": []
+      },
+      "date": 1522090073088
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3683541ce93af9f3"
+      },
+      "id": "3683541ce93af9f3",
+      "type": "add",
+      "date": 1522090074906
+    },
+    {
+      "type": "edit",
+      "id": "3683541ce93af9f3",
+      "item": {
+        "type": "paragraph",
+        "id": "3683541ce93af9f3",
+        "text": "The various features of the centralized silo systems create a feedback loop which encourages \"engagement\" and enables paying customers to manipulate opinions within an outrage bubble."
+      },
+      "date": 1522090154750
+    },
+    {
+      "type": "add",
+      "id": "b1213cba0840fca4",
+      "item": {
+        "type": "paragraph",
+        "id": "b1213cba0840fca4",
+        "text": " * Organization buys ads"
+      },
+      "after": "3683541ce93af9f3",
+      "date": 1522090190904
+    },
+    {
+      "type": "remove",
+      "id": "b1213cba0840fca4",
+      "date": 1522090198354
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f362ca5e10fe6e52"
+      },
+      "id": "f362ca5e10fe6e52",
+      "type": "add",
+      "after": "3683541ce93af9f3",
+      "date": 1522090199816
+    },
+    {
+      "type": "edit",
+      "id": "f362ca5e10fe6e52",
+      "item": {
+        "type": "markdown",
+        "id": "f362ca5e10fe6e52",
+        "text": " * Organization buys ads\n * Algorithmic timeline changes\n * Analytics of resulting user behavior\n * Devise new ad campaign\n * Repeat"
+      },
+      "date": 1522090322650
+    },
+    {
+      "type": "edit",
+      "id": "f362ca5e10fe6e52",
+      "item": {
+        "type": "markdown",
+        "id": "f362ca5e10fe6e52",
+        "text": " * Organization buys targeted ads\n * Algorithmic timeline changes to display them\n * Analytics of resulting user behavior\n * Devise new ad campaign\n * Repeat"
+      },
+      "date": 1522090356934
+    },
+    {
+      "type": "edit",
+      "id": "f362ca5e10fe6e52",
+      "item": {
+        "type": "markdown",
+        "id": "f362ca5e10fe6e52",
+        "text": " * Organization buys targeted ads\n * Algorithmic timeline changes to display them\n * User engagement\n * Analytics of resulting user behavior\n * Devise new ad campaign\n * Repeat"
+      },
+      "date": 1522090405470
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a0cdd947ef69931"
+      },
+      "id": "3a0cdd947ef69931",
+      "type": "add",
+      "after": "f362ca5e10fe6e52",
+      "date": 1522090418704
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads."
+      },
+      "date": 1522090501214
+    },
+    {
+      "type": "add",
+      "id": "eadd12db4d3165b9",
+      "item": {
+        "type": "paragraph",
+        "id": "eadd12db4d3165b9",
+        "text": "When the ads are of a political or psyops nature obviously this can have significant adverse effects upon the society if enough targeted advertising is deployed."
+      },
+      "after": "3a0cdd947ef69931",
+      "date": 1522090553146
+    },
+    {
+      "type": "edit",
+      "id": "3683541ce93af9f3",
+      "item": {
+        "type": "paragraph",
+        "id": "3683541ce93af9f3",
+        "text": "The various features of the centralized silo systems create a feedback loop which encourages \"engagement\" and enables paying customers to manipulate opinions."
+      },
+      "date": 1522090592632
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes outrage, resulting in furious replies and flamewars."
+      },
+      "date": 1522090671778
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes distress and outrage, resulting in furious replies and flamewars."
+      },
+      "date": 1522090704202
+    },
+    {
+      "type": "edit",
+      "id": "eadd12db4d3165b9",
+      "item": {
+        "type": "paragraph",
+        "id": "eadd12db4d3165b9",
+        "text": "When the ads are of a political or psyops nature obviously this can have significant adverse effects upon the society if enough targeted advertising is deployed. Even if the silo system has a policy which forbids this it's hard for them to automatically detect political campaigns which may be quite subtle and manipulative in their messaging."
+      },
+      "date": 1522090811556
+    },
+    {
+      "type": "add",
+      "id": "0409784c78a4040e",
+      "item": {
+        "type": "paragraph",
+        "id": "0409784c78a4040e",
+        "text": "The absence of centrally controlled algorithmic timelines prevents this kind of feedback loop from being deliberately created within the fediverse."
+      },
+      "after": "eadd12db4d3165b9",
+      "date": 1522090891566
+    },
+    {
+      "type": "edit",
+      "id": "f362ca5e10fe6e52",
+      "item": {
+        "type": "markdown",
+        "id": "f362ca5e10fe6e52",
+        "text": " * Organization buys targeted ads\n * Algorithmic timeline changes to display them\n * User experience changes due to altered timeline\n * Analytics of resulting user behavior\n * Devise new ad campaign\n * Repeat"
+      },
+      "date": 1522090939314
+    },
+    {
+      "type": "add",
+      "id": "51f4eedd259c8612",
+      "item": {
+        "type": "paragraph",
+        "id": "51f4eedd259c8612",
+        "text": "If the timeline is purely chronological, or if it's controlled by the user, then it's not possible to buy influence over opinions in the same manner."
+      },
+      "after": "0409784c78a4040e",
+      "date": 1522091156872
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes shock and outrage, resulting in furious replies and flamewars."
+      },
+      "date": 1522091254904
+    },
+    {
+      "type": "edit",
+      "id": "eadd12db4d3165b9",
+      "item": {
+        "type": "paragraph",
+        "id": "eadd12db4d3165b9",
+        "text": "When the ads are of a political or psyops nature obviously this can have significant adverse effects upon the society if enough targeted advertising is deployed. Even if the silo system has a policy which forbids this it's hard for them to automatically detect political campaigns which may be quite subtle and manipulative in their messaging. They also have a strong incentive to take as much money as they can, regardless of sources."
+      },
+      "date": 1522091341366
+    },
+    {
+      "type": "edit",
+      "id": "eadd12db4d3165b9",
+      "item": {
+        "type": "paragraph",
+        "id": "eadd12db4d3165b9",
+        "text": "When the ads are of a political or psyops nature obviously this can have significant adverse effects upon the society if enough targeted advertising is deployed. Even if the silo system has a policy which forbids this it's hard for them to automatically detect political campaigns which may be quite subtle and manipulative in their messaging. They also have a strong incentive to take as much money as they can, regardless of its origin."
+      },
+      "date": 1522091382448
+    },
+    {
+      "type": "edit",
+      "id": "eadd12db4d3165b9",
+      "item": {
+        "type": "paragraph",
+        "id": "eadd12db4d3165b9",
+        "text": "When the ads are of a political or psyops nature obviously this can have significant adverse effects upon the society if enough targeted advertising is deployed. Even if the silo system has a policy which forbids this it's hard for them to automatically detect political campaigns which may be quite subtle and manipulative in their messaging. They also have a strong incentive to take as much money as they can, regardless of its origin or intentions."
+      },
+      "date": 1522091403390
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes shock and outrage, resulting in furious replies and flamewars. \"Look at this terrible thing!\", etc."
+      },
+      "date": 1522091904784
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes shock and outrage, resulting in furious replies and flamewars. *\"Look at this terrible thing!\"*, etc."
+      },
+      "date": 1522091931474
+    },
+    {
+      "type": "edit",
+      "id": "3a0cdd947ef69931",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0cdd947ef69931",
+        "text": "The silo systems can use data mining and machine learning methods to maximize the engagement of users with ads. Typically the AI will learn that in order to get the biggest results the ads should target people in a manner which causes shock and outrage, resulting in furious replies and flamewars. \"Look at this terrible thing!\", etc."
+      },
+      "date": 1522091942712
+    }
+  ]
+}

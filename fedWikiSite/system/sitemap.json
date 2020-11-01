@@ -1,0 +1,500 @@
+[
+  {
+    "slug": "1990-1994-profdoctor",
+    "title": "1990-1994 ProfDoctor",
+    "date": 1531308338452,
+    "synopsis": "The initial invention of the web. During this time there were not many websites and those which did exist were hosted by academic institutions like MIT and CERN. The content was the profile pages and publication listings of academics."
+  },
+  {
+    "slug": "1995-1997-web-10-begins",
+    "title": "1995-1997 Web 1.0 begins",
+    "date": 1531307272496,
+    "synopsis": "The internet first becomes accessible to the general public, outside of academia or the military. This was enabled by the appearance of ISPs with low enough subscription costs."
+  },
+  {
+    "slug": "1998-2001-dotcom",
+    "title": "1998-2001 Dotcom",
+    "date": 1531301093120,
+    "synopsis": "Towards the end of the 1990s what was known as \"e-commerce\" started to become a thing. During the initial web 1.0 stage if you wanted to buy something via the internet this usually meant faxing bank details to some telephone number, or worse, sending credit card details via email. That was obviously very unsatisfactory for supporting any reliable commercial activity, but by the late 1990s companies were beginning to figure this out and the cryptography technology was improving and becoming sufficiently decriminalized to be practically usable."
+  },
+  {
+    "slug": "2002-2004-blogosphere",
+    "title": "2002-2004 Blogosphere",
+    "date": 1531301894285,
+    "synopsis": "This time is the hangover from the dotcom years. A time of \"will code for food\" signs and cynical or jaded attitudes towards web technology. When your crazy web business is gone because investors have pulled out what do you do? You turn to a blog to lament about your experiences over the last few years and muse upon what you might do next."
+  },
+  {
+    "slug": "2005-2009-web-20-begins",
+    "title": "2005-2009-web-20-begins",
+    "date": 1531307716902,
+    "synopsis": "By the end of web 1.0 companies have decided that people just won't pay for web content. At least, not enough to produce the kinds of profits they were expecting during the dotcom years."
+  },
+  {
+    "slug": "2010-present-surveillance-capital",
+    "title": "2010-present Surveillance Capital",
+    "date": 1531305126368,
+    "synopsis": "By 2010 posting adverts on the web had been a tradition long established since the late 1990s. In the rush to grab more and more advertiser money this evolved beyond the initial discreet banner ads to garish animated gifs and then eventually to detailed tracking of user behavior."
+  },
+  {
+    "slug": "201112-identica-in-trouble",
+    "title": "2011/12: Identi.ca in trouble",
+    "date": 1528484787198,
+    "synopsis": "Towards the end of 2011 identi.ca started to experience multi-day or multi-week outages. Its developer advised that anyone complaining create their own instances, and thus the first migration wave began out of the original silo system."
+  },
+  {
+    "slug": "2016-twitters-algorithmic-timeline",
+    "title": "2016: Twitter's Algorithmic Timeline",
+    "date": 1516997664469,
+    "synopsis": "In early 2016 Twitter introduced an algorithmic timeline. Algorithmic timelines mean that the posts which other users see depend upon an opaque algorithm created by the company. The result is that it's possible to post to the system but not be seen by anyone, or whoever your target audience is. This is known as \"shadow banning\"."
+  },
+  {
+    "slug": "2017-mastodon-goes-viral",
+    "title": "2017: Mastodon goes Viral",
+    "date": 1517488312076,
+    "synopsis": "Around about April 2017 Mastodon went viral. It started getting lots of mentions on Twitter, and some mainstream technology journalists were writing about it. Many people thought it was new - which was true, but only in a narrow sense - and likely to become The Next Big Thing."
+  },
+  {
+    "slug": "2018-a-perfect-storm",
+    "title": "2018: A perfect storm",
+    "date": 1545482361100,
+    "synopsis": "In 2018 the exoduses didn't let up."
+  },
+  {
+    "slug": "2018-steady-growth",
+    "title": "2018-steady-growth",
+    "date": 1528033243309,
+    "synopsis": "By 2018 the fediverse wasn't experiencing the big upheavals that it did in the three years prior. Even despite a big Facebook scandal there wasn't a noticably large wave of immigration."
+  },
+  {
+    "slug": "2019-the-nazi-menace",
+    "title": "2019: The Nazi Menace",
+    "date": 1577795508672,
+    "synopsis": ""
+  },
+  {
+    "slug": "a-peoples-history-of-the-fediverse",
+    "title": "A People's History of the Fediverse",
+    "date": 1580811386595,
+    "synopsis": "[[Introduction]]"
+  },
+  {
+    "slug": "algorithmic-timelines",
+    "title": "Algorithmic Timelines",
+    "date": 1519063897192,
+    "synopsis": "The algorithmic timeline might seem like a good idea at first. After all, people have limited time to mess around on social networks so maybe they just want to see the highlights."
+  },
+  {
+    "slug": "censorship",
+    "title": "Censorship",
+    "date": 1517055690152,
+    "synopsis": "When everybody is in a single database the whims of whoever owns that database become paramount."
+  },
+  {
+    "slug": "core-values-of-the-software-artisan",
+    "title": "Core Values of the Software Artisan",
+    "date": 1527502944089,
+    "synopsis": "[[We believe that our value as human beings is intrinsically tied to what we leave for others to use]]"
+  },
+  {
+    "slug": "corporate-acquisitions",
+    "title": "Corporate Acquisitions",
+    "date": 1550689166077,
+    "synopsis": "A page with 0 items."
+  },
+  {
+    "slug": "corporate-versus-community-interests",
+    "title": "corporate-versus-community-interests",
+    "date": 1545522661800,
+    "synopsis": "Naive people might believe that Facebook is just a place to hang out and chat with friends. But there aren't many folks that naive around anymore."
+  },
+  {
+    "slug": "counter-strategies-to-the-fediverse",
+    "title": "Counter-strategies to the fediverse",
+    "date": 1578956678632,
+    "synopsis": "If the fediverse gets large enough then what are the strategies which the incumbents will use against it? We can have a pretty good idea of what this might look like, because similar things have happened in the past."
+  },
+  {
+    "slug": "criticisms-of-meritocracy",
+    "title": "Criticisms of Meritocracy",
+    "date": 1527518707192,
+    "synopsis": "The CEOs of tech companies always give a speech to employees in which they announce some version of \"This company is a meritocracy!\". It's a predictable trope, but what actually is merit? Can you count it as lines of code, or \"impact\"?"
+  },
+  {
+    "slug": "cultural-toxicity",
+    "title": "Cultural Toxicity",
+    "date": 1517058153796,
+    "synopsis": "A page with 0 items."
+  },
+  {
+    "slug": "dimensions-of-decentralization",
+    "title": "Dimensions of Decentralization",
+    "date": 1547058649147,
+    "synopsis": "Decentralized systems can be conceptualized along three axes, forming the Governance Cube."
+  },
+  {
+    "slug": "echo-chambers-and-outrage-culture",
+    "title": "Echo chambers and outrage culture",
+    "date": 1517059368469,
+    "synopsis": "What happens when you put millions of people from many different cultures into an online space where they can't avoid each other? This is the experiment which the centralized social network systems have been performing."
+  },
+  {
+    "slug": "fedisplaining",
+    "title": "Fedisplaining",
+    "date": 1550683200714,
+    "synopsis": "Explaining the fediverse to people is not always easy."
+  },
+  {
+    "slug": "fediverse-culture-shock",
+    "title": "fediverse culture shock",
+    "date": 1517091924729,
+    "synopsis": "This is what happens when someone has only had a presence within large corporate sites, such as Twitter or Facebook, and then moves to a federated system on the open internet."
+  },
+  {
+    "slug": "gnu-socialites",
+    "title": "GNU Socialites",
+    "date": 1517488990235,
+    "synopsis": "GNU Social was released in 2013, based upon the earlier StatusNet code, written in PHP."
+  },
+  {
+    "slug": "here-come-the-elephants",
+    "title": "here-come-the-elephants",
+    "date": 1568655210910,
+    "synopsis": "Mastodon started gaining popularity towards the end of 2016. At that time it was based around a single instance called mastodon.social."
+  },
+  {
+    "slug": "highland-arrow",
+    "title": "Highland Arrow",
+    "date": 1528387682636,
+    "synopsis": "This is a gaming oriented instance founded by Maiyannah Bishop in 2016. Since the development activity of GNU Social proceeded at a glacial pace a fork was created for this site called PostActiv."
+  },
+  {
+    "slug": "hiveway",
+    "title": "Hiveway",
+    "date": 1557332137900,
+    "synopsis": "In March 2018 John McAffee launched a commercial instance based upon Etherium blockchain technology."
+  },
+  {
+    "slug": "i-dont-like-the-name-mastodon",
+    "title": "I don't like the name \"Mastodon\"",
+    "date": 1517000989860,
+    "synopsis": "Tough. There are bigger things to be concerned about."
+  },
+  {
+    "slug": "i-need-to-create-my-preferred-username-before-someone-else-uses-it",
+    "title": "I need to create my preferred username before someone else uses it",
+    "date": 1517000859925,
+    "synopsis": "On Twitter once you have set your username nobody else can have that same name. This is not necessarily the case in the fediverse."
+  },
+  {
+    "slug": "introduction",
+    "title": "introduction",
+    "date": 1573398406710,
+    "synopsis": "In simple terms the fediverse is a collection of servers run by many different people which post messages to each other using the [https://en.wikipedia.org/wiki/OStatus OStatus] or [https://en.wikipedia.org/wiki/ActivityPub ActivityPub] protocols."
+  },
+  {
+    "slug": "librem-one",
+    "title": "Librem One",
+    "date": 1559162912700,
+    "synopsis": "In early May 2019 Purism - a company who had already been around for some time in the fediverse and was known for making laptops without Intel ME - started their own instance at social.librem.one."
+  },
+  {
+    "slug": "manifestos",
+    "title": "Manifestos",
+    "date": 1569573924900,
+    "synopsis": "[[The Unmeritocratic Manifesto]]"
+  },
+  {
+    "slug": "mastodons-advisory-privacy",
+    "title": "Mastodon's Advisory Privacy",
+    "date": 1517090161324,
+    "synopsis": "After Mastodon went viral in April 2017, and possibly influenced by incoming members of Infosec Twitter, levels of privacy were added for posts. Mastodon users could choose for posts to be visible to anyone or only sent to followers."
+  },
+  {
+    "slug": "mastodonsocial",
+    "title": "mastodon.social",
+    "date": 1528388582469,
+    "synopsis": "This is the original Mastodon instance and one of the largest in the fediverse. In the early part of 2017 the instance became known for having an insular community hostile to other instances and seeing spinoff instances as traitors to the One True Instance. But as it grew this insularity was no longer tennable."
+  },
+  {
+    "slug": "migrations-and-exoduses",
+    "title": "migrations-and-exoduses",
+    "date": 1577795639950,
+    "synopsis": "There have been many waves of incoming users. From time to time, typically once or twice per year, Twitter, Facebook or other silo systems will just decide that they don't like a certain type of user and begin closing or suspending their accounts or groups."
+  },
+  {
+    "slug": "not-understanding-that-there-is-no-single-company-behind-it-all",
+    "title": "Not understanding that there is no single company behind it all",
+    "date": 1516999766033,
+    "synopsis": "For anything to work, it has to be run by a company, or a foundation, or the government or some other kind of legal entity, right?"
+  },
+  {
+    "slug": "notable-instances",
+    "title": "Notable Instances",
+    "date": 1557331177700,
+    "synopsis": "[[Highland Arrow]]"
+  },
+  {
+    "slug": "open-letter-to-the-free-software-movement",
+    "title": "Open Letter to the Free Software Movement",
+    "date": 1569574890400,
+    "synopsis": "This is an open letter to all the people who, in their good faith, are concerned about the recent events which have shaken the long-standing leadership of the Free Software Movement."
+  },
+  {
+    "slug": "pawoo",
+    "title": "pawoo",
+    "date": 1528388395018,
+    "synopsis": "In April 2017 as the Mastodon craze was reaching its height a site for Japanese artists called Pixiv launched its own instance, called pawoo.net."
+  },
+  {
+    "slug": "peers-and-federalists",
+    "title": "Peers and Federalists",
+    "date": 1522072755212,
+    "synopsis": "The ideal state of the web would be peer to peer. There would be perfect scalability due to there being no bandwidth choke points. All data would be content addressible, replicated and seeded by its users. DDoS would be practically impossible. Each peer would make their own decisions about which others to connect to and what data to share."
+  },
+  {
+    "slug": "principles-of-networked-expression",
+    "title": "Principles of Networked Expression",
+    "date": 1530612392302,
+    "synopsis": "This is based upon the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles], but those can be further generalised into a set of principles which are not artificially framed within market fundamentalism."
+  },
+  {
+    "slug": "problems-with-twitter",
+    "title": "Problems with Twitter",
+    "date": 1530359472347,
+    "synopsis": "Particular problems with Twitter, especially from 2016 onwards after the introduction of algorithmic timelines were:"
+  },
+  {
+    "slug": "protocol-wars",
+    "title": "Protocol Wars",
+    "date": 1517091395769,
+    "synopsis": "[[Mastodon's Advisory Privacy]]"
+  },
+  {
+    "slug": "pseudonymity",
+    "title": "Pseudonymity",
+    "date": 1535189184102,
+    "synopsis": "After the web 2.0 systems appeared in the mid 2000s so too did a consensus that \"real names\" were preferable to pseudonyms."
+  },
+  {
+    "slug": "registering-an-account-on-each-instance",
+    "title": "Registering an account on each instance",
+    "date": 1535015298575,
+    "synopsis": "If each instance was a silo then you would need to do that, but in a federated system you don't. You only really need to register on one instance and then you can send to other instances or receive posts from them."
+  },
+  {
+    "slug": "shitposterclub",
+    "title": "shitposter.club",
+    "date": 1528387984102,
+    "synopsis": "This instance was set up during the Twitter exodus of early 2016. Many of the newcomers were from a demographic different from the archetypally bearded Free Software crowd or anarcho syndicalists who were the mainstay of the fediverse previously. They were typically younger and more irreverant towards any kind of ideology."
+  },
+  {
+    "slug": "social-network-taxonomy",
+    "title": "Social Network Taxonomy",
+    "date": 1580811567336,
+    "synopsis": "Based on the Bartle taxonomy."
+  },
+  {
+    "slug": "software-is-not-just-code",
+    "title": "Software is not just code",
+    "date": 1527502422145,
+    "synopsis": "We understand that software is not just code. It includes documentation, artwork, testing and creating the infrastructure needed to support user communities. When referring to software we mean the totality of all of these things."
+  },
+  {
+    "slug": "someone-else-must-take-responsibility-for-xyz",
+    "title": "Someone else must take responsibility for XYZ",
+    "date": 1516999538818,
+    "synopsis": "If you're coming from a centralized system then you're typically familiar with the class divisions which exist there."
+  },
+  {
+    "slug": "stages-of-the-internet",
+    "title": "Stages of the Internet",
+    "date": 1531298953391,
+    "synopsis": "A history of the internet as a number of stages."
+  },
+  {
+    "slug": "switter",
+    "title": "switter",
+    "date": 1528388210932,
+    "synopsis": "In April 2018 the first instance for sex workers appeared. This was in response to the [https://en.wikipedia.org/wiki/Stop_Enabling_Sex_Traffickers_Act SESTA] act in the US, which made the more mainstream sites nervous about hosting anything which might be related to sex work of any kind, and as a consequence began the large scale purging of accounts which might be related to that."
+  },
+  {
+    "slug": "the-boring-software-manifesto",
+    "title": "The Boring Software Manifesto",
+    "date": 1529403197632,
+    "synopsis": "18 Jun 2018 - by Maurits van der Schee"
+  },
+  {
+    "slug": "the-code-it-yourself-manifesto",
+    "title": "The Code It Yourself Manifesto",
+    "date": 1538645172547,
+    "synopsis": "written by Christian Kellermann on 2016-01-12"
+  },
+  {
+    "slug": "the-fediverse-is-too-fractured",
+    "title": "The fediverse is too fractured",
+    "date": 1517001465681,
+    "synopsis": "Too bad. Celebrity culture isn't what the fediverse is about. If you try to gather millions of followers then that probably won't work, and your user interface will appear to grind to a halt."
+  },
+  {
+    "slug": "the-ideal-protocol",
+    "title": "The Ideal Protocol",
+    "date": 1517091773279,
+    "synopsis": "The ideal fediverse protocol would:"
+  },
+  {
+    "slug": "the-problems-with-centralization",
+    "title": "The problems with Centralization",
+    "date": 1522090066126,
+    "synopsis": "[[Censorship]]"
+  },
+  {
+    "slug": "the-silo-feedback-loop",
+    "title": "The Silo Feedback Loop",
+    "date": 1522091942712,
+    "synopsis": "The various features of the centralized silo systems create a feedback loop which encourages \"engagement\" and enables paying customers to manipulate opinions."
+  },
+  {
+    "slug": "the-small-tech-manifesto",
+    "title": "The Small Tech Manifesto",
+    "date": 1551790219436,
+    "synopsis": "Is built by humans for humans."
+  },
+  {
+    "slug": "the-software-developers-code-of-ethics",
+    "title": "The Software Developer's Code of Ethics",
+    "date": 1551819205764,
+    "synopsis": "Written by Bob Young, FIFO Networks, 28 August, 2016"
+  },
+  {
+    "slug": "the-unmeritocratic-manifesto",
+    "title": "The Unmeritocratic Manifesto",
+    "date": 1527498601260,
+    "synopsis": "Meritocracy is a founding principle of the FOSS movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, mentored, retained, promoted, and valued."
+  },
+  {
+    "slug": "there-is-no-viable-business-model-here-so-this-must-be-a-passing-fad",
+    "title": "There is no viable business model here, so this must be a passing fad",
+    "date": 1528367080184,
+    "synopsis": "In the world of gigantic centralized systems business models and their viability are a prime concern, but in the fediverse business models don't matter."
+  },
+  {
+    "slug": "trending-hashtags",
+    "title": "Trending Hashtags",
+    "date": 1528023897375,
+    "synopsis": "In June 2018 hashtag trends were added to Mastodon and this generated some controversy."
+  },
+  {
+    "slug": "trust-in-w3c-standards",
+    "title": "Trust in W3C Standards",
+    "date": 1517062366694,
+    "synopsis": "After the W3C embraced digital restrictions management (EME) as an official standard in 2017 there wasn't much trust in the organization."
+  },
+  {
+    "slug": "views-on-activitypub",
+    "title": "views-on-activitypub",
+    "date": 1528022153003,
+    "synopsis": "The ActivityPub protocol was approved by W3C at the end of 2017. It represented a continuation of the earlier OStatus protocol, being mostly written by the same people."
+  },
+  {
+    "slug": "wanting-to-report-bad-people",
+    "title": "wanting-to-report-bad-people",
+    "date": 1517000128983,
+    "synopsis": "There are bad people on the interwebs. Doing bad things, which you don't agree with."
+  },
+  {
+    "slug": "we-are-devoted-to-practicing-correctness-and-not-complacency",
+    "title": "We are devoted to practicing correctness and not complacency",
+    "date": 1527501613300,
+    "synopsis": "We refuse to accept ongoing technical blunders in spite of their proponents, because we know that while emotions are temporary legacy systems are forever."
+  },
+  {
+    "slug": "we-believe-that-interpersonal-skills-are-often-less-important-than-technical-skills-in-the-creation-of-software",
+    "title": "We believe that interpersonal skills are often less important than technical skills in the creation of software",
+    "date": 1527500193954,
+    "synopsis": "It doesn't matter if you are a great orator at tech conferences or good at influencing others or are fantastic at organizing social events if the software which you ultimately produce is of low quality or does not fit the needs of the community."
+  },
+  {
+    "slug": "we-believe-that-our-value-as-human-beings-is-intrinsically-tied-to-what-we-leave-for-others-to-use",
+    "title": "We believe that our value as human beings is intrinsically tied to what we leave for others to use",
+    "date": 1527502227299,
+    "synopsis": "While we are all individuals with diverse and special circumstances and histories, our utility to our peers is measurable in what software we produce and how helpful to others that software is."
+  },
+  {
+    "slug": "we-can-add-the-most-value-as-practitioners-by-creating-accessible-and-appropriate-software-within-time-scales-which-are-relevant-to-users",
+    "title": "We can add the most value as practitioners by creating accessible and appropriate software within time scales which are relevant to users",
+    "date": 1527499384485,
+    "synopsis": "The software we produce should always take accessibility into account."
+  },
+  {
+    "slug": "we-have-an-ethical-responsibility-to-refuse-to-mislead-others-about-the-capabilities-and-obvious-implications-of-the-software-we-work-on",
+    "title": "We have an ethical responsibility to refuse to mislead others about the capabilities and obvious implications of the software we work on",
+    "date": 1527501490967,
+    "synopsis": "We should not build in antifeatures or use deceptive \"dark patterns\" to trick users into activities which narrowly benefit any particular party."
+  },
+  {
+    "slug": "we-have-an-obligation-of-solidarity-towards-software-creators-and-communities-who-share-our-values",
+    "title": "We have an obligation of solidarity towards software creators and communities who share our values",
+    "date": 1527528944123,
+    "synopsis": "Where possible we should help to keep the software created by the community running, and that may include fund raising, volunteering to share resources, campaigning against legal or other threats to the community and archiving of projects which are no longer maintained."
+  },
+  {
+    "slug": "we-must-make-every-effort-to-pass-on-our-skills-and-values-and-promote-our-communities",
+    "title": "we-must-make-every-effort-to-pass-on-our-skills-and-values-and-promote-our-communities",
+    "date": 1527500845224,
+    "synopsis": "In the creation of software we should always consider how and to what extent this helps to perpetuate our values into the wider world."
+  },
+  {
+    "slug": "we-reflect-our-values-in-everything-that-we-do",
+    "title": "We reflect our values in everything that we do",
+    "date": 1527502094787,
+    "synopsis": "Every occasion is an opportunity to live out our values of freedom, cooperation and solidarity. We should not be shy about expressing our values or hide behind a false mask of neutrality."
+  },
+  {
+    "slug": "we-understand-that-software-is-not-just-code",
+    "title": "we-understand-that-software-is-not-just-code",
+    "date": 1527502955592,
+    "synopsis": "We understand that software is not just code. It includes documentation, artwork, testing and creating the infrastructure needed to support user communities. When referring to software we mean the totality of all of these things."
+  },
+  {
+    "slug": "we-understand-that-technological-and-social-change-are-complementary",
+    "title": "We understand that technological and social change are complementary",
+    "date": 1527501679262,
+    "synopsis": "A page with 0 items."
+  },
+  {
+    "slug": "we-understand-that-technological-and-social-change-are-mutually-dependent",
+    "title": "We understand that technological and social change are mutually dependent",
+    "date": 1527501845940,
+    "synopsis": "One cannot happen without the other. If we want a better world then we need software which works better for communities. If we want better software we need people who have the time and energy to learn and practice the craft, and that requires a sufficiently supportive society which enables volunteer efforts."
+  },
+  {
+    "slug": "we-understand-that-the-creation-of-software-is-a-deliberate-sacrifice-of-our-time-in-this-world-and-an-acceptance-of-a-certain-value-system",
+    "title": "we-understand-that-the-creation-of-software-is-a-deliberate-sacrifice-of-our-time-in-this-world-and-an-acceptance-of-a-certain-value-system",
+    "date": 1527499605501,
+    "synopsis": "We do not enter into such sacrifices or compacts lightly, and we do not accept appropriation of those energies nor the dismissal of that value system."
+  },
+  {
+    "slug": "we-welcome-anyone-who-shares-the-values-of-software-freedom-into-our-community",
+    "title": "We welcome anyone who shares the values of software freedom into our community",
+    "date": 1527502908855,
+    "synopsis": "We do not turn away anyone on the basis of narrow denominations such as class, race, nationality, age or gender."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1531298404125,
+    "synopsis": "Welcome to this [[Federated Wiki]] site."
+  },
+  {
+    "slug": "why-are-there-no-adverts",
+    "title": "Why are there no adverts?",
+    "date": 1517001855811,
+    "synopsis": "In principle there's nothing stopping anyone from advertising in the fediverse, but ads tend not to be favored and because this is not a centralized system the potential viewership of any advert is likely to be quite limited."
+  },
+  {
+    "slug": "why-cant-i-edit-posts",
+    "title": "Why can't I edit posts?",
+    "date": 1516998719350,
+    "synopsis": "Due to the way that posts are federated between servers, editing them doesn't make much sense. In contrast adding an edit function is easy if all posts reside on a single centralized system."
+  }
+]

@@ -1,0 +1,312 @@
+{
+  "title": "Manifestos",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c19dc24a02e21f10",
+      "text": "[[The Unmeritocratic Manifesto]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2c1fe0f06dd709ff",
+      "text": "This manifesto was created in response to the [https://postmeritocracy.org/ Post-Meritocracy Manifesto] and the [https://lobste.rs/s/u75wnk/post_meritocracy_manifesto Contra-Post-Meritocracy Manifesto]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ed615dd126029e48",
+      "text": "[[The Boring Software Manifesto]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a55af1a05bdc6ef3",
+      "text": "Could also be called The Old Programmer's Manifesto or the Get Off My Lawn Manifesto. Does \"best practices\" mean old practices? Are \"verifiable claims\" just old traditions?"
+    },
+    {
+      "type": "paragraph",
+      "id": "0090a6c56524e005",
+      "text": "[[Principles of Networked Expression]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "929f860838b0faac",
+      "text": "A generalisation of the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3617655b6a42aec8",
+      "text": "[[The Code It Yourself Manifesto]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c0e22ea12173972c",
+      "text": "[[The Small Tech Manifesto]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d91c2ac64b1eb5b1",
+      "text": "[[The Software Developer's Code of Ethics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c5b1873c9dcc9c04",
+      "text": "[[Open Letter to the Free Software Movement]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Manifestos",
+        "story": []
+      },
+      "date": 1527497574645
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c19dc24a02e21f10"
+      },
+      "id": "c19dc24a02e21f10",
+      "type": "add",
+      "date": 1527497583066
+    },
+    {
+      "type": "edit",
+      "id": "c19dc24a02e21f10",
+      "item": {
+        "type": "paragraph",
+        "id": "c19dc24a02e21f10",
+        "text": "[[The Unmeritocratic Manifesto]]"
+      },
+      "date": 1527497619207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c1fe0f06dd709ff"
+      },
+      "id": "2c1fe0f06dd709ff",
+      "type": "add",
+      "after": "c19dc24a02e21f10",
+      "date": 1527503660371
+    },
+    {
+      "type": "edit",
+      "id": "2c1fe0f06dd709ff",
+      "item": {
+        "type": "paragraph",
+        "id": "2c1fe0f06dd709ff",
+        "text": "This manifesto was created in response to the Post-Meritocracy Manifesto and the Contra-Post-Meritocracy Manifesto"
+      },
+      "date": 1527503724954
+    },
+    {
+      "type": "edit",
+      "id": "2c1fe0f06dd709ff",
+      "item": {
+        "type": "paragraph",
+        "id": "2c1fe0f06dd709ff",
+        "text": "This manifesto was created in response to the Post-Meritocracy Manifesto and the [Contra-Post-Meritocracy Manifesto](https://lobste.rs/s/u75wnk/post_meritocracy_manifesto)"
+      },
+      "date": 1527503745454
+    },
+    {
+      "type": "edit",
+      "id": "2c1fe0f06dd709ff",
+      "item": {
+        "type": "paragraph",
+        "id": "2c1fe0f06dd709ff",
+        "text": "This manifesto was created in response to the Post-Meritocracy Manifesto and the [https://lobste.rs/s/u75wnk/post_meritocracy_manifesto Contra-Post-Meritocracy Manifesto]"
+      },
+      "date": 1527503828359
+    },
+    {
+      "type": "edit",
+      "id": "2c1fe0f06dd709ff",
+      "item": {
+        "type": "paragraph",
+        "id": "2c1fe0f06dd709ff",
+        "text": "This manifesto was created in response to the [https://postmeritocracy.org/ Post-Meritocracy Manifesto] and the [https://lobste.rs/s/u75wnk/post_meritocracy_manifesto Contra-Post-Meritocracy Manifesto]"
+      },
+      "date": 1527503852646
+    },
+    {
+      "type": "add",
+      "id": "ed615dd126029e48",
+      "item": {
+        "type": "paragraph",
+        "id": "ed615dd126029e48",
+        "text": "[[The Boring Software Manifesto]]"
+      },
+      "after": "c19dc24a02e21f10",
+      "date": 1529400636553
+    },
+    {
+      "type": "move",
+      "order": [
+        "c19dc24a02e21f10",
+        "2c1fe0f06dd709ff",
+        "ed615dd126029e48"
+      ],
+      "id": "ed615dd126029e48",
+      "date": 1529400975032
+    },
+    {
+      "type": "add",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called The Old Programmer's Manifesto (get off of my lawn!)"
+      },
+      "after": "ed615dd126029e48",
+      "date": 1529401018089
+    },
+    {
+      "type": "edit",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called The Old Programmer's Manifesto (webshit kiddies get off of my lawn!)"
+      },
+      "date": 1529401051146
+    },
+    {
+      "type": "edit",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called The Old Programmer's Manifesto (webshit kiddies get off of my lawn!). Does \"best practices\" mean old practices?"
+      },
+      "date": 1529401257449
+    },
+    {
+      "type": "edit",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called The Old Programmer's Manifesto (webshit kiddies get off of my lawn!). Does \"best practices\" mean old practices? Are \"verifiable claims\" just old traditions?"
+      },
+      "date": 1529401289338
+    },
+    {
+      "type": "edit",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called <i>The Old Programmer's Manifesto</i> (webshit kiddies get off of my lawn!). Does \"best practices\" mean old practices? Are \"verifiable claims\" just old traditions?"
+      },
+      "date": 1529401502666
+    },
+    {
+      "type": "edit",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called The *Old Programmer's Manifesto* (webshit kiddies get off of my lawn!). Does \"best practices\" mean old practices? Are \"verifiable claims\" just old traditions?"
+      },
+      "date": 1529401514437
+    },
+    {
+      "type": "edit",
+      "id": "a55af1a05bdc6ef3",
+      "item": {
+        "type": "paragraph",
+        "id": "a55af1a05bdc6ef3",
+        "text": "Could also be called The Old Programmer's Manifesto or the Get Off My Lawn Manifesto. Does \"best practices\" mean old practices? Are \"verifiable claims\" just old traditions?"
+      },
+      "date": 1529401534978
+    },
+    {
+      "type": "add",
+      "id": "0090a6c56524e005",
+      "item": {
+        "type": "paragraph",
+        "id": "0090a6c56524e005",
+        "text": "[[Principles of Networked Expression]]"
+      },
+      "after": "a55af1a05bdc6ef3",
+      "date": 1530610151743
+    },
+    {
+      "type": "add",
+      "id": "929f860838b0faac",
+      "item": {
+        "type": "paragraph",
+        "id": "929f860838b0faac",
+        "text": "A generalisation of the "
+      },
+      "after": "0090a6c56524e005",
+      "date": 1530610167743
+    },
+    {
+      "type": "edit",
+      "id": "929f860838b0faac",
+      "item": {
+        "type": "paragraph",
+        "id": "929f860838b0faac",
+        "text": "A generalisation of the [ Vendor Relationship Management Principles]"
+      },
+      "date": 1530610194398
+    },
+    {
+      "type": "edit",
+      "id": "929f860838b0faac",
+      "item": {
+        "type": "paragraph",
+        "id": "929f860838b0faac",
+        "text": "A generalisation of the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles]"
+      },
+      "date": 1530610206228
+    },
+    {
+      "type": "add",
+      "id": "3617655b6a42aec8",
+      "item": {
+        "type": "paragraph",
+        "id": "3617655b6a42aec8",
+        "text": "[[The Code It Yourself Manifesto]]"
+      },
+      "after": "929f860838b0faac",
+      "date": 1538644857715
+    },
+    {
+      "type": "add",
+      "id": "c0e22ea12173972c",
+      "item": {
+        "type": "paragraph",
+        "id": "c0e22ea12173972c",
+        "text": "[[The Small Tech Manifesto]]"
+      },
+      "after": "3617655b6a42aec8",
+      "date": 1551789915186
+    },
+    {
+      "type": "add",
+      "id": "d91c2ac64b1eb5b1",
+      "item": {
+        "type": "paragraph",
+        "id": "d91c2ac64b1eb5b1",
+        "text": "[[The Software Developer's Code of Ethics]]"
+      },
+      "after": "c0e22ea12173972c",
+      "date": 1551818794329
+    },
+    {
+      "type": "add",
+      "id": "c5b1873c9dcc9c04",
+      "item": {
+        "type": "paragraph",
+        "id": "c5b1873c9dcc9c04",
+        "text": "[[Open Letter to the Free Software Movement]]"
+      },
+      "after": "d91c2ac64b1eb5b1",
+      "date": 1569573924900
+    }
+  ]
+}

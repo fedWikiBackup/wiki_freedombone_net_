@@ -1,0 +1,173 @@
+{
+  "title": "1995-1997 Web 1.0 begins",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "40b1174167d35885",
+      "text": "The internet first becomes accessible to the general public, outside of academia or the military. This was enabled by the appearance of ISPs with low enough subscription costs."
+    },
+    {
+      "type": "paragraph",
+      "id": "c964eaa3db7fc43a",
+      "text": "During this time in the UK it was possible to pay about £10 per month for dialup access to the internet, although that didn't include telephone charges which were paid by the minute. If you could keep the amount of time you were logged in to a minimum - enough to collect email, usenet news and download a couple of websites for offline browsing later - then costs could be contained to something reasonable."
+    },
+    {
+      "type": "paragraph",
+      "id": "23f1b7fe91af2967",
+      "text": "The beginning of web 1.0 saw a rapid growth in the number of personal home pages. This was the time when the web was full of \"under construction\" icons."
+    },
+    {
+      "type": "paragraph",
+      "id": "3a118d24c13c2e32",
+      "text": "Also during this time there was no noticable amount of copyright enforcement, so things like pictures taken from movies or book covers or corporate logos were used without any concern for copyrights or trademarks."
+    },
+    {
+      "type": "paragraph",
+      "id": "9c848f1d9aa48383",
+      "text": "Much socialising went on via email during this early period, and this often included oversharing of personal details. In fictional form the 1998 movie [https://en.wikipedia.org/wiki/You%27ve_Got_Mail \"You've got mail\"] depicts the kinds of online activities which were common at the time. It was exciting to be able to communicate with people in different countries, although at that time the internet population mostly only existed in Europe and the US."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1995-1997 Web 1.0 begins",
+        "story": []
+      },
+      "date": 1531299275752
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40b1174167d35885"
+      },
+      "id": "40b1174167d35885",
+      "type": "add",
+      "date": 1531299278494
+    },
+    {
+      "type": "edit",
+      "id": "40b1174167d35885",
+      "item": {
+        "type": "paragraph",
+        "id": "40b1174167d35885",
+        "text": "The internet first becomes accessible to the general public, outside of academia or the military. This was enabled by the appearance of ISPs with low enough subscription costs."
+      },
+      "date": 1531299357111
+    },
+    {
+      "type": "add",
+      "id": "c964eaa3db7fc43a",
+      "item": {
+        "type": "paragraph",
+        "id": "c964eaa3db7fc43a",
+        "text": "During this time in the UK it was possible to pay about £10 per month for dialup access to the internet, although that didn't include telephone charges which were paid by the minute."
+      },
+      "after": "40b1174167d35885",
+      "date": 1531299427862
+    },
+    {
+      "type": "edit",
+      "id": "c964eaa3db7fc43a",
+      "item": {
+        "type": "paragraph",
+        "id": "c964eaa3db7fc43a",
+        "text": "During this time in the UK it was possible to pay about £10 per month for dialup access to the internet, although that didn't include telephone charges which were paid by the minute. If you could keep the amount of time you were logged in to a minimum - enough to collect email, usenet news and download a couple of sites - then costs could be contained to something reasonable."
+      },
+      "date": 1531299510046
+    },
+    {
+      "type": "edit",
+      "id": "c964eaa3db7fc43a",
+      "item": {
+        "type": "paragraph",
+        "id": "c964eaa3db7fc43a",
+        "text": "During this time in the UK it was possible to pay about £10 per month for dialup access to the internet, although that didn't include telephone charges which were paid by the minute. If you could keep the amount of time you were logged in to a minimum - enough to collect email, usenet news and download a couple of websites - then costs could be contained to something reasonable."
+      },
+      "date": 1531299544839
+    },
+    {
+      "type": "edit",
+      "id": "c964eaa3db7fc43a",
+      "item": {
+        "type": "paragraph",
+        "id": "c964eaa3db7fc43a",
+        "text": "During this time in the UK it was possible to pay about £10 per month for dialup access to the internet, although that didn't include telephone charges which were paid by the minute. If you could keep the amount of time you were logged in to a minimum - enough to collect email, usenet news and download a couple of websites for offline browsing later - then costs could be contained to something reasonable."
+      },
+      "date": 1531299560876
+    },
+    {
+      "type": "add",
+      "id": "23f1b7fe91af2967",
+      "item": {
+        "type": "paragraph",
+        "id": "23f1b7fe91af2967",
+        "text": "The beginning of web 1.0 saw a rapid growth in the number of personal home pages. This was the time when the web was full of \"under construction\" icons."
+      },
+      "after": "c964eaa3db7fc43a",
+      "date": 1531299646326
+    },
+    {
+      "type": "add",
+      "id": "3a118d24c13c2e32",
+      "item": {
+        "type": "paragraph",
+        "id": "3a118d24c13c2e32",
+        "text": "Also during this time there was no noticable amount of copyright enforcement, so things like pictures taken from movies or corporate logos were used without any concern for copyrights or trademarks."
+      },
+      "after": "23f1b7fe91af2967",
+      "date": 1531299793286
+    },
+    {
+      "type": "edit",
+      "id": "3a118d24c13c2e32",
+      "item": {
+        "type": "paragraph",
+        "id": "3a118d24c13c2e32",
+        "text": "Also during this time there was no noticable amount of copyright enforcement, so things like pictures taken from movies or book covers or corporate logos were used without any concern for copyrights or trademarks."
+      },
+      "date": 1531299822865
+    },
+    {
+      "type": "add",
+      "id": "9c848f1d9aa48383",
+      "item": {
+        "type": "paragraph",
+        "id": "9c848f1d9aa48383",
+        "text": "Much socialising went on via email during this early period, and this often included oversharing of personal details. It's depicted in fictional form in the 1998 movie \"You've got mail\". It was exciting to be able to communicate with people in different countries, although at that time the internet population mostly only existed in Europe and the US."
+      },
+      "after": "3a118d24c13c2e32",
+      "date": 1531300167284
+    },
+    {
+      "type": "edit",
+      "id": "9c848f1d9aa48383",
+      "item": {
+        "type": "paragraph",
+        "id": "9c848f1d9aa48383",
+        "text": "Much socialising went on via email during this early period, and this often included oversharing of personal details. It's depicted in fictional form in the 1998 movie [https://en.wikipedia.org/wiki/You%27ve_Got_Mail \"You've got mail\"]. It was exciting to be able to communicate with people in different countries, although at that time the internet population mostly only existed in Europe and the US."
+      },
+      "date": 1531306655393
+    },
+    {
+      "type": "edit",
+      "id": "9c848f1d9aa48383",
+      "item": {
+        "type": "paragraph",
+        "id": "9c848f1d9aa48383",
+        "text": "Much socialising went on via email during this early period, and this often included oversharing of personal details. In fictional form the 1998 movie [https://en.wikipedia.org/wiki/You%27ve_Got_Mail \"You've got mail\"] depicts the kinds of online activity which were common at the time. It was exciting to be able to communicate with people in different countries, although at that time the internet population mostly only existed in Europe and the US."
+      },
+      "date": 1531306798416
+    },
+    {
+      "type": "edit",
+      "id": "9c848f1d9aa48383",
+      "item": {
+        "type": "paragraph",
+        "id": "9c848f1d9aa48383",
+        "text": "Much socialising went on via email during this early period, and this often included oversharing of personal details. In fictional form the 1998 movie [https://en.wikipedia.org/wiki/You%27ve_Got_Mail \"You've got mail\"] depicts the kinds of online activities which were common at the time. It was exciting to be able to communicate with people in different countries, although at that time the internet population mostly only existed in Europe and the US."
+      },
+      "date": 1531307272496
+    }
+  ]
+}

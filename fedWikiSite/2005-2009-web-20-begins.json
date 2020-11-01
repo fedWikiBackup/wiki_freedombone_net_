@@ -1,0 +1,195 @@
+{
+  "title": "2005-2009-web-20-begins",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e7e35eefc0dda2f2",
+      "text": "By the end of web 1.0 companies have decided that people just won't pay for web content. At least, not enough to produce the kinds of profits they were expecting during the dotcom years."
+    },
+    {
+      "type": "paragraph",
+      "id": "852427086a75916b",
+      "text": "So they ditch the idea of users as customers and instead turn to the traditional business model of \"old media\", which is advertising."
+    },
+    {
+      "type": "paragraph",
+      "id": "392b829a745990e2",
+      "text": "Where there are users there is attention and advertisers will pay to get a slice of that. Industry commentators scoffed at the notion initially, but this turned out to be a very lucrative business model."
+    },
+    {
+      "type": "paragraph",
+      "id": "82831c0353ba5dc8",
+      "text": "At the beginning of web 2.0 the cynicism created by the dotcom crash of 2001 finally disappears and a new confidence emerges that the web can change the world. This is the time when many well known web systems appeared - most notably Twitter, Facebook, YouTube, Gmail and Github."
+    },
+    {
+      "type": "paragraph",
+      "id": "0e63809d5db8f0e0",
+      "text": "During this time database and server technology is becoming sufficiently advanced and scalable that it can handle millions or billions of users comfortably in a few large warehouses packed with server racks. The big idea is to get everyone into your database, then monetize the data with ads."
+    },
+    {
+      "type": "paragraph",
+      "id": "93a4500cce23e5c3",
+      "text": "At first, advertising seemed like a win-win situation for content creators on the web. It looked as if the problem of how to make web content as a day job and not starve had been solved at last. For a brief time in the mid 2000s some people even left their traditional \"good jobs\" to become full time bloggers living on adsense revenue."
+    },
+    {
+      "type": "paragraph",
+      "id": "3e2981eb17fa15b6",
+      "text": "But this turned out to be merely an illusion. Over time the amount of advertiser money going to the web companies increased towards 100% and the amount going to content creators decreased towards 0%. Demonetization of content and dwindling payment rates became the norm."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2005-2009-web-20-begins",
+        "story": []
+      },
+      "date": 1531301939670
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7e35eefc0dda2f2"
+      },
+      "id": "e7e35eefc0dda2f2",
+      "type": "add",
+      "date": 1531301941349
+    },
+    {
+      "type": "edit",
+      "id": "e7e35eefc0dda2f2",
+      "item": {
+        "type": "paragraph",
+        "id": "e7e35eefc0dda2f2",
+        "text": "By the end of web 1.0 companies have decided that people just won't pay for web content. At least, not enough to produce the kinds of profits they were expecting during the dotcom years."
+      },
+      "date": 1531302005646
+    },
+    {
+      "type": "add",
+      "id": "852427086a75916b",
+      "item": {
+        "type": "paragraph",
+        "id": "852427086a75916b",
+        "text": "So they ditch the idea of users as customers and instead turn to the traditional business model of \"old media\", which is advertising."
+      },
+      "after": "e7e35eefc0dda2f2",
+      "date": 1531302047708
+    },
+    {
+      "type": "add",
+      "id": "392b829a745990e2",
+      "item": {
+        "type": "paragraph",
+        "id": "392b829a745990e2",
+        "text": "Where there are users there is attention and advertisers will pay to get a slice of that. This turned out to be a very lucrative business model."
+      },
+      "after": "852427086a75916b",
+      "date": 1531302200300
+    },
+    {
+      "type": "add",
+      "id": "82831c0353ba5dc8",
+      "item": {
+        "type": "paragraph",
+        "id": "82831c0353ba5dc8",
+        "text": "At the beginning of web 2.0 the cynicism created by the dotcom crash of 2001 finally disappears and a new confidence emerges that the web can change the world. This is the time when many well known web systems appeared - most notably Twitter, Facebook and Gmail."
+      },
+      "after": "392b829a745990e2",
+      "date": 1531302369107
+    },
+    {
+      "type": "add",
+      "id": "0e63809d5db8f0e0",
+      "item": {
+        "type": "paragraph",
+        "id": "0e63809d5db8f0e0",
+        "text": "During this time database and server technology is becoming sufficiently advanced and scalable that it can handle millions or billions of users comfortably in a few large warehouses packed with server racks. The big idea is to get everyone into your database, then monetize the data with ads."
+      },
+      "after": "82831c0353ba5dc8",
+      "date": 1531302797010
+    },
+    {
+      "type": "add",
+      "id": "93a4500cce23e5c3",
+      "item": {
+        "type": "paragraph",
+        "id": "93a4500cce23e5c3",
+        "text": "At first, advertising seemed like a win-win situation for content creators on the web. It looked as if the problem of how to make web content as a day job and not starve had been solved at last. But this turned out to be merely an illusion. Over time the amount of advertiser money going to the web companies increased towards 100% and the amount going to content creators decreased towards 0%."
+      },
+      "after": "0e63809d5db8f0e0",
+      "date": 1531303107088
+    },
+    {
+      "type": "edit",
+      "id": "82831c0353ba5dc8",
+      "item": {
+        "type": "paragraph",
+        "id": "82831c0353ba5dc8",
+        "text": "At the beginning of web 2.0 the cynicism created by the dotcom crash of 2001 finally disappears and a new confidence emerges that the web can change the world. This is the time when many well known web systems appeared - most notably Twitter, Facebook, YouTube and Gmail."
+      },
+      "date": 1531303155107
+    },
+    {
+      "type": "edit",
+      "id": "93a4500cce23e5c3",
+      "item": {
+        "type": "paragraph",
+        "id": "93a4500cce23e5c3",
+        "text": "At first, advertising seemed like a win-win situation for content creators on the web. It looked as if the problem of how to make web content as a day job and not starve had been solved at last. For a brief time in the mid 2000s some people even left their traditional \"good jobs\" to become full time bloggers living on adsense revenue."
+      },
+      "date": 1531303243960
+    },
+    {
+      "type": "add",
+      "id": "3e2981eb17fa15b6",
+      "item": {
+        "type": "paragraph",
+        "id": "3e2981eb17fa15b6",
+        "text": "But this turned out to be merely an illusion. Over time the amount of advertiser money going to the web companies increased towards 100% and the amount going to content creators decreased towards 0%."
+      },
+      "after": "93a4500cce23e5c3",
+      "date": 1531303246711
+    },
+    {
+      "type": "edit",
+      "id": "3e2981eb17fa15b6",
+      "item": {
+        "type": "paragraph",
+        "id": "3e2981eb17fa15b6",
+        "text": "But this turned out to be merely an illusion. Over time the amount of advertiser money going to the web companies increased towards 100% and the amount going to content creators decreased towards 0%. Demonetization and dwindling payment rates became the norm."
+      },
+      "date": 1531303342567
+    },
+    {
+      "type": "edit",
+      "id": "3e2981eb17fa15b6",
+      "item": {
+        "type": "paragraph",
+        "id": "3e2981eb17fa15b6",
+        "text": "But this turned out to be merely an illusion. Over time the amount of advertiser money going to the web companies increased towards 100% and the amount going to content creators decreased towards 0%. Demonetization of content and dwindling payment rates became the norm."
+      },
+      "date": 1531303353192
+    },
+    {
+      "type": "edit",
+      "id": "392b829a745990e2",
+      "item": {
+        "type": "paragraph",
+        "id": "392b829a745990e2",
+        "text": "Where there are users there is attention and advertisers will pay to get a slice of that. Industry commentators scoffed at the notion initially, but this turned out to be a very lucrative business model."
+      },
+      "date": 1531307044378
+    },
+    {
+      "type": "edit",
+      "id": "82831c0353ba5dc8",
+      "item": {
+        "type": "paragraph",
+        "id": "82831c0353ba5dc8",
+        "text": "At the beginning of web 2.0 the cynicism created by the dotcom crash of 2001 finally disappears and a new confidence emerges that the web can change the world. This is the time when many well known web systems appeared - most notably Twitter, Facebook, YouTube, Gmail and Github."
+      },
+      "date": 1531307716902
+    }
+  ]
+}

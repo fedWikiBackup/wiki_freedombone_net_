@@ -1,0 +1,303 @@
+{
+  "title": "fediverse culture shock",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "666acecd81a1464d",
+      "text": "This is what happens when someone has only had a presence within large corporate sites, such as Twitter or Facebook, and then moves to a federated system on the open internet."
+    },
+    {
+      "type": "html",
+      "id": "a1cdbf8fcc9646b3",
+      "text": "<h3>Symptoms:"
+    },
+    {
+      "type": "paragraph",
+      "id": "6835cbcfdf93f2a6",
+      "text": "[[Wanting to report bad people]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "00a3c0c8219f2746",
+      "text": "[[Not understanding that there is no single company behind it all]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0b2a165c15eb1fb1",
+      "text": "[[Someone else must take responsibility for XYZ]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a9be46ffea60e12",
+      "text": "[[Why can't I edit posts?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f14bc89cd700a56",
+      "text": "[[There is no viable business model here, so this must be a passing fad]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d413288d1af935d",
+      "text": "[[I need to create my preferred username before someone else uses it]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bd17857dab4baa82",
+      "text": "[[I don't like the name \"Mastodon\"]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1419b1e6fc70346c",
+      "text": "[[The fediverse is too fractured]]. I cannot spam millions of adoring fans with my latest hot take."
+    },
+    {
+      "type": "paragraph",
+      "id": "e1537966fdf29766",
+      "text": "[[Why are there no adverts?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2e7e59fcb1266238",
+      "text": "[[Registering an account on each instance]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "fediverse culture shock",
+        "story": []
+      },
+      "date": 1516997670080
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "666acecd81a1464d"
+      },
+      "id": "666acecd81a1464d",
+      "type": "add",
+      "date": 1516997674255
+    },
+    {
+      "type": "edit",
+      "id": "666acecd81a1464d",
+      "item": {
+        "type": "paragraph",
+        "id": "666acecd81a1464d",
+        "text": "This is what happens when someone has only had a presence within large corporate sites, such as Twitter or Facebook, and then moves to a federated system on the open internet."
+      },
+      "date": 1516997731084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "acfa7a594bf26c67"
+      },
+      "id": "acfa7a594bf26c67",
+      "type": "add",
+      "after": "666acecd81a1464d",
+      "date": 1516997826751
+    },
+    {
+      "type": "edit",
+      "id": "acfa7a594bf26c67",
+      "item": {
+        "type": "paragraph",
+        "id": "acfa7a594bf26c67",
+        "text": "<h3>Symptoms:"
+      },
+      "date": 1516997837074
+    },
+    {
+      "type": "remove",
+      "id": "acfa7a594bf26c67",
+      "date": 1516997842163
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1cdbf8fcc9646b3"
+      },
+      "id": "a1cdbf8fcc9646b3",
+      "type": "add",
+      "after": "666acecd81a1464d",
+      "date": 1516997844056
+    },
+    {
+      "type": "edit",
+      "id": "a1cdbf8fcc9646b3",
+      "item": {
+        "type": "html",
+        "id": "a1cdbf8fcc9646b3",
+        "text": "<h3>Symptoms:"
+      },
+      "date": 1516997854004
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6835cbcfdf93f2a6"
+      },
+      "id": "6835cbcfdf93f2a6",
+      "type": "add",
+      "after": "a1cdbf8fcc9646b3",
+      "date": 1516997861305
+    },
+    {
+      "type": "edit",
+      "id": "6835cbcfdf93f2a6",
+      "item": {
+        "type": "paragraph",
+        "id": "6835cbcfdf93f2a6",
+        "text": "[[Wanting to report bad people]]"
+      },
+      "date": 1516998008790
+    },
+    {
+      "type": "add",
+      "id": "00a3c0c8219f2746",
+      "item": {
+        "type": "paragraph",
+        "id": "00a3c0c8219f2746",
+        "text": "[[Not understanding that there is no single company behind it all]]"
+      },
+      "after": "6835cbcfdf93f2a6",
+      "date": 1516998042259
+    },
+    {
+      "type": "add",
+      "id": "0b2a165c15eb1fb1",
+      "item": {
+        "type": "paragraph",
+        "id": "0b2a165c15eb1fb1",
+        "text": "[[Someone else must take responsibility for XYZ]]"
+      },
+      "after": "00a3c0c8219f2746",
+      "date": 1516998072802
+    },
+    {
+      "type": "add",
+      "id": "2a9be46ffea60e12",
+      "item": {
+        "type": "paragraph",
+        "id": "2a9be46ffea60e12",
+        "text": "[[Why can't I edit posts?]]"
+      },
+      "after": "0b2a165c15eb1fb1",
+      "date": 1516998179722
+    },
+    {
+      "type": "add",
+      "id": "3f14bc89cd700a56",
+      "item": {
+        "type": "paragraph",
+        "id": "3f14bc89cd700a56",
+        "text": "[[There is no viable business model here, so this must be a passing fad]]"
+      },
+      "after": "2a9be46ffea60e12",
+      "date": 1516998261721
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d413288d1af935d"
+      },
+      "id": "0d413288d1af935d",
+      "type": "add",
+      "after": "3f14bc89cd700a56",
+      "date": 1517000593956
+    },
+    {
+      "type": "edit",
+      "id": "0d413288d1af935d",
+      "item": {
+        "type": "paragraph",
+        "id": "0d413288d1af935d",
+        "text": "[[I need to create my preferred username before someone else uses it]]"
+      },
+      "date": 1517000674991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bd17857dab4baa82"
+      },
+      "id": "bd17857dab4baa82",
+      "type": "add",
+      "after": "0d413288d1af935d",
+      "date": 1517000942513
+    },
+    {
+      "type": "edit",
+      "id": "bd17857dab4baa82",
+      "item": {
+        "type": "paragraph",
+        "id": "bd17857dab4baa82",
+        "text": "[[I don't like the name \"Mastodon\"]]"
+      },
+      "date": 1517000956616
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1419b1e6fc70346c"
+      },
+      "id": "1419b1e6fc70346c",
+      "type": "add",
+      "after": "bd17857dab4baa82",
+      "date": 1517001034256
+    },
+    {
+      "type": "edit",
+      "id": "1419b1e6fc70346c",
+      "item": {
+        "type": "paragraph",
+        "id": "1419b1e6fc70346c",
+        "text": "[[The fediverse is too fractured]]. I cannot spam millions of adoring fans with my latest hot take."
+      },
+      "date": 1517001096082
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e1537966fdf29766"
+      },
+      "id": "e1537966fdf29766",
+      "type": "add",
+      "after": "1419b1e6fc70346c",
+      "date": 1517001571755
+    },
+    {
+      "type": "edit",
+      "id": "e1537966fdf29766",
+      "item": {
+        "type": "paragraph",
+        "id": "e1537966fdf29766",
+        "text": "[[Why are there no adverts?]]"
+      },
+      "date": 1517001590321
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e7e59fcb1266238"
+      },
+      "id": "2e7e59fcb1266238",
+      "type": "add",
+      "after": "e1537966fdf29766",
+      "date": 1517091882218
+    },
+    {
+      "type": "edit",
+      "id": "2e7e59fcb1266238",
+      "item": {
+        "type": "paragraph",
+        "id": "2e7e59fcb1266238",
+        "text": "[[Registering an account on each instance]]"
+      },
+      "date": 1517091924729
+    }
+  ]
+}

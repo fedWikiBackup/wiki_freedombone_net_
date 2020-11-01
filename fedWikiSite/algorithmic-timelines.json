@@ -1,0 +1,344 @@
+{
+  "title": "Algorithmic Timelines",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f9e5c4f1914667e5",
+      "text": "The algorithmic timeline might seem like a good idea at first. After all, people have limited time to mess around on social networks so maybe they just want to see the highlights."
+    },
+    {
+      "type": "paragraph",
+      "id": "7e5e3f08f2c8e80d",
+      "text": "Unfortunately it's never quite that simple. Twitter started using an algorithmic timeline in 2016 and Facebook many years before that. Algorithmic timelines give whoever controls the system the ability to promote or censor content as they wish, and their wishes may bear no relationship to the wishes of the user."
+    },
+    {
+      "type": "html",
+      "id": "60a7888d72beecfc",
+      "text": "<blockquote cite=\"https://medium.com/tootsuite/this-isnt-about-social-media-this-is-about-control-112dea8a21fd\">When the linear timeline was removed in favor of their own algorithmic sort, they removed our control over the conversation entirely. Instead of you and your friends in discourse with each other, you’re talking around the sources of content you’re being told to see, read, and like. You are in direct competition with a corporate notion of your personal history, identity, and relationships.</blockquote>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2e2ef6ef494775d6",
+      "text": "In 2012 Facebook used its algorithmic timeline to manipulate the emotions of its users in a week long experiment. None of the experimental subjects gave consent. By promoting or removing happy or sad content the collective mood could be artificially swayed one way or another. It's likely that other similar experiments have occurred quietly without any media attention."
+    },
+    {
+      "type": "paragraph",
+      "id": "36821ff122923f0a",
+      "text": "Algorithmic timelines also mean that different users see a different version of events. For any given post, maybe you see it now or maybe later or perhaps not at all, depending upon what the algorithm decides is priority. This reduces the potential for coordinated activities."
+    },
+    {
+      "type": "paragraph",
+      "id": "3eadc94a7319ceba",
+      "text": "A well known problem with algorithmic timelines is \"shadow banning\". You are sending out posts, but the algorithms decide that they all have zero ranking priority and so your friends never seem them. You think you're communicating, but actually you're not."
+    },
+    {
+      "type": "html",
+      "id": "36c9babd6cd46480",
+      "text": "<blockquote cite=\"\"\n</blockquote>\n\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Algorithmic Timelines",
+        "story": []
+      },
+      "date": 1517055719393
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9e5c4f1914667e5"
+      },
+      "id": "f9e5c4f1914667e5",
+      "type": "add",
+      "date": 1517055721312
+    },
+    {
+      "type": "edit",
+      "id": "f9e5c4f1914667e5",
+      "item": {
+        "type": "paragraph",
+        "id": "f9e5c4f1914667e5",
+        "text": "The algorithmic timeline might seem like a good idea at first. After all, people have limited time to mess around on social networks so maybe they just want to see the highlights."
+      },
+      "date": 1517055787124
+    },
+    {
+      "type": "add",
+      "id": "7e5e3f08f2c8e80d",
+      "item": {
+        "type": "paragraph",
+        "id": "7e5e3f08f2c8e80d",
+        "text": "Unfortunately it's never quite that simple. Twitter started using an algorithmic timeline in 2016 and Facebook some years before that. Algorithmic timelines give whoever controls the system the ability to promote or censor content as they wish, and their wishes may have no relationship to the wishes of the user."
+      },
+      "after": "f9e5c4f1914667e5",
+      "date": 1517055885981
+    },
+    {
+      "type": "edit",
+      "id": "7e5e3f08f2c8e80d",
+      "item": {
+        "type": "paragraph",
+        "id": "7e5e3f08f2c8e80d",
+        "text": "Unfortunately it's never quite that simple. Twitter started using an algorithmic timeline in 2016 and Facebook some years before that. Algorithmic timelines give whoever controls the system the ability to promote or censor content as they wish, and their wishes may bear no relationship to the wishes of the user."
+      },
+      "date": 1517056116489
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e2ef6ef494775d6"
+      },
+      "id": "2e2ef6ef494775d6",
+      "type": "add",
+      "after": "7e5e3f08f2c8e80d",
+      "date": 1517056268027
+    },
+    {
+      "type": "edit",
+      "id": "2e2ef6ef494775d6",
+      "item": {
+        "type": "paragraph",
+        "id": "2e2ef6ef494775d6",
+        "text": "In 2012 Facebook used its algorithmic timeline to manipulate the emotions of its users in a week long experiment. By promoting or removing happy or sad content the collective mood could be swayed one way or another."
+      },
+      "date": 1517056332761
+    },
+    {
+      "type": "edit",
+      "id": "2e2ef6ef494775d6",
+      "item": {
+        "type": "paragraph",
+        "id": "2e2ef6ef494775d6",
+        "text": "In 2012 Facebook used its algorithmic timeline to manipulate the emotions of its users in a week long experiment. By promoting or removing happy or sad content the collective mood could be swayed one way or another. It's likely that other similar experiments have occurred without any media attention."
+      },
+      "date": 1517056377569
+    },
+    {
+      "type": "edit",
+      "id": "2e2ef6ef494775d6",
+      "item": {
+        "type": "paragraph",
+        "id": "2e2ef6ef494775d6",
+        "text": "In 2012 Facebook used its algorithmic timeline to manipulate the emotions of its users in a week long experiment. None of the experimental subjects gave consent. By promoting or removing happy or sad content the collective mood could be swayed one way or another. It's likely that other similar experiments have occurred without any media attention."
+      },
+      "date": 1517056427630
+    },
+    {
+      "type": "edit",
+      "id": "2e2ef6ef494775d6",
+      "item": {
+        "type": "paragraph",
+        "id": "2e2ef6ef494775d6",
+        "text": "In 2012 Facebook used its algorithmic timeline to manipulate the emotions of its users in a week long experiment. None of the experimental subjects gave consent. By promoting or removing happy or sad content the collective mood could be swayed one way or another. It's likely that other similar experiments have occurred quietly without any media attention."
+      },
+      "date": 1517056475203
+    },
+    {
+      "type": "edit",
+      "id": "7e5e3f08f2c8e80d",
+      "item": {
+        "type": "paragraph",
+        "id": "7e5e3f08f2c8e80d",
+        "text": "Unfortunately it's never quite that simple. Twitter started using an algorithmic timeline in 2016 and Facebook many years before that. Algorithmic timelines give whoever controls the system the ability to promote or censor content as they wish, and their wishes may bear no relationship to the wishes of the user."
+      },
+      "date": 1517056535108
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36821ff122923f0a"
+      },
+      "id": "36821ff122923f0a",
+      "type": "add",
+      "after": "2e2ef6ef494775d6",
+      "date": 1517056610002
+    },
+    {
+      "type": "edit",
+      "id": "36821ff122923f0a",
+      "item": {
+        "type": "paragraph",
+        "id": "36821ff122923f0a",
+        "text": "Algorithmic timelines also mean that different users see a different version of events. For any given post, maybe you see it now or maybe later or perhaps not at all, depending upon what the algorithm decides is priority. This reduces the potential for coordinated activities."
+      },
+      "date": 1517056833869
+    },
+    {
+      "type": "edit",
+      "id": "2e2ef6ef494775d6",
+      "item": {
+        "type": "paragraph",
+        "id": "2e2ef6ef494775d6",
+        "text": "In 2012 Facebook used its algorithmic timeline to manipulate the emotions of its users in a week long experiment. None of the experimental subjects gave consent. By promoting or removing happy or sad content the collective mood could be artificially swayed one way or another. It's likely that other similar experiments have occurred quietly without any media attention."
+      },
+      "date": 1517056883354
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3eadc94a7319ceba"
+      },
+      "id": "3eadc94a7319ceba",
+      "type": "add",
+      "after": "36821ff122923f0a",
+      "date": 1517056993871
+    },
+    {
+      "type": "edit",
+      "id": "3eadc94a7319ceba",
+      "item": {
+        "type": "paragraph",
+        "id": "3eadc94a7319ceba",
+        "text": "A well known problem with algorithmic timelines is \"shadow banning\". You are sending out posts, but the algorithms decide that they all have zero priority and so your friends never seem them. You think you're communicating, but you're not."
+      },
+      "date": 1517057069695
+    },
+    {
+      "type": "edit",
+      "id": "3eadc94a7319ceba",
+      "item": {
+        "type": "paragraph",
+        "id": "3eadc94a7319ceba",
+        "text": "A well known problem with algorithmic timelines is \"shadow banning\". You are sending out posts, but the algorithms decide that they all have zero ranking priority and so your friends never seem them. You think you're communicating, but you're not."
+      },
+      "date": 1517057098547
+    },
+    {
+      "type": "edit",
+      "id": "3eadc94a7319ceba",
+      "item": {
+        "type": "paragraph",
+        "id": "3eadc94a7319ceba",
+        "text": "A well known problem with algorithmic timelines is \"shadow banning\". You are sending out posts, but the algorithms decide that they all have zero ranking priority and so your friends never seem them. You think you're communicating, but actually you're not."
+      },
+      "date": 1517057115180
+    },
+    {
+      "type": "add",
+      "id": "2557532b35449c02",
+      "item": {
+        "type": "paragraph",
+        "id": "2557532b35449c02",
+        "text": "> \"quote\""
+      },
+      "after": "f9e5c4f1914667e5",
+      "date": 1519063611977
+    },
+    {
+      "type": "edit",
+      "id": "2557532b35449c02",
+      "item": {
+        "type": "paragraph",
+        "id": "2557532b35449c02",
+        "text": "> \"When the linear timeline was removed in favor of their own algorithmic sort, they removed our control over the conversation entirely. Instead of you and your friends in discourse with each other, you’re talking around the sources of content you’re being told to see, read, and like. You are in direct competition with a corporate notion of your personal history, identity, and relationships.\""
+      },
+      "date": 1519063670445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36c9babd6cd46480"
+      },
+      "id": "36c9babd6cd46480",
+      "type": "add",
+      "after": "3eadc94a7319ceba",
+      "date": 1519063682455
+    },
+    {
+      "type": "edit",
+      "id": "36c9babd6cd46480",
+      "item": {
+        "type": "html",
+        "id": "36c9babd6cd46480",
+        "text": "<quote>a quote</quote>\n"
+      },
+      "date": 1519063708869
+    },
+    {
+      "type": "edit",
+      "id": "36c9babd6cd46480",
+      "item": {
+        "type": "html",
+        "id": "36c9babd6cd46480",
+        "text": "<q>a quote</q>\n\n"
+      },
+      "date": 1519063744495
+    },
+    {
+      "type": "edit",
+      "id": "36c9babd6cd46480",
+      "item": {
+        "type": "html",
+        "id": "36c9babd6cd46480",
+        "text": "<blockquote cite=\"\"\n</blockquote>\n\n"
+      },
+      "date": 1519063802220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60a7888d72beecfc"
+      },
+      "id": "60a7888d72beecfc",
+      "type": "add",
+      "after": "36c9babd6cd46480",
+      "date": 1519063815596
+    },
+    {
+      "type": "edit",
+      "id": "60a7888d72beecfc",
+      "item": {
+        "type": "html",
+        "id": "60a7888d72beecfc",
+        "text": "<blockquote cite=\"https://medium.com/tootsuite/this-isnt-about-social-media-this-is-about-control-112dea8a21fd\">This is a quote</blockquote>"
+      },
+      "date": 1519063852436
+    },
+    {
+      "type": "remove",
+      "id": "2557532b35449c02",
+      "date": 1519063863140
+    },
+    {
+      "type": "edit",
+      "id": "60a7888d72beecfc",
+      "item": {
+        "type": "html",
+        "id": "60a7888d72beecfc",
+        "text": "<blockquote cite=\"https://medium.com/tootsuite/this-isnt-about-social-media-this-is-about-control-112dea8a21fd\">When the linear timeline was removed in favor of their own algorithmic sort, they removed our control over the conversation entirely. Instead of you and your friends in discourse with each other, you’re talking around the sources of content you’re being told to see, read, and like. You are in direct competition with a corporate notion of your personal history, identity, and relationships.</blockquote>"
+      },
+      "date": 1519063873138
+    },
+    {
+      "type": "move",
+      "order": [
+        "f9e5c4f1914667e5",
+        "60a7888d72beecfc",
+        "7e5e3f08f2c8e80d",
+        "2e2ef6ef494775d6",
+        "36821ff122923f0a",
+        "3eadc94a7319ceba",
+        "36c9babd6cd46480"
+      ],
+      "id": "60a7888d72beecfc",
+      "date": 1519063878741
+    },
+    {
+      "type": "move",
+      "order": [
+        "f9e5c4f1914667e5",
+        "7e5e3f08f2c8e80d",
+        "60a7888d72beecfc",
+        "2e2ef6ef494775d6",
+        "36821ff122923f0a",
+        "3eadc94a7319ceba",
+        "36c9babd6cd46480"
+      ],
+      "id": "60a7888d72beecfc",
+      "date": 1519063897192
+    }
+  ]
+}

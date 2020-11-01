@@ -1,0 +1,71 @@
+{
+  "title": "I need to create my preferred username before someone else uses it",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9122dfd849d5e6cb",
+      "text": "On Twitter once you have set your username nobody else can have that same name. This is not necessarily the case in the fediverse."
+    },
+    {
+      "type": "paragraph",
+      "id": "66215c8a4bfa71b0",
+      "text": "You can have bob@instance1.club and bob@instance2.club and they can be different people with the same username."
+    },
+    {
+      "type": "paragraph",
+      "id": "4e595cbe89002c0d",
+      "text": "So in the fediverse there is no big need to stake out a preferred username."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "I need to create my preferred username before someone else uses it",
+        "story": []
+      },
+      "date": 1517000679319
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9122dfd849d5e6cb"
+      },
+      "id": "9122dfd849d5e6cb",
+      "type": "add",
+      "date": 1517000681548
+    },
+    {
+      "type": "edit",
+      "id": "9122dfd849d5e6cb",
+      "item": {
+        "type": "paragraph",
+        "id": "9122dfd849d5e6cb",
+        "text": "On Twitter once you have set your username nobody else can have that same name. This is not necessarily the case in the fediverse."
+      },
+      "date": 1517000731741
+    },
+    {
+      "type": "add",
+      "id": "66215c8a4bfa71b0",
+      "item": {
+        "type": "paragraph",
+        "id": "66215c8a4bfa71b0",
+        "text": "You can have bob@instance1.club and bob@instance2.club and they can be different people with the same username."
+      },
+      "after": "9122dfd849d5e6cb",
+      "date": 1517000790283
+    },
+    {
+      "type": "add",
+      "id": "4e595cbe89002c0d",
+      "item": {
+        "type": "paragraph",
+        "id": "4e595cbe89002c0d",
+        "text": "So in the fediverse there is no big need to stake out a preferred username."
+      },
+      "after": "66215c8a4bfa71b0",
+      "date": 1517000859925
+    }
+  ]
+}

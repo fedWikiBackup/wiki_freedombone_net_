@@ -1,0 +1,485 @@
+{
+  "title": "Principles of Networked Expression",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "96a76aefbb2b0b85",
+      "text": "This is based upon the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles], but those can be further generalised into a set of principles which are not artificially framed within market fundamentalism."
+    },
+    {
+      "type": "paragraph",
+      "id": "3c0aff6257a55c53",
+      "text": "* People must be able to manage their relationships within a digital network as independent actors"
+    },
+    {
+      "type": "paragraph",
+      "id": "e5b1a9514d1476f2",
+      "text": "* People must be the points of integration for their own data"
+    },
+    {
+      "type": "paragraph",
+      "id": "4678a190203ea9f6",
+      "text": "* People must have control of data they generate and gather. This means they must be able to share data selectively and without coercion"
+    },
+    {
+      "type": "paragraph",
+      "id": "2d6e86eab38f7737",
+      "text": "* People must be able to assert their own terms of engagement with other individuals and organisations"
+    },
+    {
+      "type": "paragraph",
+      "id": "32b138a5e003314d",
+      "text": "* People must be free to express their demands and intentions outside of any organisational supervision"
+    },
+    {
+      "type": "html",
+      "id": "5f73c12230bb2c6b",
+      "text": "<h1>Goals of a system enabling networked expression</h1>"
+    },
+    {
+      "type": "paragraph",
+      "id": "41cb547d39f69bc9",
+      "text": "* Provide tools for people to manage their relationships within networked systems. These tools are personal. That is, they belong to the individual in the sense that they are under their control. They can also be social, in the sense that they can connect with others and support collective organisation and mutuality. But they need to be primarily personal."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4057f03a4d21f06",
+      "text": "* Make people the collection centers for their own data, so that transaction histories, health records, membership details, service contracts, friends lists and other forms of personal data are no longer bunkered within monopolized silos."
+    },
+    {
+      "type": "paragraph",
+      "id": "0305686844ad75bb",
+      "text": "* People should have the ability to share data selectively, without disclosing more personal information than desired."
+    },
+    {
+      "type": "paragraph",
+      "id": "37c2902985887e31",
+      "text": "* People should have the ability to control how their data is used by others, and for how long. At the individual's discretion, this may include agreements requiring others to delete the individual's data when the relationship ends."
+    },
+    {
+      "type": "paragraph",
+      "id": "9f594563efb0ffc7",
+      "text": "* People should have the ability to assert their own terms of service, reducing or eliminating the need for organization-written terms of service that nobody reads and everybody has to \"accept\" anyway."
+    },
+    {
+      "type": "paragraph",
+      "id": "70ace2630552be58",
+      "text": "* People should have the means for expressing themselves, outside any organizational supervision and without disclosing any unnecessary personal information."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9e38d7a188bbf6d",
+      "text": "* People should have the ability to engage in transactions of any mutually agreeable nature with others without interference by infrastructure providers."
+    },
+    {
+      "type": "paragraph",
+      "id": "86ca68f86a792452",
+      "text": "* Relationship managing tools should be based upon open standards and open APIs. This avoids lock-in and facilitates free movement between different networked systems."
+    },
+    {
+      "type": "html",
+      "id": "6e2d1d56d72b651a",
+      "text": "<h1>Relationship management tools</h1>"
+    },
+    {
+      "type": "paragraph",
+      "id": "9862b6ccfd7eeac1",
+      "text": "* Relationship management tools are personal. As with hammers, wallets, cars and mobile phones, people use them as individuals. They are social only in secondary ways."
+    },
+    {
+      "type": "paragraph",
+      "id": "c395843884fa319f",
+      "text": "* Relationship management tools help people express intent and exercise personal agency. These include preferences, policies, terms and means of engagement, authorizations, requests and anything else that’s possible in a networked system."
+    },
+    {
+      "type": "paragraph",
+      "id": "99a1f814e1a3863b",
+      "text": "* Relationship management tools help people engage socially, with each other and with organizations."
+    },
+    {
+      "type": "paragraph",
+      "id": "69ad2489785e60b0",
+      "text": "* Relationship management tools help people manage their affairs. This includes both their own data and their relationships with other entities and systems."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd6a3286083f4237",
+      "text": "* Relationship management tools are substitutable. Since they are based around open standards they don't lock individuals into any particular system."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Principles of Networked Expression",
+        "story": []
+      },
+      "date": 1530610214659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96a76aefbb2b0b85"
+      },
+      "id": "96a76aefbb2b0b85",
+      "type": "add",
+      "date": 1530610216964
+    },
+    {
+      "type": "edit",
+      "id": "96a76aefbb2b0b85",
+      "item": {
+        "type": "paragraph",
+        "id": "96a76aefbb2b0b85",
+        "text": "This is based upon the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles], but those can be turned set of principles which are not couched within a market fundamentalist frame."
+      },
+      "date": 1530610278852
+    },
+    {
+      "type": "edit",
+      "id": "96a76aefbb2b0b85",
+      "item": {
+        "type": "paragraph",
+        "id": "96a76aefbb2b0b85",
+        "text": "This is based upon the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles], but those can be turned set of principles which are not couched within the frame of market fundamentalism."
+      },
+      "date": 1530610298245
+    },
+    {
+      "type": "add",
+      "id": "3c0aff6257a55c53",
+      "item": {
+        "type": "paragraph",
+        "id": "3c0aff6257a55c53",
+        "text": "* People must be able to manage their relationships within a digital network as independent actors"
+      },
+      "after": "96a76aefbb2b0b85",
+      "date": 1530610376988
+    },
+    {
+      "type": "add",
+      "id": "e5b1a9514d1476f2",
+      "item": {
+        "type": "paragraph",
+        "id": "e5b1a9514d1476f2",
+        "text": "* People must be the points of integration for their own data"
+      },
+      "after": "3c0aff6257a55c53",
+      "date": 1530610400585
+    },
+    {
+      "type": "add",
+      "id": "4678a190203ea9f6",
+      "item": {
+        "type": "paragraph",
+        "id": "4678a190203ea9f6",
+        "text": "* People must have control of data they generate and gather. This means they must be able to share data selectively and without coercion"
+      },
+      "after": "e5b1a9514d1476f2",
+      "date": 1530610448989
+    },
+    {
+      "type": "add",
+      "id": "2d6e86eab38f7737",
+      "item": {
+        "type": "paragraph",
+        "id": "2d6e86eab38f7737",
+        "text": "* People must be able to assert their own terms of engagement with other individuals and organisations"
+      },
+      "after": "4678a190203ea9f6",
+      "date": 1530610491091
+    },
+    {
+      "type": "add",
+      "id": "32b138a5e003314d",
+      "item": {
+        "type": "paragraph",
+        "id": "32b138a5e003314d",
+        "text": "* People must be free to express their demands and intentions outside of any organisational supervision"
+      },
+      "after": "2d6e86eab38f7737",
+      "date": 1530610583392
+    },
+    {
+      "type": "edit",
+      "id": "96a76aefbb2b0b85",
+      "item": {
+        "type": "paragraph",
+        "id": "96a76aefbb2b0b85",
+        "text": "This is based upon the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles], but those can be further generalised into a set of principles which are not couched within the frame of market fundamentalism."
+      },
+      "date": 1530610632924
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f73c12230bb2c6b"
+      },
+      "id": "5f73c12230bb2c6b",
+      "type": "add",
+      "after": "32b138a5e003314d",
+      "date": 1530610759502
+    },
+    {
+      "type": "edit",
+      "id": "5f73c12230bb2c6b",
+      "item": {
+        "type": "html",
+        "id": "5f73c12230bb2c6b",
+        "text": "<h1>Goals of a system enabling networked expression</h1>"
+      },
+      "date": 1530610778516
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41cb547d39f69bc9"
+      },
+      "id": "41cb547d39f69bc9",
+      "type": "add",
+      "after": "5f73c12230bb2c6b",
+      "date": 1530610799572
+    },
+    {
+      "type": "edit",
+      "id": "41cb547d39f69bc9",
+      "item": {
+        "type": "paragraph",
+        "id": "41cb547d39f69bc9",
+        "text": "* Provide tools for individuals to manage relationships within networked systems. These tools are personal. That is, they belong to the individual in the sense that they are under the individual's control. They can also be social, in the sense that they can connect with others and support collective organisation. But they need to be primarily personal."
+      },
+      "date": 1530610881971
+    },
+    {
+      "type": "add",
+      "id": "c4057f03a4d21f06",
+      "item": {
+        "type": "paragraph",
+        "id": "c4057f03a4d21f06",
+        "text": "* Make people the collection centers for their own data, so that transaction histories, health records, membership details, service contracts, friends lists and other forms of personal data are no longer bunkered within monopolized silos."
+      },
+      "after": "41cb547d39f69bc9",
+      "date": 1530610988346
+    },
+    {
+      "type": "edit",
+      "id": "41cb547d39f69bc9",
+      "item": {
+        "type": "paragraph",
+        "id": "41cb547d39f69bc9",
+        "text": "* Provide tools for people to manage their relationships within networked systems. These tools are personal. That is, they belong to the individual in the sense that they are under the individual's control. They can also be social, in the sense that they can connect with others and support collective organisation. But they need to be primarily personal."
+      },
+      "date": 1530611001785
+    },
+    {
+      "type": "edit",
+      "id": "41cb547d39f69bc9",
+      "item": {
+        "type": "paragraph",
+        "id": "41cb547d39f69bc9",
+        "text": "* Provide tools for people to manage their relationships within networked systems. These tools are personal. That is, they belong to the individual in the sense that they are under their control. They can also be social, in the sense that they can connect with others and support collective organisation. But they need to be primarily personal."
+      },
+      "date": 1530611022081
+    },
+    {
+      "type": "edit",
+      "id": "41cb547d39f69bc9",
+      "item": {
+        "type": "paragraph",
+        "id": "41cb547d39f69bc9",
+        "text": "* Provide tools for people to manage their relationships within networked systems. These tools are personal. That is, they belong to the individual in the sense that they are under their control. They can also be social, in the sense that they can connect with others and support collective organisation and mutuality. But they need to be primarily personal."
+      },
+      "date": 1530611046800
+    },
+    {
+      "type": "add",
+      "id": "0305686844ad75bb",
+      "item": {
+        "type": "paragraph",
+        "id": "0305686844ad75bb",
+        "text": "* People should have the ability to share data selectively, without disclosing more personal information than desired."
+      },
+      "after": "c4057f03a4d21f06",
+      "date": 1530611098249
+    },
+    {
+      "type": "add",
+      "id": "37c2902985887e31",
+      "item": {
+        "type": "paragraph",
+        "id": "37c2902985887e31",
+        "text": "* People should have the ability to control how their data is used by others, and for how long. At the individual's discretion, this may include agreements requiring others to delete the individual's data when the relationship ends."
+      },
+      "after": "0305686844ad75bb",
+      "date": 1530611152442
+    },
+    {
+      "type": "add",
+      "id": "9f594563efb0ffc7",
+      "item": {
+        "type": "paragraph",
+        "id": "9f594563efb0ffc7",
+        "text": "* People should have the ability to assert their own terms of service, reducing or eliminating the need for organization-written terms of service that nobody reads and everybody has to \"accept\" anyway."
+      },
+      "after": "37c2902985887e31",
+      "date": 1530611190045
+    },
+    {
+      "type": "add",
+      "id": "70ace2630552be58",
+      "item": {
+        "type": "paragraph",
+        "id": "70ace2630552be58",
+        "text": "* People should have the means for expressing themselves, outside any organizational supervision and without disclosing any unnecessary personal information."
+      },
+      "after": "9f594563efb0ffc7",
+      "date": 1530611266249
+    },
+    {
+      "type": "add",
+      "id": "b9e38d7a188bbf6d",
+      "item": {
+        "type": "paragraph",
+        "id": "b9e38d7a188bbf6d",
+        "text": "* People should have the ability to engage in transactions of any mutually agreeable nature with others without interference by infrastructure providers"
+      },
+      "after": "70ace2630552be58",
+      "date": 1530611451808
+    },
+    {
+      "type": "edit",
+      "id": "b9e38d7a188bbf6d",
+      "item": {
+        "type": "paragraph",
+        "id": "b9e38d7a188bbf6d",
+        "text": "* People should have the ability to engage in transactions of any mutually agreeable nature with others without interference by infrastructure providers."
+      },
+      "date": 1530611474434
+    },
+    {
+      "type": "add",
+      "id": "86ca68f86a792452",
+      "item": {
+        "type": "paragraph",
+        "id": "86ca68f86a792452",
+        "text": "* Relationship managing tools should be based upon open standards and open APIs. This avoids lock-in and facilitates free movement between different networked systems."
+      },
+      "after": "b9e38d7a188bbf6d",
+      "date": 1530611542336
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e2d1d56d72b651a"
+      },
+      "id": "6e2d1d56d72b651a",
+      "type": "add",
+      "after": "86ca68f86a792452",
+      "date": 1530611630522
+    },
+    {
+      "type": "edit",
+      "id": "6e2d1d56d72b651a",
+      "item": {
+        "type": "html",
+        "id": "6e2d1d56d72b651a",
+        "text": "<h1>Relationship management tools</h1>"
+      },
+      "date": 1530611645619
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9862b6ccfd7eeac1"
+      },
+      "id": "9862b6ccfd7eeac1",
+      "type": "add",
+      "after": "6e2d1d56d72b651a",
+      "date": 1530611669265
+    },
+    {
+      "type": "edit",
+      "id": "9862b6ccfd7eeac1",
+      "item": {
+        "type": "paragraph",
+        "id": "9862b6ccfd7eeac1",
+        "text": "* Relationship management tools are personal. As with hammers, wallets, cars and mobile phones, people use them as individuals. They are social only in secondary ways."
+      },
+      "date": 1530611700623
+    },
+    {
+      "type": "add",
+      "id": "c395843884fa319f",
+      "item": {
+        "type": "paragraph",
+        "id": "c395843884fa319f",
+        "text": "* Relationship management tools help people express intent and agency. These include preferences, policies, terms and means of engagement, authorizations, requests and anything else that’s possible in a networked system."
+      },
+      "after": "9862b6ccfd7eeac1",
+      "date": 1530611765823
+    },
+    {
+      "type": "edit",
+      "id": "c395843884fa319f",
+      "item": {
+        "type": "paragraph",
+        "id": "c395843884fa319f",
+        "text": "* Relationship management tools help people express intent and exercise personal agency. These include preferences, policies, terms and means of engagement, authorizations, requests and anything else that’s possible in a networked system."
+      },
+      "date": 1530611797047
+    },
+    {
+      "type": "add",
+      "id": "99a1f814e1a3863b",
+      "item": {
+        "type": "paragraph",
+        "id": "99a1f814e1a3863b",
+        "text": "* Relationship management tools help people engage socially, with each other and with organizations."
+      },
+      "after": "c395843884fa319f",
+      "date": 1530611868167
+    },
+    {
+      "type": "add",
+      "id": "69ad2489785e60b0",
+      "item": {
+        "type": "paragraph",
+        "id": "69ad2489785e60b0",
+        "text": "* Relationship management tools help people manage their affairs. This includes both their own data and systems and their relationships with other entities, and their systems."
+      },
+      "after": "99a1f814e1a3863b",
+      "date": 1530611913790
+    },
+    {
+      "type": "add",
+      "id": "cd6a3286083f4237",
+      "item": {
+        "type": "paragraph",
+        "id": "cd6a3286083f4237",
+        "text": "* Relationship management tools are substitutable. Since they are based around open standards they don't lock individuals into any particular system."
+      },
+      "after": "69ad2489785e60b0",
+      "date": 1530611963692
+    },
+    {
+      "type": "edit",
+      "id": "96a76aefbb2b0b85",
+      "item": {
+        "type": "paragraph",
+        "id": "96a76aefbb2b0b85",
+        "text": "This is based upon the [https://cyber.harvard.edu/projectvrm/Main_Page Vendor Relationship Management Principles], but those can be further generalised into a set of principles which are not artificially framed within market fundamentalism."
+      },
+      "date": 1530612026517
+    },
+    {
+      "type": "edit",
+      "id": "69ad2489785e60b0",
+      "item": {
+        "type": "paragraph",
+        "id": "69ad2489785e60b0",
+        "text": "* Relationship management tools help people manage their affairs. This includes both their own data and their relationships with other entities and systems."
+      },
+      "date": 1530612392302
+    }
+  ]
+}

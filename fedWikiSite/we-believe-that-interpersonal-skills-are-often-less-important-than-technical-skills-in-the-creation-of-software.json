@@ -1,0 +1,85 @@
+{
+  "title": "We believe that interpersonal skills are often less important than technical skills in the creation of software",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b7a7b552cf03446b",
+      "text": "It doesn't matter if you are a great orator at tech conferences or good at influencing others or are fantastic at organizing social events if the software which you ultimately produce is of low quality or does not fit the needs of the community."
+    },
+    {
+      "type": "paragraph",
+      "id": "a60dff34adfb31ec",
+      "text": "This does not mean that interpersonal skills are unimportant or not required. Indeed they may be vital to keeping projects going over substantial durations."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We believe that interpersonal skills are often less important than technical skills in the creation of software",
+        "story": []
+      },
+      "date": 1527498764962
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7a7b552cf03446b"
+      },
+      "id": "b7a7b552cf03446b",
+      "type": "add",
+      "date": 1527498779397
+    },
+    {
+      "type": "edit",
+      "id": "b7a7b552cf03446b",
+      "item": {
+        "type": "paragraph",
+        "id": "b7a7b552cf03446b",
+        "text": "It is a good deal more difficult to boot a machine off of proper pronouns than proper bytecode."
+      },
+      "date": 1527498793583
+    },
+    {
+      "type": "edit",
+      "id": "b7a7b552cf03446b",
+      "item": {
+        "type": "paragraph",
+        "id": "b7a7b552cf03446b",
+        "text": "It doesn't matter if you are a great orator or good at influencing others if the software which you produce ultimately is of low quality or does not fit the needs of the community."
+      },
+      "date": 1527498869648
+    },
+    {
+      "type": "edit",
+      "id": "b7a7b552cf03446b",
+      "item": {
+        "type": "paragraph",
+        "id": "b7a7b552cf03446b",
+        "text": "It doesn't matter if you are a great orator at tech conferences or good at influencing others or are fantastic at organizing social events if the software which you produce ultimately is of low quality or does not fit the needs of the community."
+      },
+      "date": 1527498949731
+    },
+    {
+      "type": "edit",
+      "id": "b7a7b552cf03446b",
+      "item": {
+        "type": "paragraph",
+        "id": "b7a7b552cf03446b",
+        "text": "It doesn't matter if you are a great orator at tech conferences or good at influencing others or are fantastic at organizing social events if the software which you ultimately produce is of low quality or does not fit the needs of the community."
+      },
+      "date": 1527498975975
+    },
+    {
+      "type": "add",
+      "id": "a60dff34adfb31ec",
+      "item": {
+        "type": "paragraph",
+        "id": "a60dff34adfb31ec",
+        "text": "This does not mean that interpersonal skills are unimportant or not required. Indeed they may be vital to keeping projects going over substantial durations."
+      },
+      "after": "b7a7b552cf03446b",
+      "date": 1527500193954
+    }
+  ]
+}

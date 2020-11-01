@@ -1,0 +1,133 @@
+{
+  "title": "Hiveway",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3abb0f59c989c60d",
+      "text": "In March 2018 John McAffee launched a commercial instance based upon Etherium blockchain technology."
+    },
+    {
+      "type": "paragraph",
+      "id": "7e2cc2f40bd9447b",
+      "text": "It described itself as:"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a5f7a300f4dbbca",
+      "text": "\"The Hiveway Social Network will be the first democratic social network, running fully autonomously. Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system. Its goal is to offer the alternative everyone expects: a fair social platform. One that does not treat its users as merchandise, take away their rights or sell their attention to third parties for its own benefit.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "f85b60b4283c8afe",
+      "text": "Unsurprisingly for a McAffee enterprise, the instance soon ran into controversy. They had forked Mastodon and overwritten commits within the repo in a manner which denied proper attribution and probably was an AGPL license violation. https://github.com/hiveway/hiveway/commits/master"
+    },
+    {
+      "type": "paragraph",
+      "id": "368b03b618e396cf",
+      "text": "The instance lasted until September the same year before closing under a storm of complaints."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hiveway",
+        "story": []
+      },
+      "date": 1557331182200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3abb0f59c989c60d"
+      },
+      "id": "3abb0f59c989c60d",
+      "type": "add",
+      "date": 1557331184600
+    },
+    {
+      "type": "edit",
+      "id": "3abb0f59c989c60d",
+      "item": {
+        "type": "paragraph",
+        "id": "3abb0f59c989c60d",
+        "text": "In March 2018 John McAffee launched a commercial instance based upon blockchain technology."
+      },
+      "date": 1557331238400
+    },
+    {
+      "type": "add",
+      "id": "7e2cc2f40bd9447b",
+      "item": {
+        "type": "paragraph",
+        "id": "7e2cc2f40bd9447b",
+        "text": "It described itself as:"
+      },
+      "after": "3abb0f59c989c60d",
+      "date": 1557331369700
+    },
+    {
+      "type": "add",
+      "id": "4a5f7a300f4dbbca",
+      "item": {
+        "type": "paragraph",
+        "id": "4a5f7a300f4dbbca",
+        "text": "\"The Hiveway Social Network will be the first democratic social network, running fully autonomously. Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system. Its goal is to offer the alternative everyone expects: a fair social platform. One that does not treat its users as merchandise, take away their rights or sell their attention to third parties for its own benefit.\""
+      },
+      "after": "7e2cc2f40bd9447b",
+      "date": 1557331375900
+    },
+    {
+      "type": "add",
+      "id": "f85b60b4283c8afe",
+      "item": {
+        "type": "paragraph",
+        "id": "f85b60b4283c8afe",
+        "text": "Unsurprisingly for a McAffee enterprise, the instance soon ran into controversy. They had forked Mastodon and overwritten commits within the repo in a manner which denied proper attribution and probably was an AGPL license violation."
+      },
+      "after": "4a5f7a300f4dbbca",
+      "date": 1557331530200
+    },
+    {
+      "type": "edit",
+      "id": "f85b60b4283c8afe",
+      "item": {
+        "type": "paragraph",
+        "id": "f85b60b4283c8afe",
+        "text": "Unsurprisingly for a McAffee enterprise, the instance soon ran into controversy. They had forked Mastodon and overwritten commits within the repo in a manner which denied proper attribution and probably was an AGPL license violation. https://github.com/hiveway/hiveway/commits/master"
+      },
+      "date": 1557331609700
+    },
+    {
+      "type": "edit",
+      "id": "3abb0f59c989c60d",
+      "item": {
+        "type": "paragraph",
+        "id": "3abb0f59c989c60d",
+        "text": "In March 2018 John McAffee launched a commercial instance based upon Etherium blockchain technology."
+      },
+      "date": 1557331725100
+    },
+    {
+      "type": "add",
+      "id": "368b03b618e396cf",
+      "item": {
+        "type": "paragraph",
+        "id": "368b03b618e396cf",
+        "text": "The instance lasted for maybe a few months before closing under a storm of complaints."
+      },
+      "after": "f85b60b4283c8afe",
+      "date": 1557331850400
+    },
+    {
+      "type": "edit",
+      "id": "368b03b618e396cf",
+      "item": {
+        "type": "paragraph",
+        "id": "368b03b618e396cf",
+        "text": "The instance lasted until September the same year before closing under a storm of complaints."
+      },
+      "date": 1557332137900
+    }
+  ]
+}

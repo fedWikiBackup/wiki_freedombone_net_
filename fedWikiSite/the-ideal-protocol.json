@@ -1,0 +1,209 @@
+{
+  "title": "The Ideal Protocol",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2ec9cf732008c473",
+      "text": "The ideal fediverse protocol would:"
+    },
+    {
+      "type": "paragraph",
+      "id": "239cc8f981302a6d",
+      "text": " * Enable users to easily migrate from one instance to another"
+    },
+    {
+      "type": "paragraph",
+      "id": "94ac3b44c8f72466",
+      "text": " * Have cryptographic public key security for DMs or private group messages"
+    },
+    {
+      "type": "paragraph",
+      "id": "fcb22ff0ef5f0c67",
+      "text": " * Not tie the user's identity to a domain name, which makes migration and identity management hard"
+    },
+    {
+      "type": "paragraph",
+      "id": "ba749b33ebb64f88",
+      "text": " * The user's identity should be based upon a private key"
+    },
+    {
+      "type": "paragraph",
+      "id": "254abd97830678eb",
+      "text": " * Nomadic identity should be possible. That is, a user should be able to register their identity on multiple instances, and those instances should automatically synchronize. If one instance goes down the user can just log in on another."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Ideal Protocol",
+        "story": []
+      },
+      "date": 1517091399179
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ec9cf732008c473"
+      },
+      "id": "2ec9cf732008c473",
+      "type": "add",
+      "date": 1517091400856
+    },
+    {
+      "type": "edit",
+      "id": "2ec9cf732008c473",
+      "item": {
+        "type": "paragraph",
+        "id": "2ec9cf732008c473",
+        "text": "The ideal fediverse protocol would:"
+      },
+      "date": 1517091413715
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "239cc8f981302a6d"
+      },
+      "id": "239cc8f981302a6d",
+      "type": "add",
+      "after": "2ec9cf732008c473",
+      "date": 1517091418431
+    },
+    {
+      "type": "edit",
+      "id": "239cc8f981302a6d",
+      "item": {
+        "type": "paragraph",
+        "id": "239cc8f981302a6d",
+        "text": " * Enable users to easily migrate from one instance to another"
+      },
+      "date": 1517091445234
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94ac3b44c8f72466"
+      },
+      "id": "94ac3b44c8f72466",
+      "type": "add",
+      "after": "239cc8f981302a6d",
+      "date": 1517091453102
+    },
+    {
+      "type": "edit",
+      "id": "94ac3b44c8f72466",
+      "item": {
+        "type": "paragraph",
+        "id": "94ac3b44c8f72466",
+        "text": " * Have cryptographic public key security for DMs"
+      },
+      "date": 1517091487204
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7ee314d688f5d82"
+      },
+      "id": "c7ee314d688f5d82",
+      "type": "add",
+      "after": "94ac3b44c8f72466",
+      "date": 1517091491971
+    },
+    {
+      "type": "remove",
+      "id": "c7ee314d688f5d82",
+      "date": 1517091496071
+    },
+    {
+      "type": "edit",
+      "id": "94ac3b44c8f72466",
+      "item": {
+        "type": "paragraph",
+        "id": "94ac3b44c8f72466",
+        "text": " * Have cryptographic public key security for DMs or \"private\" messages"
+      },
+      "date": 1517091508020
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fcb22ff0ef5f0c67"
+      },
+      "id": "fcb22ff0ef5f0c67",
+      "type": "add",
+      "after": "94ac3b44c8f72466",
+      "date": 1517091514919
+    },
+    {
+      "type": "edit",
+      "id": "fcb22ff0ef5f0c67",
+      "item": {
+        "type": "paragraph",
+        "id": "fcb22ff0ef5f0c67",
+        "text": " * Not tie the user's identity to a domain name, which makes migration hard"
+      },
+      "date": 1517091562621
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba749b33ebb64f88"
+      },
+      "id": "ba749b33ebb64f88",
+      "type": "add",
+      "after": "fcb22ff0ef5f0c67",
+      "date": 1517091570539
+    },
+    {
+      "type": "edit",
+      "id": "ba749b33ebb64f88",
+      "item": {
+        "type": "paragraph",
+        "id": "ba749b33ebb64f88",
+        "text": " * The user's identity should be based upon a private key"
+      },
+      "date": 1517091587932
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "254abd97830678eb"
+      },
+      "id": "254abd97830678eb",
+      "type": "add",
+      "after": "ba749b33ebb64f88",
+      "date": 1517091607324
+    },
+    {
+      "type": "edit",
+      "id": "254abd97830678eb",
+      "item": {
+        "type": "paragraph",
+        "id": "254abd97830678eb",
+        "text": " * Nomadic identity should be possible. That is, a user should be able to register their identity on multiple instances, and those instances should automatically synchronize. If one instance goes down the user can just log in on another."
+      },
+      "date": 1517091673028
+    },
+    {
+      "type": "edit",
+      "id": "fcb22ff0ef5f0c67",
+      "item": {
+        "type": "paragraph",
+        "id": "fcb22ff0ef5f0c67",
+        "text": " * Not tie the user's identity to a domain name, which makes migration and identity management hard"
+      },
+      "date": 1517091731983
+    },
+    {
+      "type": "edit",
+      "id": "94ac3b44c8f72466",
+      "item": {
+        "type": "paragraph",
+        "id": "94ac3b44c8f72466",
+        "text": " * Have cryptographic public key security for DMs or private group messages"
+      },
+      "date": 1517091773279
+    }
+  ]
+}

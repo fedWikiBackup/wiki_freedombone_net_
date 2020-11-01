@@ -1,0 +1,55 @@
+{
+  "title": "we-understand-that-the-creation-of-software-is-a-deliberate-sacrifice-of-our-time-in-this-world-and-an-acceptance-of-a-certain-value-system",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e01c496f811c9398",
+      "text": "We do not enter into such sacrifices or compacts lightly, and we do not accept appropriation of those energies nor the dismissal of that value system."
+    },
+    {
+      "type": "paragraph",
+      "id": "07e06ecf0375ae50",
+      "text": "All users deserve to enjoy software freedom. Free access and use of the software we create is non-negotiable."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "we-understand-that-the-creation-of-software-is-a-deliberate-sacrifice-of-our-time-in-this-world-and-an-acceptance-of-a-certain-value-system",
+        "story": []
+      },
+      "date": 1527499493271
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e01c496f811c9398"
+      },
+      "id": "e01c496f811c9398",
+      "type": "add",
+      "date": 1527499505151
+    },
+    {
+      "type": "edit",
+      "id": "e01c496f811c9398",
+      "item": {
+        "type": "paragraph",
+        "id": "e01c496f811c9398",
+        "text": "We do not enter into such sacrifices or compacts lightly, and we do not accept appropriation of those energies nor the dismissal of that value system."
+      },
+      "date": 1527499519477
+    },
+    {
+      "type": "add",
+      "id": "07e06ecf0375ae50",
+      "item": {
+        "type": "paragraph",
+        "id": "07e06ecf0375ae50",
+        "text": "All users deserve to enjoy software freedom. Free access and use of the software we create is non-negotiable."
+      },
+      "after": "e01c496f811c9398",
+      "date": 1527499605501
+    }
+  ]
+}

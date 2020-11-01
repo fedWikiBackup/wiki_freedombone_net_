@@ -1,0 +1,323 @@
+{
+  "title": "The problems with Centralization",
+  "story": [
+    {
+      "type": "html",
+      "id": "49840e37420132a0",
+      "text": "[[Censorship]]"
+    },
+    {
+      "type": "html",
+      "id": "2169cdb25039fb5c",
+      "text": "[[Algorithmic Timelines]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "73b96ef7146a55aa",
+      "text": "[[Echo chambers and outrage culture]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bc80b546e519664b",
+      "text": "[[The Silo Feedback Loop]]"
+    },
+    {
+      "type": "html",
+      "id": "0035330c2e5bac37",
+      "text": "[[Corporate versus Community Interests]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The problems with Centralization",
+        "story": []
+      },
+      "date": 1517010540867
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "49840e37420132a0",
+        "text": "<h3>Censorship"
+      },
+      "id": "49840e37420132a0",
+      "type": "add",
+      "date": 1517010542931
+    },
+    {
+      "type": "edit",
+      "id": "49840e37420132a0",
+      "item": {
+        "type": "html",
+        "id": "49840e37420132a0",
+        "text": "<h3>Censorship"
+      },
+      "date": 1517010555736
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "2169cdb25039fb5c",
+        "text": "<h3>The Algorithmic Timeline"
+      },
+      "id": "2169cdb25039fb5c",
+      "type": "add",
+      "after": "49840e37420132a0",
+      "date": 1517010558730
+    },
+    {
+      "type": "edit",
+      "id": "2169cdb25039fb5c",
+      "item": {
+        "type": "html",
+        "id": "2169cdb25039fb5c",
+        "text": "<h3>The Algorithmic Timeline"
+      },
+      "date": 1517010575481
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "c19088e9e41c3147",
+        "text": "<h3>A Toxic Culture"
+      },
+      "id": "c19088e9e41c3147",
+      "type": "add",
+      "after": "2169cdb25039fb5c",
+      "date": 1517010576906
+    },
+    {
+      "type": "edit",
+      "id": "c19088e9e41c3147",
+      "item": {
+        "type": "html",
+        "id": "c19088e9e41c3147",
+        "text": "<h3>A Toxic Culture"
+      },
+      "date": 1517010634835
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "0035330c2e5bac37",
+        "text": "<h3>Corporation versus Community"
+      },
+      "id": "0035330c2e5bac37",
+      "type": "add",
+      "after": "c19088e9e41c3147",
+      "date": 1517010675129
+    },
+    {
+      "type": "edit",
+      "id": "0035330c2e5bac37",
+      "item": {
+        "type": "html",
+        "id": "0035330c2e5bac37",
+        "text": "<h3>Corporation versus Community"
+      },
+      "date": 1517010706421
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "46133ec2849a2e83",
+        "text": "On the differing interests of share holders and users."
+      },
+      "id": "46133ec2849a2e83",
+      "type": "add",
+      "after": "0035330c2e5bac37",
+      "date": 1517010714054
+    },
+    {
+      "type": "edit",
+      "id": "46133ec2849a2e83",
+      "item": {
+        "type": "paragraph",
+        "id": "46133ec2849a2e83",
+        "text": "On the differing interests of share holders and users."
+      },
+      "date": 1517010735268
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "73b96ef7146a55aa",
+        "text": "Echo chambers and outrage culture."
+      },
+      "id": "73b96ef7146a55aa",
+      "type": "add",
+      "after": "46133ec2849a2e83",
+      "date": 1517010742880
+    },
+    {
+      "type": "edit",
+      "id": "73b96ef7146a55aa",
+      "item": {
+        "type": "paragraph",
+        "id": "73b96ef7146a55aa",
+        "text": "Echo chambers and outrage culture."
+      },
+      "date": 1517010762731
+    },
+    {
+      "type": "move",
+      "order": [
+        "49840e37420132a0",
+        "2169cdb25039fb5c",
+        "c19088e9e41c3147",
+        "73b96ef7146a55aa",
+        "0035330c2e5bac37",
+        "46133ec2849a2e83",
+        "fef4527c9a695eed"
+      ],
+      "id": "73b96ef7146a55aa",
+      "date": 1517010765867,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "a5264d24b47482fb",
+        "49840e37420132a0",
+        "2169cdb25039fb5c",
+        "c19088e9e41c3147",
+        "73b96ef7146a55aa",
+        "0035330c2e5bac37",
+        "46133ec2849a2e83",
+        "13e70fecdfbea61f"
+      ],
+      "id": "a5264d24b47482fb",
+      "date": 1517052507155,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "a5264d24b47482fb",
+        "4ed7ee0a095a29c7",
+        "49840e37420132a0",
+        "2169cdb25039fb5c",
+        "c19088e9e41c3147",
+        "73b96ef7146a55aa",
+        "0035330c2e5bac37",
+        "46133ec2849a2e83",
+        "d81d7cd99946c60c"
+      ],
+      "id": "4ed7ee0a095a29c7",
+      "date": 1517052661361,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "a5264d24b47482fb",
+        "4ed7ee0a095a29c7",
+        "e8f2e7866ea8f2b4",
+        "49840e37420132a0",
+        "2169cdb25039fb5c",
+        "c19088e9e41c3147",
+        "73b96ef7146a55aa",
+        "0035330c2e5bac37",
+        "c8a9b1215ff0deb1"
+      ],
+      "id": "e8f2e7866ea8f2b4",
+      "date": 1517052970012,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1517060926154
+    },
+    {
+      "type": "remove",
+      "date": 1517060933286
+    },
+    {
+      "type": "remove",
+      "date": 1517060937341
+    },
+    {
+      "type": "remove",
+      "date": 1517060942276
+    },
+    {
+      "type": "edit",
+      "id": "49840e37420132a0",
+      "item": {
+        "type": "html",
+        "id": "49840e37420132a0",
+        "text": "[[Censorship]]"
+      },
+      "date": 1517060976083
+    },
+    {
+      "type": "edit",
+      "id": "2169cdb25039fb5c",
+      "item": {
+        "type": "html",
+        "id": "2169cdb25039fb5c",
+        "text": "[[Algorithmic Timelines]]"
+      },
+      "date": 1517060983158
+    },
+    {
+      "type": "remove",
+      "id": "c19088e9e41c3147",
+      "date": 1517060987125
+    },
+    {
+      "type": "edit",
+      "id": "73b96ef7146a55aa",
+      "item": {
+        "type": "paragraph",
+        "id": "73b96ef7146a55aa",
+        "text": "[[Echo chambers and outrage culture]]"
+      },
+      "date": 1517060995375
+    },
+    {
+      "type": "edit",
+      "id": "0035330c2e5bac37",
+      "item": {
+        "type": "html",
+        "id": "0035330c2e5bac37",
+        "text": "[[Corporate versus Community Interests]]"
+      },
+      "date": 1517061006544
+    },
+    {
+      "type": "remove",
+      "id": "46133ec2849a2e83",
+      "date": 1517061011774
+    },
+    {
+      "type": "add",
+      "id": "bc80b546e519664b",
+      "item": {
+        "type": "paragraph",
+        "id": "bc80b546e519664b",
+        "text": "[[The Silo Feedback Loop]]"
+      },
+      "after": "73b96ef7146a55aa",
+      "date": 1522090066126
+    }
+  ]
+}

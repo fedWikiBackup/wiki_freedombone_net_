@@ -1,0 +1,148 @@
+{
+  "title": "shitposter.club",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d70307ca92595491",
+      "text": "This instance was set up during the Twitter exodus of early 2016. Many of the newcomers were from a demographic different from the archetypally bearded Free Software crowd or anarcho syndicalists who were the mainstay of the fediverse previously. They were typically younger and more irreverant towards any kind of ideology."
+    },
+    {
+      "type": "html",
+      "id": "6f91c9fb22818958",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/b93d4824a4aed444551fe22d3d9e28db.jpg\" width=\"400\"/>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b9f488f0c3a343b",
+      "text": "The boisterous and disorderly nature of shitposter.club was frequently jarring to the sombre leftists and the instance was sometimes blocked by others as a consequence."
+    },
+    {
+      "type": "paragraph",
+      "id": "66177d2d2c83d36f",
+      "text": "In 2016 it became one of the most popular instances in the fediverse."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "shitposter.club",
+        "story": []
+      },
+      "date": 1528361808881
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d70307ca92595491"
+      },
+      "id": "d70307ca92595491",
+      "type": "add",
+      "date": 1528361810307
+    },
+    {
+      "type": "edit",
+      "id": "d70307ca92595491",
+      "item": {
+        "type": "paragraph",
+        "id": "d70307ca92595491",
+        "text": "This instance was set up during the Twitter exodus of early 2016. Many of the newcomers were from a demographic different from the archetypally bearded Free Software crowd or anarcho syndicalists who were the mainstay of the fediverse previously. They were typically younger and more irreverant towards any kind of ideology."
+      },
+      "date": 1528362037326
+    },
+    {
+      "type": "add",
+      "id": "8b9f488f0c3a343b",
+      "item": {
+        "type": "paragraph",
+        "id": "8b9f488f0c3a343b",
+        "text": "The rau"
+      },
+      "after": "d70307ca92595491",
+      "date": 1528362102576
+    },
+    {
+      "type": "edit",
+      "id": "8b9f488f0c3a343b",
+      "item": {
+        "type": "paragraph",
+        "id": "8b9f488f0c3a343b",
+        "text": "The boisterous and disorderly nature of shitposter.club was frequently jarring "
+      },
+      "date": 1528362245643
+    },
+    {
+      "type": "edit",
+      "id": "8b9f488f0c3a343b",
+      "item": {
+        "type": "paragraph",
+        "id": "8b9f488f0c3a343b",
+        "text": "The boisterous and disorderly nature of shitposter.club was frequently jarring to the sombre leftists and the instance was sometimes blocked by others as a consequence."
+      },
+      "date": 1528362334011
+    },
+    {
+      "type": "add",
+      "id": "66177d2d2c83d36f",
+      "item": {
+        "type": "paragraph",
+        "id": "66177d2d2c83d36f",
+        "text": "In 2016 it became one of the most popular instances in the fediverse."
+      },
+      "after": "8b9f488f0c3a343b",
+      "date": 1528362397841
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f91c9fb22818958"
+      },
+      "id": "6f91c9fb22818958",
+      "type": "add",
+      "after": "66177d2d2c83d36f",
+      "date": 1528387932053
+    },
+    {
+      "type": "edit",
+      "id": "6f91c9fb22818958",
+      "item": {
+        "type": "html",
+        "id": "6f91c9fb22818958",
+        "text": "https://pics.freedombone.net/uploads/big/b93d4824a4aed444551fe22d3d9e28db.jpg\n"
+      },
+      "date": 1528387940304
+    },
+    {
+      "type": "edit",
+      "id": "6f91c9fb22818958",
+      "item": {
+        "type": "html",
+        "id": "6f91c9fb22818958",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/b93d4824a4aed444551fe22d3d9e28db.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528387970122
+    },
+    {
+      "type": "move",
+      "order": [
+        "6f91c9fb22818958",
+        "d70307ca92595491",
+        "8b9f488f0c3a343b",
+        "66177d2d2c83d36f"
+      ],
+      "id": "6f91c9fb22818958",
+      "date": 1528387975866
+    },
+    {
+      "type": "move",
+      "order": [
+        "d70307ca92595491",
+        "6f91c9fb22818958",
+        "8b9f488f0c3a343b",
+        "66177d2d2c83d36f"
+      ],
+      "id": "6f91c9fb22818958",
+      "date": 1528387984102
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "title": "pawoo",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "66c75fa09eebdaad",
+      "text": "In April 2017 as the Mastodon craze was reaching its height a site for Japanese artists called Pixiv launched its own instance, called pawoo.net."
+    },
+    {
+      "type": "html",
+      "id": "19f73178b4429577",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/ecd1c7d3c87abb9259877612c06a1215.jpg\" width=\"400\"/>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f73477fa2628c6de",
+      "text": "This instance had by far the largest number of users in 2017 and was the first example of a commercial spinoff from the fediverse."
+    },
+    {
+      "type": "paragraph",
+      "id": "7a749048e1e8f1c6",
+      "text": "It was also controversial, and usually blocked by most other instances, because it permitted the posting of lolicon images which are legal in Japan but banned in most western countries."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "pawoo",
+        "story": []
+      },
+      "date": 1528362797001
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "66c75fa09eebdaad"
+      },
+      "id": "66c75fa09eebdaad",
+      "type": "add",
+      "date": 1528362798812
+    },
+    {
+      "type": "edit",
+      "id": "66c75fa09eebdaad",
+      "item": {
+        "type": "paragraph",
+        "id": "66c75fa09eebdaad",
+        "text": "In April 2017 as the Mastodon craze was reaching its height a site for Japanese artists called Pixiv launched its own instance, called pawoo.net."
+      },
+      "date": 1528362886611
+    },
+    {
+      "type": "add",
+      "id": "f73477fa2628c6de",
+      "item": {
+        "type": "paragraph",
+        "id": "f73477fa2628c6de",
+        "text": "This instance had by far the largest number of users in 2017 and was the first example of a commercial spinoff from the fediverse."
+      },
+      "after": "66c75fa09eebdaad",
+      "date": 1528362951754
+    },
+    {
+      "type": "add",
+      "id": "7a749048e1e8f1c6",
+      "item": {
+        "type": "paragraph",
+        "id": "7a749048e1e8f1c6",
+        "text": "It was also controversial, and usually blocked by most other instances, because it permitted the posting of lolicon images which are legal in Japan but banned in most western countries."
+      },
+      "after": "f73477fa2628c6de",
+      "date": 1528363046121
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19f73178b4429577"
+      },
+      "id": "19f73178b4429577",
+      "type": "add",
+      "after": "7a749048e1e8f1c6",
+      "date": 1528388355146
+    },
+    {
+      "type": "edit",
+      "id": "19f73178b4429577",
+      "item": {
+        "type": "html",
+        "id": "19f73178b4429577",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/fecbfbd5106c661899d96a7ff4efec9b.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528388360774
+    },
+    {
+      "type": "edit",
+      "id": "19f73178b4429577",
+      "item": {
+        "type": "html",
+        "id": "19f73178b4429577",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/ecd1c7d3c87abb9259877612c06a1215.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528388392190
+    },
+    {
+      "type": "move",
+      "order": [
+        "66c75fa09eebdaad",
+        "19f73178b4429577",
+        "f73477fa2628c6de",
+        "7a749048e1e8f1c6"
+      ],
+      "id": "19f73178b4429577",
+      "date": 1528388395018
+    }
+  ]
+}

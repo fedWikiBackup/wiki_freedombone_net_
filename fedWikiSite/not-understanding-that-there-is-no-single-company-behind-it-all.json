@@ -1,0 +1,111 @@
+{
+  "title": "Not understanding that there is no single company behind it all",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f232d8181f788a28",
+      "text": "For anything to work, it has to be run by a company, or a foundation, or the government or some other kind of legal entity, right?"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4d47bd2c93d8fda",
+      "text": "Wrong."
+    },
+    {
+      "type": "paragraph",
+      "id": "d27164d7bda0ea9d",
+      "text": "Federated social networks can be run by anyone. There's no requirement to form a company or to have a business model."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Not understanding that there is no single company behind it all",
+        "story": []
+      },
+      "date": 1516999572368
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f232d8181f788a28"
+      },
+      "id": "f232d8181f788a28",
+      "type": "add",
+      "date": 1516999574153
+    },
+    {
+      "type": "edit",
+      "id": "f232d8181f788a28",
+      "item": {
+        "type": "paragraph",
+        "id": "f232d8181f788a28",
+        "text": "For anything to work, it has to be run by a company, or a foundation or some other kind of _legal entity_, right?"
+      },
+      "date": 1516999620524
+    },
+    {
+      "type": "edit",
+      "id": "f232d8181f788a28",
+      "item": {
+        "type": "paragraph",
+        "id": "f232d8181f788a28",
+        "text": "For anything to work, it has to be run by a company, or a foundation or some other kind of <i>legal entity</i>, right?"
+      },
+      "date": 1516999652410
+    },
+    {
+      "type": "edit",
+      "id": "f232d8181f788a28",
+      "item": {
+        "type": "paragraph",
+        "id": "f232d8181f788a28",
+        "text": "For anything to work, it has to be run by a company, or a foundation or some other kind of *legal entity*, right?"
+      },
+      "date": 1516999663778
+    },
+    {
+      "type": "edit",
+      "id": "f232d8181f788a28",
+      "item": {
+        "type": "paragraph",
+        "id": "f232d8181f788a28",
+        "text": "For anything to work, it has to be run by a company, or a foundation or some other kind of legal entity, right?"
+      },
+      "date": 1516999673529
+    },
+    {
+      "type": "add",
+      "id": "a4d47bd2c93d8fda",
+      "item": {
+        "type": "paragraph",
+        "id": "a4d47bd2c93d8fda",
+        "text": "Wrong."
+      },
+      "after": "f232d8181f788a28",
+      "date": 1516999676929
+    },
+    {
+      "type": "add",
+      "id": "d27164d7bda0ea9d",
+      "item": {
+        "type": "paragraph",
+        "id": "d27164d7bda0ea9d",
+        "text": "Federated social networks can be run by anyone. There's no requirement to form a company or to have a business model."
+      },
+      "after": "a4d47bd2c93d8fda",
+      "date": 1516999740675
+    },
+    {
+      "type": "edit",
+      "id": "f232d8181f788a28",
+      "item": {
+        "type": "paragraph",
+        "id": "f232d8181f788a28",
+        "text": "For anything to work, it has to be run by a company, or a foundation, or the government or some other kind of legal entity, right?"
+      },
+      "date": 1516999766033
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "We understand that technological and social change are mutually dependent",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cb7e681263b66906",
+      "text": "One cannot happen without the other. If we want a better world then we need software which works better for communities. If we want better software we need people who have the time and energy to learn and practice the craft, and that requires a sufficiently supportive society which enables volunteer efforts."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We understand that technological and social change are mutually dependent",
+        "story": []
+      },
+      "date": 1527501700856
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb7e681263b66906"
+      },
+      "id": "cb7e681263b66906",
+      "type": "add",
+      "date": 1527501703918
+    },
+    {
+      "type": "edit",
+      "id": "cb7e681263b66906",
+      "item": {
+        "type": "paragraph",
+        "id": "cb7e681263b66906",
+        "text": "One cannot happen without the other. If we want a better world then we need software which works better for communities. If we want better software we need people who have the time and energy to learn and practice the craft, and that requires a sufficiently supportive society."
+      },
+      "date": 1527501792844
+    },
+    {
+      "type": "edit",
+      "id": "cb7e681263b66906",
+      "item": {
+        "type": "paragraph",
+        "id": "cb7e681263b66906",
+        "text": "One cannot happen without the other. If we want a better world then we need software which works better for communities. If we want better software we need people who have the time and energy to learn and practice the craft, and that requires a sufficiently supportive society which enables volunteer efforts."
+      },
+      "date": 1527501845940
+    }
+  ]
+}

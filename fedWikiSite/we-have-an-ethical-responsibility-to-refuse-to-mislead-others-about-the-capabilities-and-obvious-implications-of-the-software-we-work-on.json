@@ -1,0 +1,121 @@
+{
+  "title": "We have an ethical responsibility to refuse to mislead others about the capabilities and obvious implications of the software we work on",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a43e483f80d4d002",
+      "text": "We should not build in antifeatures or use deceptive \"dark patterns\" to trick users into activities which narrowly benefit any particular party."
+    },
+    {
+      "type": "paragraph",
+      "id": "e5b01fba4534dae4",
+      "text": "We should avoid creating software whose primary uses act against our values and warn users in cases where the technologies which we produce can be used in significantly harmful ways."
+    },
+    {
+      "type": "paragraph",
+      "id": "4282e0f0380d4881",
+      "text": "We should not try to claim that the software we produce is \"neutral\" and instead talk about the positive values which the software embodies. This avoids users having false assumptions or holding false trust in the underlying decisions being made by algorithms."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We have an ethical responsibility to refuse to mislead others about the capabilities and obvious implications of the software we work on",
+        "story": []
+      },
+      "date": 1527500919288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a43e483f80d4d002"
+      },
+      "id": "a43e483f80d4d002",
+      "type": "add",
+      "date": 1527500936981
+    },
+    {
+      "type": "edit",
+      "id": "a43e483f80d4d002",
+      "item": {
+        "type": "paragraph",
+        "id": "a43e483f80d4d002",
+        "text": "We should not build in antifeatures or use deceptive \"dark patterns\" to trick users into activities which narrowly benefit a particular party."
+      },
+      "date": 1527501068784
+    },
+    {
+      "type": "add",
+      "id": "e5b01fba4534dae4",
+      "item": {
+        "type": "paragraph",
+        "id": "e5b01fba4534dae4",
+        "text": "We should avoid creating software whose primary uses act against our values and warn users in cases where the technologies which we produce are being used for evil purposes."
+      },
+      "after": "a43e483f80d4d002",
+      "date": 1527501255782
+    },
+    {
+      "type": "add",
+      "id": "4282e0f0380d4881",
+      "item": {
+        "type": "paragraph",
+        "id": "4282e0f0380d4881",
+        "text": "We should not try to claim that the software we produce is \"neutral\" and instead talk about the values which the software embodies."
+      },
+      "after": "e5b01fba4534dae4",
+      "date": 1527501290839
+    },
+    {
+      "type": "edit",
+      "id": "4282e0f0380d4881",
+      "item": {
+        "type": "paragraph",
+        "id": "4282e0f0380d4881",
+        "text": "We should not try to claim that the software we produce is \"neutral\" and instead talk about the positive values which the software embodies."
+      },
+      "date": 1527501312254
+    },
+    {
+      "type": "edit",
+      "id": "4282e0f0380d4881",
+      "item": {
+        "type": "paragraph",
+        "id": "4282e0f0380d4881",
+        "text": "We should not try to claim that the software we produce is \"neutral\" and instead talk about the positive values which the software embodies. This avoids users having false assumptions about the underlying decisions being made by algorithms."
+      },
+      "date": 1527501358109
+    },
+    {
+      "type": "edit",
+      "id": "a43e483f80d4d002",
+      "item": {
+        "type": "paragraph",
+        "id": "a43e483f80d4d002",
+        "text": "We should not build in antifeatures or use deceptive \"dark patterns\" to trick users into activities which narrowly benefit any particular party."
+      },
+      "date": 1527501383054
+    },
+    {
+      "type": "edit",
+      "id": "e5b01fba4534dae4",
+      "item": {
+        "type": "paragraph",
+        "id": "e5b01fba4534dae4",
+        "text": "We should avoid creating software whose primary uses act against our values and warn users in cases where the technologies which we produce can be used in significantly harmful ways."
+      },
+      "date": 1527501424389
+    },
+    {
+      "type": "edit",
+      "id": "4282e0f0380d4881",
+      "item": {
+        "type": "paragraph",
+        "id": "4282e0f0380d4881",
+        "text": "We should not try to claim that the software we produce is \"neutral\" and instead talk about the positive values which the software embodies. This avoids users having false assumptions or holding false trust in the underlying decisions being made by algorithms."
+      },
+      "date": 1527501490967
+    }
+  ]
+}

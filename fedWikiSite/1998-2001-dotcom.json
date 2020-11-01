@@ -1,0 +1,107 @@
+{
+  "title": "1998-2001 Dotcom",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f634cf5afad729cb",
+      "text": "Towards the end of the 1990s what was known as \"e-commerce\" started to become a thing. During the initial web 1.0 stage if you wanted to buy something via the internet this usually meant faxing bank details to some telephone number, or worse, sending credit card details via email. That was obviously very unsatisfactory for supporting any reliable commercial activity, but by the late 1990s companies were beginning to figure this out and the cryptography technology was improving and becoming sufficiently decriminalized to be practically usable."
+    },
+    {
+      "type": "paragraph",
+      "id": "26cb07ae2b1b08fa",
+      "text": "During the dotcom boom there was a rush of mostly US based venture capitalists pouring investment money into any website which claimed to be doing \"e-commerce\". The theory was that out of these many early sites a few would succeed and become the big established brands of the internet. Investors were looking for web companies which they hoped would turn into the next Microsoft or IBM."
+    },
+    {
+      "type": "paragraph",
+      "id": "95b230747ae299b9",
+      "text": "Companies which emerged during this period and survived to become well known brands are Google, Amazon and Redhat."
+    },
+    {
+      "type": "paragraph",
+      "id": "a7d03c15b3f2697f",
+      "text": "There were many web business models during the dotcom years which seemed crazy even at the time. Almost all of them disappeared abruptly in 2000-2001, often without any warning. You might have been using some site for a couple of years and then one day it just vanishes with nothing but a 404 message to be seen."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1998-2001 Dotcom",
+        "story": []
+      },
+      "date": 1531300190130
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f634cf5afad729cb"
+      },
+      "id": "f634cf5afad729cb",
+      "type": "add",
+      "date": 1531300192182
+    },
+    {
+      "type": "edit",
+      "id": "f634cf5afad729cb",
+      "item": {
+        "type": "paragraph",
+        "id": "f634cf5afad729cb",
+        "text": "Towards the end of the 1990s what was known as \"e-commerce\" started to become a thing. During the initial web 1.0 stage if you wanted to buy something via the internet this usually meant faxing bank details to some telephone number, or worse, sending credit card details via email. That was obviously very unsatisfactory for supporting any reliable commercial activity, but by the late 1990s companies were beginning to figure this out and the cryptography technology was improving and becoming sufficiently decriminalized to be practically usable."
+      },
+      "date": 1531300409449
+    },
+    {
+      "type": "add",
+      "id": "26cb07ae2b1b08fa",
+      "item": {
+        "type": "paragraph",
+        "id": "26cb07ae2b1b08fa",
+        "text": "During the dotcom boom there was a rush of mostly US based venture capitalists pouring investment money into any website which claimed to be doing \"e-commerce\". The theory was that out of these many early sites a few would succeed and become the big established brands of the internet. Investors were looking for web companies which they hoped would turn into the next Microsoft or IBM."
+      },
+      "after": "f634cf5afad729cb",
+      "date": 1531300571642
+    },
+    {
+      "type": "add",
+      "id": "95b230747ae299b9",
+      "item": {
+        "type": "paragraph",
+        "id": "95b230747ae299b9",
+        "text": "Companies which emerged during this period and survived are Google, Amazon and Redhat."
+      },
+      "after": "26cb07ae2b1b08fa",
+      "date": 1531300783073
+    },
+    {
+      "type": "edit",
+      "id": "95b230747ae299b9",
+      "item": {
+        "type": "paragraph",
+        "id": "95b230747ae299b9",
+        "text": "Companies which emerged during this period and survived to become well known brands are Google, Amazon and Redhat."
+      },
+      "date": 1531300816822
+    },
+    {
+      "type": "add",
+      "id": "a7d03c15b3f2697f",
+      "item": {
+        "type": "paragraph",
+        "id": "a7d03c15b3f2697f",
+        "text": "There were many web business models during the dotcom years which seemed crazy even at the time. Almost all of them disappeared abruptly in 2000-2001, often without any warning."
+      },
+      "after": "95b230747ae299b9",
+      "date": 1531300997806
+    },
+    {
+      "type": "edit",
+      "id": "a7d03c15b3f2697f",
+      "item": {
+        "type": "paragraph",
+        "id": "a7d03c15b3f2697f",
+        "text": "There were many web business models during the dotcom years which seemed crazy even at the time. Almost all of them disappeared abruptly in 2000-2001, often without any warning. You might have been using some site for a couple of years and then one day it just vanishes with nothing but a 404 message to be seen."
+      },
+      "date": 1531301093120
+    }
+  ]
+}

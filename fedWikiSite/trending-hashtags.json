@@ -1,0 +1,363 @@
+{
+  "title": "Trending Hashtags",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3d039bc8211930c3",
+      "text": "In June 2018 hashtag trends were added to Mastodon and this generated some controversy."
+    },
+    {
+      "type": "paragraph",
+      "id": "da44f850edca4407",
+      "text": "Hashtag trends were a long established feature of Twitter and had also existed as a plugin for GNU Social. They even existed in the early days of identi.ca."
+    },
+    {
+      "type": "paragraph",
+      "id": "8724838066b578c7",
+      "text": "In a small scale community the ranking of hashtags by popularity doesn't make a lot of difference, but by 2018 the fediverse had become large with thousands of instances and some instances having thousands of users."
+    },
+    {
+      "type": "paragraph",
+      "id": "a4fa1a8ac2de507b",
+      "text": "There are various problems with hashtag trends as seen on Twitter and other similar silo sites with a large user base:"
+    },
+    {
+      "type": "paragraph",
+      "id": "8a316d89289f8139",
+      "text": "* They distract attention away from real conversations or meaningful dialogue towards OMG TRENDING NOW!"
+    },
+    {
+      "type": "paragraph",
+      "id": "c3de3b3c2ab17920",
+      "text": "* This distraction away from local conversations between users who follow each other to a globally collated list of highlights has centralising feedback effects which tend to create celebrity cults."
+    },
+    {
+      "type": "paragraph",
+      "id": "b7cb2c0e9d3710d6",
+      "text": "* Trends can be, and often are, manipulated in a similar manner to algorithmic timelines. The manipulation can happen via bots or shills or other dubious schemes. On Twitter there is an entire industry built around this."
+    },
+    {
+      "type": "paragraph",
+      "id": "c8c1b90672fce776",
+      "text": "* There is always a lot of unproductive discussion about to what extent the trends have been gamed/manipulated"
+    },
+    {
+      "type": "paragraph",
+      "id": "4173a3bfeb40baac",
+      "text": "* Brands often want to puchase a position in the ranking, so that what you're seeing is not an organic trend but an astroturfing fake created for commercial or political purposes. As a social system gains more fake attributes it loses its vitality."
+    },
+    {
+      "type": "paragraph",
+      "id": "249344a1d0ec7880",
+      "text": "* Trending hashtags can be used to dogpile users. This \"callout culture\" is among the worst social aspects of Twitter and can have very adverse consequences for the user being targeted by a mob."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Trending Hashtags",
+        "story": []
+      },
+      "date": 1528022225789
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d039bc8211930c3"
+      },
+      "id": "3d039bc8211930c3",
+      "type": "add",
+      "date": 1528022227347
+    },
+    {
+      "type": "edit",
+      "id": "3d039bc8211930c3",
+      "item": {
+        "type": "paragraph",
+        "id": "3d039bc8211930c3",
+        "text": "In June 2018 hashtag trends were added to Mastodon and this generated some controversy."
+      },
+      "date": 1528022296542
+    },
+    {
+      "type": "add",
+      "id": "da44f850edca4407",
+      "item": {
+        "type": "paragraph",
+        "id": "da44f850edca4407",
+        "text": "Hashtag trends were a long established feature of Twitter and had also existed as a plugin for GNU Social. They even existed in the early days of identi.ca."
+      },
+      "after": "3d039bc8211930c3",
+      "date": 1528022368556
+    },
+    {
+      "type": "add",
+      "id": "8724838066b578c7",
+      "item": {
+        "type": "paragraph",
+        "id": "8724838066b578c7",
+        "text": "In a small scale community the ranking of hashtags by popularity doesn't make a lot of difference, but by 2018 the fediverse had become large with thousands of instances and some instances having thousands of users."
+      },
+      "after": "da44f850edca4407",
+      "date": 1528022504232
+    },
+    {
+      "type": "add",
+      "id": "a4fa1a8ac2de507b",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fa1a8ac2de507b",
+        "text": "There are various problems with hashtag trends:"
+      },
+      "after": "8724838066b578c7",
+      "date": 1528022540192
+    },
+    {
+      "type": "add",
+      "id": "8a316d89289f8139",
+      "item": {
+        "type": "paragraph",
+        "id": "8a316d89289f8139",
+        "text": " * They distract attention away from real conversations towards OMG TRENDING!"
+      },
+      "after": "a4fa1a8ac2de507b",
+      "date": 1528022575848
+    },
+    {
+      "type": "edit",
+      "id": "8a316d89289f8139",
+      "item": {
+        "type": "paragraph",
+        "id": "8a316d89289f8139",
+        "text": "* They distract attention away from real conversations towards OMG TRENDING!"
+      },
+      "date": 1528022587003
+    },
+    {
+      "type": "edit",
+      "id": "a4fa1a8ac2de507b",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fa1a8ac2de507b",
+        "text": "There are various problems with hashtag trends as seen on Twitter and other similar silo sites:"
+      },
+      "date": 1528022627432
+    },
+    {
+      "type": "edit",
+      "id": "8a316d89289f8139",
+      "item": {
+        "type": "paragraph",
+        "id": "8a316d89289f8139",
+        "text": "* They distract attention away from real conversations or meaningful dialogue towards OMG TRENDING!"
+      },
+      "date": 1528022662840
+    },
+    {
+      "type": "add",
+      "id": "b7cb2c0e9d3710d6",
+      "item": {
+        "type": "paragraph",
+        "id": "b7cb2c0e9d3710d6",
+        "text": "* Trends can, and ofren are, manipulated in a similar manner to algorithmic timelines. The manipulation can happen via bots or other dubious schemes."
+      },
+      "after": "8a316d89289f8139",
+      "date": 1528022721535
+    },
+    {
+      "type": "add",
+      "id": "4173a3bfeb40baac",
+      "item": {
+        "type": "paragraph",
+        "id": "4173a3bfeb40baac",
+        "text": "* Brands often want to puchase a position in the ranking, so that what you're seeing is not an organic trend but a fake created for commercial purposes."
+      },
+      "after": "b7cb2c0e9d3710d6",
+      "date": 1528022791974
+    },
+    {
+      "type": "edit",
+      "id": "4173a3bfeb40baac",
+      "item": {
+        "type": "paragraph",
+        "id": "4173a3bfeb40baac",
+        "text": "* Brands often want to puchase a position in the ranking, so that what you're seeing is not an organic trend but a fake created for commercial or political purposes."
+      },
+      "date": 1528022816518
+    },
+    {
+      "type": "add",
+      "id": "249344a1d0ec7880",
+      "item": {
+        "type": "paragraph",
+        "id": "249344a1d0ec7880",
+        "text": "* Trending hashtags can be used to dogpile users. This \"callout culture\" is among the worst social aspects of Twitter and can have very adverse consequences for the user being targeted."
+      },
+      "after": "4173a3bfeb40baac",
+      "date": 1528022928206
+    },
+    {
+      "type": "edit",
+      "id": "249344a1d0ec7880",
+      "item": {
+        "type": "paragraph",
+        "id": "249344a1d0ec7880",
+        "text": "* Trending hashtags can be used to dogpile users. This \"callout culture\" is among the worst social aspects of Twitter and can have very adverse consequences for the user being targeted by a mob."
+      },
+      "date": 1528023015592
+    },
+    {
+      "type": "edit",
+      "id": "b7cb2c0e9d3710d6",
+      "item": {
+        "type": "paragraph",
+        "id": "b7cb2c0e9d3710d6",
+        "text": "* Trends can, and often are, manipulated in a similar manner to algorithmic timelines. The manipulation can happen via bots or other dubious schemes."
+      },
+      "date": 1528023075744
+    },
+    {
+      "type": "add",
+      "id": "c8c1b90672fce776",
+      "item": {
+        "type": "paragraph",
+        "id": "c8c1b90672fce776",
+        "text": "* There is always a lot of unproductive discussion about to what extent the trends have been gamed/manipulated"
+      },
+      "after": "b7cb2c0e9d3710d6",
+      "date": 1528023115527
+    },
+    {
+      "type": "edit",
+      "id": "a4fa1a8ac2de507b",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fa1a8ac2de507b",
+        "text": "There are various problems with hashtag trends as seen on Twitter and other similar silo sites with a large user base:"
+      },
+      "date": 1528023221613
+    },
+    {
+      "type": "add",
+      "id": "c3de3b3c2ab17920",
+      "item": {
+        "type": "paragraph",
+        "id": "c3de3b3c2ab17920",
+        "text": "* This distraction away from the local to a globally collated list has centralising effects which tend to create celebrity cults"
+      },
+      "after": "8a316d89289f8139",
+      "date": 1528023293429
+    },
+    {
+      "type": "edit",
+      "id": "c3de3b3c2ab17920",
+      "item": {
+        "type": "paragraph",
+        "id": "c3de3b3c2ab17920",
+        "text": "* This distraction away from the local to a globally collated list has centralising effects which tend to create celebrity cults."
+      },
+      "date": 1528023299873
+    },
+    {
+      "type": "edit",
+      "id": "c3de3b3c2ab17920",
+      "item": {
+        "type": "paragraph",
+        "id": "c3de3b3c2ab17920",
+        "text": "* This distraction away from local conversations to a globally collated list has centralising effects which tend to create celebrity cults."
+      },
+      "date": 1528023318660
+    },
+    {
+      "type": "edit",
+      "id": "c3de3b3c2ab17920",
+      "item": {
+        "type": "paragraph",
+        "id": "c3de3b3c2ab17920",
+        "text": "* This distraction away from local conversations to a globally collated list of highlights has centralising effects which tend to create celebrity cults."
+      },
+      "date": 1528023335505
+    },
+    {
+      "type": "edit",
+      "id": "b7cb2c0e9d3710d6",
+      "item": {
+        "type": "paragraph",
+        "id": "b7cb2c0e9d3710d6",
+        "text": "* Trends can be, and often are, manipulated in a similar manner to algorithmic timelines. The manipulation can happen via bots or other dubious schemes."
+      },
+      "date": 1528023363556
+    },
+    {
+      "type": "edit",
+      "id": "4173a3bfeb40baac",
+      "item": {
+        "type": "paragraph",
+        "id": "4173a3bfeb40baac",
+        "text": "* Brands often want to puchase a position in the ranking, so that what you're seeing is not an organic trend but an astroturfing fake created for commercial or political purposes."
+      },
+      "date": 1528023573492
+    },
+    {
+      "type": "edit",
+      "id": "8a316d89289f8139",
+      "item": {
+        "type": "paragraph",
+        "id": "8a316d89289f8139",
+        "text": "* They distract attention away from real conversations or meaningful dialogue towards OMG TRENDING NOW!"
+      },
+      "date": 1528023630772
+    },
+    {
+      "type": "edit",
+      "id": "c3de3b3c2ab17920",
+      "item": {
+        "type": "paragraph",
+        "id": "c3de3b3c2ab17920",
+        "text": "* This distraction away from local conversations to a globally collated list of highlights has centralising feedback effects which tend to create celebrity cults."
+      },
+      "date": 1528023692202
+    },
+    {
+      "type": "edit",
+      "id": "c3de3b3c2ab17920",
+      "item": {
+        "type": "paragraph",
+        "id": "c3de3b3c2ab17920",
+        "text": "* This distraction away from local conversations between users who follow each other to a globally collated list of highlights has centralising feedback effects which tend to create celebrity cults."
+      },
+      "date": 1528023728741
+    },
+    {
+      "type": "edit",
+      "id": "b7cb2c0e9d3710d6",
+      "item": {
+        "type": "paragraph",
+        "id": "b7cb2c0e9d3710d6",
+        "text": "* Trends can be, and often are, manipulated in a similar manner to algorithmic timelines. The manipulation can happen via bots or shills or other dubious schemes."
+      },
+      "date": 1528023769534
+    },
+    {
+      "type": "edit",
+      "id": "b7cb2c0e9d3710d6",
+      "item": {
+        "type": "paragraph",
+        "id": "b7cb2c0e9d3710d6",
+        "text": "* Trends can be, and often are, manipulated in a similar manner to algorithmic timelines. The manipulation can happen via bots or shills or other dubious schemes. On Twitter there is an entire industry built around this."
+      },
+      "date": 1528023812767
+    },
+    {
+      "type": "edit",
+      "id": "4173a3bfeb40baac",
+      "item": {
+        "type": "paragraph",
+        "id": "4173a3bfeb40baac",
+        "text": "* Brands often want to puchase a position in the ranking, so that what you're seeing is not an organic trend but an astroturfing fake created for commercial or political purposes. As a social system gains more fake attributes it loses its vitality."
+      },
+      "date": 1528023897375
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Protocol Wars",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "213d715a98e583ee",
+      "text": "[[Mastodon's Advisory Privacy]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "48c474ee5fdd6f7b",
+      "text": "[[Views on ActivityPub]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c4498d595b5243eb",
+      "text": "[[Trust in W3C Standards]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "860c33ec6b1c7af2",
+      "text": "[[The Ideal Protocol]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Protocol Wars",
+        "story": []
+      },
+      "date": 1517061445917
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "213d715a98e583ee"
+      },
+      "id": "213d715a98e583ee",
+      "type": "add",
+      "date": 1517061450175
+    },
+    {
+      "type": "edit",
+      "id": "213d715a98e583ee",
+      "item": {
+        "type": "paragraph",
+        "id": "213d715a98e583ee",
+        "text": "[[Mastodon's Advisory Privacy]]"
+      },
+      "date": 1517061474623
+    },
+    {
+      "type": "add",
+      "id": "48c474ee5fdd6f7b",
+      "item": {
+        "type": "paragraph",
+        "id": "48c474ee5fdd6f7b",
+        "text": "[[Views on ActivityPub]]"
+      },
+      "after": "213d715a98e583ee",
+      "date": 1517061491822
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4498d595b5243eb"
+      },
+      "id": "c4498d595b5243eb",
+      "type": "add",
+      "after": "48c474ee5fdd6f7b",
+      "date": 1517061507578
+    },
+    {
+      "type": "edit",
+      "id": "c4498d595b5243eb",
+      "item": {
+        "type": "paragraph",
+        "id": "c4498d595b5243eb",
+        "text": "[[Trust in W3C standards]]"
+      },
+      "date": 1517061527861
+    },
+    {
+      "type": "edit",
+      "id": "c4498d595b5243eb",
+      "item": {
+        "type": "paragraph",
+        "id": "c4498d595b5243eb",
+        "text": "[[Trust in W3C Standards]]"
+      },
+      "date": 1517061541779
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "860c33ec6b1c7af2"
+      },
+      "id": "860c33ec6b1c7af2",
+      "type": "add",
+      "after": "c4498d595b5243eb",
+      "date": 1517091371430
+    },
+    {
+      "type": "edit",
+      "id": "860c33ec6b1c7af2",
+      "item": {
+        "type": "paragraph",
+        "id": "860c33ec6b1c7af2",
+        "text": "The Ideal Protocol"
+      },
+      "date": 1517091390091
+    },
+    {
+      "type": "edit",
+      "id": "860c33ec6b1c7af2",
+      "item": {
+        "type": "paragraph",
+        "id": "860c33ec6b1c7af2",
+        "text": "[[The Ideal Protocol]]"
+      },
+      "date": 1517091395769
+    }
+  ]
+}

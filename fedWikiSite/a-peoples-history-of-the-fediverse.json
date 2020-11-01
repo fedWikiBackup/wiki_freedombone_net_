@@ -1,0 +1,516 @@
+{
+  "title": "A People's History of the Fediverse",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1bf94cc1188fa7d9",
+      "text": "[[Introduction]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c1e12c9bfd111c9c",
+      "text": "[[The problems with Centralization]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dfe5dc3d13f1ac7e",
+      "text": "[[Dimensions of Decentralization]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e4ac0d5033f28e40",
+      "text": "[[Problems with Twitter]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "70efe46136152442",
+      "text": "[[Peers and Federalists]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "67019c8bf29cdc96",
+      "text": "[[Pseudonymity]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2caf119c0cc9a5f1",
+      "text": "[[GNU Socialites]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bded392db6f314b1",
+      "text": "[[Here come the Elephants]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2be98d36234e1c1c",
+      "text": "[[Migrations and Exoduses]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a33cdab2fe4c4513",
+      "text": "[[Protocol Wars]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e4cf2eccf60fefd4",
+      "text": "[[Trending Hashtags]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "81d025d94f532110",
+      "text": "[[Fedisplaining]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fd38bb8142d802ce",
+      "text": "[[Notable Instances]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "27e67386c195c83b",
+      "text": "[[Counter-strategies to the fediverse]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c12eb51ef6de2c8",
+      "text": "[[Social Network Taxonomy]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "2caf119c0cc9a5f1",
+      "item": {
+        "type": "paragraph",
+        "id": "2caf119c0cc9a5f1",
+        "text": "[[GNU Socialites]]"
+      },
+      "date": 1516994887503
+    },
+    {
+      "type": "edit",
+      "id": "1bf94cc1188fa7d9",
+      "item": {
+        "type": "paragraph",
+        "id": "1bf94cc1188fa7d9",
+        "text": "[[Introduction]]"
+      },
+      "date": 1516994515044
+    },
+    {
+      "type": "remove",
+      "id": "4c0c083965f2bf57",
+      "date": 1516994503500
+    },
+    {
+      "type": "add",
+      "id": "2caf119c0cc9a5f1",
+      "item": {
+        "type": "paragraph",
+        "id": "2caf119c0cc9a5f1",
+        "text": "[[GNU Social]]"
+      },
+      "after": "192afca3e7631ef4",
+      "date": 1516994474918
+    },
+    {
+      "type": "add",
+      "id": "192afca3e7631ef4",
+      "item": {
+        "type": "paragraph",
+        "id": "192afca3e7631ef4",
+        "text": "[[StatusNet]]"
+      },
+      "after": "4c0c083965f2bf57",
+      "date": 1516994440744
+    },
+    {
+      "type": "edit",
+      "id": "4c0c083965f2bf57",
+      "item": {
+        "type": "paragraph",
+        "id": "4c0c083965f2bf57",
+        "text": "[[Identica]]"
+      },
+      "date": 1516994390027
+    },
+    {
+      "type": "add",
+      "id": "4c0c083965f2bf57",
+      "item": {
+        "type": "paragraph",
+        "id": "4c0c083965f2bf57",
+        "text": "Identi.ca"
+      },
+      "after": "1bf94cc1188fa7d9",
+      "date": 1516994372408
+    },
+    {
+      "type": "edit",
+      "id": "1bf94cc1188fa7d9",
+      "item": {
+        "type": "paragraph",
+        "id": "1bf94cc1188fa7d9",
+        "text": "[[Prehistory]]"
+      },
+      "date": 1516994343349
+    },
+    {
+      "type": "edit",
+      "id": "1bf94cc1188fa7d9",
+      "item": {
+        "type": "paragraph",
+        "id": "1bf94cc1188fa7d9",
+        "text": "Herein lies the tale."
+      },
+      "date": 1516994079200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1bf94cc1188fa7d9"
+      },
+      "id": "1bf94cc1188fa7d9",
+      "type": "add",
+      "date": 1516994070300
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "A People's History of the Fediverse",
+        "story": []
+      },
+      "date": 1516994053600
+    },
+    {
+      "type": "edit",
+      "id": "192afca3e7631ef4",
+      "item": {
+        "type": "paragraph",
+        "id": "192afca3e7631ef4",
+        "text": "[[Status of the StatusNet]]"
+      },
+      "date": 1516994901391
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bded392db6f314b1",
+        "text": "[[Here come the Elephants]]"
+      },
+      "id": "bded392db6f314b1",
+      "type": "add",
+      "after": "2caf119c0cc9a5f1",
+      "date": 1516994907606
+    },
+    {
+      "type": "edit",
+      "id": "bded392db6f314b1",
+      "item": {
+        "type": "paragraph",
+        "id": "bded392db6f314b1",
+        "text": "[[Here come the Elephants]]"
+      },
+      "date": 1516994920404
+    },
+    {
+      "type": "add",
+      "id": "7e35d7008f3c8443",
+      "item": {
+        "type": "paragraph",
+        "id": "7e35d7008f3c8443",
+        "text": "[[The whiff of Pleroma]]"
+      },
+      "after": "bded392db6f314b1",
+      "date": 1516994938540
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c1e12c9bfd111c9c",
+        "text": "[[The problems with Centralization]]"
+      },
+      "id": "c1e12c9bfd111c9c",
+      "type": "add",
+      "after": "7e35d7008f3c8443",
+      "date": 1516994980978
+    },
+    {
+      "type": "move",
+      "order": [
+        "1bf94cc1188fa7d9",
+        "192afca3e7631ef4",
+        "c1e12c9bfd111c9c",
+        "2caf119c0cc9a5f1",
+        "bded392db6f314b1",
+        "7e35d7008f3c8443"
+      ],
+      "id": "c1e12c9bfd111c9c",
+      "date": 1516994984799
+    },
+    {
+      "type": "edit",
+      "id": "c1e12c9bfd111c9c",
+      "item": {
+        "type": "paragraph",
+        "id": "c1e12c9bfd111c9c",
+        "text": "[[The problems with Centralization]]"
+      },
+      "date": 1516995010275
+    },
+    {
+      "type": "move",
+      "order": [
+        "1bf94cc1188fa7d9",
+        "c1e12c9bfd111c9c",
+        "192afca3e7631ef4",
+        "ab6d6047ee7932e0",
+        "2caf119c0cc9a5f1",
+        "bded392db6f314b1",
+        "7e35d7008f3c8443"
+      ],
+      "id": "c1e12c9bfd111c9c",
+      "date": 1516995014767,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2be98d36234e1c1c",
+        "text": "[[Migrations and Exoduses]]"
+      },
+      "id": "2be98d36234e1c1c",
+      "type": "add",
+      "after": "7e35d7008f3c8443",
+      "date": 1517000290096
+    },
+    {
+      "type": "edit",
+      "id": "2be98d36234e1c1c",
+      "item": {
+        "type": "paragraph",
+        "id": "2be98d36234e1c1c",
+        "text": "[[Migrations and Exoduses]]"
+      },
+      "date": 1517000298681
+    },
+    {
+      "type": "fork",
+      "date": 1517000312334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a33cdab2fe4c4513"
+      },
+      "id": "a33cdab2fe4c4513",
+      "type": "add",
+      "after": "2be98d36234e1c1c",
+      "date": 1517010483633
+    },
+    {
+      "type": "edit",
+      "id": "a33cdab2fe4c4513",
+      "item": {
+        "type": "paragraph",
+        "id": "a33cdab2fe4c4513",
+        "text": "[[Protocol Wars]]"
+      },
+      "date": 1517010500042
+    },
+    {
+      "type": "remove",
+      "id": "192afca3e7631ef4",
+      "date": 1517064521804
+    },
+    {
+      "type": "remove",
+      "id": "7e35d7008f3c8443",
+      "date": 1517064531292
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "33535a1acbd485eb"
+      },
+      "id": "33535a1acbd485eb",
+      "type": "add",
+      "after": "a33cdab2fe4c4513",
+      "date": 1522070707722
+    },
+    {
+      "type": "edit",
+      "id": "33535a1acbd485eb",
+      "item": {
+        "type": "bytebeat",
+        "id": "33535a1acbd485eb",
+        "text": "Who federates?"
+      },
+      "date": 1522070761502
+    },
+    {
+      "type": "edit",
+      "id": "33535a1acbd485eb",
+      "item": {
+        "type": "bytebeat",
+        "id": "33535a1acbd485eb",
+        "text": "[[Who federates?]]"
+      },
+      "date": 1522070768572
+    },
+    {
+      "type": "edit",
+      "id": "33535a1acbd485eb",
+      "item": {
+        "type": "bytebeat",
+        "id": "33535a1acbd485eb",
+        "text": "[Who federates?]"
+      },
+      "date": 1522070774540
+    },
+    {
+      "type": "remove",
+      "id": "33535a1acbd485eb",
+      "date": 1522070787238
+    },
+    {
+      "type": "add",
+      "id": "70efe46136152442",
+      "item": {
+        "type": "paragraph",
+        "id": "70efe46136152442",
+        "text": "[[Who federates?]]"
+      },
+      "after": "c1e12c9bfd111c9c",
+      "date": 1522070803028
+    },
+    {
+      "type": "edit",
+      "id": "70efe46136152442",
+      "item": {
+        "type": "paragraph",
+        "id": "70efe46136152442",
+        "text": "[[Peers and Federalists]]"
+      },
+      "date": 1522070840512
+    },
+    {
+      "type": "add",
+      "id": "e4cf2eccf60fefd4",
+      "item": {
+        "type": "paragraph",
+        "id": "e4cf2eccf60fefd4",
+        "text": "[[Trending Hashtags]]"
+      },
+      "after": "a33cdab2fe4c4513",
+      "date": 1528022222731
+    },
+    {
+      "type": "add",
+      "id": "fd38bb8142d802ce",
+      "item": {
+        "type": "paragraph",
+        "id": "fd38bb8142d802ce",
+        "text": "[[Notable Instances]]"
+      },
+      "after": "e4cf2eccf60fefd4",
+      "date": 1528361689022
+    },
+    {
+      "type": "add",
+      "id": "e4ac0d5033f28e40",
+      "item": {
+        "type": "paragraph",
+        "id": "e4ac0d5033f28e40",
+        "text": "[[Problems with Twitter]]"
+      },
+      "after": "c1e12c9bfd111c9c",
+      "date": 1530359022619
+    },
+    {
+      "type": "add",
+      "id": "27e67386c195c83b",
+      "item": {
+        "type": "paragraph",
+        "id": "27e67386c195c83b",
+        "text": "[[Counter-strategies to the fediverse]]"
+      },
+      "after": "fd38bb8142d802ce",
+      "date": 1531571633417
+    },
+    {
+      "type": "add",
+      "id": "81d025d94f532110",
+      "item": {
+        "type": "paragraph",
+        "id": "81d025d94f532110",
+        "text": "[[Fedisplaining]]"
+      },
+      "after": "e4cf2eccf60fefd4",
+      "date": 1534604947691
+    },
+    {
+      "type": "add",
+      "id": "67019c8bf29cdc96",
+      "item": {
+        "type": "paragraph",
+        "id": "67019c8bf29cdc96",
+        "text": "[[Pseudonymity]]"
+      },
+      "after": "70efe46136152442",
+      "date": 1535187804858
+    },
+    {
+      "type": "add",
+      "id": "dfe5dc3d13f1ac7e",
+      "item": {
+        "type": "paragraph",
+        "id": "dfe5dc3d13f1ac7e",
+        "text": "[[Dimensions of Decentralization]]"
+      },
+      "after": "c1e12c9bfd111c9c",
+      "date": 1547056974088
+    },
+    {
+      "type": "add",
+      "id": "c74e0ec8cbc608cc",
+      "item": {
+        "type": "paragraph",
+        "id": "c74e0ec8cbc608cc",
+        "text": "[[Corporate Acquisitions]]"
+      },
+      "after": "27e67386c195c83b",
+      "date": 1550682551935
+    },
+    {
+      "type": "remove",
+      "id": "c74e0ec8cbc608cc",
+      "date": 1550689151356
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c12eb51ef6de2c8"
+      },
+      "id": "3c12eb51ef6de2c8",
+      "type": "add",
+      "after": "27e67386c195c83b",
+      "date": 1580811362115
+    },
+    {
+      "type": "edit",
+      "id": "3c12eb51ef6de2c8",
+      "item": {
+        "type": "paragraph",
+        "id": "3c12eb51ef6de2c8",
+        "text": "[[Social Network Taxonomy]]"
+      },
+      "date": 1580811386595
+    }
+  ]
+}
