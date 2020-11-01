@@ -1,0 +1,305 @@
+{
+  "title": "The Unmeritocratic Manifesto",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f5418f696a9dcc34",
+      "text": "Meritocracy is a founding principle of the FOSS movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, mentored, retained, promoted, and valued."
+    },
+    {
+      "type": "paragraph",
+      "id": "fa7f29d3e9b62236",
+      "text": "But meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that \"this person is capable of producing things which benefit themselves and the wider community of users\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9e6966036ae7511",
+      "text": "Also see [[Criticisms of Meritocracy]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "f12532761404c2e6",
+      "text": "It is time that we as an industry abandon the notion that merit is something that can be exploited and that can be produced on equal terms by every individual."
+    },
+    {
+      "type": "paragraph",
+      "id": "f6725cf3c7565714",
+      "text": "What does a world guided by The Unmeritocratic Manifesto look like? It is founded on a core set of values and principles, an affirmation of progress and recognition that applies to everyone who engages in the craft of software creation in all of its aspects."
+    },
+    {
+      "type": "paragraph",
+      "id": "17c0906d76a2f561",
+      "text": "[[Core Values of the Software Artisan]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Unmeritocratic Manifesto",
+        "story": []
+      },
+      "date": 1527497625354
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f5418f696a9dcc34"
+      },
+      "id": "f5418f696a9dcc34",
+      "type": "add",
+      "date": 1527497642614
+    },
+    {
+      "type": "edit",
+      "id": "f5418f696a9dcc34",
+      "item": {
+        "type": "paragraph",
+        "id": "f5418f696a9dcc34",
+        "text": "Meritocracy is a founding principle of the open source movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, hired, retained, promoted, and valued.\n\nBut, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create artifacts of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that “this person is capable of producing things which benefit me”.\n\n(If you are not familiar with criticisms of meritocracy, please refer to the resources on this page.)\n\nIt is time that we as an industry abandon the notion that merit is something that can be exploited, that can be produced on equal terms by every individual, and that can never be compensated fairly.\n\nWhat does a contra-post-meritocracy world look like? It is founded on a core set of values and principles, an affirmation of progress and renumeration that applies to everyone who engages in the practice of software development."
+      },
+      "date": 1527497647606
+    },
+    {
+      "type": "edit",
+      "id": "f5418f696a9dcc34",
+      "item": {
+        "type": "paragraph",
+        "id": "f5418f696a9dcc34",
+        "text": "Meritocracy is a founding principle of the open source movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, hired, retained, promoted, and valued."
+      },
+      "date": 1527497681533
+    },
+    {
+      "type": "add",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create artifacts of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that “this person is capable of producing things which benefit me”."
+      },
+      "after": "f5418f696a9dcc34",
+      "date": 1527497696931
+    },
+    {
+      "type": "add",
+      "id": "70789781dcc0d44c",
+      "item": {
+        "type": "paragraph",
+        "id": "70789781dcc0d44c",
+        "text": "(If you are not familiar with criticisms of meritocracy, please refer to the resources on this page.)"
+      },
+      "after": "fa7f29d3e9b62236",
+      "date": 1527497711790
+    },
+    {
+      "type": "add",
+      "id": "f12532761404c2e6",
+      "item": {
+        "type": "paragraph",
+        "id": "f12532761404c2e6",
+        "text": "It is time that we as an industry abandon the notion that merit is something that can be exploited, that can be produced on equal terms by every individual, and that can never be compensated fairly."
+      },
+      "after": "70789781dcc0d44c",
+      "date": 1527497720365
+    },
+    {
+      "type": "add",
+      "id": "f6725cf3c7565714",
+      "item": {
+        "type": "paragraph",
+        "id": "f6725cf3c7565714",
+        "text": "What does a contra-post-meritocracy world look like? It is founded on a core set of values and principles, an affirmation of progress and renumeration that applies to everyone who engages in the practice of software development."
+      },
+      "after": "f12532761404c2e6",
+      "date": 1527497726544
+    },
+    {
+      "type": "edit",
+      "id": "f6725cf3c7565714",
+      "item": {
+        "type": "paragraph",
+        "id": "f6725cf3c7565714",
+        "text": "What does an unmeritocratic world look like? It is founded on a core set of values and principles, an affirmation of progress and renumeration that applies to everyone who engages in the practice of software development."
+      },
+      "date": 1527497746156
+    },
+    {
+      "type": "edit",
+      "id": "f5418f696a9dcc34",
+      "item": {
+        "type": "paragraph",
+        "id": "f5418f696a9dcc34",
+        "text": "Meritocracy is a founding principle of the FOSS movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, hired, retained, promoted, and valued."
+      },
+      "date": 1527497772636
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that “this person is capable of producing things which benefit me”."
+      },
+      "date": 1527497866292
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that “this person is capable of producing things which benefit the community”."
+      },
+      "date": 1527497908315
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that *\"this person is capable of producing things which benefit the community\"*."
+      },
+      "date": 1527497922716
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that \"this person is capable of producing things which benefit the community\"."
+      },
+      "date": 1527497929956
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But, meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that \"this person is capable of producing things which benefit the user community\"."
+      },
+      "date": 1527497974272
+    },
+    {
+      "type": "edit",
+      "id": "f12532761404c2e6",
+      "item": {
+        "type": "paragraph",
+        "id": "f12532761404c2e6",
+        "text": "It is time that we as an industry abandon the notion that merit is something that can be exploited and that can be produced on equal terms by every individual."
+      },
+      "date": 1527498108667
+    },
+    {
+      "type": "edit",
+      "id": "f6725cf3c7565714",
+      "item": {
+        "type": "paragraph",
+        "id": "f6725cf3c7565714",
+        "text": "What does a world guided by The Unmeritocratic Manifesto look like? It is founded on a core set of values and principles, an affirmation of progress and renumeration that applies to everyone who engages in the practice of software development."
+      },
+      "date": 1527498152011
+    },
+    {
+      "type": "edit",
+      "id": "f6725cf3c7565714",
+      "item": {
+        "type": "paragraph",
+        "id": "f6725cf3c7565714",
+        "text": "What does a world guided by The Unmeritocratic Manifesto look like? It is founded on a core set of values and principles, an affirmation of progress and recognition that applies to everyone who engages in the practice of software development."
+      },
+      "date": 1527498186947
+    },
+    {
+      "type": "edit",
+      "id": "f6725cf3c7565714",
+      "item": {
+        "type": "paragraph",
+        "id": "f6725cf3c7565714",
+        "text": "What does a world guided by The Unmeritocratic Manifesto look like? It is founded on a core set of values and principles, an affirmation of progress and recognition that applies to everyone who engages in the practice of software creation in all of its aspects."
+      },
+      "date": 1527498210790
+    },
+    {
+      "type": "add",
+      "id": "b9e6966036ae7511",
+      "item": {
+        "type": "paragraph",
+        "id": "b9e6966036ae7511",
+        "text": "Also see [[Criticisms of Meritocracy]]."
+      },
+      "after": "fa7f29d3e9b62236",
+      "date": 1527498285645
+    },
+    {
+      "type": "remove",
+      "id": "70789781dcc0d44c",
+      "date": 1527498291217
+    },
+    {
+      "type": "edit",
+      "id": "f5418f696a9dcc34",
+      "item": {
+        "type": "paragraph",
+        "id": "f5418f696a9dcc34",
+        "text": "Meritocracy is a founding principle of the FOSS movement, and the ideal of meritocracy is perpetuated throughout our field in the way people are recruited, mentored, retained, promoted, and valued."
+      },
+      "date": 1527498333061
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that \"this person is capable of producing things which benefit the user community\"."
+      },
+      "date": 1527498366712
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that \"this person is capable of producing things which benefit themselves and the wider user community\"."
+      },
+      "date": 1527498420064
+    },
+    {
+      "type": "edit",
+      "id": "fa7f29d3e9b62236",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7f29d3e9b62236",
+        "text": "But meritocracy has consistently shown itself to mainly benefit those who exploit those with merit, to the exclusion of those who actually create software of value. The idea of merit is based in the popular gestalt as recognition of the creation of value, an acknowledgement that \"this person is capable of producing things which benefit themselves and the wider community of users\"."
+      },
+      "date": 1527498436974
+    },
+    {
+      "type": "edit",
+      "id": "f6725cf3c7565714",
+      "item": {
+        "type": "paragraph",
+        "id": "f6725cf3c7565714",
+        "text": "What does a world guided by The Unmeritocratic Manifesto look like? It is founded on a core set of values and principles, an affirmation of progress and recognition that applies to everyone who engages in the craft of software creation in all of its aspects."
+      },
+      "date": 1527498509385
+    },
+    {
+      "type": "add",
+      "id": "17c0906d76a2f561",
+      "item": {
+        "type": "paragraph",
+        "id": "17c0906d76a2f561",
+        "text": "[[Core Values of the Software Artisan]]"
+      },
+      "after": "f6725cf3c7565714",
+      "date": 1527498601260
+    }
+  ]
+}
