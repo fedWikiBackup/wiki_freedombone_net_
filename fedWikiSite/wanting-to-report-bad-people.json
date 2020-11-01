@@ -1,0 +1,128 @@
+{
+  "title": "wanting-to-report-bad-people",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c675d30320aa1eb6",
+      "text": "There are bad people on the interwebs. Doing bad things, which you don't agree with."
+    },
+    {
+      "type": "paragraph",
+      "id": "83a1cbb9ba73af5c",
+      "text": "This has always been the case for as long as the web has existed."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a57a0fadcb8403e",
+      "text": "You may be able to report bad people to your instance admin, but unless they're doing something illegal there is no guarantee that any further action will be taken."
+    },
+    {
+      "type": "paragraph",
+      "id": "82cd6c402d344766",
+      "text": "As a general rule of thumb: move away from bad people and towards good ones."
+    },
+    {
+      "type": "paragraph",
+      "id": "821b0b2a2081f1ff",
+      "text": "Find your tribe, or if it doesn't exist then found one. Find the others."
+    },
+    {
+      "type": "paragraph",
+      "id": "57ea3c13fd2ec0d4",
+      "text": "This is the advantage of the federated model. You can be within your tribe, where you feel comfy, but also not completely separated from other tribes."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "wanting-to-report-bad-people",
+        "story": []
+      },
+      "date": 1516999812925
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c675d30320aa1eb6"
+      },
+      "id": "c675d30320aa1eb6",
+      "type": "add",
+      "date": 1516999815497
+    },
+    {
+      "type": "edit",
+      "id": "c675d30320aa1eb6",
+      "item": {
+        "type": "paragraph",
+        "id": "c675d30320aa1eb6",
+        "text": "There are bad people on the interwebs. Doing bad things, which you don't agree with."
+      },
+      "date": 1516999840842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83a1cbb9ba73af5c"
+      },
+      "id": "83a1cbb9ba73af5c",
+      "type": "add",
+      "after": "c675d30320aa1eb6",
+      "date": 1516999843616
+    },
+    {
+      "type": "edit",
+      "id": "83a1cbb9ba73af5c",
+      "item": {
+        "type": "paragraph",
+        "id": "83a1cbb9ba73af5c",
+        "text": "This has always been the case for as long as the web has existed."
+      },
+      "date": 1516999861417
+    },
+    {
+      "type": "add",
+      "id": "5a57a0fadcb8403e",
+      "item": {
+        "type": "paragraph",
+        "id": "5a57a0fadcb8403e",
+        "text": "You may be able to report bad people to your instance admin, but unless they're doing something illegal there is no guarantee that any further action will be taken."
+      },
+      "after": "83a1cbb9ba73af5c",
+      "date": 1516999926353
+    },
+    {
+      "type": "add",
+      "id": "82cd6c402d344766",
+      "item": {
+        "type": "paragraph",
+        "id": "82cd6c402d344766",
+        "text": "As a general rule of thumb: move away from bad people and towards good ones."
+      },
+      "after": "5a57a0fadcb8403e",
+      "date": 1516999973032
+    },
+    {
+      "type": "add",
+      "id": "821b0b2a2081f1ff",
+      "item": {
+        "type": "paragraph",
+        "id": "821b0b2a2081f1ff",
+        "text": "Find your tribe, or if it doesn't exist then found one. Find the others."
+      },
+      "after": "82cd6c402d344766",
+      "date": 1517000014176
+    },
+    {
+      "type": "add",
+      "id": "57ea3c13fd2ec0d4",
+      "item": {
+        "type": "paragraph",
+        "id": "57ea3c13fd2ec0d4",
+        "text": "This is the advantage of the federated model. You can be within your tribe, where you feel comfy, but also not completely separated from other tribes."
+      },
+      "after": "821b0b2a2081f1ff",
+      "date": 1517000128983
+    }
+  ]
+}
