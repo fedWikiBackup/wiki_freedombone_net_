@@ -1,0 +1,337 @@
+{
+  "title": "Core Values of the Software Artisan",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3613e1cc389c332b",
+      "text": "[[We believe that our value as human beings is intrinsically tied to what we leave for others to use]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b21468cbc782780",
+      "text": "[[We understand that software is not just code]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "442a743cabb82972",
+      "text": "[[We welcome anyone who shares the values of software freedom into our community]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2fbc4246f87d08c8",
+      "text": "[[We believe that interpersonal skills are often less important than technical skills in the creation of software]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6cfe693206cf49ab",
+      "text": "[[We can add the most value as practitioners by creating accessible and appropriate software within time scales which are relevant to users]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b42786187dd9ae1e",
+      "text": "[[We understand that the creation of software is a deliberate sacrifice of our time in this world and an acceptance of a certain value system]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "37f6eae399f6e83a",
+      "text": "[[We have an obligation of solidarity towards software creators and communities who share our values]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7e06baee594f8fe5",
+      "text": "[[We must make every effort to pass on our skills and values and promote our communities]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9aed9dce0dcedd41",
+      "text": "[[We have an ethical responsibility to refuse to mislead others about the capabilities and obvious implications of the software we work on]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "275d41e1ea16e967",
+      "text": "[[We are devoted to practicing correctness and not complacency]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "34a43ee4daec61a1",
+      "text": "[[We understand that technological and social change are mutually dependent]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "895192cc2b430a8d",
+      "text": "[[We reflect our values in everything that we do]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Core Values of the Software Artisan",
+        "story": []
+      },
+      "date": 1527498617377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3613e1cc389c332b"
+      },
+      "id": "3613e1cc389c332b",
+      "type": "add",
+      "date": 1527498632152
+    },
+    {
+      "type": "edit",
+      "id": "3613e1cc389c332b",
+      "item": {
+        "type": "paragraph",
+        "id": "3613e1cc389c332b",
+        "text": "[[We believe that our value as human beings is intrinsically tied to what we leave for others to use]]"
+      },
+      "date": 1527498656252
+    },
+    {
+      "type": "add",
+      "id": "2fbc4246f87d08c8",
+      "item": {
+        "type": "paragraph",
+        "id": "2fbc4246f87d08c8",
+        "text": "[[We believe that interpersonal skills are often less important than technical skills in the creation of software]]"
+      },
+      "after": "3613e1cc389c332b",
+      "date": 1527498756152
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6cfe693206cf49ab"
+      },
+      "id": "6cfe693206cf49ab",
+      "type": "add",
+      "after": "2fbc4246f87d08c8",
+      "date": 1527499101463
+    },
+    {
+      "type": "edit",
+      "id": "6cfe693206cf49ab",
+      "item": {
+        "type": "paragraph",
+        "id": "6cfe693206cf49ab",
+        "text": "[[We can add the most value as practitioners"
+      },
+      "date": 1527499122914
+    },
+    {
+      "type": "edit",
+      "id": "6cfe693206cf49ab",
+      "item": {
+        "type": "paragraph",
+        "id": "6cfe693206cf49ab",
+        "text": "[[We can add the most value as practitioners by creating accessible and appropriate software within time scales which are relevant to users]]"
+      },
+      "date": 1527499212191
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b42786187dd9ae1e"
+      },
+      "id": "b42786187dd9ae1e",
+      "type": "add",
+      "after": "6cfe693206cf49ab",
+      "date": 1527499440751
+    },
+    {
+      "type": "edit",
+      "id": "b42786187dd9ae1e",
+      "item": {
+        "type": "paragraph",
+        "id": "b42786187dd9ae1e",
+        "text": "[[We understand that the creation of artifacts is a deliberate sacrifice of our time in this world and an acceptance of a certain value system]]"
+      },
+      "date": 1527499445013
+    },
+    {
+      "type": "edit",
+      "id": "b42786187dd9ae1e",
+      "item": {
+        "type": "paragraph",
+        "id": "b42786187dd9ae1e",
+        "text": "[[We understand that the creation of software is a deliberate sacrifice of our time in this world and an acceptance of a certain value system]]"
+      },
+      "date": 1527499455798
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "37f6eae399f6e83a"
+      },
+      "id": "37f6eae399f6e83a",
+      "type": "add",
+      "after": "b42786187dd9ae1e",
+      "date": 1527499721822
+    },
+    {
+      "type": "edit",
+      "id": "37f6eae399f6e83a",
+      "item": {
+        "type": "paragraph",
+        "id": "37f6eae399f6e83a",
+        "text": "[[We have an obligation of solidarity towards software creators who share our values]]"
+      },
+      "date": 1527499768092
+    },
+    {
+      "type": "edit",
+      "id": "37f6eae399f6e83a",
+      "item": {
+        "type": "paragraph",
+        "id": "37f6eae399f6e83a",
+        "text": "[[We have an obligation of solidarity towards software creators and communities who share our values]]"
+      },
+      "date": 1527499798236
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e06baee594f8fe5"
+      },
+      "id": "7e06baee594f8fe5",
+      "type": "add",
+      "after": "37f6eae399f6e83a",
+      "date": 1527500311033
+    },
+    {
+      "type": "edit",
+      "id": "7e06baee594f8fe5",
+      "item": {
+        "type": "paragraph",
+        "id": "7e06baee594f8fe5",
+        "text": "[[We must make every effort to pass on our skills and values and promote our communities]]"
+      },
+      "date": 1527500418250
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9aed9dce0dcedd41"
+      },
+      "id": "9aed9dce0dcedd41",
+      "type": "add",
+      "after": "7e06baee594f8fe5",
+      "date": 1527500910309
+    },
+    {
+      "type": "edit",
+      "id": "9aed9dce0dcedd41",
+      "item": {
+        "type": "paragraph",
+        "id": "9aed9dce0dcedd41",
+        "text": "[[We have an ethical responsibility to refuse to mislead others about the capabilities and obvious implications of the software we work on]]"
+      },
+      "date": 1527500916087
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "275d41e1ea16e967"
+      },
+      "id": "275d41e1ea16e967",
+      "type": "add",
+      "after": "9aed9dce0dcedd41",
+      "date": 1527501594574
+    },
+    {
+      "type": "edit",
+      "id": "275d41e1ea16e967",
+      "item": {
+        "type": "paragraph",
+        "id": "275d41e1ea16e967",
+        "text": "[[We are devoted to practicing correctness and not complacency]]"
+      },
+      "date": 1527501599093
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34a43ee4daec61a1"
+      },
+      "id": "34a43ee4daec61a1",
+      "type": "add",
+      "after": "275d41e1ea16e967",
+      "date": 1527501658534
+    },
+    {
+      "type": "edit",
+      "id": "34a43ee4daec61a1",
+      "item": {
+        "type": "paragraph",
+        "id": "34a43ee4daec61a1",
+        "text": "[[We understand that technological and social change are complementary]]"
+      },
+      "date": 1527501675441
+    },
+    {
+      "type": "edit",
+      "id": "34a43ee4daec61a1",
+      "item": {
+        "type": "paragraph",
+        "id": "34a43ee4daec61a1",
+        "text": "[[We understand that technological and social change are mutually dependent]]"
+      },
+      "date": 1527501696157
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "895192cc2b430a8d"
+      },
+      "id": "895192cc2b430a8d",
+      "type": "add",
+      "after": "34a43ee4daec61a1",
+      "date": 1527501923589
+    },
+    {
+      "type": "edit",
+      "id": "895192cc2b430a8d",
+      "item": {
+        "type": "paragraph",
+        "id": "895192cc2b430a8d",
+        "text": "[[We reflect our values in everything that we do]]"
+      },
+      "date": 1527501940044
+    },
+    {
+      "type": "add",
+      "id": "3b21468cbc782780",
+      "item": {
+        "type": "paragraph",
+        "id": "3b21468cbc782780",
+        "text": "[[Software is not just code]]"
+      },
+      "after": "3613e1cc389c332b",
+      "date": 1527502274426
+    },
+    {
+      "type": "add",
+      "id": "442a743cabb82972",
+      "item": {
+        "type": "paragraph",
+        "id": "442a743cabb82972",
+        "text": "[[We welcome anyone who shares the values of software freedom into our community]]"
+      },
+      "after": "3b21468cbc782780",
+      "date": 1527502817089
+    },
+    {
+      "type": "edit",
+      "id": "3b21468cbc782780",
+      "item": {
+        "type": "paragraph",
+        "id": "3b21468cbc782780",
+        "text": "[[We understand that software is not just code]]"
+      },
+      "date": 1527502944089
+    }
+  ]
+}
