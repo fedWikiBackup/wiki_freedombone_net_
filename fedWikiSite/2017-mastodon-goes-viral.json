@@ -1,0 +1,1084 @@
+{
+  "title": "2017: Mastodon goes Viral",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9e9590484770c677",
+      "text": "Around about April 2017 Mastodon went viral. It started getting lots of mentions on Twitter, and some mainstream technology journalists were writing about it. Many people thought it was new - which was true, but only in a narrow sense - and likely to become The Next Big Thing."
+    },
+    {
+      "type": "paragraph",
+      "id": "acbc59a4456c3484",
+      "text": "Once again there was a large exodus of users out of Twitter and into the fediverse. My stream was going crazy, with hundreds of posts every few minutes."
+    },
+    {
+      "type": "paragraph",
+      "id": "be4764e99c23dca9",
+      "text": "This exodus was more driven by hype than by Twitter doing anything especially bad to its users. By that time most users had accepted and internalized the fact that the site had become a perpetual dumpster fire of hostility and unwanted content."
+    },
+    {
+      "type": "html",
+      "id": "5a08209336ee0940",
+      "text": "<h3>Technology Journalism"
+    },
+    {
+      "type": "html",
+      "id": "6fab48b62a4483f2",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/33a7761f402fd62293e5b490213fd30d.png\" width=\"500\"/>"
+    },
+    {
+      "type": "paragraph",
+      "id": "6b801856c5f073e1",
+      "text": "The technology journalism about Mastodon was of a comically poor standard. Most journalists fundamentally misunderstood the main concepts and so ended up making irrelevant criticisms. They mostly suffered from [[fediverse culture shock]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "84fdca57bc0f25b8",
+      "text": "Prior to the Mastodon craze, its developer had placed some ads for it on Twitter. Twitter being a bunch of clueless corporate drones, they weren't smart enought to realize that they were advertizing a competing system. The ads almost certainly targeted technology journalists."
+    },
+    {
+      "type": "html",
+      "id": "16f8958f159be278",
+      "text": "<h3>End of the One True Instance"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd639f97b02fde4c",
+      "text": "In late 2016 and early 2017, prior to going viral, Mastodon had existed as a single instance - mastodon.social. During that time it was heavily criticized for its OStatus federation bugs, and there seemed to be little interest in federating with anyone. Instead it looked like mastodon.social was aiming to be a centralized single server Twitter clone. Like Twitter, but with a lot less tolerance for bad behavior and a strong stance against Nazism."
+    },
+    {
+      "type": "paragraph",
+      "id": "2996005a2cba8487",
+      "text": "Once it went viral there was no way that Mastodon could remain a single server affair with a monolithic and insular culture, and they had to become more serious about making the federation features work for real."
+    },
+    {
+      "type": "paragraph",
+      "id": "095757de149fbe71",
+      "text": "As is the case with each new wave of incoming users, many new instances were set up and many of them were subsequently abandoned, or failed to keep backups and then had database corruption or a failed hard drive. There is always some rate of attrition. But many Mastodon instances remained viable, with enthusiastic new communities forming around them. The fediverse was going well beyond it's traditional Free Software user base, appealing to entirely new and diverse demographics."
+    },
+    {
+      "type": "html",
+      "id": "0c1ac54604f376c7",
+      "text": "<h3>Dubious Blocklists"
+    },
+    {
+      "type": "paragraph",
+      "id": "704d00c550cb6073",
+      "text": "Not long after going viral dubious blocklists appeared on Github. These included bans of entire instances containing many users. There seemed to be little or no verification that these blocklists corresponded to any sort of serious wrongdoing, and they appeared to be being used in a very flippant manner. In some cases, merely exercising free speech was considered sufficient reason to block an instance."
+    },
+    {
+      "type": "html",
+      "id": "15327df7a530fc4f",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/328a65d42048f247fb6ccab87645eed5.png\" width=\"400\"/>"
+    },
+    {
+      "type": "paragraph",
+      "id": "c43d7b4d37e80990",
+      "text": "This mirrored the much earlier phenomena of email spam blocking, in which entire IP ranges would be blocked with little or no justification."
+    },
+    {
+      "type": "paragraph",
+      "id": "1e873eb062640796",
+      "text": "Blocking of instances often resulted in bitter flame wars, but those also quickly burned themselves out as the cultural landscape of the fediverse matured."
+    },
+    {
+      "type": "html",
+      "id": "412e62b145f781f9",
+      "text": "<H3>Celebrity Bounce"
+    },
+    {
+      "type": "paragraph",
+      "id": "66fb31b7f288783d",
+      "text": "In the April time frame various celebrities from Twitter tried joining the fediverse via Mastodon. At some point William Shatner tried and failed to register an account or find a journalist named Lance Ulanoff. Both of them failed to understand that this system wasn't identical to Twitter in the way it works. Adafruit and a number of others also started accounts, typically on the main mastodon.social instance."
+    },
+    {
+      "type": "html",
+      "id": "893c805306320a88",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/e08240b467df64745275c59a44516e81.png\" width=\"400\"/>"
+    },
+    {
+      "type": "paragraph",
+      "id": "161feb75b248d20e",
+      "text": "But none of these celebrity accounts lasted for long. A month or two at most. They soon realized that they would not be able to cultivate a mass audience in the fediverse, nor would the fediverse in any way shield them from legitimate criticism or spoof accounts mocking their cluelessness."
+    },
+    {
+      "type": "paragraph",
+      "id": "1562f5a01367c461",
+      "text": "It seems that the phemonena of celebrity requires a centralized broadcast culture together with a legal system able to enforce personal brands, and the fediverse does not fit that model very well at all."
+    },
+    {
+      "type": "html",
+      "id": "0027126322f5baec",
+      "text": "<H3>Replacing the Twitterbots"
+    },
+    {
+      "type": "paragraph",
+      "id": "94f032f0330a16e6",
+      "text": "Before 2017 there had been GNU Social based bots set up to import Twitter posts for certain accounts. After Mastodon went viral this was no longer needed so much, because people on Twitter either moved over or maintained a fediverse account. An example of this was Roy Schestowitz."
+    },
+    {
+      "type": "html",
+      "id": "e184451279614cef",
+      "text": "<img src=\"\" width=\"400\"/>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2017: Mastodon goes Viral",
+        "story": []
+      },
+      "date": 1517003599409
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e9590484770c677"
+      },
+      "id": "9e9590484770c677",
+      "type": "add",
+      "date": 1517003605468
+    },
+    {
+      "type": "edit",
+      "id": "9e9590484770c677",
+      "item": {
+        "type": "paragraph",
+        "id": "9e9590484770c677",
+        "text": "Around about April 2017 Mastodon went viral. It started getting lots of mentions on Twitter, and some mainstream technology journalists were writing about it. Many people thought it was new - which was true, but only in a narrow sense - and likely to become The Next Big Thing."
+      },
+      "date": 1517003709256
+    },
+    {
+      "type": "add",
+      "id": "acbc59a4456c3484",
+      "item": {
+        "type": "paragraph",
+        "id": "acbc59a4456c3484",
+        "text": "Once again there was a large exodus of users out of Twitter and into the fediverse. My stream was going crazy, with hundreds of posts every few minutes."
+      },
+      "after": "9e9590484770c677",
+      "date": 1517003859974
+    },
+    {
+      "type": "add",
+      "id": "be4764e99c23dca9",
+      "item": {
+        "type": "paragraph",
+        "id": "be4764e99c23dca9",
+        "text": "This exodus was more driven by hype than by Twitter doing anything especially bad to its users. By that time most users had accepted and internalized the fact that the site had become a perpetual dumpster fire."
+      },
+      "after": "acbc59a4456c3484",
+      "date": 1517003928493
+    },
+    {
+      "type": "edit",
+      "id": "be4764e99c23dca9",
+      "item": {
+        "type": "paragraph",
+        "id": "be4764e99c23dca9",
+        "text": "This exodus was more driven by hype than by Twitter doing anything especially bad to its users. By that time most users had accepted and internalized the fact that the site had become a perpetual dumpster fire of hostility and unwanted content."
+      },
+      "date": 1517003968279
+    },
+    {
+      "type": "add",
+      "id": "6b801856c5f073e1",
+      "item": {
+        "type": "paragraph",
+        "id": "6b801856c5f073e1",
+        "text": "The technology journalism about Mastodon was of a comically poor standard. Most journalists fundamentally misunderstood the main concepts and so ended up making irrelevant criticisms. They mostly suffered from [[fediverse culture shock]]."
+      },
+      "after": "be4764e99c23dca9",
+      "date": 1517004077471
+    },
+    {
+      "type": "add",
+      "id": "84fdca57bc0f25b8",
+      "item": {
+        "type": "paragraph",
+        "id": "84fdca57bc0f25b8",
+        "text": "Prior to the Mastodon craze, its developer had placed some ads for it on Twitter. Twitter being a bunch of clueless corporate drones, they weren't smart enought to realize that they were advertizing a competing system. The ads almost certainly targeted technology journalists."
+      },
+      "after": "6b801856c5f073e1",
+      "date": 1517004338389
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "16f8958f159be278"
+      },
+      "id": "16f8958f159be278",
+      "type": "add",
+      "after": "84fdca57bc0f25b8",
+      "date": 1517004371116
+    },
+    {
+      "type": "edit",
+      "id": "16f8958f159be278",
+      "item": {
+        "type": "html",
+        "id": "16f8958f159be278",
+        "text": "<h3>End of the One True Instance"
+      },
+      "date": 1517004385339
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a08209336ee0940"
+      },
+      "id": "5a08209336ee0940",
+      "type": "add",
+      "after": "16f8958f159be278",
+      "date": 1517004397490
+    },
+    {
+      "type": "edit",
+      "id": "5a08209336ee0940",
+      "item": {
+        "type": "html",
+        "id": "5a08209336ee0940",
+        "text": "<h3>Technology Journalism"
+      },
+      "date": 1517004409316
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278"
+      ],
+      "id": "5a08209336ee0940",
+      "date": 1517004415419
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd639f97b02fde4c"
+      },
+      "id": "dd639f97b02fde4c",
+      "type": "add",
+      "after": "16f8958f159be278",
+      "date": 1517004529359
+    },
+    {
+      "type": "edit",
+      "id": "dd639f97b02fde4c",
+      "item": {
+        "type": "paragraph",
+        "id": "dd639f97b02fde4c",
+        "text": "In late 2016 and early 2017, prior to going viral, Mastodon had existed as a single instance - mastodon.social. During that time it was heavily criticized for its OStatus federation bugs, and there seemed to be little interest in federating with anyone. Instead it looked like mastodon.social was aiming to be a centralized single server Twitter clone. Like Twitter, but with a lot less tolerance for bad behavior."
+      },
+      "date": 1517004701852
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2996005a2cba8487"
+      },
+      "id": "2996005a2cba8487",
+      "type": "add",
+      "after": "dd639f97b02fde4c",
+      "date": 1517004704881
+    },
+    {
+      "type": "edit",
+      "id": "2996005a2cba8487",
+      "item": {
+        "type": "paragraph",
+        "id": "2996005a2cba8487",
+        "text": "Once it went viral there was no way that Mastodon could remain a single server affair, and they had to become more serious about making the federation features work."
+      },
+      "date": 1517004783419
+    },
+    {
+      "type": "add",
+      "id": "095757de149fbe71",
+      "item": {
+        "type": "paragraph",
+        "id": "095757de149fbe71",
+        "text": "As is the case with each new wave of incoming users, many new instances were set up and many of them were subsequently abandoned, or failed to keep backups and then had database corruption or a failed hard drive. There is always some rate of attrition. But many Mastodon instances remained viable, with enthusiastic new communities forming around them."
+      },
+      "after": "2996005a2cba8487",
+      "date": 1517004903732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c1ac54604f376c7"
+      },
+      "id": "0c1ac54604f376c7",
+      "type": "add",
+      "after": "095757de149fbe71",
+      "date": 1517005271973
+    },
+    {
+      "type": "edit",
+      "id": "0c1ac54604f376c7",
+      "item": {
+        "type": "html",
+        "id": "0c1ac54604f376c7",
+        "text": "<h3>Dubious Blocklists"
+      },
+      "date": 1517005284328
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "704d00c550cb6073"
+      },
+      "id": "704d00c550cb6073",
+      "type": "add",
+      "after": "0c1ac54604f376c7",
+      "date": 1517005285974
+    },
+    {
+      "type": "edit",
+      "id": "704d00c550cb6073",
+      "item": {
+        "type": "paragraph",
+        "id": "704d00c550cb6073",
+        "text": "Not long after going viral dubious blocklists appeared on Github. These included bans of entire instances containing many users. There seemed to be little or no verification that these blocklists corresponded to any sort of serious wrongdoing, and they appeared to be being used in a very lazy manner."
+      },
+      "date": 1517005478881
+    },
+    {
+      "type": "add",
+      "id": "c43d7b4d37e80990",
+      "item": {
+        "type": "paragraph",
+        "id": "c43d7b4d37e80990",
+        "text": "This mirrored the much earlier phenomena of email spam blocking, in which entire IP ranges would be blocked with little or no justification."
+      },
+      "after": "704d00c550cb6073",
+      "date": 1517005518824
+    },
+    {
+      "type": "add",
+      "id": "1e873eb062640796",
+      "item": {
+        "type": "paragraph",
+        "id": "1e873eb062640796",
+        "text": "Blocking of instances often resulted in acrimonious flame wars."
+      },
+      "after": "c43d7b4d37e80990",
+      "date": 1517005586033
+    },
+    {
+      "type": "edit",
+      "id": "704d00c550cb6073",
+      "item": {
+        "type": "paragraph",
+        "id": "704d00c550cb6073",
+        "text": "Not long after going viral dubious blocklists appeared on Github. These included bans of entire instances containing many users. There seemed to be little or no verification that these blocklists corresponded to any sort of serious wrongdoing, and they appeared to be being used in a very flippant manner."
+      },
+      "date": 1517005622496
+    },
+    {
+      "type": "edit",
+      "id": "1e873eb062640796",
+      "item": {
+        "type": "paragraph",
+        "id": "1e873eb062640796",
+        "text": "Blocking of instances often resulted in bitter flame wars."
+      },
+      "date": 1517005655022
+    },
+    {
+      "type": "edit",
+      "id": "dd639f97b02fde4c",
+      "item": {
+        "type": "paragraph",
+        "id": "dd639f97b02fde4c",
+        "text": "In late 2016 and early 2017, prior to going viral, Mastodon had existed as a single instance - mastodon.social. During that time it was heavily criticized for its OStatus federation bugs, and there seemed to be little interest in federating with anyone. Instead it looked like mastodon.social was aiming to be a centralized single server Twitter clone. Like Twitter, but with a lot less tolerance for bad behavior and a strong stance against Nazism."
+      },
+      "date": 1517005796205
+    },
+    {
+      "type": "edit",
+      "id": "2996005a2cba8487",
+      "item": {
+        "type": "paragraph",
+        "id": "2996005a2cba8487",
+        "text": "Once it went viral there was no way that Mastodon could remain a single server affair with a monolithic culture, and they had to become more serious about making the federation features work."
+      },
+      "date": 1517005827620
+    },
+    {
+      "type": "edit",
+      "id": "095757de149fbe71",
+      "item": {
+        "type": "paragraph",
+        "id": "095757de149fbe71",
+        "text": "As is the case with each new wave of incoming users, many new instances were set up and many of them were subsequently abandoned, or failed to keep backups and then had database corruption or a failed hard drive. There is always some rate of attrition. But many Mastodon instances remained viable, with enthusiastic new communities forming around them. The fediverse was going well beyond it's traditional Free Software fan base, attracting entirely new demographics."
+      },
+      "date": 1517005923098
+    },
+    {
+      "type": "edit",
+      "id": "095757de149fbe71",
+      "item": {
+        "type": "paragraph",
+        "id": "095757de149fbe71",
+        "text": "As is the case with each new wave of incoming users, many new instances were set up and many of them were subsequently abandoned, or failed to keep backups and then had database corruption or a failed hard drive. There is always some rate of attrition. But many Mastodon instances remained viable, with enthusiastic new communities forming around them. The fediverse was going well beyond it's traditional Free Software fan base, appealing to entirely new and diverse demographics."
+      },
+      "date": 1517006091230
+    },
+    {
+      "type": "edit",
+      "id": "095757de149fbe71",
+      "item": {
+        "type": "paragraph",
+        "id": "095757de149fbe71",
+        "text": "As is the case with each new wave of incoming users, many new instances were set up and many of them were subsequently abandoned, or failed to keep backups and then had database corruption or a failed hard drive. There is always some rate of attrition. But many Mastodon instances remained viable, with enthusiastic new communities forming around them. The fediverse was going well beyond it's traditional Free Software user base, appealing to entirely new and diverse demographics."
+      },
+      "date": 1517006131137
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "412e62b145f781f9"
+      },
+      "id": "412e62b145f781f9",
+      "type": "add",
+      "after": "1e873eb062640796",
+      "date": 1517006261719
+    },
+    {
+      "type": "edit",
+      "id": "412e62b145f781f9",
+      "item": {
+        "type": "html",
+        "id": "412e62b145f781f9",
+        "text": "<H3>Celebrity Bounce"
+      },
+      "date": 1517006275153
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "66fb31b7f288783d"
+      },
+      "id": "66fb31b7f288783d",
+      "type": "add",
+      "after": "412e62b145f781f9",
+      "date": 1517006282233
+    },
+    {
+      "type": "edit",
+      "id": "66fb31b7f288783d",
+      "item": {
+        "type": "paragraph",
+        "id": "66fb31b7f288783d",
+        "text": "In the April time frame various celebrities from Twitter tried joining the fediverse via Mastodon. I think at some point William Shatner tried and failed to register an account. Adafruit and a number of others started accounts, typically on the main mastodon.social instance."
+      },
+      "date": 1517006406696
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "161feb75b248d20e"
+      },
+      "id": "161feb75b248d20e",
+      "type": "add",
+      "after": "66fb31b7f288783d",
+      "date": 1517006409084
+    },
+    {
+      "type": "edit",
+      "id": "161feb75b248d20e",
+      "item": {
+        "type": "paragraph",
+        "id": "161feb75b248d20e",
+        "text": "But none of these celebrity accounts lasted for long. A month or two at most. They soon realized that they would not be able to cultivate a mass audience in the fediverse, nor would the fediverse in any way shield them from scathing criticism or spoof accounts."
+      },
+      "date": 1517006541466
+    },
+    {
+      "type": "add",
+      "id": "1562f5a01367c461",
+      "item": {
+        "type": "paragraph",
+        "id": "1562f5a01367c461",
+        "text": "It seems that the phemonena of celebrity requires a centralized broadcast culture, and the fediverse does not fit that model very well."
+      },
+      "after": "161feb75b248d20e",
+      "date": 1517006578377
+    },
+    {
+      "type": "edit",
+      "id": "161feb75b248d20e",
+      "item": {
+        "type": "paragraph",
+        "id": "161feb75b248d20e",
+        "text": "But none of these celebrity accounts lasted for long. A month or two at most. They soon realized that they would not be able to cultivate a mass audience in the fediverse, nor would the fediverse in any way shield them from legitimate criticism or spoof accounts."
+      },
+      "date": 1517006621576
+    },
+    {
+      "type": "edit",
+      "id": "1562f5a01367c461",
+      "item": {
+        "type": "paragraph",
+        "id": "1562f5a01367c461",
+        "text": "It seems that the phemonena of celebrity requires a centralized broadcast culture, and the fediverse does not fit that model very well at all."
+      },
+      "date": 1517006655045
+    },
+    {
+      "type": "edit",
+      "id": "2996005a2cba8487",
+      "item": {
+        "type": "paragraph",
+        "id": "2996005a2cba8487",
+        "text": "Once it went viral there was no way that Mastodon could remain a single server affair with a monolithic and insular culture, and they had to become more serious about making the federation features work."
+      },
+      "date": 1517007157206
+    },
+    {
+      "type": "edit",
+      "id": "2996005a2cba8487",
+      "item": {
+        "type": "paragraph",
+        "id": "2996005a2cba8487",
+        "text": "Once it went viral there was no way that Mastodon could remain a single server affair with a monolithic and insular culture, and they had to become more serious about making the federation features work for real."
+      },
+      "date": 1517007187509
+    },
+    {
+      "type": "edit",
+      "id": "1e873eb062640796",
+      "item": {
+        "type": "paragraph",
+        "id": "1e873eb062640796",
+        "text": "Blocking of instances often resulted in bitter flame wars, but those also quickly subsided as the cultural landscape of the fediverse matured."
+      },
+      "date": 1517007329998
+    },
+    {
+      "type": "edit",
+      "id": "1e873eb062640796",
+      "item": {
+        "type": "paragraph",
+        "id": "1e873eb062640796",
+        "text": "Blocking of instances often resulted in bitter flame wars, but those also quickly burned themselves out as the cultural landscape of the fediverse matured."
+      },
+      "date": 1517007978842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0027126322f5baec"
+      },
+      "id": "0027126322f5baec",
+      "type": "add",
+      "after": "1562f5a01367c461",
+      "date": 1517070534001
+    },
+    {
+      "type": "edit",
+      "id": "0027126322f5baec",
+      "item": {
+        "type": "html",
+        "id": "0027126322f5baec",
+        "text": "<H3>Replacing the Twitterbots"
+      },
+      "date": 1517070562335
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94f032f0330a16e6"
+      },
+      "id": "94f032f0330a16e6",
+      "type": "add",
+      "after": "0027126322f5baec",
+      "date": 1517070564430
+    },
+    {
+      "type": "edit",
+      "id": "94f032f0330a16e6",
+      "item": {
+        "type": "paragraph",
+        "id": "94f032f0330a16e6",
+        "text": "Before 2017 there had been GNU Social based bots set up to import Twitter posts for certain accounts. After Mastodon went viral this was no longer needed so much, because people on Twitter either moved over or maintained a fediverse account. An example of this was Roy Shestowitz."
+      },
+      "date": 1517072421827
+    },
+    {
+      "type": "edit",
+      "id": "94f032f0330a16e6",
+      "item": {
+        "type": "paragraph",
+        "id": "94f032f0330a16e6",
+        "text": "Before 2017 there had been GNU Social based bots set up to import Twitter posts for certain accounts. After Mastodon went viral this was no longer needed so much, because people on Twitter either moved over or maintained a fediverse account. An example of this was Roy Schestowitz."
+      },
+      "date": 1517072447725
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c80aceed8448234"
+      },
+      "id": "2c80aceed8448234",
+      "type": "add",
+      "after": "94f032f0330a16e6",
+      "date": 1517483538935
+    },
+    {
+      "type": "edit",
+      "id": "2c80aceed8448234",
+      "item": {
+        "type": "paragraph",
+        "id": "2c80aceed8448234",
+        "text": "["
+      },
+      "date": 1517483556917
+    },
+    {
+      "type": "edit",
+      "id": "2c80aceed8448234",
+      "item": {
+        "type": "paragraph",
+        "id": "2c80aceed8448234",
+        "text": "[https://slime.global/system/media_attachments/files/000/388/745/original/e9107d0c5dee67ac.png]"
+      },
+      "date": 1517483571541
+    },
+    {
+      "type": "edit",
+      "id": "2c80aceed8448234",
+      "item": {
+        "type": "paragraph",
+        "id": "2c80aceed8448234",
+        "text": "[https://slime.global/system/media_attachments/files/000/388/745/original/e9107d0c5dee67ac.png pic]"
+      },
+      "date": 1517483590489
+    },
+    {
+      "type": "remove",
+      "id": "2c80aceed8448234",
+      "date": 1517483603885
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "893c805306320a88"
+      },
+      "id": "893c805306320a88",
+      "type": "add",
+      "after": "94f032f0330a16e6",
+      "date": 1517483606437
+    },
+    {
+      "type": "edit",
+      "id": "893c805306320a88",
+      "item": {
+        "type": "html",
+        "id": "893c805306320a88",
+        "text": "<img src=\"https://slime.global/system/media_attachments/files/000/388/745/original/e9107d0c5dee67ac.png\"/>"
+      },
+      "date": 1517483618912
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "c43d7b4d37e80990",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "161feb75b248d20e",
+        "893c805306320a88",
+        "1562f5a01367c461",
+        "0027126322f5baec",
+        "94f032f0330a16e6"
+      ],
+      "id": "893c805306320a88",
+      "date": 1517483651771
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "c43d7b4d37e80990",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "893c805306320a88",
+        "161feb75b248d20e",
+        "1562f5a01367c461",
+        "0027126322f5baec",
+        "94f032f0330a16e6"
+      ],
+      "id": "893c805306320a88",
+      "date": 1517483664487
+    },
+    {
+      "type": "edit",
+      "id": "66fb31b7f288783d",
+      "item": {
+        "type": "paragraph",
+        "id": "66fb31b7f288783d",
+        "text": "In the April time frame various celebrities from Twitter tried joining the fediverse via Mastodon. At some point William Shatner tried and failed to register an account or find a journalist named Lance Ulanoff. Adafruit and a number of others started accounts, typically on the main mastodon.social instance."
+      },
+      "date": 1517483809845
+    },
+    {
+      "type": "edit",
+      "id": "893c805306320a88",
+      "item": {
+        "type": "html",
+        "id": "893c805306320a88",
+        "text": "<img src=\"https://slime.global/system/media_attachments/files/000/388/745/original/e9107d0c5dee67ac.png\" width=\"100\"/>"
+      },
+      "date": 1517483999051
+    },
+    {
+      "type": "edit",
+      "id": "893c805306320a88",
+      "item": {
+        "type": "html",
+        "id": "893c805306320a88",
+        "text": "<img src=\"https://slime.global/system/media_attachments/files/000/388/745/original/e9107d0c5dee67ac.png\" width=\"500\"/>"
+      },
+      "date": 1517484005637
+    },
+    {
+      "type": "edit",
+      "id": "893c805306320a88",
+      "item": {
+        "type": "html",
+        "id": "893c805306320a88",
+        "text": "<img src=\"https://slime.global/system/media_attachments/files/000/388/745/original/e9107d0c5dee67ac.png\" width=\"400\"/>"
+      },
+      "date": 1517484014799
+    },
+    {
+      "type": "edit",
+      "id": "66fb31b7f288783d",
+      "item": {
+        "type": "paragraph",
+        "id": "66fb31b7f288783d",
+        "text": "In the April time frame various celebrities from Twitter tried joining the fediverse via Mastodon. At some point William Shatner tried and failed to register an account or find a journalist named Lance Ulanoff. Both of them failed to understand that this system wasn't identical to Twitter in the way it works. Adafruit and a number of others started accounts, typically on the main mastodon.social instance."
+      },
+      "date": 1517484117725
+    },
+    {
+      "type": "edit",
+      "id": "66fb31b7f288783d",
+      "item": {
+        "type": "paragraph",
+        "id": "66fb31b7f288783d",
+        "text": "In the April time frame various celebrities from Twitter tried joining the fediverse via Mastodon. At some point William Shatner tried and failed to register an account or find a journalist named Lance Ulanoff. Both of them failed to understand that this system wasn't identical to Twitter in the way it works. Adafruit and a number of others also started accounts, typically on the main mastodon.social instance."
+      },
+      "date": 1517484248652
+    },
+    {
+      "type": "edit",
+      "id": "1562f5a01367c461",
+      "item": {
+        "type": "paragraph",
+        "id": "1562f5a01367c461",
+        "text": "It seems that the phemonena of celebrity requires a centralized broadcast culture together with a legal system able to enforce personal brands, and the fediverse does not fit that model very well at all."
+      },
+      "date": 1517484470764
+    },
+    {
+      "type": "edit",
+      "id": "161feb75b248d20e",
+      "item": {
+        "type": "paragraph",
+        "id": "161feb75b248d20e",
+        "text": "But none of these celebrity accounts lasted for long. A month or two at most. They soon realized that they would not be able to cultivate a mass audience in the fediverse, nor would the fediverse in any way shield them from legitimate criticism or spoof accounts mocking their cluelessness."
+      },
+      "date": 1517484577849
+    },
+    {
+      "type": "edit",
+      "id": "893c805306320a88",
+      "item": {
+        "type": "html",
+        "id": "893c805306320a88",
+        "text": "<img src=\"https://pics.freedombone.net/#15174871327055/15174871888633\" width=\"400\"/>"
+      },
+      "date": 1517487242124
+    },
+    {
+      "type": "edit",
+      "id": "893c805306320a88",
+      "item": {
+        "type": "html",
+        "id": "893c805306320a88",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/e08240b467df64745275c59a44516e81.png\" width=\"400\"/>"
+      },
+      "date": 1517487273792
+    },
+    {
+      "type": "add",
+      "id": "4cae1b792a0ab779",
+      "item": {
+        "type": "paragraph",
+        "id": "4cae1b792a0ab779",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/33a7761f402fd62293e5b490213fd30d.png\" width=\"500\"/>"
+      },
+      "after": "6b801856c5f073e1",
+      "date": 1517487550706
+    },
+    {
+      "type": "remove",
+      "id": "4cae1b792a0ab779",
+      "date": 1517487560400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fab48b62a4483f2"
+      },
+      "id": "6fab48b62a4483f2",
+      "type": "add",
+      "after": "94f032f0330a16e6",
+      "date": 1517487564483
+    },
+    {
+      "type": "edit",
+      "id": "6fab48b62a4483f2",
+      "item": {
+        "type": "html",
+        "id": "6fab48b62a4483f2",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/33a7761f402fd62293e5b490213fd30d.png\" width=\"500\"/>"
+      },
+      "date": 1517487568607
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "c43d7b4d37e80990",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "893c805306320a88",
+        "161feb75b248d20e",
+        "1562f5a01367c461",
+        "6fab48b62a4483f2",
+        "0027126322f5baec",
+        "94f032f0330a16e6"
+      ],
+      "id": "6fab48b62a4483f2",
+      "date": 1517487572103
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6fab48b62a4483f2",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "c43d7b4d37e80990",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "893c805306320a88",
+        "161feb75b248d20e",
+        "1562f5a01367c461",
+        "0027126322f5baec",
+        "94f032f0330a16e6"
+      ],
+      "id": "6fab48b62a4483f2",
+      "date": 1517487589285
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e184451279614cef"
+      },
+      "id": "e184451279614cef",
+      "type": "add",
+      "after": "94f032f0330a16e6",
+      "date": 1517488022297
+    },
+    {
+      "type": "edit",
+      "id": "e184451279614cef",
+      "item": {
+        "type": "html",
+        "id": "e184451279614cef",
+        "text": "<img src=\"\" width=\"400\"/>"
+      },
+      "date": 1517488039021
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15327df7a530fc4f"
+      },
+      "id": "15327df7a530fc4f",
+      "type": "add",
+      "after": "e184451279614cef",
+      "date": 1517488057450
+    },
+    {
+      "type": "edit",
+      "id": "15327df7a530fc4f",
+      "item": {
+        "type": "html",
+        "id": "15327df7a530fc4f",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/328a65d42048f247fb6ccab87645eed5.png\" width=\"400\"/>"
+      },
+      "date": 1517488070742
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6fab48b62a4483f2",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "c43d7b4d37e80990",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "15327df7a530fc4f",
+        "893c805306320a88",
+        "161feb75b248d20e",
+        "1562f5a01367c461",
+        "0027126322f5baec",
+        "94f032f0330a16e6",
+        "e184451279614cef"
+      ],
+      "id": "15327df7a530fc4f",
+      "date": 1517488076821
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6fab48b62a4483f2",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "c43d7b4d37e80990",
+        "15327df7a530fc4f",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "893c805306320a88",
+        "161feb75b248d20e",
+        "1562f5a01367c461",
+        "0027126322f5baec",
+        "94f032f0330a16e6",
+        "e184451279614cef"
+      ],
+      "id": "15327df7a530fc4f",
+      "date": 1517488085218
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e9590484770c677",
+        "acbc59a4456c3484",
+        "be4764e99c23dca9",
+        "5a08209336ee0940",
+        "6fab48b62a4483f2",
+        "6b801856c5f073e1",
+        "84fdca57bc0f25b8",
+        "16f8958f159be278",
+        "dd639f97b02fde4c",
+        "2996005a2cba8487",
+        "095757de149fbe71",
+        "0c1ac54604f376c7",
+        "704d00c550cb6073",
+        "15327df7a530fc4f",
+        "c43d7b4d37e80990",
+        "1e873eb062640796",
+        "412e62b145f781f9",
+        "66fb31b7f288783d",
+        "893c805306320a88",
+        "161feb75b248d20e",
+        "1562f5a01367c461",
+        "0027126322f5baec",
+        "94f032f0330a16e6",
+        "e184451279614cef"
+      ],
+      "id": "15327df7a530fc4f",
+      "date": 1517488090689
+    },
+    {
+      "type": "edit",
+      "id": "704d00c550cb6073",
+      "item": {
+        "type": "paragraph",
+        "id": "704d00c550cb6073",
+        "text": "Not long after going viral dubious blocklists appeared on Github. These included bans of entire instances containing many users. There seemed to be little or no verification that these blocklists corresponded to any sort of serious wrongdoing, and they appeared to be being used in a very flippant manner. In some cases, merely exercising free speech was considered sufficient reason to block an instance."
+      },
+      "date": 1517488312076
+    }
+  ]
+}
