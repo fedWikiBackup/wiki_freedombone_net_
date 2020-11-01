@@ -1,0 +1,185 @@
+{
+  "title": "views-on-activitypub",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "81200edd6d4a37c9",
+      "text": "The ActivityPub protocol was approved by W3C at the end of 2017. It represented a continuation of the earlier OStatus protocol, being mostly written by the same people."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4537a8dd794764e",
+      "text": "The protocol was developed by the [https://www.w3.org/Social/WG Social Working Group] of W3C, and Christopher Webber was its main proponent in the fediverse."
+    },
+    {
+      "type": "paragraph",
+      "id": "869f8ceb00c75c5f",
+      "text": "Mastodon was the first to adopt the new protocol, but it also retained compatibility with OStatus."
+    },
+    {
+      "type": "paragraph",
+      "id": "3d6c5d747e278aab",
+      "text": "There was a fear that if Mastodon dropped OStatus compatibility then it would split the federation into Mastodon versus non-Mastodon instances."
+    },
+    {
+      "type": "paragraph",
+      "id": "9810e3993caf1819",
+      "text": "ActivityPub didn't solve the longstanding federation issues which had been known about since before its creation, such as nomadic identity, key based identity rather than domain based identity and the ability to easily migrate accounts between instances."
+    },
+    {
+      "type": "paragraph",
+      "id": "00d6aeaae853a534",
+      "text": "These problems had to a large extent been solved some years before with the Zot protocol of Hubzilla, but the creators of ActivityPub appeared to have no interest in that even though they were aware of it."
+    },
+    {
+      "type": "paragraph",
+      "id": "d6957d57885ae675",
+      "text": "Complaints about ActivityPub were largely transient though. By the middle of 2018 it was well established and uncontroversial, with multiple projects adopting it."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "views-on-activitypub",
+        "story": []
+      },
+      "date": 1517062709482
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81200edd6d4a37c9"
+      },
+      "id": "81200edd6d4a37c9",
+      "type": "add",
+      "date": 1517062711176
+    },
+    {
+      "type": "edit",
+      "id": "81200edd6d4a37c9",
+      "item": {
+        "type": "paragraph",
+        "id": "81200edd6d4a37c9",
+        "text": "The ActivityPub protocol was approved by W3C at the end of 2017. It represented a continuation of the earlier OStatus protocol, being mostly written by the same people."
+      },
+      "date": 1517062782143
+    },
+    {
+      "type": "add",
+      "id": "869f8ceb00c75c5f",
+      "item": {
+        "type": "paragraph",
+        "id": "869f8ceb00c75c5f",
+        "text": "Mastodon was the first to adopt the new protocol"
+      },
+      "after": "81200edd6d4a37c9",
+      "date": 1517062801110
+    },
+    {
+      "type": "edit",
+      "id": "869f8ceb00c75c5f",
+      "item": {
+        "type": "paragraph",
+        "id": "869f8ceb00c75c5f",
+        "text": "Mastodon was the first to adopt the new protocol."
+      },
+      "date": 1517062806262
+    },
+    {
+      "type": "edit",
+      "id": "869f8ceb00c75c5f",
+      "item": {
+        "type": "paragraph",
+        "id": "869f8ceb00c75c5f",
+        "text": "Mastodon was the first to adopt the new protocol, but it also retained compatibility with OStatus."
+      },
+      "date": 1517062831278
+    },
+    {
+      "type": "add",
+      "id": "3d6c5d747e278aab",
+      "item": {
+        "type": "paragraph",
+        "id": "3d6c5d747e278aab",
+        "text": "There was a fear that if Mastodon dropped OStatus compatibility then it would split the federation into Mastodon and non-Mastodon instances."
+      },
+      "after": "869f8ceb00c75c5f",
+      "date": 1517062939966
+    },
+    {
+      "type": "add",
+      "id": "9810e3993caf1819",
+      "item": {
+        "type": "paragraph",
+        "id": "9810e3993caf1819",
+        "text": "ActivityPub didn't solve the longstanding federation issues which had been known about since before its creation, such as nomadic identity, key based identity rather than domain based identity and the ability to easily migrate accounts between instances."
+      },
+      "after": "3d6c5d747e278aab",
+      "date": 1517063048213
+    },
+    {
+      "type": "add",
+      "id": "00d6aeaae853a534",
+      "item": {
+        "type": "paragraph",
+        "id": "00d6aeaae853a534",
+        "text": "These problems had to a large extent been solved some years before with the Zot protocol of Hubzilla, but the creators of ActivityPub appeared to have no interest in that even though they were aware of it."
+      },
+      "after": "9810e3993caf1819",
+      "date": 1517063169100
+    },
+    {
+      "type": "add",
+      "id": "c4537a8dd794764e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4537a8dd794764e",
+        "text": "I don't know whether the protocol was developed by Christopher Webber (the main developer of Mediagoblin), but in the fediverse it was mainly promoted by him."
+      },
+      "after": "81200edd6d4a37c9",
+      "date": 1517070331354
+    },
+    {
+      "type": "edit",
+      "id": "c4537a8dd794764e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4537a8dd794764e",
+        "text": "I don't know whether the protocol was developed by Christopher Webber (the main developer of Mediagoblin), but in the fediverse it was promoted by him."
+      },
+      "date": 1517070471861
+    },
+    {
+      "type": "edit",
+      "id": "c4537a8dd794764e",
+      "item": {
+        "type": "paragraph",
+        "id": "c4537a8dd794764e",
+        "text": "The protocol was developed by the [https://www.w3.org/Social/WG Social Working Group] of W3C, and Christopher Webber was its main proponent in the fediverse."
+      },
+      "date": 1517089843377
+    },
+    {
+      "type": "edit",
+      "id": "3d6c5d747e278aab",
+      "item": {
+        "type": "paragraph",
+        "id": "3d6c5d747e278aab",
+        "text": "There was a fear that if Mastodon dropped OStatus compatibility then it would split the federation into Mastodon versus non-Mastodon instances."
+      },
+      "date": 1517089912912
+    },
+    {
+      "type": "add",
+      "id": "d6957d57885ae675",
+      "item": {
+        "type": "paragraph",
+        "id": "d6957d57885ae675",
+        "text": "Complaints about ActivityPub were largely transient though. By the middle of 2018 it was well established and uncontroversial, with multiple projects adopting it."
+      },
+      "after": "00d6aeaae853a534",
+      "date": 1528022153003
+    }
+  ]
+}
