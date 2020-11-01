@@ -1,0 +1,227 @@
+{
+  "title": "Problems with Twitter",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "03c2500cf49857e2",
+      "text": "Particular problems with Twitter, especially from 2016 onwards after the introduction of algorithmic timelines were:"
+    },
+    {
+      "type": "paragraph",
+      "id": "b7a6000d0fca7148",
+      "text": "* Centralised"
+    },
+    {
+      "type": "paragraph",
+      "id": "feaeb1da3d540351",
+      "text": "* Proprietary, so forking and doing something better wasn't an option"
+    },
+    {
+      "type": "paragraph",
+      "id": "44a6b09abfb5ac00",
+      "text": "* They forced you to ID yourself with a phone number"
+    },
+    {
+      "type": "paragraph",
+      "id": "e9dcf35f862e9c22",
+      "text": "* They handed your data to third party companies"
+    },
+    {
+      "type": "paragraph",
+      "id": "f200f1e19ea39666",
+      "text": "* Most governments were using it to ID people saying bad things about them"
+    },
+    {
+      "type": "paragraph",
+      "id": "d51c7924b137aa2a",
+      "text": "* Ads and corporate campaigns"
+    },
+    {
+      "type": "paragraph",
+      "id": "9066b4e18d421141",
+      "text": "* Heavy handed censorship, or refusal to remove users who were violating TOS merely because of their celebrity status"
+    },
+    {
+      "type": "paragraph",
+      "id": "d18ab73c631d05a9",
+      "text": "* Refusal to deal with obvious bot accounts, used for spying or creating an economy of fake followers"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Problems with Twitter",
+        "story": []
+      },
+      "date": 1530359026495
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03c2500cf49857e2"
+      },
+      "id": "03c2500cf49857e2",
+      "type": "add",
+      "date": 1530359029383
+    },
+    {
+      "type": "edit",
+      "id": "03c2500cf49857e2",
+      "item": {
+        "type": "paragraph",
+        "id": "03c2500cf49857e2",
+        "text": "Particular problems with Twitter, especially from 2016 onwards after the introduction of algorithmic timelines were:"
+      },
+      "date": 1530359061952
+    },
+    {
+      "type": "add",
+      "id": "b7a6000d0fca7148",
+      "item": {
+        "type": "paragraph",
+        "id": "b7a6000d0fca7148",
+        "text": " * Centralised"
+      },
+      "after": "03c2500cf49857e2",
+      "date": 1530359076850
+    },
+    {
+      "type": "add",
+      "id": "e9dcf35f862e9c22",
+      "item": {
+        "type": "paragraph",
+        "id": "e9dcf35f862e9c22",
+        "text": " * "
+      },
+      "after": "b7a6000d0fca7148",
+      "date": 1530359084529
+    },
+    {
+      "type": "edit",
+      "id": "b7a6000d0fca7148",
+      "item": {
+        "type": "paragraph",
+        "id": "b7a6000d0fca7148",
+        "text": "* Centralised"
+      },
+      "date": 1530359086634
+    },
+    {
+      "type": "add",
+      "id": "44a6b09abfb5ac00",
+      "item": {
+        "type": "paragraph",
+        "id": "44a6b09abfb5ac00",
+        "text": "* "
+      },
+      "after": "b7a6000d0fca7148",
+      "date": 1530359092219
+    },
+    {
+      "type": "edit",
+      "id": "44a6b09abfb5ac00",
+      "item": {
+        "type": "paragraph",
+        "id": "44a6b09abfb5ac00",
+        "text": "* They forced you to ID yourself with a phone number"
+      },
+      "date": 1530359103993
+    },
+    {
+      "type": "edit",
+      "id": "e9dcf35f862e9c22",
+      "item": {
+        "type": "paragraph",
+        "id": "e9dcf35f862e9c22",
+        "text": "* They handed your data to third party companies"
+      },
+      "date": 1530359127586
+    },
+    {
+      "type": "add",
+      "id": "f200f1e19ea39666",
+      "item": {
+        "type": "paragraph",
+        "id": "f200f1e19ea39666",
+        "text": "* Most governments were using it to ID people saying bad things about them"
+      },
+      "after": "e9dcf35f862e9c22",
+      "date": 1530359144475
+    },
+    {
+      "type": "add",
+      "id": "d51c7924b137aa2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d51c7924b137aa2a",
+        "text": "* Ads and corporative campaigns"
+      },
+      "after": "f200f1e19ea39666",
+      "date": 1530359163186
+    },
+    {
+      "type": "add",
+      "id": "feaeb1da3d540351",
+      "item": {
+        "type": "paragraph",
+        "id": "feaeb1da3d540351",
+        "text": "* Proprietary"
+      },
+      "after": "b7a6000d0fca7148",
+      "date": 1530359232190
+    },
+    {
+      "type": "edit",
+      "id": "feaeb1da3d540351",
+      "item": {
+        "type": "paragraph",
+        "id": "feaeb1da3d540351",
+        "text": "* Proprietary, so forking and doing something better wasn't an option"
+      },
+      "date": 1530359251916
+    },
+    {
+      "type": "edit",
+      "id": "d51c7924b137aa2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d51c7924b137aa2a",
+        "text": "* Ads and corporate campaigns"
+      },
+      "date": 1530359285009
+    },
+    {
+      "type": "add",
+      "id": "9066b4e18d421141",
+      "item": {
+        "type": "paragraph",
+        "id": "9066b4e18d421141",
+        "text": "* Heavy handed censorship, or refusal to remove users who were violating TOS merely because of their celebrity status"
+      },
+      "after": "d51c7924b137aa2a",
+      "date": 1530359390193
+    },
+    {
+      "type": "add",
+      "id": "d18ab73c631d05a9",
+      "item": {
+        "type": "paragraph",
+        "id": "d18ab73c631d05a9",
+        "text": "* Refusal to deal with obvious bot accounts"
+      },
+      "after": "9066b4e18d421141",
+      "date": 1530359434915
+    },
+    {
+      "type": "edit",
+      "id": "d18ab73c631d05a9",
+      "item": {
+        "type": "paragraph",
+        "id": "d18ab73c631d05a9",
+        "text": "* Refusal to deal with obvious bot accounts, used for spying or creating an economy of fake followers"
+      },
+      "date": 1530359472347
+    }
+  ]
+}
