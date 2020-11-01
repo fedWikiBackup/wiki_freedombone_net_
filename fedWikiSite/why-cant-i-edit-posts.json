@@ -1,0 +1,39 @@
+{
+  "title": "Why can't I edit posts?",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "98938b00ad78549a",
+      "text": "Due to the way that posts are federated between servers, editing them doesn't make much sense. In contrast adding an edit function is easy if all posts reside on a single centralized system."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Why can't I edit posts?",
+        "story": []
+      },
+      "date": 1516998654215
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98938b00ad78549a"
+      },
+      "id": "98938b00ad78549a",
+      "type": "add",
+      "date": 1516998656069
+    },
+    {
+      "type": "edit",
+      "id": "98938b00ad78549a",
+      "item": {
+        "type": "paragraph",
+        "id": "98938b00ad78549a",
+        "text": "Due to the way that posts are federated between servers, editing them doesn't make much sense. In contrast adding an edit function is easy if all posts reside on a single centralized system."
+      },
+      "date": 1516998719350
+    }
+  ]
+}
