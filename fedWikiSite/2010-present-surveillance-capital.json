@@ -1,0 +1,341 @@
+{
+  "title": "2010-present Surveillance Capital",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3ebc7b1407f31e36",
+      "text": "By 2010 posting adverts on the web had been a tradition long established since the late 1990s. In the rush to grab more and more advertiser money this evolved beyond the initial discreet banner ads to garish animated gifs and then eventually to detailed tracking of user behavior."
+    },
+    {
+      "type": "paragraph",
+      "id": "8946bbd9616f5805",
+      "text": "Any sufficiently advanced user tracking is indistinguishable from surveillance."
+    },
+    {
+      "type": "paragraph",
+      "id": "5e67d7be365e6bc0",
+      "text": "During the Surveillance Capital era creepy new technologies emerged which were mostly unseen by end users. These included:"
+    },
+    {
+      "type": "paragraph",
+      "id": "38d48b593f343785",
+      "text": "* Using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for [https://en.wikipedia.org/wiki/Microtargeting microtargeting] purposes."
+    },
+    {
+      "type": "paragraph",
+      "id": "e7acf1cc998e49cf",
+      "text": "* \"Paying with your privacy\", with data being collected and then directly sold to data brokers for eventual use by anyone who could pay in a market for bulk personal information."
+    },
+    {
+      "type": "paragraph",
+      "id": "2993846ed0166006",
+      "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" advertising or political value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or exploitation of psychological weaknesses, as in \"we're going to make you an offer we know you can't refuse\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "5ecbfb010351952c",
+      "text": " With enough detail about someone's life they become far easier to manipulate in arbitrary ways. This even to some extent became codified as [https://en.wikipedia.org/wiki/Nudge_theory \"nudge theory\"] - the practice of artificially inducing \"behavior change\" in the user via classical conditioning, strategic system defaults and [https://en.wikipedia.org/wiki/Anti-pattern \"anti-patterns\"]."
+    },
+    {
+      "type": "paragraph",
+      "id": "a7453df58c16e7ac",
+      "text": "The limitations of Surveillance Capital, and its generally unethical nature, began to become apparent after the [https://en.wikipedia.org/wiki/Cambridge_Analytica Cambridge Analytica] scandal of 2018. There had been earlier surveillance scandals, most notably the Snowden one of 2013, but those left the big internet companies mostly untouched or looking like feisty underdogs pushing back against over-reaching state power."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2010-present Surveillance Capital",
+        "story": []
+      },
+      "date": 1531303426761
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ebc7b1407f31e36"
+      },
+      "id": "3ebc7b1407f31e36",
+      "type": "add",
+      "date": 1531303428320
+    },
+    {
+      "type": "edit",
+      "id": "3ebc7b1407f31e36",
+      "item": {
+        "type": "paragraph",
+        "id": "3ebc7b1407f31e36",
+        "text": "By 2010 posting adverts on the web had been a tradition long established since the late 1990s. In the rush to grab more and more advertiser money this evolved beyond the initial discreet banner ads to garish animated gifs and then eventually to detailed tracking of user behavior."
+      },
+      "date": 1531303544743
+    },
+    {
+      "type": "add",
+      "id": "8946bbd9616f5805",
+      "item": {
+        "type": "paragraph",
+        "id": "8946bbd9616f5805",
+        "text": "> Any sufficiently advanced user tracking is indistinguishable from surveillance."
+      },
+      "after": "3ebc7b1407f31e36",
+      "date": 1531303596886
+    },
+    {
+      "type": "edit",
+      "id": "8946bbd9616f5805",
+      "item": {
+        "type": "paragraph",
+        "id": "8946bbd9616f5805",
+        "text": "Any sufficiently advanced user tracking is indistinguishable from surveillance."
+      },
+      "date": 1531303603796
+    },
+    {
+      "type": "add",
+      "id": "5e67d7be365e6bc0",
+      "item": {
+        "type": "paragraph",
+        "id": "5e67d7be365e6bc0",
+        "text": "During the Surveillance Capital era creepy new technologies emerged which were mostly unseen by end users. These included using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes."
+      },
+      "after": "8946bbd9616f5805",
+      "date": 1531303717869
+    },
+    {
+      "type": "add",
+      "id": "2993846ed0166006",
+      "item": {
+        "type": "paragraph",
+        "id": "2993846ed0166006",
+        "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or protection racketeering style activity."
+      },
+      "after": "5e67d7be365e6bc0",
+      "date": 1531303840909
+    },
+    {
+      "type": "edit",
+      "id": "2993846ed0166006",
+      "item": {
+        "type": "paragraph",
+        "id": "2993846ed0166006",
+        "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" advertising or political value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or protection racketeering style activity."
+      },
+      "date": 1531303864984
+    },
+    {
+      "type": "edit",
+      "id": "2993846ed0166006",
+      "item": {
+        "type": "paragraph",
+        "id": "2993846ed0166006",
+        "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" advertising or political value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or protection racketeering style activity. With enough detail about someone's life they become far easier to manipulate in arbitrary ways."
+      },
+      "date": 1531303912269
+    },
+    {
+      "type": "edit",
+      "id": "2993846ed0166006",
+      "item": {
+        "type": "paragraph",
+        "id": "2993846ed0166006",
+        "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" advertising or political value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or protection racketeering style activity."
+      },
+      "date": 1531303919493
+    },
+    {
+      "type": "add",
+      "id": "5ecbfb010351952c",
+      "item": {
+        "type": "paragraph",
+        "id": "5ecbfb010351952c",
+        "text": " With enough detail about someone's life they become far easier to manipulate in arbitrary ways."
+      },
+      "after": "2993846ed0166006",
+      "date": 1531303919613
+    },
+    {
+      "type": "edit",
+      "id": "5ecbfb010351952c",
+      "item": {
+        "type": "paragraph",
+        "id": "5ecbfb010351952c",
+        "text": " With enough detail about someone's life they become far easier to manipulate in arbitrary ways. This even to some extent became codified as \"nudge theory\" - the practice of artificially inducing \"behavior change\" in the user via classical conditioning or strategic system defaults."
+      },
+      "date": 1531304017388
+    },
+    {
+      "type": "edit",
+      "id": "5ecbfb010351952c",
+      "item": {
+        "type": "paragraph",
+        "id": "5ecbfb010351952c",
+        "text": " With enough detail about someone's life they become far easier to manipulate in arbitrary ways. This even to some extent became codified as \"nudge theory\" - the practice of artificially inducing \"behavior change\" in the user via classical conditioning, strategic system defaults and \"antipatterns\"."
+      },
+      "date": 1531304085808
+    },
+    {
+      "type": "edit",
+      "id": "5ecbfb010351952c",
+      "item": {
+        "type": "paragraph",
+        "id": "5ecbfb010351952c",
+        "text": " With enough detail about someone's life they become far easier to manipulate in arbitrary ways. This even to some extent became codified as \"nudge theory\" - the practice of artificially inducing \"behavior change\" in the user via classical conditioning, strategic system defaults and [https://en.wikipedia.org/wiki/Anti-pattern \"anti-patterns\"]."
+      },
+      "date": 1531304115178
+    },
+    {
+      "type": "edit",
+      "id": "5ecbfb010351952c",
+      "item": {
+        "type": "paragraph",
+        "id": "5ecbfb010351952c",
+        "text": " With enough detail about someone's life they become far easier to manipulate in arbitrary ways. This even to some extent became codified as [https://en.wikipedia.org/wiki/Nudge_theory \"nudge theory\"] - the practice of artificially inducing \"behavior change\" in the user via classical conditioning, strategic system defaults and [https://en.wikipedia.org/wiki/Anti-pattern \"anti-patterns\"]."
+      },
+      "date": 1531304141525
+    },
+    {
+      "type": "add",
+      "id": "a7453df58c16e7ac",
+      "item": {
+        "type": "paragraph",
+        "id": "a7453df58c16e7ac",
+        "text": "The limitations of Surveillance Capital, and its generally unethical nature, began to become apparent after the Cambridge Analytica scandal of 2018."
+      },
+      "after": "5ecbfb010351952c",
+      "date": 1531304232338
+    },
+    {
+      "type": "edit",
+      "id": "a7453df58c16e7ac",
+      "item": {
+        "type": "paragraph",
+        "id": "a7453df58c16e7ac",
+        "text": "The limitations of Surveillance Capital, and its generally unethical nature, began to become apparent after the [https://en.wikipedia.org/wiki/Cambridge_Analytica Cambridge Analytica] scandal of 2018."
+      },
+      "date": 1531304254515
+    },
+    {
+      "type": "edit",
+      "id": "a7453df58c16e7ac",
+      "item": {
+        "type": "paragraph",
+        "id": "a7453df58c16e7ac",
+        "text": "The limitations of Surveillance Capital, and its generally unethical nature, began to become apparent after the [https://en.wikipedia.org/wiki/Cambridge_Analytica Cambridge Analytica] scandal of 2018. There had been earlier surveillance scandals, most notably the Snowden one of 2013, but those left the big internet companies mostly untouched or looking like feisty underdogs pushing back against over-reaching state power."
+      },
+      "date": 1531304469755
+    },
+    {
+      "type": "edit",
+      "id": "5e67d7be365e6bc0",
+      "item": {
+        "type": "paragraph",
+        "id": "5e67d7be365e6bc0",
+        "text": "During the Surveillance Capital era creepy new technologies emerged which were mostly unseen by end users. These included using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for microtargeting purposes."
+      },
+      "date": 1531304588681
+    },
+    {
+      "type": "edit",
+      "id": "5e67d7be365e6bc0",
+      "item": {
+        "type": "paragraph",
+        "id": "5e67d7be365e6bc0",
+        "text": "During the Surveillance Capital era creepy new technologies emerged which were mostly unseen by end users. These included using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for [https://en.wikipedia.org/wiki/Microtargeting microtargeting] purposes."
+      },
+      "date": 1531304617675
+    },
+    {
+      "type": "edit",
+      "id": "2993846ed0166006",
+      "item": {
+        "type": "paragraph",
+        "id": "2993846ed0166006",
+        "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" advertising or political value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or protection racketeering style activity, as in \"we're going to make you an offer we know you can't refuse\"."
+      },
+      "date": 1531304678575
+    },
+    {
+      "type": "edit",
+      "id": "2993846ed0166006",
+      "item": {
+        "type": "paragraph",
+        "id": "2993846ed0166006",
+        "text": "The idea was that having detailed knowledge about the private lives of users allowed much more \"relevant\" advertising or political value propositions to be made, and taken to the logical extreme this sometimes strayed into inappropriate levels of arm-twisting or exploitation of psychological weaknesses, as in \"we're going to make you an offer we know you can't refuse\"."
+      },
+      "date": 1531304721922
+    },
+    {
+      "type": "edit",
+      "id": "5e67d7be365e6bc0",
+      "item": {
+        "type": "paragraph",
+        "id": "5e67d7be365e6bc0",
+        "text": "During the Surveillance Capital era creepy new technologies emerged which were mostly unseen by end users. These included using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for [https://en.wikipedia.org/wiki/Microtargeting microtargeting] purposes. Or just simply \"paying with your privacy\", with data being collected and then directly sold to data brokers for eventual use by anyone who could pay."
+      },
+      "date": 1531304928807
+    },
+    {
+      "type": "edit",
+      "id": "5e67d7be365e6bc0",
+      "item": {
+        "type": "paragraph",
+        "id": "5e67d7be365e6bc0",
+        "text": "During the Surveillance Capital era creepy new technologies emerged which were mostly unseen by end users. These included:"
+      },
+      "date": 1531304966145
+    },
+    {
+      "type": "add",
+      "id": "38d48b593f343785",
+      "item": {
+        "type": "paragraph",
+        "id": "38d48b593f343785",
+        "text": " using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for [https://en.wikipedia.org/wiki/Microtargeting microtargeting] purposes. Or just simply \"paying with your privacy\", with data being collected and then directly sold to data brokers for eventual use by anyone who could pay."
+      },
+      "after": "5e67d7be365e6bc0",
+      "date": 1531304966271
+    },
+    {
+      "type": "edit",
+      "id": "38d48b593f343785",
+      "item": {
+        "type": "paragraph",
+        "id": "38d48b593f343785",
+        "text": "* Using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for [https://en.wikipedia.org/wiki/Microtargeting microtargeting] purposes"
+      },
+      "date": 1531304988587
+    },
+    {
+      "type": "add",
+      "id": "e7acf1cc998e49cf",
+      "item": {
+        "type": "paragraph",
+        "id": "e7acf1cc998e49cf",
+        "text": "* \"Paying with your privacy\", with data being collected and then directly sold to data brokers for eventual use by anyone who could pay."
+      },
+      "after": "38d48b593f343785",
+      "date": 1531304999717
+    },
+    {
+      "type": "edit",
+      "id": "38d48b593f343785",
+      "item": {
+        "type": "paragraph",
+        "id": "38d48b593f343785",
+        "text": "* Using AI to create psychological profiles of users and to categorize them into numerous consumer stereotypes for [https://en.wikipedia.org/wiki/Microtargeting microtargeting] purposes."
+      },
+      "date": 1531305004691
+    },
+    {
+      "type": "edit",
+      "id": "e7acf1cc998e49cf",
+      "item": {
+        "type": "paragraph",
+        "id": "e7acf1cc998e49cf",
+        "text": "* \"Paying with your privacy\", with data being collected and then directly sold to data brokers for eventual use by anyone who could pay in a market for bulk personal information."
+      },
+      "date": 1531305126368
+    }
+  ]
+}
