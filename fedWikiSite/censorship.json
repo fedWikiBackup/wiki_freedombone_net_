@@ -1,0 +1,273 @@
+{
+  "title": "Censorship",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c9a55d0fa8add233",
+      "text": "When everybody is in a single database the whims of whoever owns that database become paramount."
+    },
+    {
+      "type": "paragraph",
+      "id": "351da28bee83d6eb",
+      "text": "Maybe this week the owner doesn't like the posts of cancer survivors. Maybe next week they don't like transgender people. Maybe another week they don't like people resisting fascists on the street. All these accounts can be speedily closed, and in practice things like this have actually happened many times."
+    },
+    {
+      "type": "paragraph",
+      "id": "1664840cb424d8d2",
+      "text": "Admittedly in the case of Twitter it probably isn't a single server or a single database, but via virtualization technologies we can consider it to be such. What matters mostly is who owns and controls the system, and that the system behaves as a single cohesive entity with a unified policy."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b76cb24c4fa6141",
+      "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful to suppress inconvenient home truths and interfere with people organizing protests. Any event with \"social action potential\" can transform into a challenge to traditional power structures."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd5361317ee0fb40",
+      "text": "Beginning with the Arab Spring in 2011, internet shutdowns became increasingly common, but even in places where the internet is operational there can still be domain blocks against the biggest social network systems. The obvious examples of this is China's Great Firewall or Iran's national internet, but there are many other similar cases of selective blocking."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef36494a6b75ba9c",
+      "text": "Having the ability to avoid censorship, either by the centralized social networks or by governments at the ISP level is useful, and being able to run your own social networks is one way of achieving that."
+    },
+    {
+      "type": "paragraph",
+      "id": "d01877069b73b80d",
+      "text": "In a federated system some servers may get blocked by censors, but the rest of the system can still continue to be operational. You get to decide by what rules the community is governed."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Censorship",
+        "story": []
+      },
+      "date": 1517053171982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9a55d0fa8add233"
+      },
+      "id": "c9a55d0fa8add233",
+      "type": "add",
+      "date": 1517053173796
+    },
+    {
+      "type": "edit",
+      "id": "c9a55d0fa8add233",
+      "item": {
+        "type": "paragraph",
+        "id": "c9a55d0fa8add233",
+        "text": "When everybody is in a single database the whims of whoever owns that database become paramount."
+      },
+      "date": 1517053228290
+    },
+    {
+      "type": "add",
+      "id": "1664840cb424d8d2",
+      "item": {
+        "type": "paragraph",
+        "id": "1664840cb424d8d2",
+        "text": "Admittedly in the case of Twitter it probably isn't a single server or a single database, but via virtualization technologies we can consider it to be such. What matters mostly is who owns and controls the system."
+      },
+      "after": "c9a55d0fa8add233",
+      "date": 1517053296888
+    },
+    {
+      "type": "edit",
+      "id": "1664840cb424d8d2",
+      "item": {
+        "type": "paragraph",
+        "id": "1664840cb424d8d2",
+        "text": "Admittedly in the case of Twitter it probably isn't a single server or a single database, but via virtualization technologies we can consider it to be such. What matters mostly is who owns and controls the system, and that the system behaves as a single cohesive entity."
+      },
+      "date": 1517053398296
+    },
+    {
+      "type": "edit",
+      "id": "1664840cb424d8d2",
+      "item": {
+        "type": "paragraph",
+        "id": "1664840cb424d8d2",
+        "text": "Admittedly in the case of Twitter it probably isn't a single server or a single database, but via virtualization technologies we can consider it to be such. What matters mostly is who owns and controls the system, and that the system behaves as a single cohesive entity with a single policy."
+      },
+      "date": 1517053417438
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b76cb24c4fa6141"
+      },
+      "id": "6b76cb24c4fa6141",
+      "type": "add",
+      "after": "1664840cb424d8d2",
+      "date": 1517053431972
+    },
+    {
+      "type": "edit",
+      "id": "6b76cb24c4fa6141",
+      "item": {
+        "type": "paragraph",
+        "id": "6b76cb24c4fa6141",
+        "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful."
+      },
+      "date": 1517053551575
+    },
+    {
+      "type": "edit",
+      "id": "6b76cb24c4fa6141",
+      "item": {
+        "type": "paragraph",
+        "id": "6b76cb24c4fa6141",
+        "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful to suppress inconvenient truths."
+      },
+      "date": 1517053582038
+    },
+    {
+      "type": "edit",
+      "id": "6b76cb24c4fa6141",
+      "item": {
+        "type": "paragraph",
+        "id": "6b76cb24c4fa6141",
+        "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful to suppress inconvenient home truths."
+      },
+      "date": 1517053587914
+    },
+    {
+      "type": "edit",
+      "id": "6b76cb24c4fa6141",
+      "item": {
+        "type": "paragraph",
+        "id": "6b76cb24c4fa6141",
+        "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful to suppress inconvenient home truths and interfere with people organizing protests."
+      },
+      "date": 1517053700438
+    },
+    {
+      "type": "edit",
+      "id": "1664840cb424d8d2",
+      "item": {
+        "type": "paragraph",
+        "id": "1664840cb424d8d2",
+        "text": "Admittedly in the case of Twitter it probably isn't a single server or a single database, but via virtualization technologies we can consider it to be such. What matters mostly is who owns and controls the system, and that the system behaves as a single cohesive entity with a unified policy."
+      },
+      "date": 1517053785882
+    },
+    {
+      "type": "edit",
+      "id": "6b76cb24c4fa6141",
+      "item": {
+        "type": "paragraph",
+        "id": "6b76cb24c4fa6141",
+        "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful to suppress inconvenient home truths and interfere with people organizing protests. Any event with \"social action potential\" potentially becomes a challenge to traditional power structures."
+      },
+      "date": 1517053893237
+    },
+    {
+      "type": "edit",
+      "id": "6b76cb24c4fa6141",
+      "item": {
+        "type": "paragraph",
+        "id": "6b76cb24c4fa6141",
+        "text": "Censorship on sites like Twitter and Facebook has been an ongoing problem for many years. If there has been a trend it has been one of increasing pressure from nation states to comply with local laws, or just the wishes of the powerful to suppress inconvenient home truths and interfere with people organizing protests. Any event with \"social action potential\" can transform into a challenge to traditional power structures."
+      },
+      "date": 1517053926123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd5361317ee0fb40"
+      },
+      "id": "cd5361317ee0fb40",
+      "type": "add",
+      "after": "6b76cb24c4fa6141",
+      "date": 1517054030259
+    },
+    {
+      "type": "edit",
+      "id": "cd5361317ee0fb40",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5361317ee0fb40",
+        "text": "Beginning with the Arab Spring in 2011, internet shutdowns became increasingly common, but even in places where the internet is operational there can still be domain blocks against the biggest social network systems. The obvious examples of this is China's Great Firewall or Iran's national internet, but there are many other similar cases."
+      },
+      "date": 1517054220676
+    },
+    {
+      "type": "add",
+      "id": "ef36494a6b75ba9c",
+      "item": {
+        "type": "paragraph",
+        "id": "ef36494a6b75ba9c",
+        "text": "Having the ability to avoid censorship, either by the centralized social networks or by governments is useful, and being able to run your own social networks is one way of achieving that."
+      },
+      "after": "cd5361317ee0fb40",
+      "date": 1517054299509
+    },
+    {
+      "type": "add",
+      "id": "d01877069b73b80d",
+      "item": {
+        "type": "paragraph",
+        "id": "d01877069b73b80d",
+        "text": "In a federated system some servers may get blocked, but the rest of the system can still continue to be operational."
+      },
+      "after": "ef36494a6b75ba9c",
+      "date": 1517054324342
+    },
+    {
+      "type": "edit",
+      "id": "d01877069b73b80d",
+      "item": {
+        "type": "paragraph",
+        "id": "d01877069b73b80d",
+        "text": "In a federated system some servers may get blocked by censors, but the rest of the system can still continue to be operational."
+      },
+      "date": 1517054344803
+    },
+    {
+      "type": "add",
+      "id": "351da28bee83d6eb",
+      "item": {
+        "type": "paragraph",
+        "id": "351da28bee83d6eb",
+        "text": "Maybe this week the owner doesn't like the posts of cancer survivors. Maybe next week they don't like transgender people. Maybe another week they don't like people resisting fascists on the street. All these accounts can be speedily closed, and in practice things like this have actually happened many times."
+      },
+      "after": "c9a55d0fa8add233",
+      "date": 1517054549457
+    },
+    {
+      "type": "edit",
+      "id": "cd5361317ee0fb40",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5361317ee0fb40",
+        "text": "Beginning with the Arab Spring in 2011, internet shutdowns became increasingly common, but even in places where the internet is operational there can still be domain blocks against the biggest social network systems. The obvious examples of this is China's Great Firewall or Iran's national internet, but there are many other similar cases of selective blocking."
+      },
+      "date": 1517055597780
+    },
+    {
+      "type": "edit",
+      "id": "ef36494a6b75ba9c",
+      "item": {
+        "type": "paragraph",
+        "id": "ef36494a6b75ba9c",
+        "text": "Having the ability to avoid censorship, either by the centralized social networks or by governments at the ISP level is useful, and being able to run your own social networks is one way of achieving that."
+      },
+      "date": 1517055619784
+    },
+    {
+      "type": "edit",
+      "id": "d01877069b73b80d",
+      "item": {
+        "type": "paragraph",
+        "id": "d01877069b73b80d",
+        "text": "In a federated system some servers may get blocked by censors, but the rest of the system can still continue to be operational. You get to decide by what rules the community is governed."
+      },
+      "date": 1517055690152
+    }
+  ]
+}
