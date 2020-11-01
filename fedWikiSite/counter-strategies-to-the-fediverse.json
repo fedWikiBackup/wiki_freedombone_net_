@@ -1,0 +1,1001 @@
+{
+  "title": "Counter-strategies to the fediverse",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2465d53bf36d3645",
+      "text": "If the fediverse gets large enough then what are the strategies which the incumbents will use against it? We can have a pretty good idea of what this might look like, because similar things have happened in the past."
+    },
+    {
+      "type": "html",
+      "id": "e9c09f6ff4f8ee0d",
+      "text": "<h4>Fear, Uncertainty and Doubt (FUD)</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a34d4647c035e29",
+      "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers. Generating fear as a method of deterring people from even trying to use the system. Microsoft used this strategy in the 2000s against GNU/Linux. It was also used by various governments against TOR project. The music industry used the same methods against \"home taping\" in the 1980s and later against peer-to-peer file sharing systems after Napster."
+    },
+    {
+      "type": "html",
+      "id": "6fae516ce64f50c6",
+      "text": "<h4>Embrace, Extend, Extinguish<h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "17127a2bbecc83ce",
+      "text": "A method used by both Microsoft and Google. They would be enthusiastic about the fediverse and make a closed source ActivityPub server. It would be hyped as much as possible to attract the maximum number of users and create a single giant instance. A few fediverse stallwarts would probably be hired as a way of gaining community confidence. Once they had enough users they'd then begin going beyond ActivityPub by adding new features \"for greater convenience\" or \"better integrated with proprietary system XYZ\". These new features would begin breaking federation with other instances. After a while you're back to one big silo which is closed and incompatible with anything else."
+    },
+    {
+      "type": "paragraph",
+      "id": "71e748cb18992dff",
+      "text": "Google did this with Gmail, and to some extent XMPP (they abandoned it and transitioned users to a system which they fully control). Microsoft did it with their non-standard C++ extensions and have been trying to do it with GNU/Linux more generally."
+    },
+    {
+      "type": "html",
+      "id": "d185237ef9a14b5c",
+      "text": "<h4>Legal challenges</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2fb3c109e8ffb5b5",
+      "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance."
+    },
+    {
+      "type": "paragraph",
+      "id": "74964388d1c3f1e1",
+      "text": "Perhaps they would say that running social networks \"must be regulated to prevent abuse or ensure cooperation with authorities\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "c7f13816cb3a784f",
+      "text": "Maybe \"running an unregulated social network\" becomes a crime."
+    },
+    {
+      "type": "paragraph",
+      "id": "5320a27f510f95dd",
+      "text": "Perhaps they might try to introduce a licensing scheme with prohibitively high costs such that only large companies can afford them."
+    },
+    {
+      "type": "paragraph",
+      "id": "a2ab79dc19423b90",
+      "text": "Net non-neutrality would also be a possible counter-strategy if they can ensure that ISPs block fediverse traffic."
+    },
+    {
+      "type": "html",
+      "id": "a336a0658542b2f4",
+      "text": "<h4>If you can't beat 'em, join 'em</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a9d32f8c2089d38",
+      "text": "This would be similar to what Pixiv did with Mastodon, and would be the best case scenario. Maybe some new features are added, but they're under AGPL and federation continues."
+    },
+    {
+      "type": "paragraph",
+      "id": "6e988e4536251555",
+      "text": "However, this would mean that they won't have exclusive control over timelines and delivery of ads. If it's the best deal they can manage though then they might do this."
+    },
+    {
+      "type": "paragraph",
+      "id": "a5135f66c7be427e",
+      "text": " There are signs indicating that centralized silos are socially unsustainable in the long run and so the incumbents could just realize that the game is over and try to salvage as much of their position as is possible instead of trying to maintain a failing monopoly."
+    },
+    {
+      "type": "html",
+      "id": "7545afd9124a2db5",
+      "text": "<h4>Sponsor instance admins</h4>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2cefe8c02d939195",
+      "text": "It's generally true that instance admins are not rich. By the standards of large tech companies tiny amounts of money could be used to bribe them. This strategy would be like that weird fungus which takes over the brain of its host and makes it do something against its usual behavior pattern."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff77d303711b0abb",
+      "text": "The deal would be like this: if we sponsor you then you have to meet our targets for ads inserted into the local timeline and agree to allow us to algorithmically adjust the local timeline. Maybe they make it as simple as adding some script to the software which enables remote control over content."
+    },
+    {
+      "type": "paragraph",
+      "id": "c2851501efe2aaa7",
+      "text": "This would be a very low investment strategy which still brings in similar levels of advertising revenue. Why fight the opposition when you can just coopt them?"
+    },
+    {
+      "type": "paragraph",
+      "id": "c19e0ccfddf30fc6",
+      "text": "The only down side here would be lack of \"real names\", but perhaps enforcing that would be part of the sponsorship deal."
+    },
+    {
+      "type": "html",
+      "id": "438236d98ca5b5cb",
+      "text": "<h4>Harassing developers</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "67b2b47c0a85d5a1",
+      "text": "Since there are not very many active developers of fediverse instance software an adversary with enough resources could just try to target them with harassment campaigns."
+    },
+    {
+      "type": "paragraph",
+      "id": "432ecd2eef04227f",
+      "text": "With developers sufficiently demoralized or intimidated entropy would eventually take its toll in due course."
+    },
+    {
+      "type": "paragraph",
+      "id": "62eb439b84835015",
+      "text": "However, the history of the fediverse indicates that software can continue being used for many years after it has been all but abandoned by its original developers. So this might not be a very effective strategy."
+    },
+    {
+      "type": "html",
+      "id": "6e82491df19a1867",
+      "text": "<h4>Diversity of tactics</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "73c34a5b240a25c6",
+      "text": "Most likely they would do a combination of all of the above, hoping that at least one of them succeeds."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Counter-strategies to the fediverse",
+        "story": []
+      },
+      "date": 1531571637797
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2465d53bf36d3645"
+      },
+      "id": "2465d53bf36d3645",
+      "type": "add",
+      "date": 1531571639297
+    },
+    {
+      "type": "edit",
+      "id": "2465d53bf36d3645",
+      "item": {
+        "type": "paragraph",
+        "id": "2465d53bf36d3645",
+        "text": "If the fediverse gets large enough then what are the strategies which the incumbents will use against it. We can have a pretty good idea of what this might look like, because similar things have happened in the past."
+      },
+      "date": 1531571696420
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e9c09f6ff4f8ee0d"
+      },
+      "id": "e9c09f6ff4f8ee0d",
+      "type": "add",
+      "after": "2465d53bf36d3645",
+      "date": 1531571718804
+    },
+    {
+      "type": "edit",
+      "id": "e9c09f6ff4f8ee0d",
+      "item": {
+        "type": "html",
+        "id": "e9c09f6ff4f8ee0d",
+        "text": "<h1>Fear, Uncertainty and Doubt (FUD)</h1>"
+      },
+      "date": 1531571738620
+    },
+    {
+      "type": "edit",
+      "id": "e9c09f6ff4f8ee0d",
+      "item": {
+        "type": "html",
+        "id": "e9c09f6ff4f8ee0d",
+        "text": "<h4>Fear, Uncertainty and Doubt (FUD)</h4>"
+      },
+      "date": 1531571747526
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a34d4647c035e29"
+      },
+      "id": "2a34d4647c035e29",
+      "type": "add",
+      "after": "e9c09f6ff4f8ee0d",
+      "date": 1531571767467
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks and baby-killing terrorists."
+      },
+      "date": 1531571849354
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers."
+      },
+      "date": 1531571875084
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers. Generating fear as a method of deterring people from even trying to use the system. Microsoft used this strategy in the 2000s against GNU/Linux. It was also used by various governments against the TOR project."
+      },
+      "date": 1531571984945
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fae516ce64f50c6"
+      },
+      "id": "6fae516ce64f50c6",
+      "type": "add",
+      "after": "2a34d4647c035e29",
+      "date": 1531572065264
+    },
+    {
+      "type": "edit",
+      "id": "6fae516ce64f50c6",
+      "item": {
+        "type": "html",
+        "id": "6fae516ce64f50c6",
+        "text": "<h4>Embrace, Extend, Extinguish<h4>"
+      },
+      "date": 1531572081588
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "17127a2bbecc83ce"
+      },
+      "id": "17127a2bbecc83ce",
+      "type": "add",
+      "after": "6fae516ce64f50c6",
+      "date": 1531572084410
+    },
+    {
+      "type": "edit",
+      "id": "17127a2bbecc83ce",
+      "item": {
+        "type": "paragraph",
+        "id": "17127a2bbecc83ce",
+        "text": "A method used by both Microsoft and Google. They would be enthusiastic about the fediverse and make a closed source ActivityPub server. It would be hyped as much as possible to attract the maximum number of users and create a single giant instance. A few fediverse stallwarts would probably be hired as a way of gaining community confidence. Once they had enough users they'd then begin going beyond ActivityPub by adding new features \"for greater convenience\" or \"better integrated with proprietary system XYZ\". These new features would begin breaking federation with other instances. After a while you're back to one big silo which is closed and incompatible with anything else."
+      },
+      "date": 1531572433181
+    },
+    {
+      "type": "add",
+      "id": "71e748cb18992dff",
+      "item": {
+        "type": "paragraph",
+        "id": "71e748cb18992dff",
+        "text": "Google did this with Gmail, and to some extent XMPP (they abandoned it and transitioned users to a system which they fully control). Microsoft did it with their non-standard C++ extensions and have been trying to do it with GNU/Linux more generally."
+      },
+      "after": "17127a2bbecc83ce",
+      "date": 1531572591611
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a336a0658542b2f4"
+      },
+      "id": "a336a0658542b2f4",
+      "type": "add",
+      "after": "71e748cb18992dff",
+      "date": 1531572752666
+    },
+    {
+      "type": "edit",
+      "id": "a336a0658542b2f4",
+      "item": {
+        "type": "html",
+        "id": "a336a0658542b2f4",
+        "text": "<h4>If you can't beat 'em, join 'em</h4>"
+      },
+      "date": 1531572770621
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a9d32f8c2089d38"
+      },
+      "id": "2a9d32f8c2089d38",
+      "type": "add",
+      "after": "a336a0658542b2f4",
+      "date": 1531572774466
+    },
+    {
+      "type": "edit",
+      "id": "2a9d32f8c2089d38",
+      "item": {
+        "type": "paragraph",
+        "id": "2a9d32f8c2089d38",
+        "text": "This would be similar to what Pixiv did with Mastodon, and would be the bast case scenario. Maybe some new features are added, but they're under AGPL and federation continues."
+      },
+      "date": 1531572829955
+    },
+    {
+      "type": "add",
+      "id": "6e988e4536251555",
+      "item": {
+        "type": "paragraph",
+        "id": "6e988e4536251555",
+        "text": "However, this would mean that they won't have exclusive control over timelines and delivery of ads. If it's the best deal they can manage though then they might do this. There are signs indicating that centralized silos are socially unsustainable and so the incumbents could just realize that the game is over and to salvage as much of their position as is possible."
+      },
+      "after": "2a9d32f8c2089d38",
+      "date": 1531572953100
+    },
+    {
+      "type": "edit",
+      "id": "6e988e4536251555",
+      "item": {
+        "type": "paragraph",
+        "id": "6e988e4536251555",
+        "text": "However, this would mean that they won't have exclusive control over timelines and delivery of ads. If it's the best deal they can manage though then they might do this. There are signs indicating that centralized silos are socially unsustainable in the long run and so the incumbents could just realize that the game is over and to salvage as much of their position as is possible."
+      },
+      "date": 1531572981462
+    },
+    {
+      "type": "edit",
+      "id": "6e988e4536251555",
+      "item": {
+        "type": "paragraph",
+        "id": "6e988e4536251555",
+        "text": "However, this would mean that they won't have exclusive control over timelines and delivery of ads. If it's the best deal they can manage though then they might do this. There are signs indicating that centralized silos are socially unsustainable in the long run and so the incumbents could just realize that the game is over and try to salvage as much of their position as is possible instead of trying to maintain a monopoly."
+      },
+      "date": 1531573013218
+    },
+    {
+      "type": "edit",
+      "id": "2a9d32f8c2089d38",
+      "item": {
+        "type": "paragraph",
+        "id": "2a9d32f8c2089d38",
+        "text": "This would be similar to what Pixiv did with Mastodon, and would be the best case scenario. Maybe some new features are added, but they're under AGPL and federation continues."
+      },
+      "date": 1531573028717
+    },
+    {
+      "type": "edit",
+      "id": "6e988e4536251555",
+      "item": {
+        "type": "paragraph",
+        "id": "6e988e4536251555",
+        "text": "However, this would mean that they won't have exclusive control over timelines and delivery of ads. If it's the best deal they can manage though then they might do this."
+      },
+      "date": 1531573064729
+    },
+    {
+      "type": "add",
+      "id": "a5135f66c7be427e",
+      "item": {
+        "type": "paragraph",
+        "id": "a5135f66c7be427e",
+        "text": " There are signs indicating that centralized silos are socially unsustainable in the long run and so the incumbents could just realize that the game is over and try to salvage as much of their position as is possible instead of trying to maintain a monopoly."
+      },
+      "after": "6e988e4536251555",
+      "date": 1531573064870
+    },
+    {
+      "type": "edit",
+      "id": "a5135f66c7be427e",
+      "item": {
+        "type": "paragraph",
+        "id": "a5135f66c7be427e",
+        "text": " There are signs indicating that centralized silos are socially unsustainable in the long run and so the incumbents could just realize that the game is over and try to salvage as much of their position as is possible instead of trying to maintain a failing monopoly."
+      },
+      "date": 1531573089356
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers. Generating fear as a method of deterring people from even trying to use the system. Microsoft used this strategy in the 2000s against GNU/Linux. It was also used by various governments against the TOR project. The music industry used the same tactics against \"home taping\" in the 1980s and later against peer-to-peer file sharing systems."
+      },
+      "date": 1531573186341
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers. Generating fear as a method of deterring people from even trying to use the system. Microsoft used this strategy in the 2000s against GNU/Linux. It was also used by various governments against the TOR project. The music industry used the same tactics against \"home taping\" in the 1980s and later against peer-to-peer file sharing systems after Napster."
+      },
+      "date": 1531573267031
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d185237ef9a14b5c"
+      },
+      "id": "d185237ef9a14b5c",
+      "type": "add",
+      "after": "a5135f66c7be427e",
+      "date": 1531573316800
+    },
+    {
+      "type": "edit",
+      "id": "d185237ef9a14b5c",
+      "item": {
+        "type": "html",
+        "id": "d185237ef9a14b5c",
+        "text": "<h4>Legal challenges</h4>"
+      },
+      "date": 1531573337413
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2fb3c109e8ffb5b5"
+      },
+      "id": "2fb3c109e8ffb5b5",
+      "type": "add",
+      "after": "d185237ef9a14b5c",
+      "date": 1531573339440
+    },
+    {
+      "type": "edit",
+      "id": "2fb3c109e8ffb5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2fb3c109e8ffb5b5",
+        "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance. Perhaps they would say that running social networks \"must be regulated to prevent abuse\" or something similar."
+      },
+      "date": 1531573460316
+    },
+    {
+      "type": "move",
+      "order": [
+        "2465d53bf36d3645",
+        "e9c09f6ff4f8ee0d",
+        "2a34d4647c035e29",
+        "6fae516ce64f50c6",
+        "17127a2bbecc83ce",
+        "71e748cb18992dff",
+        "d185237ef9a14b5c",
+        "a336a0658542b2f4",
+        "2a9d32f8c2089d38",
+        "6e988e4536251555",
+        "a5135f66c7be427e",
+        "2fb3c109e8ffb5b5"
+      ],
+      "id": "d185237ef9a14b5c",
+      "date": 1531573478330
+    },
+    {
+      "type": "move",
+      "order": [
+        "2465d53bf36d3645",
+        "e9c09f6ff4f8ee0d",
+        "2a34d4647c035e29",
+        "6fae516ce64f50c6",
+        "17127a2bbecc83ce",
+        "71e748cb18992dff",
+        "d185237ef9a14b5c",
+        "2fb3c109e8ffb5b5",
+        "a336a0658542b2f4",
+        "2a9d32f8c2089d38",
+        "6e988e4536251555",
+        "a5135f66c7be427e"
+      ],
+      "id": "2fb3c109e8ffb5b5",
+      "date": 1531573480989
+    },
+    {
+      "type": "edit",
+      "id": "2fb3c109e8ffb5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2fb3c109e8ffb5b5",
+        "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance. Perhaps they would say that running social networks \"must be regulated to prevent abuse\" or something similar. Prehaps they might try to introduce a licensing scheme with prohibitively high costs such that only large companies can afford them."
+      },
+      "date": 1531573556994
+    },
+    {
+      "type": "edit",
+      "id": "2fb3c109e8ffb5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2fb3c109e8ffb5b5",
+        "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance. Perhaps they would say that running social networks \"must be regulated to prevent abuse or ensure cooperation with authorities\" or something similar. Prehaps they might try to introduce a licensing scheme with prohibitively high costs such that only large companies can afford them."
+      },
+      "date": 1531573615026
+    },
+    {
+      "type": "edit",
+      "id": "2fb3c109e8ffb5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2fb3c109e8ffb5b5",
+        "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance. Perhaps they would say that running social networks \"must be regulated to prevent abuse or ensure cooperation with authorities\" or something similar. Perhaps they might try to introduce a licensing scheme with prohibitively high costs such that only large companies can afford them."
+      },
+      "date": 1531573634636
+    },
+    {
+      "type": "edit",
+      "id": "2fb3c109e8ffb5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2fb3c109e8ffb5b5",
+        "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance. Perhaps they would say that running social networks \"must be regulated to prevent abuse or ensure cooperation with authorities\" or something similar. "
+      },
+      "date": 1531573641883
+    },
+    {
+      "type": "add",
+      "id": "5320a27f510f95dd",
+      "item": {
+        "type": "paragraph",
+        "id": "5320a27f510f95dd",
+        "text": "Perhaps they might try to introduce a licensing scheme with prohibitively high costs such that only large companies can afford them."
+      },
+      "after": "2fb3c109e8ffb5b5",
+      "date": 1531573643627
+    },
+    {
+      "type": "add",
+      "id": "a2ab79dc19423b90",
+      "item": {
+        "type": "paragraph",
+        "id": "a2ab79dc19423b90",
+        "text": "Net non-neutrality would also be a possible counter-strategy if they can ensure that ISPs block fediverse traffic."
+      },
+      "after": "5320a27f510f95dd",
+      "date": 1531573691331
+    },
+    {
+      "type": "edit",
+      "id": "2fb3c109e8ffb5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2fb3c109e8ffb5b5",
+        "text": "They might try to take legal actions against developers or instance admins. Companies which have monopoly status can afford to buy legislation, so they might try to get something onto the books which criminalizes running a fediverse instance."
+      },
+      "date": 1531573733570
+    },
+    {
+      "type": "add",
+      "id": "74964388d1c3f1e1",
+      "item": {
+        "type": "paragraph",
+        "id": "74964388d1c3f1e1",
+        "text": "Perhaps they would say that running social networks \"must be regulated to prevent abuse or ensure cooperation with authorities\" or something similar. "
+      },
+      "after": "2fb3c109e8ffb5b5",
+      "date": 1531573736396
+    },
+    {
+      "type": "edit",
+      "id": "74964388d1c3f1e1",
+      "item": {
+        "type": "paragraph",
+        "id": "74964388d1c3f1e1",
+        "text": "Perhaps they would say that running social networks \"must be regulated to prevent abuse or ensure cooperation with authorities\"."
+      },
+      "date": 1531573752570
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers. Generating fear as a method of deterring people from even trying to use the system. Microsoft used this strategy in the 2000s against GNU/Linux. It was also used by various governments against TOR project. The music industry used the same tactics against \"home taping\" in the 1980s and later against peer-to-peer file sharing systems after Napster."
+      },
+      "date": 1531573885322
+    },
+    {
+      "type": "edit",
+      "id": "2a34d4647c035e29",
+      "item": {
+        "type": "paragraph",
+        "id": "2a34d4647c035e29",
+        "text": "They'll claim that the fediverse is an evil place packed with evildoers, deviants, crooks, baby-killing terrorists and other Bad Cybers. Generating fear as a method of deterring people from even trying to use the system. Microsoft used this strategy in the 2000s against GNU/Linux. It was also used by various governments against TOR project. The music industry used the same methods against \"home taping\" in the 1980s and later against peer-to-peer file sharing systems after Napster."
+      },
+      "date": 1531573909565
+    },
+    {
+      "type": "add",
+      "id": "c7f13816cb3a784f",
+      "item": {
+        "type": "paragraph",
+        "id": "c7f13816cb3a784f",
+        "text": "Maybe \"running an unregulated social network\" becomes a crime."
+      },
+      "after": "74964388d1c3f1e1",
+      "date": 1531574085676
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e82491df19a1867"
+      },
+      "id": "6e82491df19a1867",
+      "type": "add",
+      "after": "a5135f66c7be427e",
+      "date": 1531574137785
+    },
+    {
+      "type": "edit",
+      "id": "6e82491df19a1867",
+      "item": {
+        "type": "html",
+        "id": "6e82491df19a1867",
+        "text": "<h4>Diversity of tactics</h4>"
+      },
+      "date": 1531574153281
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73c34a5b240a25c6"
+      },
+      "id": "73c34a5b240a25c6",
+      "type": "add",
+      "after": "6e82491df19a1867",
+      "date": 1531574154921
+    },
+    {
+      "type": "edit",
+      "id": "73c34a5b240a25c6",
+      "item": {
+        "type": "paragraph",
+        "id": "73c34a5b240a25c6",
+        "text": "Most likely they would do a combination of all of the above, hoping that at least one of them succeeds."
+      },
+      "date": 1531574217769
+    },
+    {
+      "type": "edit",
+      "id": "2465d53bf36d3645",
+      "item": {
+        "type": "paragraph",
+        "id": "2465d53bf36d3645",
+        "text": "If the fediverse gets large enough then what are the strategies which the incumbents will use against it? We can have a pretty good idea of what this might look like, because similar things have happened in the past."
+      },
+      "date": 1531574308205
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79012abbe9eb072f"
+      },
+      "id": "79012abbe9eb072f",
+      "type": "add",
+      "after": "73c34a5b240a25c6",
+      "date": 1531575354494
+    },
+    {
+      "type": "edit",
+      "id": "79012abbe9eb072f",
+      "item": {
+        "type": "paragraph",
+        "id": "79012abbe9eb072f",
+        "text": "<h4>Hire instance admins</h4>"
+      },
+      "date": 1531575370847
+    },
+    {
+      "type": "remove",
+      "id": "79012abbe9eb072f",
+      "date": 1531575376131
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7545afd9124a2db5"
+      },
+      "id": "7545afd9124a2db5",
+      "type": "add",
+      "after": "73c34a5b240a25c6",
+      "date": 1531575377262
+    },
+    {
+      "type": "edit",
+      "id": "7545afd9124a2db5",
+      "item": {
+        "type": "html",
+        "id": "7545afd9124a2db5",
+        "text": "<h4>Hire instance admins</h4>\n"
+      },
+      "date": 1531575387659
+    },
+    {
+      "type": "move",
+      "order": [
+        "2465d53bf36d3645",
+        "e9c09f6ff4f8ee0d",
+        "2a34d4647c035e29",
+        "6fae516ce64f50c6",
+        "17127a2bbecc83ce",
+        "71e748cb18992dff",
+        "d185237ef9a14b5c",
+        "2fb3c109e8ffb5b5",
+        "74964388d1c3f1e1",
+        "c7f13816cb3a784f",
+        "5320a27f510f95dd",
+        "a2ab79dc19423b90",
+        "a336a0658542b2f4",
+        "2a9d32f8c2089d38",
+        "6e988e4536251555",
+        "a5135f66c7be427e",
+        "7545afd9124a2db5",
+        "6e82491df19a1867",
+        "73c34a5b240a25c6"
+      ],
+      "id": "7545afd9124a2db5",
+      "date": 1531575389652
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2cefe8c02d939195"
+      },
+      "id": "2cefe8c02d939195",
+      "type": "add",
+      "after": "73c34a5b240a25c6",
+      "date": 1531575392384
+    },
+    {
+      "type": "edit",
+      "id": "2cefe8c02d939195",
+      "item": {
+        "type": "paragraph",
+        "id": "2cefe8c02d939195",
+        "text": "Hire the "
+      },
+      "date": 1531575404990
+    },
+    {
+      "type": "edit",
+      "id": "7545afd9124a2db5",
+      "item": {
+        "type": "html",
+        "id": "7545afd9124a2db5",
+        "text": "<h4>Sponsor instance admins</h4>\n"
+      },
+      "date": 1531575410166
+    },
+    {
+      "type": "edit",
+      "id": "2cefe8c02d939195",
+      "item": {
+        "type": "paragraph",
+        "id": "2cefe8c02d939195",
+        "text": "It's generally true that instance admins are not rich. By the standards of large tech companies tiny amounts of money could be used to bribe them."
+      },
+      "date": 1531575465526
+    },
+    {
+      "type": "move",
+      "order": [
+        "2465d53bf36d3645",
+        "e9c09f6ff4f8ee0d",
+        "2a34d4647c035e29",
+        "6fae516ce64f50c6",
+        "17127a2bbecc83ce",
+        "71e748cb18992dff",
+        "d185237ef9a14b5c",
+        "2fb3c109e8ffb5b5",
+        "74964388d1c3f1e1",
+        "c7f13816cb3a784f",
+        "5320a27f510f95dd",
+        "a2ab79dc19423b90",
+        "a336a0658542b2f4",
+        "2a9d32f8c2089d38",
+        "6e988e4536251555",
+        "a5135f66c7be427e",
+        "7545afd9124a2db5",
+        "2cefe8c02d939195",
+        "6e82491df19a1867",
+        "73c34a5b240a25c6"
+      ],
+      "id": "2cefe8c02d939195",
+      "date": 1531575467205
+    },
+    {
+      "type": "edit",
+      "id": "2cefe8c02d939195",
+      "item": {
+        "type": "paragraph",
+        "id": "2cefe8c02d939195",
+        "text": "It's generally true that instance admins are not rich. By the standards of large tech companies tiny amounts of money could be used to bribe them. This strategy would be like that weird fungus which takes over the brain of its host."
+      },
+      "date": 1531575499762
+    },
+    {
+      "type": "add",
+      "id": "ff77d303711b0abb",
+      "item": {
+        "type": "paragraph",
+        "id": "ff77d303711b0abb",
+        "text": "The deal would be like this: if we sponsor you then you have to meet our targets for ads inserted into the local timeline and agree to allow us to algorithmically adjust the local timeline."
+      },
+      "after": "2cefe8c02d939195",
+      "date": 1531575552133
+    },
+    {
+      "type": "edit",
+      "id": "2cefe8c02d939195",
+      "item": {
+        "type": "paragraph",
+        "id": "2cefe8c02d939195",
+        "text": "It's generally true that instance admins are not rich. By the standards of large tech companies tiny amounts of money could be used to bribe them. This strategy would be like that weird fungus which takes over the brain of its host and makes it do something against its usual behavior pattern."
+      },
+      "date": 1531575601243
+    },
+    {
+      "type": "add",
+      "id": "c2851501efe2aaa7",
+      "item": {
+        "type": "paragraph",
+        "id": "c2851501efe2aaa7",
+        "text": "This would be a very low investment strategy which still brings in similar levels of advertising revenue. Why fight the opposition when you can just coopt them?"
+      },
+      "after": "ff77d303711b0abb",
+      "date": 1531575748314
+    },
+    {
+      "type": "edit",
+      "id": "ff77d303711b0abb",
+      "item": {
+        "type": "paragraph",
+        "id": "ff77d303711b0abb",
+        "text": "The deal would be like this: if we sponsor you then you have to meet our targets for ads inserted into the local timeline and agree to allow us to algorithmically adjust the local timeline. Maybe they make it as simple as adding some script to the software which enables remote control over content."
+      },
+      "date": 1531575863761
+    },
+    {
+      "type": "add",
+      "id": "c19e0ccfddf30fc6",
+      "item": {
+        "type": "paragraph",
+        "id": "c19e0ccfddf30fc6",
+        "text": "The only down side here would be lack of \"real names\", but perhaps enforcing that would be part of the sponsorship deal."
+      },
+      "after": "c2851501efe2aaa7",
+      "date": 1531576394631
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "438236d98ca5b5cb"
+      },
+      "id": "438236d98ca5b5cb",
+      "type": "add",
+      "after": "73c34a5b240a25c6",
+      "date": 1578956290845
+    },
+    {
+      "type": "edit",
+      "id": "438236d98ca5b5cb",
+      "item": {
+        "type": "html",
+        "id": "438236d98ca5b5cb",
+        "text": "<h4>Harassing developers</h4>"
+      },
+      "date": 1578956311218
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "67b2b47c0a85d5a1"
+      },
+      "id": "67b2b47c0a85d5a1",
+      "type": "add",
+      "after": "438236d98ca5b5cb",
+      "date": 1578956312948
+    },
+    {
+      "type": "edit",
+      "id": "67b2b47c0a85d5a1",
+      "item": {
+        "type": "paragraph",
+        "id": "67b2b47c0a85d5a1",
+        "text": "Since there are not very many active developers of fediverse instance software an adversary with enough resources could just try to target them with harassment campaigns."
+      },
+      "date": 1578956368660
+    },
+    {
+      "id": "438236d98ca5b5cb",
+      "type": "move",
+      "order": [
+        "2465d53bf36d3645",
+        "e9c09f6ff4f8ee0d",
+        "2a34d4647c035e29",
+        "6fae516ce64f50c6",
+        "17127a2bbecc83ce",
+        "71e748cb18992dff",
+        "d185237ef9a14b5c",
+        "2fb3c109e8ffb5b5",
+        "74964388d1c3f1e1",
+        "c7f13816cb3a784f",
+        "5320a27f510f95dd",
+        "a2ab79dc19423b90",
+        "a336a0658542b2f4",
+        "2a9d32f8c2089d38",
+        "6e988e4536251555",
+        "a5135f66c7be427e",
+        "7545afd9124a2db5",
+        "2cefe8c02d939195",
+        "ff77d303711b0abb",
+        "c2851501efe2aaa7",
+        "c19e0ccfddf30fc6",
+        "438236d98ca5b5cb",
+        "6e82491df19a1867",
+        "73c34a5b240a25c6",
+        "67b2b47c0a85d5a1"
+      ],
+      "date": 1578956480815
+    },
+    {
+      "id": "67b2b47c0a85d5a1",
+      "type": "move",
+      "order": [
+        "2465d53bf36d3645",
+        "e9c09f6ff4f8ee0d",
+        "2a34d4647c035e29",
+        "6fae516ce64f50c6",
+        "17127a2bbecc83ce",
+        "71e748cb18992dff",
+        "d185237ef9a14b5c",
+        "2fb3c109e8ffb5b5",
+        "74964388d1c3f1e1",
+        "c7f13816cb3a784f",
+        "5320a27f510f95dd",
+        "a2ab79dc19423b90",
+        "a336a0658542b2f4",
+        "2a9d32f8c2089d38",
+        "6e988e4536251555",
+        "a5135f66c7be427e",
+        "7545afd9124a2db5",
+        "2cefe8c02d939195",
+        "ff77d303711b0abb",
+        "c2851501efe2aaa7",
+        "c19e0ccfddf30fc6",
+        "438236d98ca5b5cb",
+        "67b2b47c0a85d5a1",
+        "6e82491df19a1867",
+        "73c34a5b240a25c6"
+      ],
+      "date": 1578956483932
+    },
+    {
+      "type": "add",
+      "id": "432ecd2eef04227f",
+      "item": {
+        "type": "paragraph",
+        "id": "432ecd2eef04227f",
+        "text": "With developers sufficiently demoralized or intimidated entropy would eventually take its toll in due course."
+      },
+      "after": "67b2b47c0a85d5a1",
+      "date": 1578956573068
+    },
+    {
+      "type": "add",
+      "id": "62eb439b84835015",
+      "item": {
+        "type": "paragraph",
+        "id": "62eb439b84835015",
+        "text": "However, the history of the fediverse indicates that software can continue being used for many years after it has been all but abandoned by its original developers. So this might not be a very effective strategy."
+      },
+      "after": "432ecd2eef04227f",
+      "date": 1578956678632
+    }
+  ]
+}
