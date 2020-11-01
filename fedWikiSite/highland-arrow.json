@@ -1,0 +1,244 @@
+{
+  "title": "Highland Arrow",
+  "story": [
+    {
+      "type": "html",
+      "id": "e6e8c7795fb08825",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/49866d0cb4185767e07ca99c2371c4c6.jpg\" width=\"400\"/>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "425c44b9dfdc0c94",
+      "text": "This is a gaming oriented instance founded by Maiyannah Bishop in 2016. Since the development activity of GNU Social proceeded at a glacial pace a fork was created for this site called PostActiv."
+    },
+    {
+      "type": "paragraph",
+      "id": "87b15f915957858c",
+      "text": "PostActiv improved the code base of GNU Social to make it more performant and also replaced message queues which had previously been handled by mysql with a faster redis version."
+    },
+    {
+      "type": "paragraph",
+      "id": "092ba99bb86c5783",
+      "text": "Highland Arrow was an early example of how gaming communities could make use of the fediverse. For a long time gamers had been accustomed to doing things like hosting servers for VoIP or multi-player games, so using the fediverse was a logical extension of that tradition."
+    },
+    {
+      "type": "html",
+      "id": "28c5e09a2e3df420",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/medium/a0e12a05267f8821738fd550decf54e2.jpg\" width=\"400\"/>\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Highland Arrow",
+        "story": []
+      },
+      "date": 1528364213672
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "425c44b9dfdc0c94"
+      },
+      "id": "425c44b9dfdc0c94",
+      "type": "add",
+      "date": 1528364222062
+    },
+    {
+      "type": "edit",
+      "id": "425c44b9dfdc0c94",
+      "item": {
+        "type": "paragraph",
+        "id": "425c44b9dfdc0c94",
+        "text": "This is an instance founded by "
+      },
+      "date": 1528364238105
+    },
+    {
+      "type": "edit",
+      "id": "425c44b9dfdc0c94",
+      "item": {
+        "type": "paragraph",
+        "id": "425c44b9dfdc0c94",
+        "text": "This is a gaming oriented instance founded by Maiyannah Bishop in 2016. Since the development activity of GNU Social proceeded at a glacial pace a fork was created for this site called PostActiv."
+      },
+      "date": 1528364679340
+    },
+    {
+      "type": "add",
+      "id": "87b15f915957858c",
+      "item": {
+        "type": "paragraph",
+        "id": "87b15f915957858c",
+        "text": "PostActiv improved the code base of GNU Social to make it more performant and also replaced message queues which had previously been handled by mysql with a faster redis version."
+      },
+      "after": "425c44b9dfdc0c94",
+      "date": 1528364746645
+    },
+    {
+      "type": "add",
+      "id": "092ba99bb86c5783",
+      "item": {
+        "type": "paragraph",
+        "id": "092ba99bb86c5783",
+        "text": "Highland Array was an early example of how gaming communities could make use of the fediverse. For a long time gamers had been used to doing things like hosting servers for things like VoIP or multi-player games, so using the fediverse was a logical extension of that tradition."
+      },
+      "after": "87b15f915957858c",
+      "date": 1528364866346
+    },
+    {
+      "type": "edit",
+      "id": "092ba99bb86c5783",
+      "item": {
+        "type": "paragraph",
+        "id": "092ba99bb86c5783",
+        "text": "Highland Arrow was an early example of how gaming communities could make use of the fediverse. For a long time gamers had been used to doing things like hosting servers for things like VoIP or multi-player games, so using the fediverse was a logical extension of that tradition."
+      },
+      "date": 1528364873122
+    },
+    {
+      "type": "edit",
+      "id": "092ba99bb86c5783",
+      "item": {
+        "type": "paragraph",
+        "id": "092ba99bb86c5783",
+        "text": "Highland Arrow was an early example of how gaming communities could make use of the fediverse. For a long time gamers had been accustomed to doing things like hosting servers for things like VoIP or multi-player games, so using the fediverse was a logical extension of that tradition."
+      },
+      "date": 1528364953807
+    },
+    {
+      "type": "edit",
+      "id": "092ba99bb86c5783",
+      "item": {
+        "type": "paragraph",
+        "id": "092ba99bb86c5783",
+        "text": "Highland Arrow was an early example of how gaming communities could make use of the fediverse. For a long time gamers had been accustomed to doing things like hosting servers for"
+      },
+      "date": 1528364966883
+    },
+    {
+      "type": "edit",
+      "id": "092ba99bb86c5783",
+      "item": {
+        "type": "paragraph",
+        "id": "092ba99bb86c5783",
+        "text": "Highland Arrow was an early example of how gaming communities could make use of the fediverse. For a long time gamers had been accustomed to doing things like hosting servers for VoIP or multi-player games, so using the fediverse was a logical extension of that tradition."
+      },
+      "date": 1528364970361
+    },
+    {
+      "type": "add",
+      "id": "dbd5c6c54b0a6ca8",
+      "item": {
+        "type": "paragraph",
+        "id": "dbd5c6c54b0a6ca8",
+        "text": "<img src=\"\" width=\"400\"/>"
+      },
+      "after": "425c44b9dfdc0c94",
+      "date": 1528387566730
+    },
+    {
+      "type": "edit",
+      "id": "dbd5c6c54b0a6ca8",
+      "item": {
+        "type": "paragraph",
+        "id": "dbd5c6c54b0a6ca8",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/49866d0cb4185767e07ca99c2371c4c6.jpg\" width=\"400\"/>"
+      },
+      "date": 1528387598330
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a4f2847a47a9ca4"
+      },
+      "id": "6a4f2847a47a9ca4",
+      "type": "add",
+      "after": "092ba99bb86c5783",
+      "date": 1528387600817
+    },
+    {
+      "type": "remove",
+      "id": "6a4f2847a47a9ca4",
+      "date": 1528387607220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6e8c7795fb08825"
+      },
+      "id": "e6e8c7795fb08825",
+      "type": "add",
+      "after": "092ba99bb86c5783",
+      "date": 1528387611735
+    },
+    {
+      "type": "remove",
+      "id": "dbd5c6c54b0a6ca8",
+      "date": 1528387613457
+    },
+    {
+      "type": "edit",
+      "id": "e6e8c7795fb08825",
+      "item": {
+        "type": "html",
+        "id": "e6e8c7795fb08825",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/49866d0cb4185767e07ca99c2371c4c6.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528387617694
+    },
+    {
+      "type": "move",
+      "order": [
+        "425c44b9dfdc0c94",
+        "e6e8c7795fb08825",
+        "87b15f915957858c",
+        "092ba99bb86c5783"
+      ],
+      "id": "e6e8c7795fb08825",
+      "date": 1528387621046
+    },
+    {
+      "type": "move",
+      "order": [
+        "e6e8c7795fb08825",
+        "425c44b9dfdc0c94",
+        "87b15f915957858c",
+        "092ba99bb86c5783"
+      ],
+      "id": "e6e8c7795fb08825",
+      "date": 1528387622893
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "28c5e09a2e3df420"
+      },
+      "id": "28c5e09a2e3df420",
+      "type": "add",
+      "after": "092ba99bb86c5783",
+      "date": 1528387646822
+    },
+    {
+      "type": "edit",
+      "id": "28c5e09a2e3df420",
+      "item": {
+        "type": "html",
+        "id": "28c5e09a2e3df420",
+        "text": "https://pics.freedombone.net/uploads/medium/a0e12a05267f8821738fd550decf54e2.jpg"
+      },
+      "date": 1528387652579
+    },
+    {
+      "type": "edit",
+      "id": "28c5e09a2e3df420",
+      "item": {
+        "type": "html",
+        "id": "28c5e09a2e3df420",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/medium/a0e12a05267f8821738fd550decf54e2.jpg\" width=\"400\"/>\n"
+      },
+      "date": 1528387682636
+    }
+  ]
+}
