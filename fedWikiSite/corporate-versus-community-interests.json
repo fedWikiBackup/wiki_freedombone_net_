@@ -1,0 +1,317 @@
+{
+  "title": "corporate-versus-community-interests",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "94f3e202ddf00487",
+      "text": "> \"Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs.\"\n\n-- Irina Bolychevsky\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "47bf735ccd1d7233",
+      "text": "Naive people might believe that Facebook is just a place to hang out and chat with friends. But there aren't many folks that naive around anymore."
+    },
+    {
+      "type": "paragraph",
+      "id": "89cc6a24ad1455b9",
+      "text": "Facebook doesn't actually care whether the user experience is good or not, so long as its advertising customers can target their users and the money keeps rolling in. This is certainly reflected in the horrible user interface."
+    },
+    {
+      "type": "paragraph",
+      "id": "a4e5d3e5535e46f7",
+      "text": "The interests of major internet companies are not necessarily the same as the interests of internet users. Often the interests are badly out of alignment."
+    },
+    {
+      "type": "paragraph",
+      "id": "dbb84587c523cf12",
+      "text": "The companies - especially the big ones - are only concerned about profits and share holders. Things like keeping Mark Zuckerberg in the top ten list of oligarchs. They're not concerned about you or your community, because you're small fry and they are the Tech Geniuses living in McMansions and driving expensive Teslas."
+    },
+    {
+      "type": "paragraph",
+      "id": "f2cf9d3f0ee7bc5c",
+      "text": "Federation is one way to bring the interests back into alignment and cut the oligarchs with their inflated egos and self-entitlement out of the picture. If you keep the number of users on an instance small then there is not much power differential between the admin and the users, and probably their concerns are similar."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "corporate-versus-community-interests",
+        "story": []
+      },
+      "date": 1517059446932
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47bf735ccd1d7233"
+      },
+      "id": "47bf735ccd1d7233",
+      "type": "add",
+      "date": 1517059448594
+    },
+    {
+      "type": "edit",
+      "id": "47bf735ccd1d7233",
+      "item": {
+        "type": "paragraph",
+        "id": "47bf735ccd1d7233",
+        "text": "Naive people might believe that Facebook is just a place to hang out and chat with friends. But there aren't many folks that naive around anymore."
+      },
+      "date": 1517059584018
+    },
+    {
+      "type": "add",
+      "id": "89cc6a24ad1455b9",
+      "item": {
+        "type": "paragraph",
+        "id": "89cc6a24ad1455b9",
+        "text": "Facebook doesn't actually care whether the user experience is good or not, so long as its advertising customers can target their users. This is certainly reflected in the horrible user interface."
+      },
+      "after": "47bf735ccd1d7233",
+      "date": 1517059661223
+    },
+    {
+      "type": "add",
+      "id": "a4e5d3e5535e46f7",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e5d3e5535e46f7",
+        "text": "The interests of major internet companies are not necessarily the same as the interests of internet users. Often the interests are badly out of alignment."
+      },
+      "after": "89cc6a24ad1455b9",
+      "date": 1517059711366
+    },
+    {
+      "type": "add",
+      "id": "dbb84587c523cf12",
+      "item": {
+        "type": "paragraph",
+        "id": "dbb84587c523cf12",
+        "text": "The companies - especially the big ones - are only concerned about profits and share holders. Things like keeping Mark Zuckerberg in the top ten list of oligarchs."
+      },
+      "after": "a4e5d3e5535e46f7",
+      "date": 1517059839038
+    },
+    {
+      "type": "edit",
+      "id": "dbb84587c523cf12",
+      "item": {
+        "type": "paragraph",
+        "id": "dbb84587c523cf12",
+        "text": "The companies - especially the big ones - are only concerned about profits and share holders. Things like keeping Mark Zuckerberg in the top ten list of oligarchs. They're not concerned about you or your community, because you're small fry and they are the Tech Geniuses."
+      },
+      "date": 1517059935486
+    },
+    {
+      "type": "edit",
+      "id": "dbb84587c523cf12",
+      "item": {
+        "type": "paragraph",
+        "id": "dbb84587c523cf12",
+        "text": "The companies - especially the big ones - are only concerned about profits and share holders. Things like keeping Mark Zuckerberg in the top ten list of oligarchs. They're not concerned about you or your community, because you're small fry and they are the Tech Geniuses living in McMansions."
+      },
+      "date": 1517060010363
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2cf9d3f0ee7bc5c"
+      },
+      "id": "f2cf9d3f0ee7bc5c",
+      "type": "add",
+      "after": "dbb84587c523cf12",
+      "date": 1517060043141
+    },
+    {
+      "type": "edit",
+      "id": "f2cf9d3f0ee7bc5c",
+      "item": {
+        "type": "paragraph",
+        "id": "f2cf9d3f0ee7bc5c",
+        "text": "Federation is one way to bring the interests back into alignment and cut the oligarchs and their inflated egos out of the picture. If you keep the number of users on an instance small then there is not much power differential between the admin and the users, and probably their interests concerns are similar."
+      },
+      "date": 1517060124192
+    },
+    {
+      "type": "edit",
+      "id": "f2cf9d3f0ee7bc5c",
+      "item": {
+        "type": "paragraph",
+        "id": "f2cf9d3f0ee7bc5c",
+        "text": "Federation is one way to bring the interests back into alignment and cut the oligarchs and their inflated egos out of the picture. If you keep the number of users on an instance small then there is not much power differential between the admin and the users, and probably their concerns are similar."
+      },
+      "date": 1517060151948
+    },
+    {
+      "type": "edit",
+      "id": "dbb84587c523cf12",
+      "item": {
+        "type": "paragraph",
+        "id": "dbb84587c523cf12",
+        "text": "The companies - especially the big ones - are only concerned about profits and share holders. Things like keeping Mark Zuckerberg in the top ten list of oligarchs. They're not concerned about you or your community, because you're small fry and they are the Tech Geniuses living in McMansions and driving expensive Teslas."
+      },
+      "date": 1517060190558
+    },
+    {
+      "type": "edit",
+      "id": "f2cf9d3f0ee7bc5c",
+      "item": {
+        "type": "paragraph",
+        "id": "f2cf9d3f0ee7bc5c",
+        "text": "Federation is one way to bring the interests back into alignment and cut the oligarchs and their inflated egos and self-entitlement out of the picture. If you keep the number of users on an instance small then there is not much power differential between the admin and the users, and probably their concerns are similar."
+      },
+      "date": 1517060238759
+    },
+    {
+      "type": "edit",
+      "id": "f2cf9d3f0ee7bc5c",
+      "item": {
+        "type": "paragraph",
+        "id": "f2cf9d3f0ee7bc5c",
+        "text": "Federation is one way to bring the interests back into alignment and cut the oligarchs with their inflated egos and self-entitlement out of the picture. If you keep the number of users on an instance small then there is not much power differential between the admin and the users, and probably their concerns are similar."
+      },
+      "date": 1517060252621
+    },
+    {
+      "type": "edit",
+      "id": "89cc6a24ad1455b9",
+      "item": {
+        "type": "paragraph",
+        "id": "89cc6a24ad1455b9",
+        "text": "Facebook doesn't actually care whether the user experience is good or not, so long as its advertising customers can target their users and the money keeps rolling in. This is certainly reflected in the horrible user interface."
+      },
+      "date": 1517060411351
+    },
+    {
+      "type": "add",
+      "id": "3a690d88d95fda7a",
+      "item": {
+        "type": "paragraph",
+        "id": "3a690d88d95fda7a",
+        "text": "> "
+      },
+      "after": "47bf735ccd1d7233",
+      "date": 1545522400000
+    },
+    {
+      "type": "edit",
+      "id": "3a690d88d95fda7a",
+      "item": {
+        "type": "paragraph",
+        "id": "3a690d88d95fda7a",
+        "text": "> Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs."
+      },
+      "date": 1545522410400
+    },
+    {
+      "type": "remove",
+      "id": "3a690d88d95fda7a",
+      "date": 1545522450900
+    },
+    {
+      "type": "add",
+      "id": "95b4c8844d561625",
+      "item": {
+        "type": "paragraph",
+        "id": "95b4c8844d561625",
+        "text": "\"Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs.\""
+      },
+      "after": "47bf735ccd1d7233",
+      "date": 1545522456700
+    },
+    {
+      "type": "edit",
+      "id": "95b4c8844d561625",
+      "item": {
+        "type": "paragraph",
+        "id": "95b4c8844d561625",
+        "text": "<quote>\"Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs.\"</quote>"
+      },
+      "date": 1545522504900
+    },
+    {
+      "type": "edit",
+      "id": "95b4c8844d561625",
+      "item": {
+        "type": "paragraph",
+        "id": "95b4c8844d561625",
+        "text": "<blockquote>\"Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs.\"</blockquote>"
+      },
+      "date": 1545522516000
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b55af503610a089"
+      },
+      "id": "6b55af503610a089",
+      "type": "add",
+      "after": "f2cf9d3f0ee7bc5c",
+      "date": 1545522525300
+    },
+    {
+      "type": "remove",
+      "id": "6b55af503610a089",
+      "date": 1545522543500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94f3e202ddf00487"
+      },
+      "id": "94f3e202ddf00487",
+      "type": "add",
+      "after": "f2cf9d3f0ee7bc5c",
+      "date": 1545522545100
+    },
+    {
+      "type": "edit",
+      "id": "94f3e202ddf00487",
+      "item": {
+        "type": "markdown",
+        "id": "94f3e202ddf00487",
+        "text": "> quote\n"
+      },
+      "date": 1545522557500
+    },
+    {
+      "type": "remove",
+      "id": "95b4c8844d561625",
+      "date": 1545522569200
+    },
+    {
+      "type": "edit",
+      "id": "94f3e202ddf00487",
+      "item": {
+        "type": "markdown",
+        "id": "94f3e202ddf00487",
+        "text": "> \"Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs.\"\n"
+      },
+      "date": 1545522577300
+    },
+    {
+      "type": "move",
+      "order": [
+        "94f3e202ddf00487",
+        "47bf735ccd1d7233",
+        "89cc6a24ad1455b9",
+        "a4e5d3e5535e46f7",
+        "dbb84587c523cf12",
+        "f2cf9d3f0ee7bc5c"
+      ],
+      "id": "94f3e202ddf00487",
+      "date": 1545522583300
+    },
+    {
+      "type": "edit",
+      "id": "94f3e202ddf00487",
+      "item": {
+        "type": "markdown",
+        "id": "94f3e202ddf00487",
+        "text": "> \"Centralised systems lead to increasingly monotonous and unaccountable power. Over time this encourages exploitation and disinterest in user needs.\"\n\n-- Irina Bolychevsky\n"
+      },
+      "date": 1545522661800
+    }
+  ]
+}
