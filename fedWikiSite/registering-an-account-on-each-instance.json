@@ -1,0 +1,75 @@
+{
+  "title": "Registering an account on each instance",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "95f49ee712d230f0",
+      "text": "If each instance was a silo then you would need to do that, but in a federated system you don't. You only really need to register on one instance and then you can send to other instances or receive posts from them."
+    },
+    {
+      "type": "paragraph",
+      "id": "4122e5a4a723641b",
+      "text": "You can of course create multiple accounts if you want to have different ones for different purposes. For example, sometimes people have one account for general chat and another for talking politics. Sometimes different accounts for different purposes are known as \"aspects\"."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Registering an account on each instance",
+        "story": []
+      },
+      "date": 1517091929555
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "95f49ee712d230f0"
+      },
+      "id": "95f49ee712d230f0",
+      "type": "add",
+      "date": 1517091931300
+    },
+    {
+      "type": "edit",
+      "id": "95f49ee712d230f0",
+      "item": {
+        "type": "paragraph",
+        "id": "95f49ee712d230f0",
+        "text": "If each instance was a silo then you would need to do that, but in a federated system you don't. You only really need to register on one instance and then you can send or receive posts from other instances."
+      },
+      "date": 1517092040256
+    },
+    {
+      "type": "add",
+      "id": "4122e5a4a723641b",
+      "item": {
+        "type": "paragraph",
+        "id": "4122e5a4a723641b",
+        "text": "You can of course create multiple accounts if you want to have different ones for different purposes. For example, sometimes people have one account for general chat and another for talking politics."
+      },
+      "after": "95f49ee712d230f0",
+      "date": 1517092125775
+    },
+    {
+      "type": "edit",
+      "id": "95f49ee712d230f0",
+      "item": {
+        "type": "paragraph",
+        "id": "95f49ee712d230f0",
+        "text": "If each instance was a silo then you would need to do that, but in a federated system you don't. You only really need to register on one instance and then you can send to other instances or receive posts from them."
+      },
+      "date": 1517092228533
+    },
+    {
+      "type": "edit",
+      "id": "4122e5a4a723641b",
+      "item": {
+        "type": "paragraph",
+        "id": "4122e5a4a723641b",
+        "text": "You can of course create multiple accounts if you want to have different ones for different purposes. For example, sometimes people have one account for general chat and another for talking politics. Sometimes different accounts for different purposes are known as \"aspects\"."
+      },
+      "date": 1535015298575
+    }
+  ]
+}
