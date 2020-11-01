@@ -1,0 +1,171 @@
+{
+  "title": "Notable Instances",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "55e5f82305ca33d0",
+      "text": "[[Highland Arrow]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "234f52bfcd1c0daf",
+      "text": "[[mastodon.social]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "25355eccabb5bbeb",
+      "text": "[[pawoo]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c422d2d7c3aaa7e7",
+      "text": "[[shitposter.club]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a9973c42023cfb7",
+      "text": "[[switter]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "baf9e3add38f3fe7",
+      "text": "[[Hiveway]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8c082655cee4d5cf",
+      "text": "[[Librem One]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Notable Instances",
+        "story": []
+      },
+      "date": 1528361695461
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c422d2d7c3aaa7e7"
+      },
+      "id": "c422d2d7c3aaa7e7",
+      "type": "add",
+      "date": 1528361699849
+    },
+    {
+      "type": "edit",
+      "id": "c422d2d7c3aaa7e7",
+      "item": {
+        "type": "paragraph",
+        "id": "c422d2d7c3aaa7e7",
+        "text": "[[shitposter.club]]"
+      },
+      "date": 1528361725952
+    },
+    {
+      "type": "add",
+      "id": "25355eccabb5bbeb",
+      "item": {
+        "type": "paragraph",
+        "id": "25355eccabb5bbeb",
+        "text": "[[pawoo]]"
+      },
+      "after": "c422d2d7c3aaa7e7",
+      "date": 1528361751439
+    },
+    {
+      "type": "add",
+      "id": "0a9973c42023cfb7",
+      "item": {
+        "type": "paragraph",
+        "id": "0a9973c42023cfb7",
+        "text": "[[switter]]"
+      },
+      "after": "25355eccabb5bbeb",
+      "date": 1528361776256
+    },
+    {
+      "type": "add",
+      "id": "55e5f82305ca33d0",
+      "item": {
+        "type": "paragraph",
+        "id": "55e5f82305ca33d0",
+        "text": "[[Highland Arrow]]"
+      },
+      "after": "0a9973c42023cfb7",
+      "date": 1528361785077
+    },
+    {
+      "type": "add",
+      "id": "234f52bfcd1c0daf",
+      "item": {
+        "type": "paragraph",
+        "id": "234f52bfcd1c0daf",
+        "text": "[[mastodon.social]]"
+      },
+      "after": "55e5f82305ca33d0",
+      "date": 1528365721897
+    },
+    {
+      "type": "move",
+      "order": [
+        "55e5f82305ca33d0",
+        "c422d2d7c3aaa7e7",
+        "25355eccabb5bbeb",
+        "0a9973c42023cfb7",
+        "234f52bfcd1c0daf"
+      ],
+      "id": "55e5f82305ca33d0",
+      "date": 1528366148683
+    },
+    {
+      "type": "move",
+      "order": [
+        "55e5f82305ca33d0",
+        "234f52bfcd1c0daf",
+        "c422d2d7c3aaa7e7",
+        "25355eccabb5bbeb",
+        "0a9973c42023cfb7"
+      ],
+      "id": "234f52bfcd1c0daf",
+      "date": 1528366153965
+    },
+    {
+      "type": "move",
+      "order": [
+        "55e5f82305ca33d0",
+        "234f52bfcd1c0daf",
+        "25355eccabb5bbeb",
+        "c422d2d7c3aaa7e7",
+        "0a9973c42023cfb7"
+      ],
+      "id": "25355eccabb5bbeb",
+      "date": 1528366159619
+    },
+    {
+      "type": "add",
+      "id": "8c082655cee4d5cf",
+      "item": {
+        "type": "paragraph",
+        "id": "8c082655cee4d5cf",
+        "text": "[[Librem One]]"
+      },
+      "after": "0a9973c42023cfb7",
+      "date": 1557328275600
+    },
+    {
+      "type": "add",
+      "id": "baf9e3add38f3fe7",
+      "item": {
+        "type": "paragraph",
+        "id": "baf9e3add38f3fe7",
+        "text": "[[Hiveway]]"
+      },
+      "after": "0a9973c42023cfb7",
+      "date": 1557331177700
+    }
+  ]
+}
