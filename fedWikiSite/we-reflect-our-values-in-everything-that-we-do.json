@@ -1,0 +1,39 @@
+{
+  "title": "We reflect our values in everything that we do",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4f1bb76e545c0afd",
+      "text": "Every occasion is an opportunity to live out our values of freedom, cooperation and solidarity. We should not be shy about expressing our values or hide behind a false mask of neutrality."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We reflect our values in everything that we do",
+        "story": []
+      },
+      "date": 1527501945972
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f1bb76e545c0afd"
+      },
+      "id": "4f1bb76e545c0afd",
+      "type": "add",
+      "date": 1527501947617
+    },
+    {
+      "type": "edit",
+      "id": "4f1bb76e545c0afd",
+      "item": {
+        "type": "paragraph",
+        "id": "4f1bb76e545c0afd",
+        "text": "Every occasion is an opportunity to live out our values of freedom, cooperation and solidarity. We should not be shy about expressing our values or hide behind a false mask of neutrality."
+      },
+      "date": 1527502094787
+    }
+  ]
+}
