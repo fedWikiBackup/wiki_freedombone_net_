@@ -1,0 +1,544 @@
+{
+  "title": "Dimensions of Decentralization",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "eaecf06fe661d1f0",
+      "text": "Decentralized systems can be conceptualized along three axes, forming the Governance Cube."
+    },
+    {
+      "type": "html",
+      "id": "2a2084afa28f8ab4",
+      "text": "<h4>Logical</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "6eafa3b6a8b9c5cf",
+      "text": "If you divide the system in half will they continue to function or fail catastrophically."
+    },
+    {
+      "type": "paragraph",
+      "id": "cac6c74105821695",
+      "text": "Can you combine systems which previously ran separately into a larger one, without losing any functionality or having clashing indexes/hashes."
+    },
+    {
+      "type": "html",
+      "id": "50db087dcc3a4fb5",
+      "text": "<h4>Political</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "920d3ae30e9a0a3c",
+      "text": "Is the system controlled by a single individual or a single organization, or is it controlled by many people or different organizations."
+    },
+    {
+      "type": "paragraph",
+      "id": "7af5003caa7b4642",
+      "text": "Do you need anyone's permission to run the system."
+    },
+    {
+      "type": "html",
+      "id": "25449fdf1be7c6fa",
+      "text": "<h4>Architectural</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "a342838b6af21702",
+      "text": "How many computers is the system running on, and how geographically dispersed are they. Are they all in a single warehouse or in many homes and offices."
+    },
+    {
+      "type": "html",
+      "id": "de7359b8caad57fb",
+      "text": "<h4>Examples</h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae72b4d839a37a2b",
+      "text": "Bitcoin: Logically centralized, Architecturally decentralized (apart from mining), politically decentralized (mostly)"
+    },
+    {
+      "type": "paragraph",
+      "id": "45d24f427c066531",
+      "text": "Traditional corporations: Logically centralized, Architecturally centralized, Politically centralized"
+    },
+    {
+      "type": "paragraph",
+      "id": "1b6cb3b858d34653",
+      "text": "Fediverse: Logically decentralized, Politically decentralized, Architecturally decentralized"
+    },
+    {
+      "type": "paragraph",
+      "id": "30411563483a20bb",
+      "text": "Signal App: Logically centralized, Politically centralized, Architecturally decentralized (but single server)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dimensions of Decentralization",
+        "story": []
+      },
+      "date": 1547056978341
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eaecf06fe661d1f0"
+      },
+      "id": "eaecf06fe661d1f0",
+      "type": "add",
+      "date": 1547056996684
+    },
+    {
+      "type": "edit",
+      "id": "eaecf06fe661d1f0",
+      "item": {
+        "type": "paragraph",
+        "id": "eaecf06fe661d1f0",
+        "text": "Decentralized systems can be conceptualized along three axes, forming the Governance Cube."
+      },
+      "date": 1547057052167
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50db087dcc3a4fb5"
+      },
+      "id": "50db087dcc3a4fb5",
+      "type": "add",
+      "after": "e652954d2d140926",
+      "date": 1547057056987
+    },
+    {
+      "type": "edit",
+      "id": "50db087dcc3a4fb5",
+      "item": {
+        "type": "html",
+        "id": "50db087dcc3a4fb5",
+        "text": "<h4>Political</h4>"
+      },
+      "date": 1547057069885
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "920d3ae30e9a0a3c"
+      },
+      "id": "920d3ae30e9a0a3c",
+      "type": "add",
+      "after": "50db087dcc3a4fb5",
+      "date": 1547057079474
+    },
+    {
+      "type": "edit",
+      "id": "920d3ae30e9a0a3c",
+      "item": {
+        "type": "paragraph",
+        "id": "920d3ae30e9a0a3c",
+        "text": "Is the system controlled by a single individual or a single organization, or is it controlled by many people or different organizations."
+      },
+      "date": 1547057136542
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25449fdf1be7c6fa"
+      },
+      "id": "25449fdf1be7c6fa",
+      "type": "add",
+      "after": "920d3ae30e9a0a3c",
+      "date": 1547057165808
+    },
+    {
+      "type": "edit",
+      "id": "25449fdf1be7c6fa",
+      "item": {
+        "type": "html",
+        "id": "25449fdf1be7c6fa",
+        "text": "<h4>Architectural</h4>"
+      },
+      "date": 1547057177352
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a342838b6af21702"
+      },
+      "id": "a342838b6af21702",
+      "type": "add",
+      "after": "25449fdf1be7c6fa",
+      "date": 1547057178666
+    },
+    {
+      "type": "edit",
+      "id": "a342838b6af21702",
+      "item": {
+        "type": "paragraph",
+        "id": "a342838b6af21702",
+        "text": "How many computers is the system running on, and how geographically dispersed are they. Are they all in a single warehouse or in many homes and offices."
+      },
+      "date": 1547057229001
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a2084afa28f8ab4"
+      },
+      "id": "2a2084afa28f8ab4",
+      "type": "add",
+      "after": "64a8a1e18d434c0f",
+      "date": 1547057269565
+    },
+    {
+      "type": "edit",
+      "id": "2a2084afa28f8ab4",
+      "item": {
+        "type": "html",
+        "id": "2a2084afa28f8ab4",
+        "text": "<h4>Logical</h4>"
+      },
+      "date": 1547057281743
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7a26133721c8bc1"
+      },
+      "id": "f7a26133721c8bc1",
+      "type": "add",
+      "after": "2a2084afa28f8ab4",
+      "date": 1547057283401
+    },
+    {
+      "type": "edit",
+      "id": "f7a26133721c8bc1",
+      "item": {
+        "type": "paragraph",
+        "id": "f7a26133721c8bc1",
+        "text": "Is the software one big monolithic lump of code or is it modularized. Can subcomponents run on different machines. Can parts of the software run in parallel on different threads or processors."
+      },
+      "date": 1547057400117
+    },
+    {
+      "type": "add",
+      "id": "6eafa3b6a8b9c5cf",
+      "item": {
+        "type": "paragraph",
+        "id": "6eafa3b6a8b9c5cf",
+        "text": "If you divide the system in half will they continue to function or fail catastrophically."
+      },
+      "after": "f7a26133721c8bc1",
+      "date": 1547057639793
+    },
+    {
+      "type": "add",
+      "id": "cac6c74105821695",
+      "item": {
+        "type": "paragraph",
+        "id": "cac6c74105821695",
+        "text": "Can you combine systems which previously ran separately into a larger one."
+      },
+      "after": "6eafa3b6a8b9c5cf",
+      "date": 1547057687261
+    },
+    {
+      "type": "edit",
+      "id": "cac6c74105821695",
+      "item": {
+        "type": "paragraph",
+        "id": "cac6c74105821695",
+        "text": "Can you combine systems which previously ran separately into a larger one, without losing any functionality."
+      },
+      "date": 1547057708121
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de7359b8caad57fb"
+      },
+      "id": "de7359b8caad57fb",
+      "type": "add",
+      "after": "9be1d15cc9b4e80a",
+      "date": 1547057728726
+    },
+    {
+      "type": "edit",
+      "id": "de7359b8caad57fb",
+      "item": {
+        "type": "html",
+        "id": "de7359b8caad57fb",
+        "text": "<h4>Examples</h4>"
+      },
+      "date": 1547057741956
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae72b4d839a37a2b"
+      },
+      "id": "ae72b4d839a37a2b",
+      "type": "add",
+      "after": "de7359b8caad57fb",
+      "date": 1547057743734
+    },
+    {
+      "type": "edit",
+      "id": "ae72b4d839a37a2b",
+      "item": {
+        "type": "paragraph",
+        "id": "ae72b4d839a37a2b",
+        "text": "Bitcoin: Logically centralized, Architecturally decentralized (apart from mining), politically decentralized (mostly)"
+      },
+      "date": 1547057859520
+    },
+    {
+      "type": "add",
+      "id": "45d24f427c066531",
+      "item": {
+        "type": "paragraph",
+        "id": "45d24f427c066531",
+        "text": "Traditional corporations: Logically centralized, Architecturally centralized, Politically centralized"
+      },
+      "after": "ae72b4d839a37a2b",
+      "date": 1547057949865
+    },
+    {
+      "type": "add",
+      "id": "1b6cb3b858d34653",
+      "item": {
+        "type": "paragraph",
+        "id": "1b6cb3b858d34653",
+        "text": "Fediverse: Logically decentralized, Politically decentralized, Architecturally decentralized"
+      },
+      "after": "45d24f427c066531",
+      "date": 1547058070180
+    },
+    {
+      "type": "add",
+      "id": "30411563483a20bb",
+      "item": {
+        "type": "paragraph",
+        "id": "30411563483a20bb",
+        "text": "Signal App: Logically centralized, Politically centralized, Architecturally decentralized (but single server)"
+      },
+      "after": "1b6cb3b858d34653",
+      "date": 1547058169574
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "eaecf06fe661d1f0",
+      "date": 1547058311387
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "2a2084afa28f8ab4",
+      "date": 1547058316726
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "f7a26133721c8bc1",
+      "date": 1547058323648
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "6eafa3b6a8b9c5cf",
+      "date": 1547058329405
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "cac6c74105821695",
+      "date": 1547058334257
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "50db087dcc3a4fb5",
+      "date": 1547058340036
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702"
+      ],
+      "id": "920d3ae30e9a0a3c",
+      "date": 1547058343633
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb",
+        "a342838b6af21702"
+      ],
+      "id": "25449fdf1be7c6fa",
+      "date": 1547058347574
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaecf06fe661d1f0",
+        "2a2084afa28f8ab4",
+        "f7a26133721c8bc1",
+        "6eafa3b6a8b9c5cf",
+        "cac6c74105821695",
+        "50db087dcc3a4fb5",
+        "920d3ae30e9a0a3c",
+        "25449fdf1be7c6fa",
+        "a342838b6af21702",
+        "de7359b8caad57fb",
+        "ae72b4d839a37a2b",
+        "45d24f427c066531",
+        "1b6cb3b858d34653",
+        "30411563483a20bb"
+      ],
+      "id": "a342838b6af21702",
+      "date": 1547058353192
+    },
+    {
+      "type": "remove",
+      "id": "f7a26133721c8bc1",
+      "date": 1547058429892
+    },
+    {
+      "type": "add",
+      "id": "7af5003caa7b4642",
+      "item": {
+        "type": "paragraph",
+        "id": "7af5003caa7b4642",
+        "text": "Do you need anyone's permission to run the system."
+      },
+      "after": "920d3ae30e9a0a3c",
+      "date": 1547058594174
+    },
+    {
+      "type": "edit",
+      "id": "cac6c74105821695",
+      "item": {
+        "type": "paragraph",
+        "id": "cac6c74105821695",
+        "text": "Can you combine systems which previously ran separately into a larger one, without losing any functionality or having clashing indexes/hashes."
+      },
+      "date": 1547058649147
+    }
+  ]
+}
