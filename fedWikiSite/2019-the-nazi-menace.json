@@ -1,0 +1,740 @@
+{
+  "title": "2019: The Nazi Menace",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8d10c1fdd43b13b6",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "f704784b36d93a6a",
+      "text": "With its launch in 2016 and first wave of success in early 2017 Mastodon had badged itself as the system which doesn't accept nazis."
+    },
+    {
+      "type": "paragraph",
+      "id": "66b71ab4aac039c5",
+      "text": "Up until 2019 migrations into the fediverse had been fairly benign and with a large LGBTQ quotient. But 2019 was the first case of what might be described as a hostile migration."
+    },
+    {
+      "type": "paragraph",
+      "id": "b050c46ee53802be",
+      "text": "The neo-nazi site gab.com moved its operations from its previously failed proprietary server over to using a fork of Mastodon. This caused a lot of alarm among existing fediverse users and instance admins. Gab had already been banned from silo sites due to its promotion of extreme hatred and support for acts of terrorism including mass shootings."
+    },
+    {
+      "type": "paragraph",
+      "id": "9d452d9c2b73aa7b",
+      "text": "Even before gab.com officially re-launched at the beginning of July fediverse admins were pre-emptively blocking federation with the site."
+    },
+    {
+      "type": "paragraph",
+      "id": "d5b62aed4ddfe034",
+      "text": "One fediverse Android app called Tusky took a stand by building the block on gab.com directly into its codebase. Another app called Fedilab announced that it would do the same, but then quickly backpeddled on the decision."
+    },
+    {
+      "type": "paragraph",
+      "id": "3c5bdef881087cf7",
+      "text": "Anti-feminists attempting to spread hatred of people in the LGBT community also used the Gab fork of Mastodon on a site called spinster.xyz, forming an axis alliance with the nazis."
+    },
+    {
+      "type": "paragraph",
+      "id": "d197216786afca02",
+      "text": "But the Nazi menace proved to be more of a damp squib than a Cyber-Blitzkrieg. Their instances were fairly isolated and their user counts were enormously exaggerated in keeping with the possession of a dictatorially grandiose mindset (plotting world domination while having a handful of real followers and a large number of bots spewing nonsense)."
+    },
+    {
+      "type": "paragraph",
+      "id": "8d9f84be871aa0ec",
+      "text": "At the end of the year one analysis found that of the active users on gab.com over 90% were news bots, with only a small number of genuinely active accounts."
+    },
+    {
+      "type": "paragraph",
+      "id": "407cb01d17528d0b",
+      "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy if there is enough education about the threat. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. "
+    },
+    {
+      "type": "paragraph",
+      "id": "51c453d73fa2da37",
+      "text": "A group with a centralized way of thinking and organizing also tends to fare poorly within the jungle of decentralized horizontalists. It was only really within the silo systems that they could reach a mass audience."
+    },
+    {
+      "type": "html",
+      "id": "1e1d294ab1b06cc9",
+      "text": "<b>India Arrives</b>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6aac78c511194f6",
+      "text": "In November there was a major exodus from India into the fediverse, after an Indian supreme court lawyer, Sanjay Hegde, was banned from Twitter resulting in a political storm in which the Blue Bird Site was accused (unsurprisingly) of yet another case of bias. Hegde had been critical of right wing government and had posted a classic 1930s photo of many nazis saluting but [https://en.wikipedia.org/wiki/August_Landmesser one person] conspicuously refusing to do so."
+    },
+    {
+      "type": "html",
+      "id": "dd7cc80cff6190cf",
+      "text": "<img src=\"https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/socialwakest/media_attachments/files/000/349/389/original/ebdf25bc0baddcf9.jpeg\" width=\"400\"/>\n"
+    },
+    {
+      "type": "html",
+      "id": "dc57e8af86d11417",
+      "text": "<b>Spanish exodus</b>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a46edc1d1cec5aa0",
+      "text": "In December Twitter had a purge of Spanish leftists. Many of them showed up in the fediverse, and on Twitter they used the hashtag #YoMigroAMastodon to encourage others to leave."
+    },
+    {
+      "type": "html",
+      "id": "148c0ee9b60afbcf",
+      "text": "<img src=\"https://pics.freedombone.net/uploads/big/cf4ee29777ae886920127d6cc8574e8d.jpg\" width=\"400\"/>"
+    },
+    {
+      "type": "html",
+      "id": "ab7fd570895ea006",
+      "text": "<b>Chaos Computer Club</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "c79542a01efdabf0",
+      "text": "At the annual congress Mastodon was significantly more referenced than in the previous two years, and some speakers asked the audience to give feedback via Mastodon hashtags."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2019: The Nazi Menace",
+        "story": []
+      },
+      "date": 1573399190055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f704784b36d93a6a"
+      },
+      "id": "f704784b36d93a6a",
+      "type": "add",
+      "date": 1573399194162
+    },
+    {
+      "type": "edit",
+      "id": "f704784b36d93a6a",
+      "item": {
+        "type": "paragraph",
+        "id": "f704784b36d93a6a",
+        "text": "With its launch in 2016 and first wave of success in early 2017 Mastodon had badged itself as the system which doesn't accept nazis."
+      },
+      "date": 1573399300485
+    },
+    {
+      "type": "add",
+      "id": "66b71ab4aac039c5",
+      "item": {
+        "type": "paragraph",
+        "id": "66b71ab4aac039c5",
+        "text": "Up until 2019 migrations into the fediverse had been fairly benign and with a large LGBTQ quotient. But 2019 was the first case of what might be described as a hostile migration."
+      },
+      "after": "f704784b36d93a6a",
+      "date": 1573399407237
+    },
+    {
+      "type": "add",
+      "id": "b050c46ee53802be",
+      "item": {
+        "type": "paragraph",
+        "id": "b050c46ee53802be",
+        "text": "The neo-nazi site gab.com moved its operations from its previously failed proprietary server over to using a fork of Mastodon. This caused a lot of alarm among existing fediverse users and instance admins."
+      },
+      "after": "66b71ab4aac039c5",
+      "date": 1573399565932
+    },
+    {
+      "type": "add",
+      "id": "9d452d9c2b73aa7b",
+      "item": {
+        "type": "paragraph",
+        "id": "9d452d9c2b73aa7b",
+        "text": "Even before gab.com officially re-leanched at the beginning of July fediverse admins were pre-emptively blocking federation with the site."
+      },
+      "after": "b050c46ee53802be",
+      "date": 1573399628406
+    },
+    {
+      "type": "add",
+      "id": "d5b62aed4ddfe034",
+      "item": {
+        "type": "paragraph",
+        "id": "d5b62aed4ddfe034",
+        "text": "One fediverse Android app called Tusky took a stand by building the block on gab.com directly into its codebase. Another app called Fedilab"
+      },
+      "after": "9d452d9c2b73aa7b",
+      "date": 1573399790942
+    },
+    {
+      "type": "edit",
+      "id": "d5b62aed4ddfe034",
+      "item": {
+        "type": "paragraph",
+        "id": "d5b62aed4ddfe034",
+        "text": "One fediverse Android app called Tusky took a stand by building the block on gab.com directly into its codebase. Another app called Fedilab announced that it would do the same, but then quickly backpeddled."
+      },
+      "date": 1573399823335
+    },
+    {
+      "type": "edit",
+      "id": "d5b62aed4ddfe034",
+      "item": {
+        "type": "paragraph",
+        "id": "d5b62aed4ddfe034",
+        "text": "One fediverse Android app called Tusky took a stand by building the block on gab.com directly into its codebase. Another app called Fedilab announced that it would do the same, but then quickly backpeddled on the decision."
+      },
+      "date": 1573399892612
+    },
+    {
+      "type": "add",
+      "id": "3c5bdef881087cf7",
+      "item": {
+        "type": "paragraph",
+        "id": "3c5bdef881087cf7",
+        "text": "The nazis also allied with anti-feminists"
+      },
+      "after": "d5b62aed4ddfe034",
+      "date": 1573400282306
+    },
+    {
+      "type": "edit",
+      "id": "3c5bdef881087cf7",
+      "item": {
+        "type": "paragraph",
+        "id": "3c5bdef881087cf7",
+        "text": "Anti-feminists also used the same Gab fork of Mastodon on a site called spinster.xyz."
+      },
+      "date": 1573400381544
+    },
+    {
+      "type": "add",
+      "id": "d197216786afca02",
+      "item": {
+        "type": "paragraph",
+        "id": "d197216786afca02",
+        "text": "But the Nazi menace proved to be more of a damp squib than a Cyber-Blitzkrieg. Their instances were fairly isolated and their user counts were enormously exaggerated in keeping with the presence of a dictatorially grandiose mindset."
+      },
+      "after": "3c5bdef881087cf7",
+      "date": 1573400595344
+    },
+    {
+      "type": "edit",
+      "id": "d197216786afca02",
+      "item": {
+        "type": "paragraph",
+        "id": "d197216786afca02",
+        "text": "But the Nazi menace proved to be more of a damp squib than a Cyber-Blitzkrieg. Their instances were fairly isolated and their user counts were enormously exaggerated in keeping with the presence of a dictatorially grandiose mindset (plotting world domination while having a handful of real followers and a large number of bots)."
+      },
+      "date": 1573400648064
+    },
+    {
+      "type": "edit",
+      "id": "d197216786afca02",
+      "item": {
+        "type": "paragraph",
+        "id": "d197216786afca02",
+        "text": "But the Nazi menace proved to be more of a damp squib than a Cyber-Blitzkrieg. Their instances were fairly isolated and their user counts were enormously exaggerated in keeping with the possession of a dictatorially grandiose mindset (plotting world domination while having a handful of real followers and a large number of bots)."
+      },
+      "date": 1573400695093
+    },
+    {
+      "type": "edit",
+      "id": "d197216786afca02",
+      "item": {
+        "type": "paragraph",
+        "id": "d197216786afca02",
+        "text": "But the Nazi menace proved to be more of a damp squib than a Cyber-Blitzkrieg. Their instances were fairly isolated and their user counts were enormously exaggerated in keeping with the possession of a dictatorially grandiose mindset (plotting world domination while having a handful of real followers and a large number of bots spewing nonsense)."
+      },
+      "date": 1573400717414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e1d294ab1b06cc9"
+      },
+      "id": "1e1d294ab1b06cc9",
+      "type": "add",
+      "after": "763bb7e0513ecb76",
+      "date": 1573401659698
+    },
+    {
+      "type": "edit",
+      "id": "1e1d294ab1b06cc9",
+      "item": {
+        "type": "html",
+        "id": "1e1d294ab1b06cc9",
+        "text": "<b>India Arrives</b>\n"
+      },
+      "date": 1573401685527
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6aac78c511194f6"
+      },
+      "id": "d6aac78c511194f6",
+      "type": "add",
+      "after": "1e1d294ab1b06cc9",
+      "date": 1573401691133
+    },
+    {
+      "type": "edit",
+      "id": "d6aac78c511194f6",
+      "item": {
+        "type": "paragraph",
+        "id": "d6aac78c511194f6",
+        "text": "In November there was a major exodus from India into the fediverse. "
+      },
+      "date": 1573401750094
+    },
+    {
+      "type": "edit",
+      "id": "d6aac78c511194f6",
+      "item": {
+        "type": "paragraph",
+        "id": "d6aac78c511194f6",
+        "text": "In November there was a major exodus from India into the fediverse, after an Indian supreme court lawyer, Sanjay Hegde, was banned from Twitter resulting in a political storm in which the Blue Bird Site was accused (unsurprisingly) of yet another case of bias."
+      },
+      "date": 1573401957846
+    },
+    {
+      "type": "add",
+      "id": "8d10c1fdd43b13b6",
+      "item": {
+        "type": "paragraph",
+        "id": "8d10c1fdd43b13b6",
+        "text": " "
+      },
+      "after": "d6aac78c511194f6",
+      "date": 1573401974024
+    },
+    {
+      "type": "edit",
+      "id": "d6aac78c511194f6",
+      "item": {
+        "type": "paragraph",
+        "id": "d6aac78c511194f6",
+        "text": "In November there was a major exodus from India into the fediverse, after an Indian supreme court lawyer, Sanjay Hegde, was banned from Twitter resulting in a political storm in which the Blue Bird Site was accused (unsurprisingly) of yet another case of bias. Hegde had been critical of right wing government and had posted a classic 1930s photo of many nazis saluting but one person conspicuously refusing to do so."
+      },
+      "date": 1573402299009
+    },
+    {
+      "id": "d6aac78c511194f6",
+      "type": "move",
+      "order": [
+        "1e1d294ab1b06cc9",
+        "8d10c1fdd43b13b6",
+        "f704784b36d93a6a",
+        "66b71ab4aac039c5",
+        "b050c46ee53802be",
+        "9d452d9c2b73aa7b",
+        "d5b62aed4ddfe034",
+        "3c5bdef881087cf7",
+        "d6aac78c511194f6",
+        "d197216786afca02"
+      ],
+      "date": 1573402515946
+    },
+    {
+      "id": "d6aac78c511194f6",
+      "type": "move",
+      "order": [
+        "1e1d294ab1b06cc9",
+        "8d10c1fdd43b13b6",
+        "f704784b36d93a6a",
+        "66b71ab4aac039c5",
+        "b050c46ee53802be",
+        "9d452d9c2b73aa7b",
+        "d5b62aed4ddfe034",
+        "3c5bdef881087cf7",
+        "d197216786afca02",
+        "d6aac78c511194f6"
+      ],
+      "date": 1573402523312
+    },
+    {
+      "id": "1e1d294ab1b06cc9",
+      "type": "move",
+      "order": [
+        "8d10c1fdd43b13b6",
+        "f704784b36d93a6a",
+        "66b71ab4aac039c5",
+        "b050c46ee53802be",
+        "9d452d9c2b73aa7b",
+        "d5b62aed4ddfe034",
+        "3c5bdef881087cf7",
+        "d197216786afca02",
+        "1e1d294ab1b06cc9",
+        "d6aac78c511194f6"
+      ],
+      "date": 1573402529258
+    },
+    {
+      "type": "edit",
+      "id": "d6aac78c511194f6",
+      "item": {
+        "type": "paragraph",
+        "id": "d6aac78c511194f6",
+        "text": "In November there was a major exodus from India into the fediverse, after an Indian supreme court lawyer, Sanjay Hegde, was banned from Twitter resulting in a political storm in which the Blue Bird Site was accused (unsurprisingly) of yet another case of bias. Hegde had been critical of right wing government and had posted a classic 1930s photo of many nazis saluting but [https://en.wikipedia.org/wiki/August_Landmesser one person] conspicuously refusing to do so."
+      },
+      "date": 1573402544966
+    },
+    {
+      "type": "edit",
+      "id": "b050c46ee53802be",
+      "item": {
+        "type": "paragraph",
+        "id": "b050c46ee53802be",
+        "text": "The neo-nazi site gab.com moved its operations from its previously failed proprietary server over to using a fork of Mastodon. This caused a lot of alarm among existing fediverse users and instance admins. Gab had already been banned from silo sites due to its promotion of extreme hatred and support for acts of terrorism."
+      },
+      "date": 1573404293055
+    },
+    {
+      "type": "edit",
+      "id": "b050c46ee53802be",
+      "item": {
+        "type": "paragraph",
+        "id": "b050c46ee53802be",
+        "text": "The neo-nazi site gab.com moved its operations from its previously failed proprietary server over to using a fork of Mastodon. This caused a lot of alarm among existing fediverse users and instance admins. Gab had already been banned from silo sites due to its promotion of extreme hatred and support for acts of terrorism including mass shootings."
+      },
+      "date": 1573404325601
+    },
+    {
+      "type": "edit",
+      "id": "3c5bdef881087cf7",
+      "item": {
+        "type": "paragraph",
+        "id": "3c5bdef881087cf7",
+        "text": "Anti-feminists also used the Gab fork of Mastodon on a site called spinster.xyz."
+      },
+      "date": 1573404375201
+    },
+    {
+      "type": "edit",
+      "id": "3c5bdef881087cf7",
+      "item": {
+        "type": "paragraph",
+        "id": "3c5bdef881087cf7",
+        "text": "Anti-feminists attempting to spread hatred of people in the LGBT community also used the Gab fork of Mastodon on a site called spinster.xyz."
+      },
+      "date": 1573404453444
+    },
+    {
+      "type": "edit",
+      "id": "3c5bdef881087cf7",
+      "item": {
+        "type": "paragraph",
+        "id": "3c5bdef881087cf7",
+        "text": "Anti-feminists attempting to spread hatred of people in the LGBT community also used the Gab fork of Mastodon on a site called spinster.xyz, forming an axis alliance with the nazis."
+      },
+      "date": 1573404506553
+    },
+    {
+      "type": "add",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recuit becomes severely limited."
+      },
+      "after": "d197216786afca02",
+      "date": 1573404774270
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited."
+      },
+      "date": 1573404821885
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. An organization with a centralized way of thinking and organizing also tends to fare poorly within the jungle of a decentralized horizontalists."
+      },
+      "date": 1573405026572
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. An organization with a centralized way of thinking and organizing also tends to fare poorly within the jungle of decentralized horizontalists."
+      },
+      "date": 1573405049157
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. A group with a centralized way of thinking and organizing also tends to fare poorly within the jungle of decentralized horizontalists."
+      },
+      "date": 1573405566946
+    },
+    {
+      "type": "edit",
+      "id": "9d452d9c2b73aa7b",
+      "item": {
+        "type": "paragraph",
+        "id": "9d452d9c2b73aa7b",
+        "text": "Even before gab.com officially re-launched at the beginning of July fediverse admins were pre-emptively blocking federation with the site."
+      },
+      "date": 1573405704619
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. "
+      },
+      "date": 1573405852169
+    },
+    {
+      "type": "add",
+      "id": "51c453d73fa2da37",
+      "item": {
+        "type": "paragraph",
+        "id": "51c453d73fa2da37",
+        "text": "A group with a centralized way of thinking and organizing also tends to fare poorly within the jungle of decentralized horizontalists. It was only really within the silo systems that they could reach a mass audience."
+      },
+      "after": "407cb01d17528d0b",
+      "date": 1573405856436
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd7cc80cff6190cf"
+      },
+      "id": "dd7cc80cff6190cf",
+      "type": "add",
+      "after": "1e5ef33f83a65572",
+      "date": 1573728558352
+    },
+    {
+      "type": "edit",
+      "id": "dd7cc80cff6190cf",
+      "item": {
+        "type": "html",
+        "id": "dd7cc80cff6190cf",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/72321d2e697948221b229f2233bfdc0f.jpg\" width=\"400\"/>"
+      },
+      "date": 1573728571825
+    },
+    {
+      "type": "edit",
+      "id": "dd7cc80cff6190cf",
+      "item": {
+        "type": "html",
+        "id": "dd7cc80cff6190cf",
+        "text": "<img src=\"https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/socialwakest/media_attachments/files/000/349/389/original/ebdf25bc0baddcf9.jpeg\" width=\"400\"/>\n"
+      },
+      "date": 1573728599839
+    },
+    {
+      "id": "dd7cc80cff6190cf",
+      "type": "move",
+      "order": [
+        "8d10c1fdd43b13b6",
+        "f704784b36d93a6a",
+        "66b71ab4aac039c5",
+        "b050c46ee53802be",
+        "9d452d9c2b73aa7b",
+        "d5b62aed4ddfe034",
+        "3c5bdef881087cf7",
+        "d197216786afca02",
+        "407cb01d17528d0b",
+        "51c453d73fa2da37",
+        "1e1d294ab1b06cc9",
+        "d6aac78c511194f6",
+        "dd7cc80cff6190cf"
+      ],
+      "date": 1573728667455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc57e8af86d11417"
+      },
+      "id": "dc57e8af86d11417",
+      "type": "add",
+      "after": "dd7cc80cff6190cf",
+      "date": 1577794039170
+    },
+    {
+      "type": "edit",
+      "id": "dc57e8af86d11417",
+      "item": {
+        "type": "html",
+        "id": "dc57e8af86d11417",
+        "text": "<b>Spanish exodus</b>"
+      },
+      "date": 1577794058966
+    },
+    {
+      "type": "edit",
+      "id": "dc57e8af86d11417",
+      "item": {
+        "type": "html",
+        "id": "dc57e8af86d11417",
+        "text": "<b>Spanish exodus</b>\n"
+      },
+      "date": 1577794067822
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a46edc1d1cec5aa0"
+      },
+      "id": "a46edc1d1cec5aa0",
+      "type": "add",
+      "after": "dc57e8af86d11417",
+      "date": 1577794069478
+    },
+    {
+      "type": "edit",
+      "id": "a46edc1d1cec5aa0",
+      "item": {
+        "type": "paragraph",
+        "id": "a46edc1d1cec5aa0",
+        "text": "In December there Twitter had a purge of Spanish leftists. Many of them showed up in the fediverse."
+      },
+      "date": 1577794115964
+    },
+    {
+      "type": "edit",
+      "id": "a46edc1d1cec5aa0",
+      "item": {
+        "type": "paragraph",
+        "id": "a46edc1d1cec5aa0",
+        "text": "In December there Twitter had a purge of Spanish leftists. Many of them showed up in the fediverse, and on Twitter they used the hashtag #YoMigroAMastodon to encourage others to leave."
+      },
+      "date": 1577794150500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "148c0ee9b60afbcf"
+      },
+      "id": "148c0ee9b60afbcf",
+      "type": "add",
+      "after": "a46edc1d1cec5aa0",
+      "date": 1577794356516
+    },
+    {
+      "type": "edit",
+      "id": "148c0ee9b60afbcf",
+      "item": {
+        "type": "html",
+        "id": "148c0ee9b60afbcf",
+        "text": "<img src=\"https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/socialwakest/media_attachments/files/000/349/389/original/ebdf25bc0baddcf9.jpeg\" width=\"400\"/>"
+      },
+      "date": 1577794370065
+    },
+    {
+      "type": "edit",
+      "id": "148c0ee9b60afbcf",
+      "item": {
+        "type": "html",
+        "id": "148c0ee9b60afbcf",
+        "text": "<img src=\"https://pics.freedombone.net/uploads/big/cf4ee29777ae886920127d6cc8574e8d.jpg\" width=\"400\"/>"
+      },
+      "date": 1577794397512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab7fd570895ea006"
+      },
+      "id": "ab7fd570895ea006",
+      "type": "add",
+      "after": "148c0ee9b60afbcf",
+      "date": 1577794458331
+    },
+    {
+      "type": "edit",
+      "id": "ab7fd570895ea006",
+      "item": {
+        "type": "html",
+        "id": "ab7fd570895ea006",
+        "text": "<b>Chaos Computer Club</b>"
+      },
+      "date": 1577794480059
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c79542a01efdabf0"
+      },
+      "id": "c79542a01efdabf0",
+      "type": "add",
+      "after": "ab7fd570895ea006",
+      "date": 1577794482116
+    },
+    {
+      "type": "edit",
+      "id": "c79542a01efdabf0",
+      "item": {
+        "type": "paragraph",
+        "id": "c79542a01efdabf0",
+        "text": "At the annual congress Mastodon was significantly more referenced than in the previous two years, and some speakers asked the audience to give feedback via Mastodon hashtags."
+      },
+      "date": 1577794573366
+    },
+    {
+      "type": "add",
+      "id": "8d9f84be871aa0ec",
+      "item": {
+        "type": "paragraph",
+        "id": "8d9f84be871aa0ec",
+        "text": "At the end of the year one analysis found that of the active users on gab.com over 90% were news bots, with only a small number of genuinely active accounts."
+      },
+      "after": "d197216786afca02",
+      "date": 1577794882942
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy if there is enough education about the problem. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. "
+      },
+      "date": 1577795017560
+    },
+    {
+      "type": "edit",
+      "id": "407cb01d17528d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "407cb01d17528d0b",
+        "text": "The lesson from the nazi migration is that containment can be a fairly successful strategy if there is enough education about the threat. Like an immune system isolating a dangerous pathogen. Left to their own devices the nazis resort to turning on their own, and their ability to mobilize and recruit becomes severely limited. "
+      },
+      "date": 1577795037497
+    },
+    {
+      "type": "edit",
+      "id": "a46edc1d1cec5aa0",
+      "item": {
+        "type": "paragraph",
+        "id": "a46edc1d1cec5aa0",
+        "text": "In December Twitter had a purge of Spanish leftists. Many of them showed up in the fediverse, and on Twitter they used the hashtag #YoMigroAMastodon to encourage others to leave."
+      },
+      "date": 1577795508672
+    }
+  ]
+}
