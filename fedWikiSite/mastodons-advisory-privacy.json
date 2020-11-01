@@ -1,0 +1,133 @@
+{
+  "title": "Mastodon's Advisory Privacy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5dc77f138dbd6527",
+      "text": "After Mastodon went viral in April 2017, and possibly influenced by incoming members of Infosec Twitter, levels of privacy were added for posts. Mastodon users could choose for posts to be visible to anyone or only sent to followers."
+    },
+    {
+      "type": "paragraph",
+      "id": "f726b5e88b642002",
+      "text": "At the time of its devising one user commented on how he didn't know whether to cry about the lack of any real privacy in this mechanism or laugh at the fatuousness of its implementation."
+    },
+    {
+      "type": "paragraph",
+      "id": "4c348a5795ae73c0",
+      "text": "This was typically referred to as \"advisory privacy\". That is, you're trusting the server to do the right thing and send the posts to the right users, with no cryptographic checks or content protection beyond regular TLS."
+    },
+    {
+      "type": "paragraph",
+      "id": "ebdaa80b10724ac0",
+      "text": "This also tied in with the lack of key based identity. If that had existed then real messaging privacy would have been possible."
+    },
+    {
+      "type": "paragraph",
+      "id": "71ac48d24448bfe6",
+      "text": "The danger with advisory privacy was that it led users into the false confidence that the messages they were sending could not be read by unexpected third parties, when the reality may be something different."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mastodon's Advisory Privacy",
+        "story": []
+      },
+      "date": 1517063287383
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5dc77f138dbd6527"
+      },
+      "id": "5dc77f138dbd6527",
+      "type": "add",
+      "date": 1517063291108
+    },
+    {
+      "type": "edit",
+      "id": "5dc77f138dbd6527",
+      "item": {
+        "type": "paragraph",
+        "id": "5dc77f138dbd6527",
+        "text": "After Mastodon went viral in April 2017, and possibly influenced by incoming members of Infosec Twitter, levels of privacy were added for posts. Mastodon users could choose for posts to be visible to anyone or only sent to followers."
+      },
+      "date": 1517063394659
+    },
+    {
+      "type": "add",
+      "id": "f726b5e88b642002",
+      "item": {
+        "type": "paragraph",
+        "id": "f726b5e88b642002",
+        "text": "At the time of its devising one user commented on how he didn't know whether to cry about the lack of any real privacy in this mechanism or laugh at the fatuousness of its implementation."
+      },
+      "after": "5dc77f138dbd6527",
+      "date": 1517063480066
+    },
+    {
+      "type": "add",
+      "id": "4c348a5795ae73c0",
+      "item": {
+        "type": "paragraph",
+        "id": "4c348a5795ae73c0",
+        "text": "This was typically referred to as \"advisory privacy\". That is, you're trusting the server to do the right thing and send the posts to the right users, with no cryptographic checks."
+      },
+      "after": "f726b5e88b642002",
+      "date": 1517063652224
+    },
+    {
+      "type": "add",
+      "id": "ebdaa80b10724ac0",
+      "item": {
+        "type": "paragraph",
+        "id": "ebdaa80b10724ac0",
+        "text": "This also tied in with the lack of key based identity. If that had existed then real messaging privacy would have been possible."
+      },
+      "after": "4c348a5795ae73c0",
+      "date": 1517063704377
+    },
+    {
+      "type": "add",
+      "id": "71ac48d24448bfe6",
+      "item": {
+        "type": "paragraph",
+        "id": "71ac48d24448bfe6",
+        "text": "The danger with advisory privacy was that it led users to having a false confidence that the messages they were sending could not be read by unexpected third parties."
+      },
+      "after": "ebdaa80b10724ac0",
+      "date": 1517063748944
+    },
+    {
+      "type": "edit",
+      "id": "4c348a5795ae73c0",
+      "item": {
+        "type": "paragraph",
+        "id": "4c348a5795ae73c0",
+        "text": "This was typically referred to as \"advisory privacy\". That is, you're trusting the server to do the right thing and send the posts to the right users, with no cryptographic checks or content protection beyond regular TLS."
+      },
+      "date": 1517090088995
+    },
+    {
+      "type": "edit",
+      "id": "71ac48d24448bfe6",
+      "item": {
+        "type": "paragraph",
+        "id": "71ac48d24448bfe6",
+        "text": "The danger with advisory privacy was that it led users into the false confidence that the messages they were sending could not be read by unexpected third parties."
+      },
+      "date": 1517090146786
+    },
+    {
+      "type": "edit",
+      "id": "71ac48d24448bfe6",
+      "item": {
+        "type": "paragraph",
+        "id": "71ac48d24448bfe6",
+        "text": "The danger with advisory privacy was that it led users into the false confidence that the messages they were sending could not be read by unexpected third parties, when the reality may be something different."
+      },
+      "date": 1517090161324
+    }
+  ]
+}
