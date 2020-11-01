@@ -1,0 +1,49 @@
+{
+  "title": "I don't like the name \"Mastodon\"",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "befef62c47a7b8a9",
+      "text": "Tough. There are bigger things to be concerned about."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "I don't like the name \"Mastodon\"",
+        "story": []
+      },
+      "date": 1517000962531
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "befef62c47a7b8a9"
+      },
+      "id": "befef62c47a7b8a9",
+      "type": "add",
+      "date": 1517000964047
+    },
+    {
+      "type": "edit",
+      "id": "befef62c47a7b8a9",
+      "item": {
+        "type": "paragraph",
+        "id": "befef62c47a7b8a9",
+        "text": "Tough."
+      },
+      "date": 1517000969195
+    },
+    {
+      "type": "edit",
+      "id": "befef62c47a7b8a9",
+      "item": {
+        "type": "paragraph",
+        "id": "befef62c47a7b8a9",
+        "text": "Tough. There are bigger things to be concerned about."
+      },
+      "date": 1517000989860
+    }
+  ]
+}
