@@ -1,0 +1,471 @@
+{
+  "title": "The Small Tech Manifesto",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d68b2464ef0c75c5",
+      "text": "Is built by humans for humans."
+    },
+    {
+      "type": "paragraph",
+      "id": "25473200faf76c96",
+      "text": "By Aral Balkan"
+    },
+    {
+      "type": "paragraph",
+      "id": "9059db09555ea461",
+      "text": "-"
+    },
+    {
+      "type": "paragraph",
+      "id": "fb9abb455ba6b2e3",
+      "text": "Is not for profit."
+    },
+    {
+      "type": "paragraph",
+      "id": "9abd9fe4989d72e9",
+      "text": "Is built by individuals and organisations without equity capital."
+    },
+    {
+      "type": "paragraph",
+      "id": "e6d258258b9be9b8",
+      "text": "Is not sponsored by Big Tech/surveillance capitalists."
+    },
+    {
+      "type": "paragraph",
+      "id": "97b7f498db8efe3e",
+      "text": "Is private by default."
+    },
+    {
+      "type": "paragraph",
+      "id": "97e717ec3c3a32cb",
+      "text": "Is peer-to-peer."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd9ae4ddcc37b2d5",
+      "text": "Is copyleft."
+    },
+    {
+      "type": "paragraph",
+      "id": "fc8f38c5ddeeb422",
+      "text": "Favours small over big, simple over complex, and modular over monolithic."
+    },
+    {
+      "type": "paragraph",
+      "id": "e2b45c4686fb3004",
+      "text": "Respects human rights, effort, and experience."
+    },
+    {
+      "type": "paragraph",
+      "id": "2f6de2cba9cd4a7d",
+      "text": "Is human scale."
+    },
+    {
+      "type": "paragraph",
+      "id": "ba2d33bee48811fb",
+      "text": "Is owned and controlled by individuals, not corporations or governments."
+    },
+    {
+      "type": "paragraph",
+      "id": "3463a4b1fe4d6a5d",
+      "text": "Respects, protects, and reinforces the integrity of personhood, human rights, social justice, and democracy in the digital and networked age."
+    },
+    {
+      "type": "paragraph",
+      "id": "160e7567d5403312",
+      "text": "Encourages hitherto impractical non-hierarchial political organisation and agency at scale."
+    },
+    {
+      "type": "paragraph",
+      "id": "116c1f06bbf5785f",
+      "text": "Nurtures a healthy commons."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ddc44b947855835",
+      "text": "Is sustainable."
+    },
+    {
+      "type": "paragraph",
+      "id": "347e002e4f3175e5",
+      "text": "Will one day be funded from the commons, for the common good."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a18a5aa49d49902",
+      "text": "Will never make anyone a billion dollars."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Small Tech Manifesto",
+        "story": []
+      },
+      "date": 1551789918771
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d68b2464ef0c75c5"
+      },
+      "id": "d68b2464ef0c75c5",
+      "type": "add",
+      "date": 1551789941327
+    },
+    {
+      "type": "edit",
+      "id": "d68b2464ef0c75c5",
+      "item": {
+        "type": "paragraph",
+        "id": "d68b2464ef0c75c5",
+        "text": "Is built by humans for humans."
+      },
+      "date": 1551789946762
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb9abb455ba6b2e3"
+      },
+      "id": "fb9abb455ba6b2e3",
+      "type": "add",
+      "after": "d68b2464ef0c75c5",
+      "date": 1551789956908
+    },
+    {
+      "type": "edit",
+      "id": "fb9abb455ba6b2e3",
+      "item": {
+        "type": "paragraph",
+        "id": "fb9abb455ba6b2e3",
+        "text": "Is not for profit."
+      },
+      "date": 1551789961502
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9abd9fe4989d72e9"
+      },
+      "id": "9abd9fe4989d72e9",
+      "type": "add",
+      "after": "fb9abb455ba6b2e3",
+      "date": 1551789973168
+    },
+    {
+      "type": "edit",
+      "id": "9abd9fe4989d72e9",
+      "item": {
+        "type": "paragraph",
+        "id": "9abd9fe4989d72e9",
+        "text": "Is built by individuals and organisations without equity capital."
+      },
+      "date": 1551789977281
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6d258258b9be9b8"
+      },
+      "id": "e6d258258b9be9b8",
+      "type": "add",
+      "after": "9abd9fe4989d72e9",
+      "date": 1551789990390
+    },
+    {
+      "type": "edit",
+      "id": "e6d258258b9be9b8",
+      "item": {
+        "type": "paragraph",
+        "id": "e6d258258b9be9b8",
+        "text": "Is not sponsored by Big Tech/surveillance capitalists."
+      },
+      "date": 1551789994349
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97b7f498db8efe3e"
+      },
+      "id": "97b7f498db8efe3e",
+      "type": "add",
+      "after": "e6d258258b9be9b8",
+      "date": 1551790005014
+    },
+    {
+      "type": "edit",
+      "id": "97b7f498db8efe3e",
+      "item": {
+        "type": "paragraph",
+        "id": "97b7f498db8efe3e",
+        "text": "Is private by default."
+      },
+      "date": 1551790008248
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97e717ec3c3a32cb"
+      },
+      "id": "97e717ec3c3a32cb",
+      "type": "add",
+      "after": "97b7f498db8efe3e",
+      "date": 1551790017519
+    },
+    {
+      "type": "edit",
+      "id": "97e717ec3c3a32cb",
+      "item": {
+        "type": "paragraph",
+        "id": "97e717ec3c3a32cb",
+        "text": "Is peer-to-peer."
+      },
+      "date": 1551790020433
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd9ae4ddcc37b2d5"
+      },
+      "id": "cd9ae4ddcc37b2d5",
+      "type": "add",
+      "after": "97e717ec3c3a32cb",
+      "date": 1551790032518
+    },
+    {
+      "type": "edit",
+      "id": "cd9ae4ddcc37b2d5",
+      "item": {
+        "type": "paragraph",
+        "id": "cd9ae4ddcc37b2d5",
+        "text": "Is copyleft."
+      },
+      "date": 1551790035281
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc8f38c5ddeeb422"
+      },
+      "id": "fc8f38c5ddeeb422",
+      "type": "add",
+      "after": "cd9ae4ddcc37b2d5",
+      "date": 1551790044146
+    },
+    {
+      "type": "edit",
+      "id": "fc8f38c5ddeeb422",
+      "item": {
+        "type": "paragraph",
+        "id": "fc8f38c5ddeeb422",
+        "text": "Favours small over big, simple over complex, and modular over monolithic."
+      },
+      "date": 1551790047187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2b45c4686fb3004"
+      },
+      "id": "e2b45c4686fb3004",
+      "type": "add",
+      "after": "fc8f38c5ddeeb422",
+      "date": 1551790056158
+    },
+    {
+      "type": "edit",
+      "id": "e2b45c4686fb3004",
+      "item": {
+        "type": "paragraph",
+        "id": "e2b45c4686fb3004",
+        "text": "Respects human rights, effort, and experience."
+      },
+      "date": 1551790059405
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f6de2cba9cd4a7d"
+      },
+      "id": "2f6de2cba9cd4a7d",
+      "type": "add",
+      "after": "e2b45c4686fb3004",
+      "date": 1551790069062
+    },
+    {
+      "type": "edit",
+      "id": "2f6de2cba9cd4a7d",
+      "item": {
+        "type": "paragraph",
+        "id": "2f6de2cba9cd4a7d",
+        "text": "Is human scale."
+      },
+      "date": 1551790072211
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba2d33bee48811fb"
+      },
+      "id": "ba2d33bee48811fb",
+      "type": "add",
+      "after": "2f6de2cba9cd4a7d",
+      "date": 1551790089092
+    },
+    {
+      "type": "edit",
+      "id": "ba2d33bee48811fb",
+      "item": {
+        "type": "paragraph",
+        "id": "ba2d33bee48811fb",
+        "text": "Is owned and controlled by individuals, not corporations or governments."
+      },
+      "date": 1551790092200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3463a4b1fe4d6a5d"
+      },
+      "id": "3463a4b1fe4d6a5d",
+      "type": "add",
+      "after": "ba2d33bee48811fb",
+      "date": 1551790100365
+    },
+    {
+      "type": "edit",
+      "id": "3463a4b1fe4d6a5d",
+      "item": {
+        "type": "paragraph",
+        "id": "3463a4b1fe4d6a5d",
+        "text": "Respects, protects, and reinforces the integrity of personhood, human rights, social justice, and democracy in the digital and networked age."
+      },
+      "date": 1551790103113
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "160e7567d5403312"
+      },
+      "id": "160e7567d5403312",
+      "type": "add",
+      "after": "3463a4b1fe4d6a5d",
+      "date": 1551790111306
+    },
+    {
+      "type": "edit",
+      "id": "160e7567d5403312",
+      "item": {
+        "type": "paragraph",
+        "id": "160e7567d5403312",
+        "text": "Encourages hitherto impractical non-hierarchial political organisation and agency at scale."
+      },
+      "date": 1551790113830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "116c1f06bbf5785f"
+      },
+      "id": "116c1f06bbf5785f",
+      "type": "add",
+      "after": "160e7567d5403312",
+      "date": 1551790120792
+    },
+    {
+      "type": "edit",
+      "id": "116c1f06bbf5785f",
+      "item": {
+        "type": "paragraph",
+        "id": "116c1f06bbf5785f",
+        "text": "Nurtures a healthy commons."
+      },
+      "date": 1551790123336
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ddc44b947855835"
+      },
+      "id": "0ddc44b947855835",
+      "type": "add",
+      "after": "116c1f06bbf5785f",
+      "date": 1551790129671
+    },
+    {
+      "type": "edit",
+      "id": "0ddc44b947855835",
+      "item": {
+        "type": "paragraph",
+        "id": "0ddc44b947855835",
+        "text": "Is sustainable."
+      },
+      "date": 1551790132631
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "347e002e4f3175e5"
+      },
+      "id": "347e002e4f3175e5",
+      "type": "add",
+      "after": "0ddc44b947855835",
+      "date": 1551790143098
+    },
+    {
+      "type": "edit",
+      "id": "347e002e4f3175e5",
+      "item": {
+        "type": "paragraph",
+        "id": "347e002e4f3175e5",
+        "text": "Will one day be funded from the commons, for the common good."
+      },
+      "date": 1551790146984
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a18a5aa49d49902"
+      },
+      "id": "0a18a5aa49d49902",
+      "type": "add",
+      "after": "347e002e4f3175e5",
+      "date": 1551790156504
+    },
+    {
+      "type": "edit",
+      "id": "0a18a5aa49d49902",
+      "item": {
+        "type": "paragraph",
+        "id": "0a18a5aa49d49902",
+        "text": "Will never make anyone a billion dollars."
+      },
+      "date": 1551790160356
+    },
+    {
+      "type": "add",
+      "id": "25473200faf76c96",
+      "item": {
+        "type": "paragraph",
+        "id": "25473200faf76c96",
+        "text": "By Aral Balkan"
+      },
+      "after": "d68b2464ef0c75c5",
+      "date": 1551790196050
+    },
+    {
+      "type": "add",
+      "id": "9059db09555ea461",
+      "item": {
+        "type": "paragraph",
+        "id": "9059db09555ea461",
+        "text": "-"
+      },
+      "after": "25473200faf76c96",
+      "date": 1551790219436
+    }
+  ]
+}
