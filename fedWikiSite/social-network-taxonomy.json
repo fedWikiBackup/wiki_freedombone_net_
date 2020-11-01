@@ -1,0 +1,141 @@
+{
+  "title": "Social Network Taxonomy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "30c06a82f5a4bcd1",
+      "text": "Based on the Bartle taxonomy."
+    },
+    {
+      "type": "paragraph",
+      "id": "49253a3eea168bb9",
+      "text": "Achievers: Just want the most followers and the most likes. They want to see their scores going up. If numbers of likes aren't clearly displayed they get annoyed. Achievers develop complex \"follow me back\" or \"boost if you...\" ruses and spend time wondering how to make other people follow them."
+    },
+    {
+      "type": "paragraph",
+      "id": "dd3a17eb6ec892a3",
+      "text": "Explorers: Are the people who follow 5K+ accounts. They're not really interested in any sort of community. They just want to see what's out there."
+    },
+    {
+      "type": "paragraph",
+      "id": "b27e00e972988dd8",
+      "text": "Socializers: Are the people who just like to hang out and have water cooler discussions. They're not interested in how many people follow them or following a lot of other people. Cultivating an affinity group is what they're about."
+    },
+    {
+      "type": "paragraph",
+      "id": "30834f35a552b8df",
+      "text": "Trolls: These are the people who are out to disrupt the socializers. They like breaking up groups or setting one group against another. Posting flame bait or aggressively DMing in order to start a fight is the troll's modus operandi. They are the people who always want to have the last word in the enormous hellthread."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Social Network Taxonomy",
+        "story": []
+      },
+      "date": 1580811391990
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30c06a82f5a4bcd1"
+      },
+      "id": "30c06a82f5a4bcd1",
+      "type": "add",
+      "date": 1580811396021
+    },
+    {
+      "type": "edit",
+      "id": "30c06a82f5a4bcd1",
+      "item": {
+        "type": "paragraph",
+        "id": "30c06a82f5a4bcd1",
+        "text": "Based on the Bartle taxonomy."
+      },
+      "date": 1580811408294
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "49253a3eea168bb9"
+      },
+      "id": "49253a3eea168bb9",
+      "type": "add",
+      "after": "30c06a82f5a4bcd1",
+      "date": 1580811430301
+    },
+    {
+      "type": "edit",
+      "id": "49253a3eea168bb9",
+      "item": {
+        "type": "paragraph",
+        "id": "49253a3eea168bb9",
+        "text": "*Achievers:* Just want the most followers and the most likes. They want to see their scores going up. If numbers of likes aren't clearly displayed they get annoyed. Achievers develop complex \"follow me back\" or \"boost if you...\" ruses and spend time wondering how to make other people follow them."
+      },
+      "date": 1580811444520
+    },
+    {
+      "type": "edit",
+      "id": "49253a3eea168bb9",
+      "item": {
+        "type": "paragraph",
+        "id": "49253a3eea168bb9",
+        "text": "Achievers: Just want the most followers and the most likes. They want to see their scores going up. If numbers of likes aren't clearly displayed they get annoyed. Achievers develop complex \"follow me back\" or \"boost if you...\" ruses and spend time wondering how to make other people follow them."
+      },
+      "date": 1580811452287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd3a17eb6ec892a3"
+      },
+      "id": "dd3a17eb6ec892a3",
+      "type": "add",
+      "after": "49253a3eea168bb9",
+      "date": 1580811463091
+    },
+    {
+      "type": "edit",
+      "id": "dd3a17eb6ec892a3",
+      "item": {
+        "type": "paragraph",
+        "id": "dd3a17eb6ec892a3",
+        "text": "Explorers: Are the people who follow 5K+ accounts. They're not really interested in any sort of community. They just want to see what's out there."
+      },
+      "date": 1580811465738
+    },
+    {
+      "type": "add",
+      "id": "b27e00e972988dd8",
+      "item": {
+        "type": "paragraph",
+        "id": "b27e00e972988dd8",
+        "text": "Socializers: Are the people who just like to hang out and have water cooler discussions. They're not interested in how many people follow them or following a lot of other people. Cultivating an affinity group is what they're about."
+      },
+      "after": "dd3a17eb6ec892a3",
+      "date": 1580811490051
+    },
+    {
+      "type": "add",
+      "id": "30834f35a552b8df",
+      "item": {
+        "type": "paragraph",
+        "id": "30834f35a552b8df",
+        "text": "Trolls: These are the people who are just out to disrupt the socializers. They like breaking up groups or setting one group against another. Posting flame bait or aggressively DMing in order to start a fight is the troll's modus operandi. They are the people who always want to have the last word in the enormous hellthread."
+      },
+      "after": "b27e00e972988dd8",
+      "date": 1580811506216
+    },
+    {
+      "type": "edit",
+      "id": "30834f35a552b8df",
+      "item": {
+        "type": "paragraph",
+        "id": "30834f35a552b8df",
+        "text": "Trolls: These are the people who are out to disrupt the socializers. They like breaking up groups or setting one group against another. Posting flame bait or aggressively DMing in order to start a fight is the troll's modus operandi. They are the people who always want to have the last word in the enormous hellthread."
+      },
+      "date": 1580811567336
+    }
+  ]
+}
