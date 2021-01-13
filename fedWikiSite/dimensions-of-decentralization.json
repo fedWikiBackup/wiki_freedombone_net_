@@ -64,12 +64,22 @@
     {
       "type": "paragraph",
       "id": "1b6cb3b858d34653",
-      "text": "Fediverse: Logically decentralized, Politically decentralized, Architecturally decentralized"
+      "text": "Fediverse: Logically decentralized, Politically decentralized, Architecturally decentralized. Fediverse might be considered politically centralized, but only at the instance level."
     },
     {
       "type": "paragraph",
       "id": "30411563483a20bb",
-      "text": "Signal App: Logically centralized, Politically centralized, Architecturally decentralized (but single server)"
+      "text": "Signal App: Logically centralized, Politically centralized, Architecturally centralized (single server)"
+    },
+    {
+      "type": "paragraph",
+      "id": "cb41c12174e8b4a8",
+      "text": "SSB: Logically decentralized, Politically decentralized, Architecturally decentralized"
+    },
+    {
+      "type": "paragraph",
+      "id": "580ca8ef94a0603e",
+      "text": "A system which was politically centralized but logically and architecturally decentralized would be where everyone could run their own solid-like data pods and control permissions to their data, but identity would be centrally managed by a single organization."
     }
   ],
   "journal": [
@@ -539,6 +549,48 @@
         "text": "Can you combine systems which previously ran separately into a larger one, without losing any functionality or having clashing indexes/hashes."
       },
       "date": 1547058649147
+    },
+    {
+      "type": "edit",
+      "id": "30411563483a20bb",
+      "item": {
+        "type": "paragraph",
+        "id": "30411563483a20bb",
+        "text": "Signal App: Logically centralized, Politically centralized, Architecturally centralized (single server)"
+      },
+      "date": 1610488306526
+    },
+    {
+      "type": "add",
+      "id": "cb41c12174e8b4a8",
+      "item": {
+        "type": "paragraph",
+        "id": "cb41c12174e8b4a8",
+        "text": "SSB: Logically decentralized, Politically decentralized, Architecturally decentralized"
+      },
+      "after": "30411563483a20bb",
+      "date": 1610488378770
+    },
+    {
+      "type": "add",
+      "id": "580ca8ef94a0603e",
+      "item": {
+        "type": "paragraph",
+        "id": "580ca8ef94a0603e",
+        "text": "A system which was politically centralized but logically and architecturally decentralized would be where everyone could run their own solid-like data pods and control permissions to their data, but identity would be centrally managed by a single organization."
+      },
+      "after": "cb41c12174e8b4a8",
+      "date": 1610489177302
+    },
+    {
+      "type": "edit",
+      "id": "1b6cb3b858d34653",
+      "item": {
+        "type": "paragraph",
+        "id": "1b6cb3b858d34653",
+        "text": "Fediverse: Logically decentralized, Politically decentralized, Architecturally decentralized. Fediverse might be considered politically centralized, but only at the instance level."
+      },
+      "date": 1610489500908
     }
   ]
 }
